@@ -1,18 +1,25 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
 import os
 
-# === Existing engine (DO NOT TOUCH) ===
+# === Existing NLP Engine (DO NOT TOUCH) ===
 from nlp_engine import match_interest, match_skills, match_job
 
-# === NEW HuggingFace + Rule-based engine ===
+# === HuggingFace + Rule-based Engine ===
 from hf_engine import hf_match_careers
 
-app = Flask(__name__)
+# ---------------------------
+# Initialize Flask app
+# ---------------------------
+app = Flask(
+    __name__,
+    static_folder="../frontend",      # optional: serve your frontend
+    static_url_path="/"               # root URL serves frontend
+)
 CORS(app)
 
 # ==================================================
-# 🔍 EXISTING SEARCH (UNCHANGED)
+# 🔍 EXISTING SEARCH
 # ==================================================
 @app.route("/search", methods=["POST"])
 def search():
@@ -26,19 +33,18 @@ def search():
     if data.get("job"):
         results.extend(match_job(data["job"]))
 
-    # Remove duplicates by job name
+    # Remove duplicates by career name
     unique = {c["name"]: c for c in results}
     return jsonify(list(unique.values()))
 
 
 # ==================================================
-# 🤖 NEW HF + RULE BASED SEARCH (INDEPENDENT)
+# 🤖 HF + RULE-BASED SEARCH
 # ==================================================
 @app.route("/hf-search", methods=["POST"])
 def hf_search():
     """
-    Takes combined skills + interests text
-    Example input:
+    Input JSON:
     {
         "query": "python data analysis research biology"
     }
@@ -54,7 +60,15 @@ def hf_search():
 
 
 # ==================================================
-# 🚀 RUN SERVER (DEV SAFE + PROD SAFE)
+# 🏠 ROOT / HEALTH CHECK
+# ==================================================
+@app.route("/", methods=["GET"])
+def home():
+    return jsonify({"status": "success", "message": "Career Explorer API is running ✅"})
+
+
+# ==================================================
+# 🚀 RUN SERVER (DEV + PROD SAFE)
 # ==================================================
 if __name__ == "__main__":
     app.run(
