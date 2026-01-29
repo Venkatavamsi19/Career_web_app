@@ -3,75 +3,75 @@ import json
 import torch
 from sentence_transformers import SentenceTransformer, util
 
-# ---------------------------
-# CONFIG
-# ---------------------------
+# ==============================
+# 🔹 Config
+# ==============================
 DATASET_DIR = "../datasets"
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 SIMILARITY_THRESHOLD = 0.35
 
-# ---------------------------
-# LOAD MODEL (ONCE)
-# ---------------------------
-model = SentenceTransformer(MODEL_NAME)
+# ==============================
+# 🔹 Lazy-loaded variables
+# ==============================
+_model = None
+_all_careers = None
+_career_texts = None
+_career_embeddings = None
 
-# ---------------------------
-# LOAD DATASETS (ONCE)
-# ---------------------------
-all_careers = []
+# ==============================
+# 🔹 Load model once
+# ==============================
+def get_model():
+    global _model
+    if _model is None:
+        _model = SentenceTransformer(MODEL_NAME)
+    return _model
 
-for file in os.listdir(DATASET_DIR):
-    if file.endswith(".json"):
-        with open(os.path.join(DATASET_DIR, file), "r", encoding="utf-8") as f:
-            data = json.load(f)
-            category = data.get("category", "")
-            for c in data.get("careers", []):
-                c["category"] = category
-                all_careers.append(c)
+# ==============================
+# 🔹 Load dataset once
+# ==============================
+def get_all_careers():
+    global _all_careers, _career_texts, _career_embeddings
+    if _all_careers is not None:
+        return _all_careers, _career_texts, _career_embeddings
 
-# ---------------------------
-# BUILD TEXT & EMBEDDINGS (ONCE)
-# ---------------------------
-career_texts = []
-career_embeddings = []
+    all_careers = []
+    career_texts = []
 
-for career in all_careers:
-    skills = []
+    for file in os.listdir(DATASET_DIR):
+        if file.endswith(".json"):
+            with open(os.path.join(DATASET_DIR, file), "r", encoding="utf-8") as f:
+                data = json.load(f)
+                category = data.get("category", "")
+                for c in data.get("careers", []):
+                    c["category"] = category
+                    all_careers.append(c)
 
-    req = career.get("required_skills", {})
-    for level in req.values():
-        skills.extend(level)
+    # Build career texts
+    for career in all_careers:
+        skills = []
+        req = career.get("required_skills", {})
+        for level in req.values():
+            skills.extend(level)
+        skills.extend(career.get("related_skills", []))
 
-    skills.extend(career.get("related_skills", []))
+        text = " ".join(skills + [career.get("category", ""), career.get("name", "")])
+        career_texts.append(text.lower())
 
-    text = " ".join(
-        skills + [
-            career.get("category", ""),
-            career.get("name", "")
-        ]
-    )
+    # Encode embeddings
+    model = get_model()
+    with torch.no_grad():
+        career_embeddings = model.encode(career_texts, normalize_embeddings=True, show_progress_bar=False)
 
-    career_texts.append(text.lower())
+    _all_careers = all_careers
+    _career_texts = career_texts
+    _career_embeddings = career_embeddings
+    return _all_careers, _career_texts, _career_embeddings
 
-with torch.no_grad():
-    career_embeddings = model.encode(
-        career_texts,
-        normalize_embeddings=True,
-        show_progress_bar=False
-    )
-
-# ---------------------------
-# MAIN MATCH FUNCTION (API SAFE)
-# ---------------------------
+# ==============================
+# 🔹 Main match function
+# ==============================
 def hf_match_careers(interest=None, skills=None, job=None):
-    """
-    Supports:
-    - single input
-    - multiple inputs
-    - comma separated
-    - up to 9+ keywords
-    """
-
     parts = []
     if interest:
         parts.append(interest)
@@ -85,6 +85,9 @@ def hf_match_careers(interest=None, skills=None, job=None):
 
     user_input = " ".join(parts).lower()
     keywords = [k.strip() for k in user_input.split(",") if k.strip()]
+
+    all_careers, career_texts, career_embeddings = get_all_careers()
+    model = get_model()
 
     # ---------------------------
     # RULE-BASED FILTER (FAST)
@@ -104,10 +107,7 @@ def hf_match_careers(interest=None, skills=None, job=None):
     # SEMANTIC MATCH (TRANSFORMER)
     # ---------------------------
     with torch.no_grad():
-        user_embedding = model.encode(
-            user_input,
-            normalize_embeddings=True
-        )
+        user_embedding = model.encode(user_input, normalize_embeddings=True)
 
     scores = util.cos_sim(user_embedding, candidate_embeddings)[0]
 
