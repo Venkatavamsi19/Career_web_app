@@ -2,13 +2,24 @@ import os
 import json
 import re
 
+# ==============================
+# 🔹 Config
+# ==============================
 DATASET_PATH = "../datasets"
 
+# ==============================
+# 🔹 Cache variable
+# ==============================
+_cached_careers = None
+
+# ==============================
+# 🔹 Load all careers (lazy-load & cache)
+# ==============================
 def load_all_careers():
-    """
-    Load all careers from all JSON files in the datasets folder.
-    Each career dict now includes its 'category' field.
-    """
+    global _cached_careers
+    if _cached_careers is not None:
+        return _cached_careers  # return cached data
+
     all_careers = []
     for file in os.listdir(DATASET_PATH):
         if file.endswith(".json"):
@@ -19,39 +30,32 @@ def load_all_careers():
                     # attach category to each career
                     career["category"] = category
                     all_careers.append(career)
+
+    _cached_careers = all_careers  # cache it
     return all_careers
 
+# ==============================
+# 🔹 Normalize text
+# ==============================
 def normalize_text(text):
-    """
-    Lowercase, remove special characters, and extra spaces for matching.
-    """
     if not text:
         return ""
-    # Remove non-alphanumeric characters except spaces
     text = re.sub(r"[^a-zA-Z0-9\s]", "", text)
     return text.strip().lower()
 
+# ==============================
+# 🔹 Matching functions
+# ==============================
 def match_interest(interest):
-    """
-    Match careers based on category.
-    - Normalizes input and category names.
-    - Matches partial words, ignores special characters like &.
-    - Returns all careers where interest is part of category.
-    """
     interest_norm = normalize_text(interest)
     results = []
     for c in load_all_careers():
         category_norm = normalize_text(c.get("category", ""))
-        # Check if the interest keyword appears anywhere in the category
         if interest_norm in category_norm:
             results.append(c)
     return results
 
 def match_skills(skills):
-    """
-    Match careers based on skills input.
-    Skills are comma-separated.
-    """
     skills_list = [s.strip().lower() for s in skills.split(",")]
     results = []
     for c in load_all_careers():
@@ -61,9 +65,6 @@ def match_skills(skills):
     return results
 
 def match_job(job):
-    """
-    Match careers based on job title.
-    """
     job_lower = normalize_text(job)
     return [
         c for c in load_all_careers()
