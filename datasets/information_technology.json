@@ -1,0 +1,879 @@
+{
+  "category": "Information Technology",
+  "careers": [
+    {
+      "name": "Software Engineer",
+      "overview": "A software engineer designs, develops, tests, and maintains software applications and systems that solve real-world problems across industries such as finance, healthcare, education, and technology.",
+      "advantages": [
+        "High salary and global demand",
+        "Flexible work options including remote jobs",
+        "Opportunities across many industries"
+      ],
+      "disadvantages": [
+        "Continuous learning required",
+        "Can involve long working hours under deadlines"
+      ],
+      "demand": "Software engineers are in extremely high demand worldwide due to rapid digital transformation.",
+      "required_skills": {
+        "basic": ["Programming fundamentals", "Problem solving", "Data types", "Control structures", "Debugging basics"],
+        "intermediate": ["Object-oriented programming", "Data structures", "Algorithms", "Version control (Git)", "Databases"],
+        "advanced": ["System design", "Design patterns", "Performance optimization", "Scalable architectures", "API development"],
+        "professional": ["Code review", "Team collaboration", "Project planning", "Mentoring", "Agile methodologies"]
+      },
+      "related_skills": ["Java", "Python", "C++", "Software Development Life Cycle", "Testing"]
+    },
+    {
+      "name": "Web Developer",
+      "overview": "A web developer builds and maintains websites and web applications, ensuring functionality, performance, and user experience.",
+      "advantages": [
+        "Creative and technical work",
+        "High freelance opportunities",
+        "Fast entry into the IT field"
+      ],
+      "disadvantages": [
+        "Rapidly changing technologies",
+        "Browser compatibility issues"
+      ],
+      "demand": "Web developers are consistently in demand as businesses move online.",
+      "required_skills": {
+        "basic": ["HTML", "CSS", "Basic JavaScript", "Web fundamentals", "Browser basics"],
+        "intermediate": ["Responsive design", "JavaScript frameworks", "REST APIs", "Git", "SQL basics"],
+        "advanced": ["Performance optimization", "Security best practices", "Backend integration", "SEO optimization", "Progressive web apps"],
+        "professional": ["Client communication", "UI/UX collaboration", "Project estimation", "Deployment", "Maintenance"]
+      },
+      "related_skills": ["React", "Angular", "Node.js", "PHP", "Web Design"]
+    },
+    {
+      "name": "Data Analyst",
+      "overview": "A data analyst collects, processes, and analyzes data to help organizations make data-driven decisions.",
+      "advantages": [
+        "High demand across industries",
+        "Strong career growth",
+        "Direct business impact"
+      ],
+      "disadvantages": [
+        "Repetitive data cleaning tasks",
+        "High accuracy expectations"
+      ],
+      "demand": "Data analysts are in strong demand as companies rely heavily on data insights.",
+      "required_skills": {
+        "basic": ["Excel", "Statistics basics", "Data cleaning", "Logical thinking", "Data visualization basics"],
+        "intermediate": ["SQL", "Python", "Data visualization tools", "Exploratory analysis", "Reporting"],
+        "advanced": ["Predictive analysis", "Big data tools", "Data modeling", "Automation", "Advanced statistics"],
+        "professional": ["Business communication", "Stakeholder management", "Presentation skills", "Decision support", "Documentation"]
+      },
+      "related_skills": ["Power BI", "Tableau", "Pandas", "NumPy", "Business Intelligence"]
+    },
+    {
+      "name": "System Administrator",
+      "overview": "A system administrator manages and maintains computer systems, servers, and networks to ensure smooth IT operations.",
+      "advantages": [
+        "Essential role in organizations",
+        "Strong job security",
+        "Hands-on technical work"
+      ],
+      "disadvantages": [
+        "On-call responsibilities",
+        "High pressure during system failures"
+      ],
+      "demand": "System administrators remain in demand for managing enterprise IT infrastructure.",
+      "required_skills": {
+        "basic": ["Operating systems", "Hardware basics", "Networking fundamentals", "User management", "Troubleshooting"],
+        "intermediate": ["Server management", "Linux administration", "Backup systems", "Virtualization", "Security basics"],
+        "advanced": ["Cloud infrastructure", "Automation scripting", "Disaster recovery", "Monitoring tools", "Network security"],
+        "professional": ["IT documentation", "Incident management", "Vendor coordination", "Policy enforcement", "Team support"]
+      },
+      "related_skills": ["Windows Server", "Linux", "AWS", "Shell scripting", "Networking"]
+    },
+    {
+      "name": "Database Administrator",
+      "overview": "A database administrator manages databases to ensure data availability, security, and performance.",
+      "advantages": [
+        "High responsibility role",
+        "Critical to business operations",
+        "Good salary prospects"
+      ],
+      "disadvantages": [
+        "High accountability for data",
+        "Can require off-hours support"
+      ],
+      "demand": "Database administrators are essential for data-driven organizations.",
+      "required_skills": {
+        "basic": ["SQL basics", "Database concepts", "Data integrity", "Backup basics", "Normalization"],
+        "intermediate": ["Performance tuning", "Indexing", "Stored procedures", "Security controls", "Replication"],
+        "advanced": ["High availability systems", "Database optimization", "Disaster recovery", "Cloud databases", "Scalability"],
+        "professional": ["Data governance", "Compliance", "Monitoring", "Documentation", "Collaboration"]
+      },
+      "related_skills": ["MySQL", "PostgreSQL", "Oracle", "MongoDB", "Cloud DB"]
+    },
+    {
+      "name": "Cloud Engineer",
+      "overview": "A cloud engineer designs, deploys, and manages cloud-based infrastructure and services.",
+      "advantages": [
+        "Very high demand",
+        "Excellent salary packages",
+        "Future-proof career"
+      ],
+      "disadvantages": [
+        "Complex architectures",
+        "Continuous upskilling needed"
+      ],
+      "demand": "Cloud engineers are in extremely high demand due to cloud adoption.",
+      "required_skills": {
+        "basic": ["Cloud concepts", "Networking basics", "Linux", "Virtual machines", "Storage concepts"],
+        "intermediate": ["AWS/Azure/GCP services", "IAM", "Monitoring", "Containers", "CI/CD basics"],
+        "advanced": ["Cloud security", "Architecture design", "Scalability", "Cost optimization", "Automation"],
+        "professional": ["DevOps collaboration", "Documentation", "Best practices", "Client support", "Reliability engineering"]
+      },
+      "related_skills": ["AWS", "Azure", "Docker", "Kubernetes", "Terraform"]
+    },
+    {
+      "name": "Cybersecurity Analyst",
+      "overview": "A cybersecurity analyst protects systems, networks, and data from cyber threats and attacks.",
+      "advantages": [
+        "High importance role",
+        "Strong job security",
+        "Growing demand"
+      ],
+      "disadvantages": [
+        "High stress during incidents",
+        "Requires constant vigilance"
+      ],
+      "demand": "Cybersecurity analysts are in high demand due to increasing cyber threats.",
+      "required_skills": {
+        "basic": ["Security fundamentals", "Networking basics", "Threat awareness", "Operating systems", "Risk concepts"],
+        "intermediate": ["Incident response", "Firewalls", "SIEM tools", "Vulnerability assessment", "Encryption"],
+        "advanced": ["Penetration testing", "Threat hunting", "Advanced forensics", "Zero trust models", "Security architecture"],
+        "professional": ["Policy creation", "Compliance", "Security training", "Reporting", "Collaboration"]
+      },
+      "related_skills": ["Ethical hacking", "SOC tools", "Network security", "Malware analysis", "Cloud security"]
+    },
+    {
+      "name": "Mobile App Developer",
+      "overview": "A mobile app developer builds applications for Android and iOS platforms.",
+      "advantages": [
+        "High user impact",
+        "Good freelance opportunities",
+        "Creative development"
+      ],
+      "disadvantages": [
+        "Platform-specific challenges",
+        "Frequent OS updates"
+      ],
+      "demand": "Mobile app developers are in strong demand due to smartphone usage.",
+      "required_skills": {
+        "basic": ["Programming basics", "UI fundamentals", "App lifecycle", "Debugging", "API basics"],
+        "intermediate": ["Android/iOS frameworks", "State management", "REST APIs", "Database integration", "Testing"],
+        "advanced": ["Performance optimization", "Security", "Cross-platform development", "Scalable apps", "Offline support"],
+        "professional": ["App publishing", "User feedback handling", "Maintenance", "Team collaboration", "Documentation"]
+      },
+      "related_skills": ["Flutter", "React Native", "Kotlin", "Swift", "Firebase"]
+    },
+    {
+      "name": "DevOps Engineer",
+      "overview": "A DevOps engineer bridges development and operations by automating deployment, monitoring, and infrastructure management.",
+      "advantages": [
+        "High salary",
+        "Key role in modern IT",
+        "Automation-focused work"
+      ],
+      "disadvantages": [
+        "Complex toolchain",
+        "High responsibility"
+      ],
+      "demand": "DevOps engineers are in very high demand across tech companies.",
+      "required_skills": {
+        "basic": ["Linux", "Networking basics", "Scripting", "Version control", "CI/CD basics"],
+        "intermediate": ["Containerization", "Cloud platforms", "Monitoring tools", "Automation", "Configuration management"],
+        "advanced": ["Infrastructure as code", "Scalable deployments", "Security integration", "Reliability engineering", "Optimization"],
+        "professional": ["Cross-team collaboration", "Incident management", "Documentation", "Best practices", "Mentoring"]
+      },
+      "related_skills": ["Docker", "Kubernetes", "Jenkins", "AWS", "Terraform"]
+    },
+    
+    {
+      "name": "Machine Learning Engineer",
+      "overview": "A machine learning engineer designs, builds, and deploys machine learning models that enable systems to learn from data and make intelligent decisions.",
+      "advantages": [
+        "Very high salary",
+        "Work on cutting-edge AI technology",
+        "Strong global demand"
+      ],
+      "disadvantages": [
+        "High mathematical complexity",
+        "Requires continuous research and learning"
+      ],
+      "demand": "ML engineers are in extremely high demand across tech, healthcare, finance, and research sectors.",
+      "required_skills": {
+        "basic": ["Python programming", "Linear algebra", "Statistics basics", "Data preprocessing", "Problem solving"],
+        "intermediate": ["Machine learning algorithms", "Feature engineering", "Model evaluation", "Scikit-learn", "Data visualization"],
+        "advanced": ["Deep learning", "Neural networks", "Model optimization", "Distributed training", "MLOps pipelines"],
+        "professional": ["Research collaboration", "Model deployment", "Documentation", "Ethical AI practices", "Cross-team communication"]
+      },
+      "related_skills": ["TensorFlow", "PyTorch", "NLP", "Computer Vision", "Big Data"]
+    },
+    {
+      "name": "Artificial Intelligence Engineer",
+      "overview": "An AI engineer builds intelligent systems that simulate human intelligence, including reasoning, learning, perception, and decision-making.",
+      "advantages": [
+        "Top-tier salaries",
+        "Future-proof career",
+        "Innovation-driven role"
+      ],
+      "disadvantages": [
+        "Complex systems design",
+        "High responsibility for accuracy"
+      ],
+      "demand": "AI engineers are in massive demand as AI adoption accelerates worldwide.",
+      "required_skills": {
+        "basic": ["Python", "Math foundations", "Logic building", "Data handling", "Programming concepts"],
+        "intermediate": ["Machine learning", "AI algorithms", "Knowledge representation", "Search techniques", "Data pipelines"],
+        "advanced": ["Deep learning architectures", "Reinforcement learning", "AI model optimization", "Scalable AI systems", "Ethical AI"],
+        "professional": ["AI governance", "Cross-domain integration", "Research documentation", "Team leadership", "Stakeholder communication"]
+      },
+      "related_skills": ["NLP", "Robotics", "Computer Vision", "Neural Networks", "Cloud AI"]
+    },
+    {
+      "name": "Big Data Engineer",
+      "overview": "A big data engineer designs and maintains systems that process and analyze massive volumes of structured and unstructured data.",
+      "advantages": [
+        "High-paying role",
+        "Critical business impact",
+        "Work with large-scale systems"
+      ],
+      "disadvantages": [
+        "Complex infrastructure",
+        "High operational responsibility"
+      ],
+      "demand": "Big data engineers are in high demand due to exponential data growth.",
+      "required_skills": {
+        "basic": ["SQL", "Data fundamentals", "Linux", "Programming basics", "Data formats"],
+        "intermediate": ["Hadoop ecosystem", "Spark", "Data pipelines", "ETL processes", "NoSQL databases"],
+        "advanced": ["Distributed systems", "Streaming platforms", "Performance tuning", "Scalable architecture", "Cloud data services"],
+        "professional": ["Data governance", "Monitoring", "Team collaboration", "Documentation", "Business alignment"]
+      },
+      "related_skills": ["Apache Spark", "Kafka", "HDFS", "AWS EMR", "Scala"]
+    },
+    {
+      "name": "Solutions Architect",
+      "overview": "A solutions architect designs end-to-end technical solutions that align business requirements with scalable and secure technology systems.",
+      "advantages": [
+        "Leadership-level role",
+        "Very high salary",
+        "Strategic influence"
+      ],
+      "disadvantages": [
+        "High accountability",
+        "Requires broad technical knowledge"
+      ],
+      "demand": "Solutions architects are highly sought after in enterprise and cloud environments.",
+      "required_skills": {
+        "basic": ["System fundamentals", "Networking basics", "Software concepts", "Business understanding", "Documentation"],
+        "intermediate": ["Cloud services", "Architecture patterns", "Integration design", "Security principles", "Cost estimation"],
+        "advanced": ["Enterprise architecture", "Scalability design", "Cloud-native systems", "Risk analysis", "Optimization"],
+        "professional": ["Client communication", "Leadership", "Decision making", "Technical presentations", "Mentoring"]
+      },
+      "related_skills": ["AWS Architecture", "Azure Solutions", "Microservices", "DevOps", "Cloud Security"]
+    },
+    {
+      "name": "Blockchain Developer",
+      "overview": "A blockchain developer builds decentralized applications and secure blockchain-based systems.",
+      "advantages": [
+        "High innovation role",
+        "Strong salary growth",
+        "Work on emerging tech"
+      ],
+      "disadvantages": [
+        "Rapidly evolving technology",
+        "Limited mainstream adoption in some regions"
+      ],
+      "demand": "Blockchain developers are in growing demand in fintech, supply chain, and Web3 sectors.",
+      "required_skills": {
+        "basic": ["Programming fundamentals", "Cryptography basics", "Data structures", "Blockchain concepts", "Networking"],
+        "intermediate": ["Smart contracts", "Distributed ledgers", "Consensus mechanisms", "Security practices", "APIs"],
+        "advanced": ["DeFi protocols", "Scalability solutions", "Blockchain architecture", "Security auditing", "Cross-chain systems"],
+        "professional": ["Open-source collaboration", "Technical documentation", "Compliance awareness", "Problem-solving", "Research"]
+      },
+      "related_skills": ["Ethereum", "Solidity", "Web3.js", "Cryptography", "Decentralized Apps"]
+    },
+    {
+      "name": "Site Reliability Engineer",
+      "overview": "A site reliability engineer ensures system reliability, scalability, and performance through automation and monitoring.",
+      "advantages": [
+        "High salary",
+        "Critical system role",
+        "Automation-focused"
+      ],
+      "disadvantages": [
+        "On-call duties",
+        "High-pressure incidents"
+      ],
+      "demand": "SREs are in high demand in cloud-native and large-scale systems.",
+      "required_skills": {
+        "basic": ["Linux", "Networking", "Scripting", "Monitoring basics", "System fundamentals"],
+        "intermediate": ["CI/CD pipelines", "Cloud platforms", "Container orchestration", "Logging systems", "Automation"],
+        "advanced": ["Reliability engineering", "Chaos engineering", "Scalable architectures", "Performance tuning", "Security"],
+        "professional": ["Incident response", "Postmortems", "Documentation", "Collaboration", "Process improvement"]
+      },
+      "related_skills": ["Kubernetes", "Prometheus", "Grafana", "AWS", "Terraform"]
+    },
+    {
+      "name": "Computer Vision Engineer",
+      "overview": "A computer vision engineer develops systems that enable machines to interpret and analyze visual data.",
+      "advantages": [
+        "High research impact",
+        "Used in AI, robotics, and healthcare",
+        "Strong salary growth"
+      ],
+      "disadvantages": [
+        "Mathematically intensive",
+        "High computational requirements"
+      ],
+      "demand": "Computer vision engineers are in strong demand in AI-driven industries.",
+      "required_skills": {
+        "basic": ["Python", "Image processing basics", "Linear algebra", "Statistics", "Programming fundamentals"],
+        "intermediate": ["OpenCV", "Feature extraction", "CNNs", "Data labeling", "Model evaluation"],
+        "advanced": ["Deep vision models", "3D vision", "Real-time systems", "Optimization", "Scalable inference"],
+        "professional": ["Research documentation", "Cross-team work", "Model deployment", "Ethical AI", "Continuous learning"]
+      },
+      "related_skills": ["OpenCV", "PyTorch", "TensorFlow", "Deep Learning", "AI Research"]
+    },
+    {
+      "name": "IT Project Manager",
+      "overview": "An IT project manager plans, executes, and delivers technology projects within scope, time, and budget.",
+      "advantages": [
+        "Leadership role",
+        "Cross-domain exposure",
+        "Career advancement"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Deadline pressure"
+      ],
+      "demand": "IT project managers are essential for successful digital transformation.",
+      "required_skills": {
+        "basic": ["Project fundamentals", "Communication", "Documentation", "Time management", "Risk basics"],
+        "intermediate": ["Agile methodologies", "Stakeholder management", "Resource planning", "Budgeting", "Reporting"],
+        "advanced": ["Program management", "Strategic planning", "Enterprise delivery", "Risk mitigation", "Optimization"],
+        "professional": ["Leadership", "Negotiation", "Decision making", "Mentoring", "Process improvement"]
+      },
+      "related_skills": ["Scrum", "Agile", "JIRA", "PM tools", "Business Analysis"]
+    },
+    {
+      "name": "Embedded Systems Engineer",
+      "overview": "An embedded systems engineer designs software and hardware systems used in devices like IoT, automotive, and medical equipment.",
+      "advantages": [
+        "Work close to hardware",
+        "High demand in IoT and automotive",
+        "Specialized expertise"
+      ],
+      "disadvantages": [
+        "Low-level debugging complexity",
+        "Hardware constraints"
+      ],
+      "demand": "Embedded engineers are in demand for smart devices and automation.",
+      "required_skills": {
+        "basic": ["C/C++", "Electronics basics", "Microcontrollers", "Debugging", "Hardware concepts"],
+        "intermediate": ["RTOS", "Device drivers", "Embedded Linux", "Communication protocols", "Testing"],
+        "advanced": ["System optimization", "Low-level architecture", "IoT integration", "Security", "Real-time performance"],
+        "professional": ["Documentation", "Cross-team coordination", "Compliance standards", "Design reviews", "Maintenance"]
+      },
+      "related_skills": ["IoT", "ARM", "Embedded Linux", "RTOS", "Firmware"]
+    },
+    {
+      "name": "Quantum Computing Engineer",
+      "overview": "A quantum computing engineer works on quantum algorithms and systems that leverage quantum mechanics for computation.",
+      "advantages": [
+        "Highly futuristic field",
+        "Research-driven role",
+        "Elite-level expertise"
+      ],
+      "disadvantages": [
+        "Limited job availability",
+        "Very high learning curve"
+      ],
+      "demand": "Quantum engineers are emerging roles in advanced research and technology firms.",
+      "required_skills": {
+        "basic": ["Linear algebra", "Quantum mechanics basics", "Programming fundamentals", "Math logic", "Problem solving"],
+        "intermediate": ["Quantum algorithms", "Quantum circuits", "Simulation tools", "Optimization", "Research methods"],
+        "advanced": ["Quantum system design", "Error correction", "Hybrid algorithms", "Advanced mathematics", "Research innovation"],
+        "professional": ["Academic collaboration", "Technical publishing", "Research leadership", "Experimentation", "Continuous learning"]
+      },
+      "related_skills": ["Qiskit", "Quantum Physics", "Python", "Research Computing", "Advanced Algorithms"]
+    },
+    
+    {
+      "name": "Junior Software Developer",
+      "overview": "A junior software developer assists in building, testing, and maintaining software applications under senior guidance.",
+      "advantages": [
+        "Easy entry for freshers",
+        "Strong learning curve",
+        "High growth potential"
+      ],
+      "disadvantages": [
+        "Lower initial salary",
+        "Requires continuous upskilling"
+      ],
+      "demand": "Junior developers are consistently required across startups and IT services companies.",
+      "required_skills": {
+        "basic": ["Programming fundamentals", "Problem solving", "OOP concepts", "Basic debugging", "Logical thinking"],
+        "intermediate": ["One programming language", "Version control", "Basic frameworks", "APIs", "Testing basics"],
+        "advanced": ["Code optimization", "Design patterns", "Scalable logic"],
+        "professional": ["Team collaboration", "Code documentation", "Learning mindset"]
+      },
+      "related_skills": ["Java", "Python", "Git", "APIs", "Debugging"]
+    },
+    {
+      "name": "Frontend Developer (Entry-Level)",
+      "overview": "A frontend developer builds user interfaces and ensures smooth user experiences for web applications.",
+      "advantages": [
+        "Quick fresher entry",
+        "Creative role",
+        "High freelance scope"
+      ],
+      "disadvantages": [
+        "Rapid tech changes",
+        "Browser compatibility challenges"
+      ],
+      "demand": "Frontend developers are in high demand for web-based products.",
+      "required_skills": {
+        "basic": ["HTML", "CSS", "JavaScript", "UI basics", "Responsive design"],
+        "intermediate": ["React basics", "State management", "APIs", "UI libraries"],
+        "advanced": ["Performance optimization", "Advanced frameworks"],
+        "professional": ["UX collaboration", "Design communication", "Code reviews"]
+      },
+      "related_skills": ["React", "Bootstrap", "UI/UX", "Web Design"]
+    },
+    {
+      "name": "Backend Developer (Junior)",
+      "overview": "A backend developer handles server-side logic, databases, and application performance.",
+      "advantages": [
+        "High demand",
+        "Strong career stability",
+        "Scalable skillset"
+      ],
+      "disadvantages": [
+        "Complex debugging",
+        "Less visual feedback"
+      ],
+      "demand": "Backend roles are essential for all digital platforms.",
+      "required_skills": {
+        "basic": ["Programming basics", "Databases", "Logic building", "APIs", "Server concepts"],
+        "intermediate": ["Frameworks", "Authentication", "Data handling", "REST services"],
+        "advanced": ["Scalability", "Caching", "System optimization"],
+        "professional": ["Backend documentation", "Security awareness", "Collaboration"]
+      },
+      "related_skills": ["Node.js", "Java", "SQL", "APIs"]
+    },
+    {
+      "name": "QA Automation Tester",
+      "overview": "A QA automation tester ensures software quality by writing automated test scripts.",
+      "advantages": [
+        "Fresher-friendly",
+        "High demand",
+        "Good entry into IT"
+      ],
+      "disadvantages": [
+        "Repetitive testing tasks",
+        "Requires attention to detail"
+      ],
+      "demand": "Automation testers are widely needed to speed up software releases.",
+      "required_skills": {
+        "basic": ["Testing fundamentals", "Manual testing", "Test cases", "Bug reporting"],
+        "intermediate": ["Automation tools", "Scripting", "Test frameworks"],
+        "advanced": ["CI/CD integration", "Performance testing"],
+        "professional": ["Quality mindset", "Documentation", "Communication"]
+      },
+      "related_skills": ["Selenium", "JUnit", "TestNG", "Automation"]
+    },
+    {
+      "name": "Data Analyst (Fresher)",
+      "overview": "A data analyst interprets data to provide insights and support business decisions.",
+      "advantages": [
+        "Non-coding heavy role",
+        "High fresher demand",
+        "Business impact"
+      ],
+      "disadvantages": [
+        "Data dependency",
+        "Repetitive reporting"
+      ],
+      "demand": "Data analysts are needed across all industries.",
+      "required_skills": {
+        "basic": ["Excel", "Statistics basics", "Data understanding", "Logical thinking"],
+        "intermediate": ["SQL", "Data visualization", "Python basics"],
+        "advanced": ["Predictive analysis", "Advanced dashboards"],
+        "professional": ["Data storytelling", "Business communication"]
+      },
+      "related_skills": ["Power BI", "Tableau", "SQL", "Python"]
+    },
+    {
+      "name": "Cloud Support Associate",
+      "overview": "A cloud support associate assists in maintaining and troubleshooting cloud infrastructure.",
+      "advantages": [
+        "High cloud demand",
+        "Good entry role",
+        "Certification-driven"
+      ],
+      "disadvantages": [
+        "Shift work",
+        "Support pressure"
+      ],
+      "demand": "Cloud support roles are expanding rapidly with cloud adoption.",
+      "required_skills": {
+        "basic": ["Networking basics", "Cloud fundamentals", "Linux", "Troubleshooting"],
+        "intermediate": ["Cloud services", "Monitoring tools", "Security basics"],
+        "advanced": ["Cloud optimization", "Automation"],
+        "professional": ["Customer support", "Documentation", "Incident handling"]
+      },
+      "related_skills": ["AWS", "Azure", "Linux", "Cloud Computing"]
+    },
+    {
+      "name": "DevOps Trainee",
+      "overview": "A DevOps trainee learns automation, deployment, and system reliability practices.",
+      "advantages": [
+        "High-paying future role",
+        "Strong demand",
+        "Automation-focused"
+      ],
+      "disadvantages": [
+        "Steep learning curve",
+        "Tool-heavy role"
+      ],
+      "demand": "DevOps professionals are crucial for modern software delivery.",
+      "required_skills": {
+        "basic": ["Linux", "Git", "Scripting", "CI/CD basics"],
+        "intermediate": ["Containers", "Cloud platforms", "Automation"],
+        "advanced": ["Infrastructure as code", "Scalability"],
+        "professional": ["Process improvement", "Team collaboration"]
+      },
+      "related_skills": ["Docker", "Jenkins", "AWS", "CI/CD"]
+    },
+    {
+      "name": "IT Support Engineer",
+      "overview": "An IT support engineer resolves technical issues and supports organizational systems.",
+      "advantages": [
+        "Very easy entry",
+        "High job availability",
+        "Broad exposure"
+      ],
+      "disadvantages": [
+        "Support pressure",
+        "Lower starting salary"
+      ],
+      "demand": "IT support engineers are required in all organizations.",
+      "required_skills": {
+        "basic": ["Hardware basics", "OS fundamentals", "Networking basics"],
+        "intermediate": ["System troubleshooting", "Security awareness"],
+        "advanced": ["Infrastructure support"],
+        "professional": ["Communication", "Customer handling"]
+      },
+      "related_skills": ["Windows", "Linux", "Networking", "Helpdesk"]
+    },
+    {
+      "name": "Business Analyst (Junior)",
+      "overview": "A junior business analyst bridges business needs and technical solutions.",
+      "advantages": [
+        "Non-coding role",
+        "Good corporate exposure",
+        "High growth"
+      ],
+      "disadvantages": [
+        "Documentation-heavy",
+        "Stakeholder pressure"
+      ],
+      "demand": "Business analysts are essential in digital transformation.",
+      "required_skills": {
+        "basic": ["Business fundamentals", "Communication", "Documentation"],
+        "intermediate": ["Requirement analysis", "Process mapping"],
+        "advanced": ["Enterprise analysis"],
+        "professional": ["Stakeholder management", "Presentation skills"]
+      },
+      "related_skills": ["Excel", "Process Analysis", "Documentation"]
+    },
+    {
+      "name": "Technical Content Engineer",
+      "overview": "A technical content engineer creates technical documentation, guides, and tutorials.",
+      "advantages": [
+        "Low coding pressure",
+        "Good for freshers",
+        "Remote-friendly"
+      ],
+      "disadvantages": [
+        "Lower salary growth",
+        "Writing-intensive role"
+      ],
+      "demand": "Technical writers are needed for products and platforms.",
+      "required_skills": {
+        "basic": ["Technical understanding", "Writing skills", "Research"],
+        "intermediate": ["API documentation", "Tool usage"],
+        "advanced": ["Content strategy"],
+        "professional": ["Clarity", "Collaboration", "Consistency"]
+      },
+      "related_skills": ["Markdown", "APIs", "Documentation", "Technical Writing"]
+    },
+    
+    {
+      "name": "AI Research Scientist",
+      "overview": "An AI research scientist develops new algorithms and models to push the boundaries of artificial intelligence.",
+      "advantages": ["Elite AI role", "Research impact", "Top-tier salaries"],
+      "disadvantages": ["Very high learning curve", "Mostly research-oriented"],
+      "demand": "Highly demanded in AI labs, big tech, and research institutions.",
+      "required_skills": {
+        "basic": ["Python", "Math foundations", "Programming logic"],
+        "intermediate": ["Machine learning", "Research methods", "Model evaluation"],
+        "advanced": ["Novel algorithm design", "AI publications", "Advanced optimization"],
+        "professional": ["Research writing", "Collaboration", "Conference presentations"]
+      },
+      "related_skills": ["PyTorch", "TensorFlow", "AI Research", "Mathematics"]
+    },
+    {
+      "name": "MLOps Engineer",
+      "overview": "An MLOps engineer manages deployment, monitoring, and lifecycle of machine learning models.",
+      "advantages": ["High demand", "Bridges ML and DevOps", "Production impact"],
+      "disadvantages": ["Complex pipelines", "Tool-heavy role"],
+      "demand": "Critical role for scaling AI systems in production.",
+      "required_skills": {
+        "basic": ["Python", "Linux", "ML basics"],
+        "intermediate": ["CI/CD", "Model versioning", "Containers"],
+        "advanced": ["ML pipelines", "Monitoring drift", "Scalable ML systems"],
+        "professional": ["Cross-team coordination", "Documentation", "Reliability mindset"]
+      },
+      "related_skills": ["Kubeflow", "MLflow", "Docker", "Kubernetes"]
+    },
+    {
+      "name": "AI Ethics Engineer",
+      "overview": "An AI ethics engineer ensures fairness, transparency, and compliance in AI systems.",
+      "advantages": ["Future-critical role", "Policy + AI mix", "High social impact"],
+      "disadvantages": ["Still emerging role", "Abstract requirements"],
+      "demand": "Increasing demand due to AI regulations and compliance needs.",
+      "required_skills": {
+        "basic": ["AI fundamentals", "Data basics", "Ethics concepts"],
+        "intermediate": ["Bias detection", "Model explainability"],
+        "advanced": ["Responsible AI frameworks", "AI governance"],
+        "professional": ["Policy communication", "Risk assessment"]
+      },
+      "related_skills": ["Fair AI", "Explainable AI", "Compliance", "Governance"]
+    },
+    
+    {
+      "name": "Cyber Threat Intelligence Analyst",
+      "overview": "Analyzes cyber threats and attacker behavior to prevent advanced security incidents.",
+      "advantages": ["High strategic value", "Elite security role"],
+      "disadvantages": ["High pressure", "Requires deep analysis"],
+      "demand": "Strong demand in SOCs and defense organizations.",
+      "required_skills": {
+        "basic": ["Networking", "Security basics", "Threat concepts"],
+        "intermediate": ["Malware analysis", "Threat hunting"],
+        "advanced": ["APT analysis", "Threat modeling"],
+        "professional": ["Reporting", "Decision support"]
+      },
+      "related_skills": ["SIEM", "MITRE ATT&CK", "Threat Intelligence"]
+    },
+    {
+      "name": "Cloud Security Architect",
+      "overview": "Designs secure cloud infrastructures and security policies.",
+      "advantages": ["High salary", "Cloud leadership role"],
+      "disadvantages": ["High responsibility", "Broad expertise needed"],
+      "demand": "Critical role as cloud adoption accelerates.",
+      "required_skills": {
+        "basic": ["Networking", "Security fundamentals"],
+        "intermediate": ["Cloud security tools", "IAM"],
+        "advanced": ["Zero trust", "Secure cloud architecture"],
+        "professional": ["Risk management", "Architecture documentation"]
+      },
+      "related_skills": ["AWS Security", "Azure Security", "Zero Trust"]
+    },
+    {
+      "name": "Red Team Engineer",
+      "overview": "Simulates real-world cyberattacks to test organizational defenses.",
+      "advantages": ["Highly skilled role", "Hands-on hacking"],
+      "disadvantages": ["Intense pressure", "Legal responsibility"],
+      "demand": "High demand in enterprises and security firms.",
+      "required_skills": {
+        "basic": ["Networking", "Linux", "Security basics"],
+        "intermediate": ["Penetration testing", "Exploitation"],
+        "advanced": ["Advanced attack simulation", "Evasion techniques"],
+        "professional": ["Ethical conduct", "Reporting"]
+      },
+      "related_skills": ["Metasploit", "Cobalt Strike", "Ethical Hacking"]
+    },
+    
+    {
+      "name": "Cloud Platform Engineer",
+      "overview": "Builds and manages scalable cloud platforms for enterprise applications.",
+      "advantages": ["High-paying role", "Enterprise impact"],
+      "disadvantages": ["Complex systems", "On-call duties"],
+      "demand": "Very high demand in cloud-first organizations.",
+      "required_skills": {
+        "basic": ["Linux", "Networking", "Cloud basics"],
+        "intermediate": ["Cloud services", "Automation"],
+        "advanced": ["Platform engineering", "Scalability"],
+        "professional": ["System ownership", "Documentation"]
+      },
+      "related_skills": ["AWS", "Terraform", "Kubernetes"]
+    },
+    {
+      "name": "DevSecOps Engineer",
+      "overview": "Integrates security practices into DevOps pipelines.",
+      "advantages": ["Very high demand", "Security + DevOps combo"],
+      "disadvantages": ["Tool overload", "High accountability"],
+      "demand": "Critical role in modern secure deployments.",
+      "required_skills": {
+        "basic": ["Linux", "DevOps basics", "Security fundamentals"],
+        "intermediate": ["CI/CD security", "Container security"],
+        "advanced": ["Policy automation", "Zero-trust pipelines"],
+        "professional": ["Risk communication", "Process governance"]
+      },
+      "related_skills": ["DevSecOps", "SAST", "DAST", "Cloud Security"]
+    },
+    {
+      "name": "Site Reliability Architect",
+      "overview": "Designs highly reliable and fault-tolerant systems.",
+      "advantages": ["Elite DevOps role", "Massive scale exposure"],
+      "disadvantages": ["High pressure incidents", "Complex architecture"],
+      "demand": "Increasing demand in hyperscale environments.",
+      "required_skills": {
+        "basic": ["Linux", "Networking", "Monitoring"],
+        "intermediate": ["Automation", "Cloud reliability"],
+        "advanced": ["Chaos engineering", "System resilience"],
+        "professional": ["Incident leadership", "Postmortems"]
+      },
+      "related_skills": ["SRE", "Prometheus", "Kubernetes", "Cloud"]
+    },
+    
+    {
+      "name": "AI Product Manager",
+      "overview": "An AI product manager defines AI product vision, aligns business needs with AI capabilities, and coordinates teams to deliver intelligent products.",
+      "advantages": ["High salary", "Leadership role", "No hardcore coding"],
+      "disadvantages": ["High responsibility", "Stakeholder pressure"],
+      "demand": "Strong demand as companies launch AI-driven products.",
+      "required_skills": {
+        "basic": ["Product fundamentals", "AI basics", "Business analysis", "Communication", "Market research"],
+        "intermediate": ["AI use-case design", "Roadmapping", "User requirements", "Data understanding", "UX collaboration"],
+        "advanced": ["AI strategy", "Model trade-offs", "Risk management", "Ethical AI planning", "Scaling AI products"],
+        "professional": ["Leadership", "Decision making", "Cross-team coordination", "Client communication", "Product vision"]
+      },
+      "related_skills": ["Product Management", "AI Strategy", "UX", "Agile"]
+    },
+    {
+      "name": "AI Business Analyst",
+      "overview": "An AI business analyst bridges business goals and AI solutions by translating requirements into AI-driven insights.",
+      "advantages": ["Business-focused", "AI exposure", "Low coding requirement"],
+      "disadvantages": ["Dependency on data teams", "Interpretation challenges"],
+      "demand": "High demand in enterprises adopting AI.",
+      "required_skills": {
+        "basic": ["Business analysis", "Data basics", "Excel", "Communication", "Problem solving"],
+        "intermediate": ["AI concepts", "Process modeling", "Requirement gathering", "Dashboard tools", "Stakeholder handling"],
+        "advanced": ["AI ROI analysis", "Predictive insights", "Decision frameworks", "Data-driven strategy", "Optimization"],
+        "professional": ["Presentation skills", "Documentation", "Business storytelling", "Client interaction", "Consulting mindset"]
+      },
+      "related_skills": ["Power BI", "Tableau", "AI Analytics", "Business Intelligence"]
+    },
+    {
+      "name": "AI Prompt Engineer",
+      "overview": "A prompt engineer designs and optimizes prompts to get accurate and useful outputs from AI models.",
+      "advantages": ["No coding", "High demand", "Creative role"],
+      "disadvantages": ["Role still evolving", "Tool-dependent"],
+      "demand": "Rapidly growing with generative AI adoption.",
+      "required_skills": {
+        "basic": ["Language skills", "AI basics", "Creativity", "Logic thinking", "Tool usage"],
+        "intermediate": ["Prompt optimization", "Context design", "Testing outputs", "Workflow building", "AI limitations"],
+        "advanced": ["Multi-step prompting", "Agent workflows", "Model comparison", "Prompt automation", "Safety tuning"],
+        "professional": ["Documentation", "Knowledge sharing", "AI governance", "Collaboration", "Problem framing"]
+      },
+      "related_skills": ["LLMs", "Generative AI", "ChatGPT", "AI Tools"]
+    },
+    {
+      "name": "AI Ethics & Compliance Analyst",
+      "overview": "Ensures AI systems follow ethical guidelines, fairness, and regulatory standards.",
+      "advantages": ["Future-proof role", "Policy + AI mix", "Non-technical"],
+      "disadvantages": ["Abstract metrics", "Regulation complexity"],
+      "demand": "Increasing due to AI regulations worldwide.",
+      "required_skills": {
+        "basic": ["Ethics fundamentals", "AI basics", "Policy reading", "Critical thinking", "Documentation"],
+        "intermediate": ["Bias assessment", "Risk analysis", "Compliance frameworks", "Model transparency", "Auditing"],
+        "advanced": ["AI governance", "Regulatory strategy", "Ethical risk mitigation", "Impact analysis", "Trust frameworks"],
+        "professional": ["Policy communication", "Advisory skills", "Stakeholder engagement", "Reporting", "Decision support"]
+      },
+      "related_skills": ["Responsible AI", "Governance", "Compliance", "Risk Management"]
+    },
+    {
+      "name": "AI UX Designer",
+      "overview": "Designs user experiences for AI-powered systems, focusing on usability and trust.",
+      "advantages": ["Creative role", "AI exposure", "No coding"],
+      "disadvantages": ["User trust challenges", "Iterative testing needed"],
+      "demand": "High demand as AI interfaces grow.",
+      "required_skills": {
+        "basic": ["UX principles", "Design thinking", "User research", "Wireframing", "Communication"],
+        "intermediate": ["AI interaction design", "Prototyping", "User testing", "Behavior analysis", "Accessibility"],
+        "advanced": ["Human-AI interaction", "Explainable UX", "Trust-centered design", "Design systems", "UX strategy"],
+        "professional": ["Stakeholder collaboration", "Design leadership", "User advocacy", "Documentation", "Presentation"]
+      },
+      "related_skills": ["UX Design", "Figma", "Human-Centered AI", "Product Design"]
+    },
+    {
+      "name": "AI Data Annotation Lead",
+      "overview": "Manages teams that label and validate data used to train AI models.",
+      "advantages": ["Low technical barrier", "Team leadership", "AI pipeline role"],
+      "disadvantages": ["Repetitive processes", "Quality pressure"],
+      "demand": "Essential role for AI model training.",
+      "required_skills": {
+        "basic": ["Data understanding", "Attention to detail", "Process management", "Communication", "Quality checks"],
+        "intermediate": ["Annotation tools", "Guideline creation", "Workflow optimization", "Error analysis", "Reporting"],
+        "advanced": ["Quality frameworks", "Dataset strategy", "Bias control", "Scalability planning", "Process automation"],
+        "professional": ["Team leadership", "Training", "Documentation", "Client coordination", "Quality governance"]
+      },
+      "related_skills": ["Data Labeling", "AI Training Data", "Quality Assurance"]
+    },
+    {
+      "name": "AI Operations Manager",
+      "overview": "Oversees operational processes for AI systems, ensuring smooth deployment and usage.",
+      "advantages": ["Management role", "AI exposure", "No coding"],
+      "disadvantages": ["Operational pressure", "Cross-team dependency"],
+      "demand": "Growing demand in AI-driven enterprises.",
+      "required_skills": {
+        "basic": ["Operations management", "AI basics", "Process optimization", "Communication", "Reporting"],
+        "intermediate": ["AI workflow monitoring", "Incident handling", "Vendor coordination", "Process metrics", "Optimization"],
+        "advanced": ["AI scaling operations", "Risk management", "Service reliability", "Governance operations", "Cost control"],
+        "professional": ["Leadership", "Decision making", "Strategic planning", "Stakeholder management", "Process ownership"]
+      },
+      "related_skills": ["AI Ops", "Process Management", "Service Operations"]
+    },
+    {
+      "name": "AI Content Strategist",
+      "overview": "Uses AI tools to plan, generate, and optimize digital content strategies.",
+      "advantages": ["Creative + AI role", "No coding", "Marketing impact"],
+      "disadvantages": ["Tool dependency", "Content saturation"],
+      "demand": "High demand in marketing and media industries.",
+      "required_skills": {
+        "basic": ["Content writing", "SEO basics", "AI tools", "Creativity", "Research"],
+        "intermediate": ["Content optimization", "Audience analysis", "AI workflows", "Editorial planning", "Analytics"],
+        "advanced": ["AI-driven strategy", "Brand voice automation", "Multi-channel scaling", "Performance optimization", "Content governance"],
+        "professional": ["Storytelling", "Brand management", "Leadership", "Client communication", "Strategy ownership"]
+      },
+      "related_skills": ["Generative AI", "SEO", "Digital Marketing", "Content Strategy"]
+    },
+    {
+      "name": "AI Consultant",
+      "overview": "Advises organizations on adopting AI solutions aligned with business goals.",
+      "advantages": ["High pay", "Strategic role", "No coding"],
+      "disadvantages": ["Client pressure", "Constant learning required"],
+      "demand": "Very high demand across industries adopting AI.",
+      "required_skills": {
+        "basic": ["Business fundamentals", "AI basics", "Communication", "Problem solving", "Industry knowledge"],
+        "intermediate": ["Use-case identification", "AI feasibility analysis", "Process redesign", "ROI estimation", "Client handling"],
+        "advanced": ["Enterprise AI strategy", "Change management", "Risk advisory", "Scaling AI adoption", "Governance planning"],
+        "professional": ["Consulting mindset", "Presentation skills", "Leadership", "Negotiation", "Decision advisory"]
+      },
+      "related_skills": ["AI Strategy", "Consulting", "Business Transformation"]
+    }
+  
+
+  
+ 
+  
+  
+  
+  ]
+}

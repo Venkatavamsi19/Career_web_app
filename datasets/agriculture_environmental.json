@@ -1,0 +1,1119 @@
+{
+  "category": "Agriculture & Environmental Careers",
+  "careers": [
+    {
+      "name": "Agricultural Officer",
+      "overview": "Agricultural Officers work closely with farmers, agricultural institutions, and government agencies to improve crop productivity, introduce modern farming techniques, and promote sustainable agricultural practices that enhance food security and rural development.",
+      "advantages": [
+        "Strong contribution to national food security",
+        "Stable government and private sector employment",
+        "High social impact in rural areas"
+      ],
+      "disadvantages": [
+        "Frequent travel to rural locations",
+        "Outdoor work in varying weather conditions"
+      ],
+      "demand": "High demand due to increasing focus on sustainable agriculture.",
+      "required_skills": {
+        "basic": ["Crop science basics", "Soil fundamentals", "Plant biology", "Agricultural terminology", "Basic data recording"],
+        "intermediate": ["Crop management", "Pest control methods", "Irrigation systems", "Farm planning", "Yield analysis"],
+        "advanced": ["Agro-technology adoption", "Sustainable farming", "Precision agriculture"],
+        "professional": ["Farmer training", "Agricultural policy planning"]
+      },
+      "related_skills": ["Agriculture", "Soil Science"]
+    },
+    {
+      "name": "Environmental Scientist",
+      "overview": "Environmental Scientists analyze environmental issues such as pollution, climate change, and resource depletion, using scientific research and data analysis to develop strategies that protect ecosystems and promote sustainable development.",
+      "advantages": [
+        "Positive impact on environmental protection",
+        "Strong demand globally",
+        "Opportunities in research and policy"
+      ],
+      "disadvantages": [
+        "Requires advanced education",
+        "Field research can be demanding"
+      ],
+      "demand": "Rapidly increasing due to climate change initiatives.",
+      "required_skills": {
+        "basic": ["Environmental science basics", "Ecology principles", "Chemistry fundamentals", "Data collection", "Field observation"],
+        "intermediate": ["Statistical analysis", "Research methodology", "Environmental monitoring", "Report writing", "GIS basics"],
+        "advanced": ["Environmental modeling", "Impact assessment", "Climate analysis"],
+        "professional": ["Policy advising", "Project leadership"]
+      },
+      "related_skills": ["Research", "Data Analysis"]
+    },
+    {
+      "name": "Forestry Officer",
+      "overview": "Forestry Officers are responsible for managing forest resources, protecting wildlife habitats, implementing conservation strategies, and ensuring sustainable use of forest ecosystems through scientific and administrative approaches.",
+      "advantages": [
+        "Government job stability",
+        "Work closely with nature",
+        "Strong environmental impact"
+      ],
+      "disadvantages": [
+        "Remote work locations",
+        "Physically demanding tasks"
+      ],
+      "demand": "Stable demand due to conservation policies.",
+      "required_skills": {
+        "basic": ["Biology fundamentals", "Geography knowledge", "Forest ecology", "Environmental awareness", "Data recording"],
+        "intermediate": ["Forest management", "Wildlife protection", "Biodiversity assessment", "Field surveys", "GIS mapping"],
+        "advanced": ["Conservation planning", "Forest policy analysis"],
+        "professional": ["Environmental leadership", "Team supervision"]
+      },
+      "related_skills": ["Forestry", "Wildlife"]
+    },
+
+    {
+      "name": "Soil Conservation Specialist",
+      "overview": "Soil Conservation Specialists focus on preventing soil erosion, improving soil fertility, and advising farmers and institutions on sustainable land management practices to ensure long-term agricultural productivity.",
+      "advantages": [
+        "Critical role in sustainable farming",
+        "High relevance in climate adaptation",
+        "Research and field balance"
+      ],
+      "disadvantages": [
+        "Fieldwork intensive",
+        "Requires technical expertise"
+      ],
+      "demand": "Growing due to land degradation concerns.",
+      "required_skills": {
+        "basic": ["Soil science basics", "Earth science", "Environmental chemistry", "Field sampling", "Documentation"],
+        "intermediate": ["Soil testing", "Land assessment", "Erosion control", "Water conservation", "Farm advisory"],
+        "advanced": ["Land restoration planning", "Sustainability modeling"],
+        "professional": ["Environmental consultancy", "Project coordination"]
+      },
+      "related_skills": ["Soil Science", "Land Management"]
+    },
+
+    {
+      "name": "Agribusiness Manager",
+      "overview": "Agribusiness Managers oversee agricultural enterprises by managing operations, supply chains, marketing strategies, and financial planning to ensure profitability while maintaining sustainable agricultural practices.",
+      "advantages": [
+        "Strong earning potential",
+        "Leadership roles",
+        "Business growth opportunities"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Market risk exposure"
+      ],
+      "demand": "Increasing with modernization of agriculture.",
+      "required_skills": {
+        "basic": ["Business fundamentals", "Agriculture basics", "Accounting principles", "Communication skills", "Market awareness"],
+        "intermediate": ["Supply chain management", "Financial planning", "Operations management", "Sales strategy", "Risk assessment"],
+        "advanced": ["Strategic planning", "Agri-market analysis"],
+        "professional": ["Enterprise leadership", "Investment decision-making"]
+      },
+      "related_skills": ["Business Management", "Agriculture"]
+    },
+    {
+  "name": "Agricultural Research Scientist",
+  "overview": "Agricultural Research Scientists conduct advanced scientific research to develop improved crop varieties, enhance soil productivity, and introduce innovative farming technologies that increase agricultural efficiency and sustainability.",
+  "advantages": [
+    "Strong contribution to scientific innovation",
+    "Opportunities in government and research institutions",
+    "Global research collaboration"
+  ],
+  "disadvantages": [
+    "Requires advanced academic qualifications",
+    "Research outcomes may take years"
+  ],
+  "demand": "High demand driven by food security and climate challenges.",
+  "required_skills": {
+    "basic": ["Agricultural science", "Biology fundamentals", "Research basics", "Data recording", "Scientific reading"],
+    "intermediate": ["Experimental design", "Crop genetics", "Statistical analysis", "Lab techniques", "Field trials"],
+    "advanced": ["Biotechnology", "Genetic improvement", "Research modeling"],
+    "professional": ["Research leadership", "Scientific publication"]
+  },
+  "related_skills": ["Research", "Biotechnology"]
+},
+{
+  "name": "Horticulturist",
+  "overview": "Horticulturists specialize in cultivating fruits, vegetables, flowers, and ornamental plants by applying scientific techniques to improve plant growth, quality, and sustainability in agricultural and urban environments.",
+  "advantages": [
+    "Hands-on work with plants",
+    "Growing demand in urban farming",
+    "Creative career path"
+  ],
+  "disadvantages": [
+    "Seasonal workload",
+    "Exposure to weather conditions"
+  ],
+  "demand": "Increasing due to urban gardening and food demand.",
+  "required_skills": {
+    "basic": ["Plant biology", "Soil basics", "Water management", "Botany knowledge", "Plant care"],
+    "intermediate": ["Plant propagation", "Greenhouse management", "Pest control", "Crop planning", "Quality assessment"],
+    "advanced": ["Advanced cultivation techniques", "Sustainable horticulture"],
+    "professional": ["Farm supervision", "Agricultural consulting"]
+  },
+  "related_skills": ["Horticulture", "Plant Science"]
+},
+{
+  "name": "Irrigation Engineer",
+  "overview": "Irrigation Engineers design, implement, and manage efficient water distribution systems to optimize agricultural productivity while conserving water resources and supporting sustainable farming practices.",
+  "advantages": [
+    "High relevance in water-scarce regions",
+    "Engineering and agriculture blend",
+    "Strong career stability"
+  ],
+  "disadvantages": [
+    "Technical complexity",
+    "Field-based challenges"
+  ],
+  "demand": "Very high due to water conservation needs.",
+  "required_skills": {
+    "basic": ["Hydrology basics", "Mathematics", "Agricultural concepts", "Water cycles", "Engineering fundamentals"],
+    "intermediate": ["Irrigation systems", "Water management", "System design", "Project planning", "Technical analysis"],
+    "advanced": ["Precision irrigation", "Sustainable water systems"],
+    "professional": ["Infrastructure leadership", "Technical consultancy"]
+  },
+  "related_skills": ["Water Management", "Engineering"]
+},
+{
+  "name": "Organic Farming Specialist",
+  "overview": "Organic Farming Specialists promote eco-friendly agricultural practices by eliminating synthetic chemicals and focusing on natural inputs, soil health, and biodiversity to produce healthy and sustainable food.",
+  "advantages": [
+    "Environmentally friendly work",
+    "Growing consumer demand",
+    "Health-focused agriculture"
+  ],
+  "disadvantages": [
+    "Lower initial yields",
+    "Certification challenges"
+  ],
+  "demand": "Rapidly increasing with organic food markets.",
+  "required_skills": {
+    "basic": ["Organic farming principles", "Soil health", "Crop basics", "Environmental awareness", "Plant nutrition"],
+    "intermediate": ["Composting", "Natural pest control", "Crop rotation", "Certification standards", "Farm management"],
+    "advanced": ["Sustainable systems design", "Organic yield optimization"],
+    "professional": ["Organic certification advising", "Farm leadership"]
+  },
+  "related_skills": ["Organic Farming", "Sustainability"]
+},
+{
+  "name": "Wildlife Conservationist",
+  "overview": "Wildlife Conservationists protect animal species and natural habitats through research, conservation planning, and community engagement to maintain ecological balance and biodiversity.",
+  "advantages": [
+    "Direct contribution to wildlife protection",
+    "High environmental impact",
+    "International opportunities"
+  ],
+  "disadvantages": [
+    "Remote and risky fieldwork",
+    "Irregular working hours"
+  ],
+  "demand": "Growing due to biodiversity loss concerns.",
+  "required_skills": {
+    "basic": ["Animal biology", "Ecology", "Environmental studies", "Field observation", "Data collection"],
+    "intermediate": ["Wildlife tracking", "Habitat assessment", "Research techniques", "GIS basics", "Survey methods"],
+    "advanced": ["Conservation strategy", "Population modeling"],
+    "professional": ["Conservation leadership", "Policy advocacy"]
+  },
+  "related_skills": ["Wildlife Conservation", "Ecology"]
+},
+{
+  "name": "Soil Scientist",
+  "overview": "Soil Scientists analyze soil composition, structure, and fertility to improve agricultural productivity, prevent land degradation, and support sustainable land-use planning across agricultural and environmental projects.",
+  "advantages": [
+    "Key role in sustainable agriculture",
+    "High demand in research and consultancy",
+    "Strong environmental impact"
+  ],
+  "disadvantages": [
+    "Extensive fieldwork required",
+    "Advanced education often needed"
+  ],
+  "demand": "High demand due to soil conservation and food security needs.",
+  "required_skills": {
+    "basic": ["Soil science basics", "Chemistry fundamentals", "Biology knowledge", "Field sampling", "Data recording"],
+    "intermediate": ["Soil testing", "Fertility analysis", "Land evaluation", "Lab techniques", "Statistical methods"],
+    "advanced": ["Soil remediation", "Sustainability modeling"],
+    "professional": ["Environmental consulting", "Research leadership"]
+  },
+  "related_skills": ["Soil Science", "Environmental Analysis"]
+},
+{
+  "name": "Agribusiness Manager",
+  "overview": "Agribusiness Managers oversee agricultural business operations, combining farming knowledge with financial planning, marketing strategies, and supply chain management to ensure profitable and sustainable agricultural enterprises.",
+  "advantages": [
+    "Strong income potential",
+    "Leadership opportunities",
+    "Blend of business and agriculture"
+  ],
+  "disadvantages": [
+    "High responsibility",
+    "Market risks"
+  ],
+  "demand": "Growing demand due to commercialization of agriculture.",
+  "required_skills": {
+    "basic": ["Agriculture basics", "Business fundamentals", "Communication skills", "Accounting basics", "Market awareness"],
+    "intermediate": ["Supply chain management", "Financial planning", "Marketing strategies", "Operations management", "Risk assessment"],
+    "advanced": ["Strategic planning", "Business analytics"],
+    "professional": ["Enterprise leadership", "Policy compliance"]
+  },
+  "related_skills": ["Agribusiness", "Management"]
+},
+{
+  "name": "Environmental Consultant",
+  "overview": "Environmental Consultants advise organizations on minimizing environmental impact, ensuring regulatory compliance, and implementing sustainable practices across industrial, agricultural, and infrastructure projects.",
+  "advantages": [
+    "High-impact advisory role",
+    "Diverse project exposure",
+    "Strong consulting demand"
+  ],
+  "disadvantages": [
+    "Strict regulatory pressure",
+    "Client deadline stress"
+  ],
+  "demand": "Very high due to environmental regulations.",
+  "required_skills": {
+    "basic": ["Environmental science", "Policy awareness", "Report writing", "Data interpretation", "Risk assessment"],
+    "intermediate": ["Environmental audits", "Impact assessments", "Compliance analysis", "Project documentation", "Client communication"],
+    "advanced": ["Sustainability frameworks", "Environmental modeling"],
+    "professional": ["Consulting leadership", "Regulatory advisory"]
+  },
+  "related_skills": ["Environmental Consulting", "Sustainability"]
+},
+{
+  "name": "Plant Pathologist",
+  "overview": "Plant Pathologists study plant diseases, identify pathogens, and develop disease management strategies to protect crops, improve yields, and ensure agricultural biosecurity.",
+  "advantages": [
+    "Critical role in food security",
+    "Research-driven career",
+    "High scientific relevance"
+  ],
+  "disadvantages": [
+    "Laboratory-intensive work",
+    "Advanced education required"
+  ],
+  "demand": "High demand due to crop disease threats.",
+  "required_skills": {
+    "basic": ["Plant biology", "Microbiology basics", "Observation skills", "Lab safety", "Data collection"],
+    "intermediate": ["Disease diagnosis", "Lab analysis", "Field trials", "Crop protection methods", "Statistical analysis"],
+    "advanced": ["Pathogen modeling", "Genetic resistance studies"],
+    "professional": ["Research leadership", "Agricultural advisory"]
+  },
+  "related_skills": ["Plant Pathology", "Crop Protection"]
+},
+{
+  "name": "Farm Operations Manager",
+  "overview": "Farm Operations Managers coordinate daily agricultural activities, manage labor and resources, and ensure efficient production while maintaining sustainability and profitability.",
+  "advantages": [
+    "Leadership role",
+    "Hands-on agricultural experience",
+    "Operational control"
+  ],
+  "disadvantages": [
+    "Long working hours",
+    "Weather dependency"
+  ],
+  "demand": "Consistently high in commercial farming.",
+  "required_skills": {
+    "basic": ["Farm practices", "Equipment handling", "Time management", "Basic accounting", "Crop knowledge"],
+    "intermediate": ["Labor management", "Production planning", "Inventory control", "Cost management", "Quality assurance"],
+    "advanced": ["Operational optimization", "Sustainability planning"],
+    "professional": ["Farm leadership", "Business coordination"]
+  },
+  "related_skills": ["Farm Management", "Operations"]
+},
+{
+  "name": "Climate Change Analyst",
+  "overview": "Climate Change Analysts study climate patterns and environmental data to assess risks, predict impacts on agriculture and ecosystems, and support climate adaptation and mitigation strategies.",
+  "advantages": [
+    "Global relevance",
+    "Policy influence",
+    "Research-driven role"
+  ],
+  "disadvantages": [
+    "Data-intensive work",
+    "High responsibility"
+  ],
+  "demand": "Rapidly increasing due to climate concerns.",
+  "required_skills": {
+    "basic": ["Climate science basics", "Environmental studies", "Data interpretation", "Statistics fundamentals", "Research skills"],
+    "intermediate": ["Climate modeling", "Impact assessment", "GIS tools", "Trend analysis", "Scientific reporting"],
+    "advanced": ["Advanced predictive modeling", "Risk forecasting"],
+    "professional": ["Policy advising", "Strategic planning"]
+  },
+  "related_skills": ["Climate Analysis", "Environmental Research"]
+},
+{
+  "name": "Seed Technologist",
+  "overview": "Seed Technologists ensure the quality, viability, and genetic purity of seeds through scientific testing, processing, and certification to support agricultural productivity.",
+  "advantages": [
+    "Technical specialization",
+    "Stable demand",
+    "Industry relevance"
+  ],
+  "disadvantages": [
+    "Lab-focused work",
+    "Quality compliance pressure"
+  ],
+  "demand": "High due to improved seed requirements.",
+  "required_skills": {
+    "basic": ["Seed biology", "Botany basics", "Lab handling", "Quality standards", "Record keeping"],
+    "intermediate": ["Seed testing", "Quality control", "Processing methods", "Certification processes", "Data analysis"],
+    "advanced": ["Genetic purity analysis", "Seed enhancement"],
+    "professional": ["Quality management", "Industry coordination"]
+  },
+  "related_skills": ["Seed Technology", "Quality Control"]
+},
+{
+  "name": "Environmental Policy Analyst",
+  "overview": "Environmental Policy Analysts research environmental laws, assess policy effectiveness, and provide evidence-based recommendations to support sustainable governance and environmental protection.",
+  "advantages": [
+    "Policy-level impact",
+    "Stable government roles",
+    "Research-oriented career"
+  ],
+  "disadvantages": [
+    "Extensive documentation",
+    "Policy constraints"
+  ],
+  "demand": "Growing with environmental governance needs.",
+  "required_skills": {
+    "basic": ["Environmental policy basics", "Research methods", "Analytical thinking", "Documentation skills", "Public awareness"],
+    "intermediate": ["Policy analysis", "Impact evaluation", "Stakeholder engagement", "Regulatory review", "Report writing"],
+    "advanced": ["Strategic policy development", "Legislative modeling"],
+    "professional": ["Policy leadership", "Advisory roles"]
+  },
+  "related_skills": ["Policy Analysis", "Environmental Governance"]
+},
+{
+  "name": "Sustainable Agriculture Advisor",
+  "overview": "Sustainable Agriculture Advisors guide farmers and organizations in adopting eco-friendly farming practices that balance productivity with environmental conservation and long-term soil health.",
+  "advantages": [
+    "High environmental contribution",
+    "Growing industry relevance",
+    "Consulting flexibility"
+  ],
+  "disadvantages": [
+    "Farmer adoption challenges",
+    "Travel requirements"
+  ],
+  "demand": "Rapidly increasing with sustainability focus.",
+  "required_skills": {
+    "basic": ["Sustainability concepts", "Agriculture basics", "Soil knowledge", "Communication skills", "Environmental awareness"],
+    "intermediate": ["Farm assessments", "Resource optimization", "Crop planning", "Training delivery", "Monitoring systems"],
+    "advanced": ["Sustainable system design", "Impact evaluation"],
+    "professional": ["Advisory leadership", "Program management"]
+  },
+  "related_skills": ["Sustainable Agriculture", "Advisory"]
+},
+{
+  "name": "Water Resource Specialist",
+  "overview": "Water Resource Specialists manage and protect water resources by planning efficient usage strategies, supporting agricultural irrigation, and ensuring environmental sustainability.",
+  "advantages": [
+    "Critical environmental role",
+    "Strong demand",
+    "Cross-sector relevance"
+  ],
+  "disadvantages": [
+    "Field and technical challenges",
+    "High responsibility"
+  ],
+  "demand": "Very high due to water scarcity issues.",
+  "required_skills": {
+    "basic": ["Water science basics", "Hydrology knowledge", "Environmental studies", "Data collection", "Monitoring skills"],
+    "intermediate": ["Water management planning", "Irrigation systems", "Resource analysis", "GIS basics", "Impact assessment"],
+    "advanced": ["Integrated water systems", "Sustainability modeling"],
+    "professional": ["Resource leadership", "Policy coordination"]
+  },
+  "related_skills": ["Water Resources", "Environmental Management"]
+},
+{
+  "name": "Wildlife Conservation Officer",
+  "overview": "Wildlife Conservation Officers protect wildlife populations and habitats through monitoring, enforcement, research, and community engagement to ensure biodiversity preservation.",
+  "advantages": [
+    "Direct conservation impact",
+    "Government job stability",
+    "Field-based experience"
+  ],
+  "disadvantages": [
+    "Remote postings",
+    "Physically demanding work"
+  ],
+  "demand": "High due to biodiversity protection initiatives.",
+  "required_skills": {
+    "basic": ["Wildlife biology", "Ecology basics", "Field observation", "Environmental laws", "Data recording"],
+    "intermediate": ["Habitat assessment", "Species monitoring", "Wildlife protection methods", "GIS basics", "Report preparation"],
+    "advanced": ["Conservation strategy planning", "Population modeling"],
+    "professional": ["Conservation leadership", "Policy enforcement"]
+  },
+  "related_skills": ["Wildlife Conservation", "Ecology", "Environmental Protection", "Habitat Management", "Biodiversity", "Field Research"]
+},
+{
+  "name": "Organic Farming Specialist",
+  "overview": "Organic Farming Specialists design, implement, and monitor organic farming systems that avoid synthetic chemicals while improving soil health, biodiversity, and long-term agricultural sustainability.",
+  "advantages": [
+    "High demand in sustainable agriculture",
+    "Eco-friendly career",
+    "Growing global market"
+  ],
+  "disadvantages": [
+    "Certification complexity",
+    "Lower short-term yields"
+  ],
+  "demand": "Rapidly increasing due to organic food demand.",
+  "required_skills": {
+    "basic": ["Organic farming principles", "Soil fertility basics", "Crop knowledge", "Composting techniques", "Environmental awareness"],
+    "intermediate": ["Organic certification", "Pest management", "Crop rotation planning", "Farm inspections", "Soil improvement methods"],
+    "advanced": ["Sustainable farm systems", "Yield optimization"],
+    "professional": ["Organic consultancy", "Farmer training"]
+  },
+  "related_skills": ["Organic Farming", "Sustainability", "Soil Management", "Crop Planning", "Eco-Agriculture", "Environmental Conservation"]
+},
+{
+  "name": "Agricultural Economist",
+  "overview": "Agricultural Economists analyze agricultural markets, pricing, and policy impacts to support decision-making in farming, agribusiness, and government planning.",
+  "advantages": [
+    "Strong analytical role",
+    "Policy influence",
+    "High professional demand"
+  ],
+  "disadvantages": [
+    "Data-intensive work",
+    "Requires advanced education"
+  ],
+  "demand": "High due to agricultural policy and market analysis needs.",
+  "required_skills": {
+    "basic": ["Economics fundamentals", "Agricultural systems knowledge", "Statistics basics", "Data interpretation", "Research skills"],
+    "intermediate": ["Market analysis", "Economic modeling", "Policy analysis", "Forecasting methods", "Data visualization"],
+    "advanced": ["Advanced econometrics", "Impact modeling"],
+    "professional": ["Economic advisory", "Policy consulting"]
+  },
+  "related_skills": ["Agricultural Economics", "Market Analysis", "Policy Research", "Data Analytics", "Economic Modeling", "Statistical Analysis"]
+},
+{
+  "name": "Irrigation Systems Engineer",
+  "overview": "Irrigation Systems Engineers design, manage, and optimize irrigation infrastructure to ensure efficient water use and maximize agricultural productivity.",
+  "advantages": [
+    "High technical demand",
+    "Critical role in water conservation",
+    "Engineering growth opportunities"
+  ],
+  "disadvantages": [
+    "Field and technical workload",
+    "Infrastructure challenges"
+  ],
+  "demand": "Very high due to water efficiency needs.",
+  "required_skills": {
+    "basic": ["Hydrology basics", "Water flow concepts", "Engineering fundamentals", "Agricultural practices", "Technical drawing"],
+    "intermediate": ["Irrigation design", "System maintenance", "Water efficiency analysis", "Project coordination", "Cost estimation"],
+    "advanced": ["Smart irrigation systems", "Water optimization modeling"],
+    "professional": ["Engineering leadership", "Infrastructure planning"]
+  },
+  "related_skills": ["Irrigation Engineering", "Water Management", "Agricultural Engineering", "Hydrology", "Infrastructure Design", "Sustainability"]
+},
+{
+  "name": "Environmental Impact Assessment Specialist",
+  "overview": "Environmental Impact Assessment Specialists evaluate the potential environmental effects of development projects and recommend mitigation strategies to ensure sustainable implementation.",
+  "advantages": [
+    "Regulatory importance",
+    "High consulting demand",
+    "Policy relevance"
+  ],
+  "disadvantages": [
+    "Extensive documentation",
+    "Deadline-driven work"
+  ],
+  "demand": "Very high due to environmental compliance laws.",
+  "required_skills": {
+    "basic": ["Environmental science", "Impact identification", "Data collection", "Regulatory awareness", "Documentation skills"],
+    "intermediate": ["Environmental audits", "Risk analysis", "Mitigation planning", "Stakeholder coordination", "Technical reporting"],
+    "advanced": ["Cumulative impact modeling", "Sustainability assessment"],
+    "professional": ["Project leadership", "Regulatory advisory"]
+  },
+  "related_skills": ["Environmental Impact Assessment", "Compliance Management", "Risk Analysis", "Sustainability Planning", "Environmental Auditing", "Policy Evaluation"]
+},
+{
+  "name": "Agroforestry Specialist",
+  "overview": "Agroforestry Specialists integrate trees, crops, and livestock systems to improve productivity, biodiversity, and environmental resilience in agricultural landscapes.",
+  "advantages": [
+    "Climate-resilient farming",
+    "Sustainability-focused role",
+    "Strong rural impact"
+  ],
+  "disadvantages": [
+    "Long-term results",
+    "Complex system management"
+  ],
+  "demand": "Increasing due to climate-smart agriculture.",
+  "required_skills": {
+    "basic": ["Forestry basics", "Crop science", "Ecology fundamentals", "Land management", "Environmental awareness"],
+    "intermediate": ["Agroforestry design", "Soil conservation", "Biodiversity management", "Farm planning", "Monitoring systems"],
+    "advanced": ["Integrated land-use systems", "Climate adaptation strategies"],
+    "professional": ["Sustainability leadership", "Community advisory"]
+  },
+  "related_skills": ["Agroforestry", "Climate-Smart Agriculture", "Land Management", "Biodiversity Conservation", "Soil Conservation", "Sustainable Farming"]
+},
+{
+  "name": "Environmental Monitoring Officer",
+  "overview": "Environmental Monitoring Officers track environmental indicators such as air, water, and soil quality to ensure compliance with environmental standards and support sustainability initiatives.",
+  "advantages": [
+    "Hands-on environmental role",
+    "Regulatory relevance",
+    "Stable employment"
+  ],
+  "disadvantages": [
+    "Routine monitoring work",
+    "Field exposure"
+  ],
+  "demand": "High due to regulatory monitoring requirements.",
+  "required_skills": {
+    "basic": ["Environmental sampling", "Monitoring equipment usage", "Data recording", "Field safety", "Environmental awareness"],
+    "intermediate": ["Quality assessment", "Compliance checks", "Data analysis", "Technical reporting", "GIS basics"],
+    "advanced": ["Environmental data modeling", "Trend forecasting"],
+    "professional": ["Monitoring coordination", "Regulatory reporting"]
+  },
+  "related_skills": ["Environmental Monitoring", "Data Collection", "Compliance Inspection", "Field Analysis", "Environmental Quality", "Sustainability Reporting"]
+},
+{
+  "name": "Renewable Energy Agriculture Analyst",
+  "overview": "Renewable Energy Agriculture Analysts evaluate renewable energy solutions such as biogas and solar integration within agricultural systems to enhance energy efficiency and sustainability.",
+  "advantages": [
+    "Innovation-driven role",
+    "Supports green energy",
+    "Future-focused career"
+  ],
+  "disadvantages": [
+    "Technical complexity",
+    "Rapid technology changes"
+  ],
+  "demand": "Rapidly increasing due to clean energy initiatives.",
+  "required_skills": {
+    "basic": ["Renewable energy basics", "Agricultural systems", "Energy concepts", "Environmental science", "Data analysis"],
+    "intermediate": ["Energy assessment", "System feasibility analysis", "Project evaluation", "Cost-benefit analysis", "Sustainability metrics"],
+    "advanced": ["Energy integration modeling", "Optimization strategies"],
+    "professional": ["Energy advisory", "Sustainability leadership"]
+  },
+  "related_skills": ["Renewable Energy", "Sustainable Agriculture", "Energy Analysis", "Green Technology", "Environmental Innovation", "System Optimization"]
+},
+{
+  "name": "Agricultural Extension Program Coordinator",
+  "overview": "Agricultural Extension Program Coordinators design and manage outreach programs that transfer scientific knowledge to farmers, improving productivity and sustainable practices.",
+  "advantages": [
+    "Strong social impact",
+    "Leadership opportunity",
+    "Government and NGO roles"
+  ],
+  "disadvantages": [
+    "Extensive coordination",
+    "Travel requirements"
+  ],
+  "demand": "Consistent demand in rural development.",
+  "required_skills": {
+    "basic": ["Agriculture fundamentals", "Communication skills", "Training methods", "Community engagement", "Program awareness"],
+    "intermediate": ["Program planning", "Monitoring & evaluation", "Stakeholder coordination", "Reporting systems", "Capacity building"],
+    "advanced": ["Extension strategy design", "Impact measurement"],
+    "professional": ["Program leadership", "Policy coordination"]
+  },
+  "related_skills": ["Agricultural Extension", "Community Development", "Training Management", "Program Coordination", "Rural Development", "Knowledge Transfer"]
+},
+{
+  "name": "Soil Conservation Specialist",
+  "overview": "Soil Conservation Specialists work to prevent soil erosion, improve soil fertility, and promote sustainable land management practices to ensure long-term agricultural productivity and environmental protection.",
+  "advantages": [
+    "Critical role in sustainability",
+    "High environmental impact"
+  ],
+  "disadvantages": [
+    "Field-intensive work",
+    "Long-term result visibility"
+  ],
+  "demand": "High due to land degradation concerns.",
+  "required_skills": {
+    "basic": ["Soil science", "Land use basics", "Environmental awareness", "Data collection", "Field assessment"],
+    "intermediate": ["Erosion control methods", "Soil fertility management", "Land restoration", "Mapping techniques", "Monitoring programs"],
+    "advanced": ["Soil system modeling"],
+    "professional": ["Conservation planning"]
+  },
+  "related_skills": ["Soil Conservation", "Land Management", "Environmental Protection", "Sustainability", "Agronomy", "Field Research"]
+},
+{
+  "name": "Climate Change Adaptation Analyst",
+  "overview": "Climate Change Adaptation Analysts assess climate risks and design adaptation strategies for agricultural and environmental systems to enhance resilience against climate variability.",
+  "advantages": [
+    "Future-oriented role",
+    "High policy relevance"
+  ],
+  "disadvantages": [
+    "Complex data analysis",
+    "Policy-driven timelines"
+  ],
+  "demand": "Very high due to climate resilience planning.",
+  "required_skills": {
+    "basic": ["Climate science basics", "Environmental systems", "Data interpretation", "Risk awareness", "Research skills"],
+    "intermediate": ["Climate modeling", "Adaptation planning", "Impact assessment", "Scenario analysis", "Reporting methods"],
+    "advanced": ["Resilience modeling"],
+    "professional": ["Climate advisory"]
+  },
+  "related_skills": ["Climate Change", "Risk Assessment", "Environmental Modeling", "Sustainability Planning", "Policy Analysis", "Data Science"]
+},
+{
+  "name": "Agricultural Data Analyst",
+  "overview": "Agricultural Data Analysts collect, analyze, and interpret agricultural data to improve productivity, resource efficiency, and decision-making across farming systems.",
+  "advantages": [
+    "Technology-driven role",
+    "High analytical demand"
+  ],
+  "disadvantages": [
+    "Data-heavy workload",
+    "Requires technical skills"
+  ],
+  "demand": "Rapidly increasing with digital agriculture.",
+  "required_skills": {
+    "basic": ["Data analysis basics", "Statistics", "Agricultural systems", "Spreadsheet tools", "Reporting skills"],
+    "intermediate": ["Data visualization", "Predictive analysis", "Database handling", "Trend analysis", "Field data integration"],
+    "advanced": ["Advanced analytics"],
+    "professional": ["Data-driven strategy"]
+  },
+  "related_skills": ["Data Analysis", "Agri-Tech", "Statistics", "Digital Agriculture", "Decision Support", "Analytics Tools"]
+},
+{
+  "name": "Pesticide Safety Officer",
+  "overview": "Pesticide Safety Officers ensure the safe use, storage, and regulation of pesticides to protect human health, crops, and the environment.",
+  "advantages": [
+    "Regulatory importance",
+    "Health and safety impact"
+  ],
+  "disadvantages": [
+    "Strict compliance responsibility",
+    "Field inspections required"
+  ],
+  "demand": "High due to safety regulations.",
+  "required_skills": {
+    "basic": ["Chemical safety", "Agricultural practices", "Regulation basics", "Health awareness", "Inspection methods"],
+    "intermediate": ["Risk assessment", "Safety audits", "Compliance reporting", "Hazard management", "Training programs"],
+    "advanced": ["Chemical risk modeling"],
+    "professional": ["Regulatory advisory"]
+  },
+  "related_skills": ["Pesticide Management", "Safety Compliance", "Environmental Health", "Risk Control", "Regulatory Inspection", "Chemical Safety"]
+},
+{
+  "name": "Agricultural Supply Chain Analyst",
+  "overview": "Agricultural Supply Chain Analysts optimize the flow of agricultural products from farm to market by analyzing logistics, storage, and distribution systems.",
+  "advantages": [
+    "Business-oriented role",
+    "High efficiency impact"
+  ],
+  "disadvantages": [
+    "Market volatility",
+    "Operational complexity"
+  ],
+  "demand": "High due to food system optimization needs.",
+  "required_skills": {
+    "basic": ["Supply chain basics", "Agriculture markets", "Logistics awareness", "Data handling", "Communication skills"],
+    "intermediate": ["Inventory management", "Process optimization", "Demand forecasting", "Cost analysis", "Vendor coordination"],
+    "advanced": ["Supply chain modeling"],
+    "professional": ["Operations strategy"]
+  },
+  "related_skills": ["Supply Chain Management", "Agri-Business", "Logistics Planning", "Market Analysis", "Operations Research", "Process Optimization"]
+},
+{
+  "name": "Environmental Education Program Manager",
+  "overview": "Environmental Education Program Managers develop and oversee educational programs that promote environmental awareness and sustainable practices among communities and institutions.",
+  "advantages": [
+    "Strong educational impact",
+    "Leadership opportunity"
+  ],
+  "disadvantages": [
+    "Program funding dependency",
+    "Administrative workload"
+  ],
+  "demand": "Growing due to sustainability education needs.",
+  "required_skills": {
+    "basic": ["Environmental knowledge", "Teaching fundamentals", "Communication skills", "Curriculum basics", "Public engagement"],
+    "intermediate": ["Program development", "Training design", "Evaluation methods", "Stakeholder coordination", "Content creation"],
+    "advanced": ["Education strategy design"],
+    "professional": ["Program leadership"]
+  },
+  "related_skills": ["Environmental Education", "Curriculum Development", "Public Outreach", "Sustainability Awareness", "Program Management", "Community Engagement"]
+},
+{
+  "name": "Rural Development Planner",
+  "overview": "Rural Development Planners design policies and projects aimed at improving agricultural productivity, infrastructure, and quality of life in rural communities.",
+  "advantages": [
+    "Policy-level impact",
+    "Community development focus"
+  ],
+  "disadvantages": [
+    "Long project timelines",
+    "Coordination challenges"
+  ],
+  "demand": "High due to rural development initiatives.",
+  "required_skills": {
+    "basic": ["Rural studies", "Agriculture basics", "Planning principles", "Community analysis", "Research methods"],
+    "intermediate": ["Project planning", "Policy evaluation", "Impact assessment", "Stakeholder engagement", "Resource allocation"],
+    "advanced": ["Development modeling"],
+    "professional": ["Policy leadership"]
+  },
+  "related_skills": ["Rural Development", "Policy Planning", "Community Analysis", "Sustainable Development", "Project Management", "Social Impact"]
+},
+{
+  "name": "Agri-Environmental Policy Advisor",
+  "overview": "Agri-Environmental Policy Advisors provide expert guidance on policies related to agriculture, environmental protection, and sustainable resource management.",
+  "advantages": [
+    "Policy influence",
+    "Strategic role"
+  ],
+  "disadvantages": [
+    "High responsibility",
+    "Political sensitivity"
+  ],
+  "demand": "Very high due to sustainability regulations.",
+  "required_skills": {
+    "basic": ["Policy basics", "Environmental law awareness", "Agricultural systems", "Research skills", "Documentation"],
+    "intermediate": ["Policy analysis", "Regulatory compliance", "Impact forecasting", "Stakeholder consultation", "Brief preparation"],
+    "advanced": ["Policy modeling"],
+    "professional": ["Strategic advisory"]
+  },
+  "related_skills": ["Policy Advisory", "Environmental Regulation", "Agricultural Policy", "Sustainability Governance", "Legislative Analysis", "Strategic Planning"]
+},
+{
+  "name": "Water Resource Conservationist",
+  "overview": "Water Resource Conservationists manage and protect water resources used in agriculture by implementing conservation strategies and monitoring sustainable usage.",
+  "advantages": [
+    "Essential environmental role",
+    "High sustainability relevance"
+  ],
+  "disadvantages": [
+    "Field monitoring required",
+    "Seasonal workload"
+  ],
+  "demand": "Very high due to water scarcity concerns.",
+  "required_skills": {
+    "basic": ["Water science", "Hydrology basics", "Environmental monitoring", "Field data collection", "Resource awareness"],
+    "intermediate": ["Water conservation planning", "Irrigation assessment", "Usage monitoring", "Data analysis", "Compliance checks"],
+    "advanced": ["Water optimization modeling"],
+    "professional": ["Resource management leadership"]
+  },
+  "related_skills": ["Water Conservation", "Hydrology", "Environmental Monitoring", "Sustainable Water Use", "Resource Management", "Irrigation Systems"]
+},
+{
+  "name": "Agricultural Innovation Consultant",
+  "overview": "Agricultural Innovation Consultants advise organizations and farmers on adopting modern technologies and innovative practices to improve productivity and sustainability.",
+  "advantages": [
+    "High innovation exposure",
+    "Consulting flexibility"
+  ],
+  "disadvantages": [
+    "Client-driven pressure",
+    "Rapid technology changes"
+  ],
+  "demand": "Rapidly increasing due to agri-tech growth.",
+  "required_skills": {
+    "basic": ["Agricultural systems", "Technology awareness", "Problem-solving", "Research skills", "Communication skills"],
+    "intermediate": ["Innovation assessment", "Technology implementation", "Change management", "Training delivery", "Project coordination"],
+    "advanced": ["Innovation strategy design"],
+    "professional": ["Consulting leadership"]
+  },
+  "related_skills": ["Agri-Tech Innovation", "Technology Consulting", "Digital Farming", "Change Management", "Strategic Advisory", "Sustainable Agriculture"]
+},
+{
+  "name": "Agri-Entrepreneur",
+  "overview": "Agri-Entrepreneurs establish and manage agriculture-based businesses such as organic farms, food processing units, seed production enterprises, or agri-service startups, contributing to rural employment and economic growth.",
+  "advantages": [
+    "Self-employment opportunity",
+    "High income potential",
+    "Government startup support schemes"
+  ],
+  "disadvantages": [
+    "Initial investment risk",
+    "Market fluctuations"
+  ],
+  "demand": "Very high due to startup culture and agri-business expansion in India.",
+  "required_skills": {
+    "basic": ["Agriculture fundamentals", "Business basics", "Crop knowledge", "Market awareness", "Financial literacy"],
+    "intermediate": ["Business planning", "Supply chain management", "Marketing strategies", "Cost management", "Vendor coordination"],
+    "advanced": ["Business scaling"],
+    "professional": ["Enterprise leadership"]
+  },
+  "related_skills": ["Agri-Business", "Entrepreneurship", "Farm Management", "Marketing", "Financial Planning", "Rural Development"]
+},
+{
+  "name": "Organic Farming Consultant",
+  "overview": "Organic Farming Consultants guide farmers and agribusinesses in adopting certified organic practices to improve soil health, crop quality, and market value while complying with organic standards.",
+  "advantages": [
+    "High demand for organic produce",
+    "Environmental sustainability"
+  ],
+  "disadvantages": [
+    "Certification complexity",
+    "Long conversion period"
+  ],
+  "demand": "Very high due to organic food demand in India.",
+  "required_skills": {
+    "basic": ["Organic farming principles", "Soil health", "Crop rotation", "Natural fertilizers", "Farm assessment"],
+    "intermediate": ["Organic certification", "Pest management", "Farm audits", "Farmer training", "Yield optimization"],
+    "advanced": ["Organic system planning"],
+    "professional": ["Sustainability consulting"]
+  },
+  "related_skills": ["Organic Agriculture", "Soil Health", "Sustainable Farming", "Certification Standards", "Farmer Advisory", "Eco-friendly Practices"]
+},
+{
+  "name": "Agri-Tech Startup Founder",
+  "overview": "Agri-Tech Startup Founders build technology-driven solutions such as smart farming apps, precision agriculture tools, and digital marketplaces to modernize Indian agriculture.",
+  "advantages": [
+    "High innovation scope",
+    "Investor interest"
+  ],
+  "disadvantages": [
+    "Startup risk",
+    "Technology adoption challenges"
+  ],
+  "demand": "Rapidly increasing with digital agriculture adoption.",
+  "required_skills": {
+    "basic": ["Agriculture systems", "Technology awareness", "Startup basics", "Problem identification", "Market research"],
+    "intermediate": ["Product development", "Farmer engagement", "Business modeling", "Tech integration", "Pitching skills"],
+    "advanced": ["Startup scaling"],
+    "professional": ["Founder leadership"]
+  },
+  "related_skills": ["Agri-Tech", "Startup Management", "Digital Farming", "Product Innovation", "Business Strategy", "Technology Integration"]
+},
+{
+  "name": "Precision Agriculture Specialist",
+  "overview": "Precision Agriculture Specialists use GPS, sensors, drones, and data analytics to optimize crop inputs, improve yields, and reduce environmental impact in farming systems.",
+  "advantages": [
+    "High-tech agriculture role",
+    "Improved farm efficiency"
+  ],
+  "disadvantages": [
+    "Technology learning curve",
+    "Equipment dependency"
+  ],
+  "demand": "High with modernization of Indian farms.",
+  "required_skills": {
+    "basic": ["Agronomy basics", "GPS concepts", "Data awareness", "Crop monitoring", "Field assessment"],
+    "intermediate": ["Precision tools", "Yield mapping", "Sensor data analysis", "Farm optimization", "Technology training"],
+    "advanced": ["Precision system design"],
+    "professional": ["Technology advisory"]
+  },
+  "related_skills": ["Precision Farming", "Agri-Technology", "Data Analytics", "Smart Agriculture", "Remote Sensing", "Crop Optimization"]
+},
+{
+  "name": "Agri-Marketing & Export Manager",
+  "overview": "Agri-Marketing and Export Managers handle domestic and international marketing of agricultural products, ensuring quality compliance and profitable market access for Indian produce.",
+  "advantages": [
+    "Global exposure",
+    "High income potential"
+  ],
+  "disadvantages": [
+    "Market volatility",
+    "Regulatory compliance pressure"
+  ],
+  "demand": "High due to agricultural exports growth.",
+  "required_skills": {
+    "basic": ["Agriculture products knowledge", "Marketing basics", "Trade awareness", "Communication skills", "Documentation"],
+    "intermediate": ["Export regulations", "Market analysis", "Supply coordination", "Client negotiation", "Brand development"],
+    "advanced": ["Global trade strategy"],
+    "professional": ["Export leadership"]
+  },
+  "related_skills": ["Agri-Marketing", "Export Management", "International Trade", "Supply Chain", "Market Research", "Brand Strategy"]
+},
+{
+  "name": "Dairy Farm Business Manager",
+  "overview": "Dairy Farm Business Managers oversee large and medium-scale dairy operations, ensuring efficient milk production, animal health, supply chain coordination, and profitability through modern dairy management practices.",
+  "advantages": [
+    "Consistent income source",
+    "High demand in India"
+  ],
+  "disadvantages": [
+    "Daily operational responsibility",
+    "Animal health risks"
+  ],
+  "demand": "Very high due to India's growing dairy industry.",
+  "required_skills": {
+    "basic": ["Animal husbandry basics", "Milk production", "Farm hygiene", "Feed management", "Record keeping"],
+    "intermediate": ["Dairy operations", "Supply chain handling", "Cost control", "Quality management", "Staff supervision"],
+    "advanced": ["Large-scale dairy systems"],
+    "professional": ["Dairy enterprise leadership"]
+  },
+  "related_skills": ["Dairy Farming", "Livestock Management", "Supply Chain", "Quality Control", "Business Management", "Agri-Enterprise"]
+},
+{
+  "name": "Poultry Farm Entrepreneur",
+  "overview": "Poultry Farm Entrepreneurs establish and manage poultry businesses focused on egg and meat production using modern breeding, feeding, and biosecurity practices to meet growing protein demand.",
+  "advantages": [
+    "Quick return on investment",
+    "Strong market demand"
+  ],
+  "disadvantages": [
+    "Disease risk",
+    "Price fluctuations"
+  ],
+  "demand": "Extremely high due to protein consumption growth.",
+  "required_skills": {
+    "basic": ["Poultry basics", "Feed knowledge", "Farm hygiene", "Egg handling", "Disease awareness"],
+    "intermediate": ["Poultry breeding", "Biosecurity", "Production planning", "Cost analysis", "Market linkage"],
+    "advanced": ["Commercial poultry systems"],
+    "professional": ["Poultry business leadership"]
+  },
+  "related_skills": ["Poultry Farming", "Livestock Care", "Farm Operations", "Biosecurity", "Agri-Business", "Food Production"]
+},
+{
+  "name": "Fishery & Aquaculture Business Owner",
+  "overview": "Fishery and Aquaculture Business Owners manage fish farms and aquatic production systems to supply fresh and processed fish products for domestic and export markets.",
+  "advantages": [
+    "High export potential",
+    "Strong domestic demand"
+  ],
+  "disadvantages": [
+    "Water dependency",
+    "Environmental risks"
+  ],
+  "demand": "Very high due to rising seafood consumption.",
+  "required_skills": {
+    "basic": ["Aquaculture basics", "Water quality", "Fish feeding", "Pond management", "Harvesting methods"],
+    "intermediate": ["Disease control", "Production planning", "Market supply", "Cost management", "Quality assurance"],
+    "advanced": ["Commercial aquaculture systems"],
+    "professional": ["Aquaculture enterprise leadership"]
+  },
+  "related_skills": ["Aquaculture", "Fish Farming", "Water Management", "Food Processing", "Export Management", "Agri-Enterprise"]
+},
+{
+  "name": "Agricultural Equipment Rental Business Owner",
+  "overview": "Agricultural Equipment Rental Business Owners provide modern farming machinery to farmers on a rental basis, improving mechanization access for small and marginal farmers.",
+  "advantages": [
+    "Low farmer dependency risk",
+    "Government subsidy support"
+  ],
+  "disadvantages": [
+    "High equipment cost",
+    "Maintenance responsibility"
+  ],
+  "demand": "High due to mechanization needs in Indian agriculture.",
+  "required_skills": {
+    "basic": ["Machinery basics", "Farm operations", "Equipment handling", "Customer service", "Scheduling"],
+    "intermediate": ["Maintenance planning", "Business operations", "Logistics", "Pricing strategy", "Farmer coordination"],
+    "advanced": ["Fleet management systems"],
+    "professional": ["Agri-service leadership"]
+  },
+  "related_skills": ["Farm Machinery", "Rental Services", "Agri-Mechanization", "Logistics", "Business Operations", "Rural Services"]
+},
+{
+  "name": "Agri-Input Distribution Manager",
+  "overview": "Agri-Input Distribution Managers oversee the supply of seeds, fertilizers, pesticides, and farm inputs, ensuring quality products reach farmers efficiently.",
+  "advantages": [
+    "Strong dealer network",
+    "Stable income"
+  ],
+  "disadvantages": [
+    "Regulatory compliance",
+    "Seasonal demand"
+  ],
+  "demand": "Consistently high across India.",
+  "required_skills": {
+    "basic": ["Input knowledge", "Product handling", "Inventory basics", "Sales fundamentals", "Documentation"],
+    "intermediate": ["Dealer management", "Supply planning", "Market analysis", "Farmer advisory", "Distribution logistics"],
+    "advanced": ["Regional distribution systems"],
+    "professional": ["Supply chain leadership"]
+  },
+  "related_skills": ["Agri-Inputs", "Distribution Management", "Supply Chain", "Sales Strategy", "Inventory Control", "Farmer Relations"]
+},
+{
+  "name": "Climate-Smart Agriculture Advisor",
+  "overview": "Climate-Smart Agriculture Advisors help farmers adopt climate-resilient farming practices to mitigate climate change impacts and improve sustainability.",
+  "advantages": [
+    "High environmental impact",
+    "Global relevance"
+  ],
+  "disadvantages": [
+    "Policy dependency",
+    "Training challenges"
+  ],
+  "demand": "Increasing rapidly due to climate change.",
+  "required_skills": {
+    "basic": ["Climate awareness", "Crop systems", "Soil conservation", "Weather analysis", "Sustainability basics"],
+    "intermediate": ["Climate adaptation", "Risk assessment", "Farmer training", "Data interpretation", "Program planning"],
+    "advanced": ["Climate modeling"],
+    "professional": ["Policy advisory"]
+  },
+  "related_skills": ["Climate Change", "Sustainable Farming", "Risk Management", "Environmental Policy", "Farmer Training", "Agri-Advisory"]
+},
+{
+  "name": "Cold Storage & Warehousing Manager",
+  "overview": "Cold Storage and Warehousing Managers oversee temperature-controlled storage facilities to reduce post-harvest losses and maintain food quality.",
+  "advantages": [
+    "Essential agri-infrastructure role",
+    "High profitability"
+  ],
+  "disadvantages": [
+    "High energy costs",
+    "Infrastructure investment"
+  ],
+  "demand": "Very high due to post-harvest loss reduction needs.",
+  "required_skills": {
+    "basic": ["Storage basics", "Food handling", "Temperature control", "Inventory tracking", "Safety standards"],
+    "intermediate": ["Warehouse operations", "Logistics planning", "Quality assurance", "Maintenance coordination", "Cost control"],
+    "advanced": ["Cold chain optimization"],
+    "professional": ["Infrastructure leadership"]
+  },
+  "related_skills": ["Cold Chain", "Warehouse Management", "Food Preservation", "Logistics", "Quality Control", "Supply Chain"]
+},
+{
+  "name": "Agri-Finance & Loan Consultant",
+  "overview": "Agri-Finance Consultants assist farmers and agribusinesses in accessing loans, insurance, subsidies, and financial planning services.",
+  "advantages": [
+    "High financial impact",
+    "Government scheme involvement"
+  ],
+  "disadvantages": [
+    "Documentation complexity",
+    "Policy changes"
+  ],
+  "demand": "High due to financial inclusion initiatives.",
+  "required_skills": {
+    "basic": ["Finance basics", "Agri economics", "Loan products", "Documentation", "Communication skills"],
+    "intermediate": ["Credit assessment", "Scheme advisory", "Risk analysis", "Client counseling", "Financial planning"],
+    "advanced": ["Agricultural finance systems"],
+    "professional": ["Financial advisory leadership"]
+  },
+  "related_skills": ["Agri-Finance", "Loan Processing", "Risk Analysis", "Financial Planning", "Government Schemes", "Farmer Advisory"]
+},
+{
+  "name": "Rural E-Commerce Agriculture Platform Manager",
+  "overview": "Rural E-Commerce Platform Managers operate digital marketplaces connecting farmers directly to consumers and retailers, improving income and transparency.",
+  "advantages": [
+    "Digital innovation",
+    "Market expansion"
+  ],
+  "disadvantages": [
+    "Technology adoption challenges",
+    "Logistics dependency"
+  ],
+  "demand": "Rapidly increasing with rural digitalization.",
+  "required_skills": {
+    "basic": ["E-commerce basics", "Agri products knowledge", "Digital literacy", "Customer support", "Platform usage"],
+    "intermediate": ["Vendor onboarding", "Order management", "Digital marketing", "Logistics coordination", "Data analysis"],
+    "advanced": ["Platform scaling"],
+    "professional": ["Digital business leadership"]
+  },
+  "related_skills": ["Agri E-Commerce", "Digital Platforms", "Supply Chain", "Online Marketing", "Rural Development", "Technology Management"]
+},
+{
+  "name": "Sustainable Agriculture Policy Analyst",
+  "overview": "Sustainable Agriculture Policy Analysts evaluate agricultural policies and sustainability programs to improve food security, farmer welfare, and environmental conservation.",
+  "advantages": [
+    "Policy-level impact",
+    "National development role"
+  ],
+  "disadvantages": [
+    "Research-intensive",
+    "Long policy cycles"
+  ],
+  "demand": "High with sustainability-focused governance.",
+  "required_skills": {
+    "basic": ["Agriculture systems", "Policy basics", "Research methods", "Data interpretation", "Report writing"],
+    "intermediate": ["Policy analysis", "Program evaluation", "Stakeholder coordination", "Impact assessment", "Strategic planning"],
+    "advanced": ["Policy modeling"],
+    "professional": ["Policy leadership"]
+  },
+  "related_skills": ["Agriculture Policy", "Sustainability", "Research Analysis", "Public Policy", "Environmental Governance", "Strategic Planning"]
+}
+
+
+  ]
+}

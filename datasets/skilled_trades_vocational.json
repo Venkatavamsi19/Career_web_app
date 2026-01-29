@@ -1,0 +1,1247 @@
+{
+  "category": "Skilled Trades & Vocational Careers",
+  "careers": [
+    {
+      "name": "Electrician",
+      "overview": "Installs, maintains, and repairs electrical systems in homes, businesses, and industrial settings.",
+      "advantages": [
+        "High demand globally",
+        "Good earning potential",
+        "Job stability"
+      ],
+      "disadvantages": [
+        "Physical work",
+        "Exposure to electrical hazards"
+      ],
+      "demand": "Electricians are consistently in high demand in construction, maintenance, and industrial sectors.",
+      "required_skills": {
+        "basic": ["Basic electrical theory", "Hand tools use", "Safety protocols", "Problem solving", "Mathematics basics"],
+        "intermediate": ["Circuit installation", "Wiring techniques", "Electrical codes", "Troubleshooting", "Customer service"],
+        "advanced": ["Industrial electrical systems", "Automation wiring", "Energy-efficient systems", "Advanced diagnostics", "Project planning"],
+        "professional": ["Team coordination", "Site management", "Client communication", "Mentoring apprentices", "Regulatory compliance"]
+      },
+      "related_skills": ["Residential wiring", "Industrial automation", "Solar installation", "HVAC integration", "PLC basics"]
+    },
+    {
+      "name": "Plumber",
+      "overview": "Installs, repairs, and maintains water, gas, and drainage systems in residential and commercial settings.",
+      "advantages": [
+        "Steady work",
+        "Essential service",
+        "Good earnings for skilled plumbers"
+      ],
+      "disadvantages": [
+        "Physically demanding",
+        "Exposure to water and chemicals"
+      ],
+      "demand": "Plumbers are always needed in construction, maintenance, and emergency services.",
+      "required_skills": {
+        "basic": ["Pipe systems basics", "Tool handling", "Safety procedures", "Problem solving", "Reading blueprints"],
+        "intermediate": ["Drainage systems", "Pipe installation", "Welding and soldering", "Leak detection", "Customer service"],
+        "advanced": ["Gas and water compliance", "Commercial plumbing", "HVAC integration", "Project planning", "Advanced troubleshooting"],
+        "professional": ["Site management", "Team supervision", "Mentoring apprentices", "Cost estimation", "Client communication"]
+      },
+      "related_skills": ["Residential plumbing", "Industrial plumbing", "Water treatment", "Pipefitting", "Sewer systems"]
+    },
+    {
+      "name": "Carpenter",
+      "overview": "Constructs, installs, and repairs wood-based structures like furniture, frameworks, and cabinetry.",
+      "advantages": [
+        "Creative work",
+        "High demand in construction and furniture industries",
+        "Opportunities for self-employment"
+      ],
+      "disadvantages": [
+        "Physically demanding",
+        "Exposure to dust and machinery"
+      ],
+      "demand": "Carpenters are highly needed in construction, furniture making, and renovations.",
+      "required_skills": {
+        "basic": ["Wood types knowledge", "Hand tools", "Measuring and marking", "Safety basics", "Mathematics"],
+        "intermediate": ["Joinery", "Cabinet making", "Blueprint reading", "Finishing techniques", "Power tool operation"],
+        "advanced": ["Structural carpentry", "Custom furniture design", "CNC machine operation", "Project management", "Material optimization"],
+        "professional": ["Team supervision", "Client communication", "Cost estimation", "Quality assurance", "Mentoring apprentices"]
+      },
+      "related_skills": ["Woodworking", "Furniture design", "Interior construction", "CNC operation", "Carving"]
+    },
+    {
+      "name": "HVAC Technician",
+      "overview": "Installs, maintains, and repairs heating, ventilation, and air conditioning systems.",
+      "advantages": [
+        "High demand in residential and commercial sectors",
+        "Specialized technical skills",
+        "Good earning potential"
+      ],
+      "disadvantages": [
+        "Physically and mentally demanding",
+        "Exposure to chemicals and heights"
+      ],
+      "demand": "HVAC technicians are in growing demand due to climate control and energy efficiency needs.",
+      "required_skills": {
+        "basic": ["Electrical basics", "Airflow principles", "Tool handling", "Safety practices", "Problem solving"],
+        "intermediate": ["Installation", "System troubleshooting", "Refrigeration cycles", "Ductwork", "Customer service"],
+        "advanced": ["Energy-efficient systems", "Commercial HVAC", "Automation integration", "Advanced diagnostics", "Project planning"],
+        "professional": ["Team coordination", "Client communication", "Regulatory compliance", "Mentoring juniors", "Maintenance scheduling"]
+      },
+      "related_skills": ["Refrigeration", "Thermodynamics", "Air quality management", "HVAC design software", "Energy auditing"]
+    },
+    {
+      "name": "Welder",
+      "overview": "Joins metal parts using various welding techniques for construction, manufacturing, and industrial applications.",
+      "advantages": [
+        "High-demand industrial skill",
+        "Opportunities for specialization",
+        "Good pay with certification"
+      ],
+      "disadvantages": [
+        "Physically intense",
+        "Exposure to heat and fumes"
+      ],
+      "demand": "Welders are required in manufacturing, shipbuilding, automotive, and construction sectors.",
+      "required_skills": {
+        "basic": ["Safety procedures", "Metal types", "Basic welding techniques", "Measuring and marking", "Problem solving"],
+        "intermediate": ["MIG/TIG welding", "Arc welding", "Blueprint reading", "Metal fabrication", "Quality inspection"],
+        "advanced": ["Robotic welding", "Structural welding", "Pipeline welding", "Advanced metallurgy", "Project coordination"],
+        "professional": ["Team supervision", "Client communication", "Documentation", "Certification compliance", "Training apprentices"]
+      },
+      "related_skills": ["Fabrication", "Sheet metal work", "Industrial welding", "CNC plasma cutting", "Robotics"]
+    },
+    {
+      "name": "Automotive Technician",
+      "overview": "Repairs, maintains, and diagnoses mechanical and electrical issues in vehicles.",
+      "advantages": [
+        "High demand in automotive industry",
+        "Opportunities for specialization",
+        "Hands-on and varied work"
+      ],
+      "disadvantages": [
+        "Exposure to chemicals and heavy parts",
+        "Physically demanding"
+      ],
+      "demand": "Growing demand due to complex modern vehicles and EV technology.",
+      "required_skills": {
+        "basic": ["Vehicle basics", "Tool handling", "Safety procedures", "Problem solving", "Mechanical knowledge"],
+        "intermediate": ["Diagnostics", "Engine repair", "Electrical systems", "Brakes and suspension", "Customer communication"],
+        "advanced": ["EV and hybrid systems", "Advanced diagnostics", "Performance tuning", "Workshop management", "Project planning"],
+        "professional": ["Team leadership", "Client management", "Documentation", "Training juniors", "Quality assurance"]
+      },
+      "related_skills": ["Diagnostics software", "EV systems", "Automotive electronics", "Hydraulics", "Vehicle design"]
+    },
+    {
+      "name": "Chef / Culinary Specialist",
+      "overview": "Prepares meals, manages kitchens, and creates culinary experiences in restaurants, hotels, and catering.",
+      "advantages": [
+        "Creative and rewarding",
+        "Global opportunities",
+        "High earning potential with experience"
+      ],
+      "disadvantages": [
+        "Long and irregular hours",
+        "Physically demanding"
+      ],
+      "demand": "Chefs are always in demand in hospitality, luxury hotels, and catering services worldwide.",
+      "required_skills": {
+        "basic": ["Cooking basics", "Knife skills", "Food safety", "Organization", "Creativity"],
+        "intermediate": ["Cuisine specialization", "Menu planning", "Inventory management", "Teamwork", "Customer service"],
+        "advanced": ["Restaurant management", "Culinary innovation", "Budgeting", "Advanced plating", "Kitchen automation"],
+        "professional": ["Leadership", "Staff training", "Supplier management", "Event catering", "Food quality standards"]
+      },
+      "related_skills": ["Pastry", "Gastronomy", "Food science", "Nutrition", "Culinary software"]
+    },
+    {
+      "name": "Construction Equipment Operator",
+      "overview": "Operates heavy machinery like cranes, bulldozers, and excavators on construction sites.",
+      "advantages": [
+        "High demand in construction",
+        "Hands-on technical skill",
+        "Good pay with certification"
+      ],
+      "disadvantages": [
+        "Physically and mentally demanding",
+        "Safety risks on-site"
+      ],
+      "demand": "Strong demand in infrastructure, commercial, and civil projects globally.",
+      "required_skills": {
+        "basic": ["Safety practices", "Machine basics", "Measurement", "Problem solving", "Hand-eye coordination"],
+        "intermediate": ["Equipment operation", "Maintenance basics", "Load handling", "Site reading", "Communication"],
+        "advanced": ["Heavy machinery certifications", "Precision operation", "Automation integration", "Project planning", "Troubleshooting"],
+        "professional": ["Site management", "Team coordination", "Documentation", "Regulatory compliance", "Training juniors"]
+      },
+      "related_skills": ["Cranes", "Excavators", "Forklifts", "Earthmoving", "Construction software"]
+    },
+    {
+      "name": "Hairdresser / Cosmetologist",
+      "overview": "Provides beauty services including hair styling, skincare, and makeup, often running their own salon.",
+      "advantages": [
+        "Creative and social work",
+        "Entrepreneurial opportunities",
+        "High demand in urban areas"
+      ],
+      "disadvantages": [
+        "Physically demanding",
+        "Client management challenges"
+      ],
+      "demand": "Consistent demand in salons, spas, and freelance beauty services.",
+      "required_skills": {
+        "basic": ["Hair cutting basics", "Shampoo & conditioning", "Safety & hygiene", "Customer service", "Creativity"],
+        "intermediate": ["Hair coloring", "Styling techniques", "Skin & makeup basics", "Trend awareness", "Product knowledge"],
+        "advanced": ["Salon management", "Advanced cosmetology", "Marketing skills", "Event styling", "Client retention"],
+        "professional": ["Entrepreneurship", "Staff management", "Business planning", "Networking", "Workshops"]
+      },
+      "related_skills": ["Makeup artistry", "Hair extensions", "Skincare treatments", "Nail art", "Cosmetic chemistry"]
+    },
+    {
+      "name": "Aircraft Maintenance Technician",
+      "overview": "Inspects, repairs, and maintains aircraft to ensure safety and airworthiness.",
+      "advantages": [
+        "High-responsibility technical role",
+        "Good salary and global mobility",
+        "Critical to aviation safety"
+      ],
+      "disadvantages": [
+        "Strict certification requirements",
+        "Physically demanding and precise work"
+      ],
+      "demand": "High demand in airlines, military, and private aviation sectors.",
+      "required_skills": {
+        "basic": ["Aircraft systems basics", "Mechanical skills", "Safety protocols", "Problem solving", "Mathematics"],
+        "intermediate": ["Aircraft inspection", "Repair techniques", "Tool handling", "Documentation", "Diagnostics"],
+        "advanced": ["Avionics", "Engine repair", "Advanced diagnostics", "Regulatory compliance", "Project planning"],
+        "professional": ["Team leadership", "Client communication", "Certification maintenance", "Workshop management", "Training juniors"]
+      },
+      "related_skills": ["Jet engines", "Avionics software", "Aerodynamics", "FAA regulations", "Maintenance tools"]
+    },
+    
+    {
+      "name": "Industrial Robotics Technician",
+      "overview": "Installs, maintains, and programs industrial robots used in manufacturing and automation.",
+      "advantages": [
+        "Cutting-edge technology",
+        "High demand in automation",
+        "High earning potential"
+      ],
+      "disadvantages": [
+        "Complex troubleshooting",
+        "Requires technical certifications"
+      ],
+      "demand": "Strong demand in automotive, electronics, and industrial automation sectors.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electrical fundamentals", "Safety protocols", "Problem solving", "Tool handling"],
+        "intermediate": ["Robotic programming", "PLC basics", "Maintenance procedures", "Diagnostics", "Technical reading"],
+        "advanced": ["Industrial automation integration", "Advanced robotics troubleshooting", "Sensor calibration", "Process optimization", "IoT integration"],
+        "professional": ["Team leadership", "Project management", "Client communication", "Training junior technicians", "Documentation"]
+      },
+      "related_skills": ["PLC", "ABB Robotics", "Fanuc robots", "Automation software", "Industrial IoT"]
+    },
+    {
+      "name": "Renewable Energy Installer",
+      "overview": "Installs and maintains solar panels, wind turbines, and other renewable energy systems.",
+      "advantages": [
+        "High future demand",
+        "Sustainable career",
+        "Hands-on technical work"
+      ],
+      "disadvantages": [
+        "Physical work",
+        "Exposure to outdoor environments"
+      ],
+      "demand": "Increasing demand due to global renewable energy initiatives.",
+      "required_skills": {
+        "basic": ["Electrical basics", "Tool handling", "Safety procedures", "Mechanical knowledge", "Problem solving"],
+        "intermediate": ["Solar panel installation", "Wind turbine basics", "Energy system testing", "Wiring", "System monitoring"],
+        "advanced": ["Energy efficiency optimization", "Grid integration", "Advanced troubleshooting", "Automation integration", "Project planning"],
+        "professional": ["Team coordination", "Client communication", "Compliance standards", "Documentation", "Maintenance planning"]
+      },
+      "related_skills": ["Solar PV", "Wind energy", "Battery systems", "Smart grids", "Sustainable technologies"]
+    },
+    {
+      "name": "Marine Technician",
+      "overview": "Maintains, repairs, and operates boats, ships, and marine machinery.",
+      "advantages": [
+        "Unique specialized skill",
+        "High-paying niche",
+        "Global job opportunities"
+      ],
+      "disadvantages": [
+        "Work at sea or docks",
+        "Physically demanding"
+      ],
+      "demand": "Strong demand in shipping, ports, and marine research sectors.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electrical fundamentals", "Safety protocols", "Navigation basics", "Problem solving"],
+        "intermediate": ["Engine maintenance", "Hydraulics", "Marine electronics", "Welding and repair", "Diagnostics"],
+        "advanced": ["Ship automation", "Advanced marine systems", "Environmental compliance", "Project coordination", "Troubleshooting complex machinery"],
+        "professional": ["Team leadership", "Documentation", "Training apprentices", "Client communication", "Port coordination"]
+      },
+      "related_skills": ["Marine engines", "Hydraulics", "Navigation systems", "Maritime regulations", "Ship electronics"]
+    },
+    {
+      "name": "Aircraft Avionics Specialist",
+      "overview": "Maintains and repairs electronic systems on aircraft including navigation, communication, and control systems.",
+      "advantages": [
+        "High technical skill",
+        "High salary",
+        "Critical role in aviation"
+      ],
+      "disadvantages": [
+        "Extensive certifications",
+        "Precise and detailed work"
+      ],
+      "demand": "High demand in airlines, defense, and private aviation.",
+      "required_skills": {
+        "basic": ["Electronics basics", "Aircraft knowledge", "Safety protocols", "Problem solving", "Tool handling"],
+        "intermediate": ["Avionics systems troubleshooting", "Instrumentation calibration", "Wiring and circuitry", "Technical documentation", "Diagnostics"],
+        "advanced": ["Navigation systems", "Flight control electronics", "Software integration", "Advanced testing", "System optimization"],
+        "professional": ["Team coordination", "Compliance standards", "Project management", "Mentoring juniors", "Client communication"]
+      },
+      "related_skills": ["FAA regulations", "Flight control software", "Radar systems", "Communication systems", "Aircraft electronics"]
+    },
+    {
+      "name": "Industrial Designer",
+      "overview": "Creates designs for products, machinery, and tools that are both functional and aesthetically appealing.",
+      "advantages": [
+        "Creative and technical mix",
+        "High-paying design career",
+        "Work across industries"
+      ],
+      "disadvantages": [
+        "High competition",
+        "Client-driven deadlines"
+      ],
+      "demand": "Growing demand in consumer electronics, automotive, and industrial products.",
+      "required_skills": {
+        "basic": ["Sketching", "Basic CAD", "Materials knowledge", "Problem solving", "Creativity"],
+        "intermediate": ["3D modeling", "Prototyping", "Product functionality", "Industrial materials", "User experience"],
+        "advanced": ["Advanced CAD/CAM", "Innovation design", "Manufacturing knowledge", "Sustainable design", "Project coordination"],
+        "professional": ["Client communication", "Team leadership", "Portfolio development", "Market research", "Mentoring juniors"]
+      },
+      "related_skills": ["CAD", "3D printing", "Product lifecycle", "Ergonomics", "Industrial materials"]
+    },
+    {
+      "name": "Precision Machinist",
+      "overview": "Operates machine tools to manufacture precision metal parts for industries like aerospace and automotive.",
+      "advantages": [
+        "High demand in specialized industries",
+        "High precision skill",
+        "Good salary potential"
+      ],
+      "disadvantages": [
+        "Requires technical training",
+        "Repetitive work may be tiring"
+      ],
+      "demand": "Critical demand in aerospace, defense, and automotive manufacturing.",
+      "required_skills": {
+        "basic": ["Measurement basics", "Tool handling", "Safety procedures", "Metallurgy basics", "Problem solving"],
+        "intermediate": ["Lathe and milling operation", "Blueprint reading", "Precision measurement", "Material selection", "Setup calibration"],
+        "advanced": ["CNC programming", "Advanced metallurgy", "Tolerance optimization", "Automation integration", "Project planning"],
+        "professional": ["Team supervision", "Documentation", "Client communication", "Quality assurance", "Training juniors"]
+      },
+      "related_skills": ["CNC machines", "CAD/CAM", "Metalworking", "Precision engineering", "Quality control"]
+    },
+    {
+      "name": "Renewable Energy Engineer Technician",
+      "overview": "Supports engineers in developing and maintaining renewable energy projects like solar farms and wind parks.",
+      "advantages": [
+        "Future-focused career",
+        "Hands-on and technical",
+        "Opportunities in green tech"
+      ],
+      "disadvantages": [
+        "Outdoor work",
+        "Physical and technical demands"
+      ],
+      "demand": "Growing with renewable energy adoption worldwide.",
+      "required_skills": {
+        "basic": ["Electrical fundamentals", "Mechanical basics", "Safety protocols", "Tool handling", "Problem solving"],
+        "intermediate": ["Solar and wind systems", "Diagnostics", "System assembly", "Maintenance procedures", "Site assessment"],
+        "advanced": ["Energy optimization", "Grid integration", "Advanced troubleshooting", "Automation integration", "Project coordination"],
+        "professional": ["Team leadership", "Documentation", "Compliance standards", "Client communication", "Mentoring"]
+      },
+      "related_skills": ["Solar PV", "Wind turbines", "Battery systems", "Grid technology", "Sustainable energy"]
+    },
+    {
+      "name": "Industrial Painter / Coating Specialist",
+      "overview": "Applies protective and decorative coatings to industrial machinery, vehicles, and structures.",
+      "advantages": [
+        "Specialized technical skill",
+        "High demand in manufacturing and infrastructure",
+        "Good pay for expertise"
+      ],
+      "disadvantages": [
+        "Exposure to chemicals",
+        "Physically demanding"
+      ],
+      "demand": "Steady demand in automotive, construction, and heavy industries.",
+      "required_skills": {
+        "basic": ["Surface preparation", "Tool handling", "Safety procedures", "Basic coatings knowledge", "Problem solving"],
+        "intermediate": ["Spray painting", "Industrial coating techniques", "Color mixing", "Material properties", "Quality inspection"],
+        "advanced": ["Corrosion protection", "Advanced coating technologies", "Process optimization", "Equipment calibration", "Project planning"],
+        "professional": ["Team coordination", "Client communication", "Documentation", "Safety compliance", "Mentoring juniors"]
+      },
+      "related_skills": ["Spray guns", "Powder coating", "Industrial coatings", "Paint chemistry", "Surface treatment"]
+    },
+    {
+      "name": "Elevator / Lift Technician",
+      "overview": "Installs, maintains, and repairs elevators, escalators, and moving walkways in buildings.",
+      "advantages": [
+        "High specialization",
+        "Good pay",
+        "Stable demand in urban infrastructure"
+      ],
+      "disadvantages": [
+        "Work in confined spaces",
+        "Height-related safety risks"
+      ],
+      "demand": "Growing demand due to urbanization and skyscraper construction.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electrical fundamentals", "Safety protocols", "Problem solving", "Tool handling"],
+        "intermediate": ["Elevator installation", "Control systems", "Troubleshooting", "Maintenance", "Wiring techniques"],
+        "advanced": ["Automation integration", "Advanced diagnostics", "Regulatory compliance", "Project planning", "Optimization"],
+        "professional": ["Team supervision", "Client communication", "Documentation", "Training juniors", "Maintenance scheduling"]
+      },
+      "related_skills": ["Hydraulic systems", "Lift controllers", "Safety systems", "Automation", "Urban infrastructure"]
+    },
+    {
+      "name": "3D Printing Technician",
+      "overview": "Operates and maintains 3D printers for prototyping and manufacturing products across industries.",
+      "advantages": [
+        "Innovative technology",
+        "High growth field",
+        "Hands-on technical work"
+      ],
+      "disadvantages": [
+        "Precision work required",
+        "Technology evolves rapidly"
+      ],
+      "demand": "High demand in manufacturing, prototyping, and medical industries.",
+      "required_skills": {
+        "basic": ["CAD basics", "3D printing fundamentals", "Tool handling", "Safety protocols", "Problem solving"],
+        "intermediate": ["Printer operation", "Material handling", "Post-processing", "Quality inspection", "File preparation"],
+        "advanced": ["Advanced materials", "Printer calibration", "Automation integration", "Prototyping design", "Process optimization"],
+        "professional": ["Team coordination", "Client communication", "Documentation", "Research & development support", "Mentoring"]
+      },
+      "related_skills": ["CAD/CAM", "FDM/Resin printing", "Material science", "Rapid prototyping", "Industrial design"]
+    },
+    
+    {
+      "name": "Drone Technician",
+      "overview": "Builds, maintains, and repairs commercial and industrial drones for delivery, surveillance, and mapping.",
+      "advantages": ["High-tech work", "Emerging field", "Global demand"],
+      "disadvantages": ["Regulatory restrictions", "Precision required"],
+      "demand": "Increasing with commercial drone adoption in logistics, agriculture, and inspection.",
+      "required_skills": {
+        "basic": ["Electronics fundamentals", "Mechanical basics", "Tool handling", "Problem solving", "Safety protocols"],
+        "intermediate": ["Drone assembly", "Flight systems", "Battery management", "Basic programming", "Calibration"],
+        "advanced": ["Autonomous flight systems", "Sensor integration", "Repair & troubleshooting", "Optimization", "Regulatory compliance"],
+        "professional": ["Team coordination", "Project management", "Documentation", "Client communication", "Training juniors"]
+      },
+      "related_skills": ["FPV drones", "LiDAR sensors", "Drone mapping", "Arduino/Raspberry Pi", "Flight control software"]
+    },
+    {
+      "name": "Autonomous Vehicle Technician",
+      "overview": "Maintains and calibrates sensors, AI systems, and hardware in self-driving vehicles.",
+      "advantages": ["Cutting-edge field", "High salary potential", "Hands-on innovation"],
+      "disadvantages": ["Rapidly evolving technology", "High responsibility"],
+      "demand": "Growing demand in automotive, logistics, and mobility startups.",
+      "required_skills": {
+        "basic": ["Automotive basics", "Electrical fundamentals", "Tool handling", "Problem solving", "Safety protocols"],
+        "intermediate": ["Sensor calibration", "Vehicle diagnostics", "Software updates", "Networking", "Control systems"],
+        "advanced": ["AI system troubleshooting", "Lidar/radar integration", "Automated navigation", "Performance optimization", "Advanced diagnostics"],
+        "professional": ["Team coordination", "Client communication", "Project planning", "Documentation", "Training"]
+      },
+      "related_skills": ["Lidar", "Radar", "ROS", "ADAS systems", "Automotive software"]
+    },
+    {
+      "name": "Smart Building Technician",
+      "overview": "Installs and maintains automation, IoT, and security systems in modern smart buildings.",
+      "advantages": ["Future-proof career", "High demand", "Mix of tech & trades"],
+      "disadvantages": ["Constant tech updates", "Requires cross-disciplinary skills"],
+      "demand": "Growing in commercial, residential, and industrial smart infrastructure.",
+      "required_skills": {
+        "basic": ["Electrical basics", "Networking fundamentals", "Tool handling", "Problem solving", "Safety protocols"],
+        "intermediate": ["IoT device installation", "Automation systems", "Access control systems", "Monitoring", "Troubleshooting"],
+        "advanced": ["Integration of AI systems", "Smart HVAC/lighting", "Security optimization", "System automation", "Advanced diagnostics"],
+        "professional": ["Project management", "Client communication", "Documentation", "Team leadership", "Compliance management"]
+      },
+      "related_skills": ["IoT", "Building management software", "Security systems", "Automation protocols", "Cloud integration"]
+    },
+    {
+      "name": "Renewable Energy Drone Inspector",
+      "overview": "Uses drones to inspect solar panels, wind turbines, and other renewable infrastructure for maintenance and optimization.",
+      "advantages": ["High-tech niche", "Futuristic work", "Hands-on drone and energy expertise"],
+      "disadvantages": ["Weather-dependent work", "Regulatory compliance needed"],
+      "demand": "High demand in renewable energy sector for efficiency and safety monitoring.",
+      "required_skills": {
+        "basic": ["Drone basics", "Renewable energy fundamentals", "Tool handling", "Problem solving", "Safety protocols"],
+        "intermediate": ["Drone flight control", "Inspection techniques", "Data collection", "Maintenance reporting", "Mapping software"],
+        "advanced": ["Data analysis for efficiency", "Autonomous flight paths", "Advanced drone troubleshooting", "Integration with energy monitoring", "Optimization"],
+        "professional": ["Project coordination", "Client reporting", "Documentation", "Team management", "Safety compliance"]
+      },
+      "related_skills": ["FPV drones", "Wind/Solar systems", "Mapping software", "Image processing", "Automation"]
+    },
+    {
+      "name": "Space Systems Technician",
+      "overview": "Supports the assembly, testing, and maintenance of satellites, spacecraft, and space exploration equipment.",
+      "advantages": ["Futuristic career", "Rare skills", "High global prestige"],
+      "disadvantages": ["Highly specialized", "Limited positions"],
+      "demand": "Emerging demand in private space companies and government space agencies.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electronics fundamentals", "Safety protocols", "Tool handling", "Problem solving"],
+        "intermediate": ["Satellite assembly", "Testing protocols", "Instrumentation", "Data analysis", "Technical documentation"],
+        "advanced": ["Space systems integration", "Telemetry & communication systems", "Advanced diagnostics", "Environmental testing", "Project optimization"],
+        "professional": ["Collaboration with engineers", "Compliance with space regulations", "Documentation", "Client communication", "Team leadership"]
+      },
+      "related_skills": ["Satellite tech", "Telemetry systems", "Space-grade electronics", "Testing protocols", "Mission planning"]
+    },
+    {
+      "name": "Advanced Welding Specialist",
+      "overview": "Performs precision welding for aerospace, automotive, and industrial machinery using cutting-edge techniques.",
+      "advantages": ["High demand", "Specialized skill", "High salary potential"],
+      "disadvantages": ["Physically demanding", "Precision-critical"],
+      "demand": "Strong demand in aerospace, defense, and automotive manufacturing.",
+      "required_skills": {
+        "basic": ["Metal fundamentals", "Tool handling", "Safety protocols", "Blueprint reading", "Problem solving"],
+        "intermediate": ["TIG/MIG welding", "Precision welding", "Material preparation", "Welding inspection", "Advanced techniques"],
+        "advanced": ["Robotic welding systems", "Automation integration", "High-precision fabrication", "Advanced metallurgy", "Process optimization"],
+        "professional": ["Team leadership", "Client communication", "Documentation", "Project planning", "Mentoring juniors"]
+      },
+      "related_skills": ["TIG welding", "CNC welding", "Metal fabrication", "Aerospace welding", "Industrial robotics"]
+    },
+    {
+      "name": "Autonomous Maritime Technician",
+      "overview": "Maintains autonomous ships, boats, and underwater drones for research and transport.",
+      "advantages": ["Cutting-edge maritime tech", "Global demand in research", "High-paying niche"],
+      "disadvantages": ["Work at sea", "Requires specialized skills"],
+      "demand": "Emerging demand in maritime automation and research industries.",
+      "required_skills": {
+        "basic": ["Marine basics", "Electronics fundamentals", "Tool handling", "Safety protocols", "Problem solving"],
+        "intermediate": ["Autonomous navigation systems", "Maintenance of marine robots", "Diagnostics", "Communication systems", "Battery & power management"],
+        "advanced": ["AI integration for autonomous vessels", "Sensor calibration", "System optimization", "Advanced troubleshooting", "Software updates"],
+        "professional": ["Team coordination", "Project management", "Client communication", "Documentation", "Mentoring"]
+      },
+      "related_skills": ["Marine robotics", "Autonomous systems", "Navigation software", "AI sensors", "Maritime electronics"]
+    },
+    {
+      "name": "Wearable Tech Technician",
+      "overview": "Installs, maintains, and repairs wearable health, fitness, and smart devices.",
+      "advantages": ["Tech-driven niche", "Consumer-focused", "Growing industry"],
+      "disadvantages": ["Small-scale electronics work", "Fast product cycles"],
+      "demand": "Growing with wearable devices adoption globally.",
+      "required_skills": {
+        "basic": ["Electronics basics", "Tool handling", "Problem solving", "Safety protocols", "Basic programming"],
+        "intermediate": ["Device calibration", "Sensor troubleshooting", "Software updates", "Battery management", "Connectivity testing"],
+        "advanced": ["Integration with IoT platforms", "Advanced diagnostics", "Firmware upgrades", "Data analytics integration", "Optimization"],
+        "professional": ["Client support", "Documentation", "Team coordination", "Project planning", "Training juniors"]
+      },
+      "related_skills": ["IoT", "Bluetooth", "Sensors", "Wearable health tech", "Firmware"]
+    },
+    {
+      "name": "Industrial AI Maintenance Technician",
+      "overview": "Maintains AI-powered industrial machinery and smart factory systems.",
+      "advantages": ["High-tech industry", "Hands-on AI + mechanical work", "High demand in automation"],
+      "disadvantages": ["Requires dual knowledge of AI & mechanics", "High responsibility"],
+      "demand": "Growing demand in smart manufacturing and Industry 4.0 facilities.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electrical fundamentals", "Tool handling", "Problem solving", "Safety protocols"],
+        "intermediate": ["Industrial AI systems", "Sensor troubleshooting", "Data monitoring", "Predictive maintenance", "Diagnostics"],
+        "advanced": ["AI system optimization", "IoT integration", "Advanced troubleshooting", "Automation tuning", "Process improvement"],
+        "professional": ["Team leadership", "Documentation", "Project coordination", "Client communication", "Mentoring juniors"]
+      },
+      "related_skills": ["AI sensors", "Predictive maintenance", "Industrial IoT", "Automation software", "Smart manufacturing"]
+    },
+    {
+      "name": "Exoskeleton Technician",
+      "overview": "Builds, maintains, and repairs wearable exoskeleton suits for industrial and medical applications.",
+      "advantages": ["Futuristic tech", "High-paying niche", "Cutting-edge robotics"],
+      "disadvantages": ["Limited industry adoption", "Specialized skill required"],
+      "demand": "Emerging in industrial labor support, medical rehab, and defense sectors.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electronics fundamentals", "Tool handling", "Safety protocols", "Problem solving"],
+        "intermediate": ["Exoskeleton assembly", "Sensor integration", "Battery and actuator troubleshooting", "Calibration", "Diagnostics"],
+        "advanced": ["Biomechanical optimization", "Software integration", "Advanced robotics maintenance", "Automation", "Process optimization"],
+        "professional": ["Team leadership", "Documentation", "Training", "Client communication", "Project planning"]
+      },
+      "related_skills": ["Robotics", "Actuators", "Sensors", "Biomechanics", "Wearable robotics"]
+    },
+    {
+      "name": "Autonomous Farming Technician",
+      "overview": "Maintains and programs autonomous farming machinery and precision agriculture robots.",
+      "advantages": ["High-tech agriculture", "Hands-on robotics", "Growing demand"],
+      "disadvantages": ["Outdoor work", "Seasonal constraints"],
+      "demand": "Increasing with smart agriculture adoption worldwide.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electronics fundamentals", "Tool handling", "Safety protocols", "Problem solving"],
+        "intermediate": ["Agricultural machinery operation", "Automation software", "Sensor monitoring", "Diagnostics", "Battery management"],
+        "advanced": ["AI-based crop analysis", "Precision robotics integration", "System optimization", "Software updates", "Data-driven maintenance"],
+        "professional": ["Team coordination", "Project management", "Documentation", "Client communication", "Training juniors"]
+      },
+      "related_skills": ["Agritech", "Robotics", "IoT", "Precision farming", "Automation software"]
+    },
+    {
+      "name": "Smart Manufacturing Technician",
+      "overview": "Maintains and programs automated and AI-powered manufacturing equipment.",
+      "advantages": ["Hands-on AI + mechanical work", "High-tech environment", "High-paying niche"],
+      "disadvantages": ["Requires dual skillset", "Fast-evolving technologies"],
+      "demand": "Strong demand in Industry 4.0 manufacturing plants.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electrical fundamentals", "Tool handling", "Problem solving", "Safety protocols"],
+        "intermediate": ["PLC programming", "Automation troubleshooting", "Sensor integration", "Diagnostics", "Data monitoring"],
+        "advanced": ["AI system integration", "Robotics coordination", "Predictive maintenance", "Optimization", "Automation tuning"],
+        "professional": ["Team leadership", "Documentation", "Client communication", "Project coordination", "Training juniors"]
+      },
+      "related_skills": ["Industrial IoT", "PLC", "Robotics", "Predictive maintenance", "Automation software"]
+    },
+    {
+      "name": "3D Bioprinting Technician",
+      "overview": "Operates and maintains 3D bioprinters for tissue and organ fabrication research.",
+      "advantages": ["Futuristic bio-tech career", "High innovation potential", "Specialized skill"],
+      "disadvantages": ["Limited job openings", "Requires precision and biotech knowledge"],
+      "demand": "Emerging demand in biomedical research and regenerative medicine.",
+      "required_skills": {
+        "basic": ["Biology basics", "3D printing fundamentals", "Tool handling", "Safety protocols", "Problem solving"],
+        "intermediate": ["Printer operation", "Tissue handling", "Sterile techniques", "Material preparation", "Post-processing"],
+        "advanced": ["Bioprint optimization", "3D tissue design", "Advanced biochemistry integration", "Data recording", "Process monitoring"],
+        "professional": ["Team coordination", "Documentation", "Client communication", "Research collaboration", "Mentoring"]
+      },
+      "related_skills": ["3D bioprinting", "Tissue engineering", "Sterile lab techniques", "Biofabrication", "Medical research"]
+    },
+    {
+      "name": "Smart Wearable Health Tech Installer",
+      "overview": "Installs wearable health monitoring devices in clinics, hospitals, and sports centers.",
+      "advantages": ["Emerging tech", "Hands-on installation", "Health-focused career"],
+      "disadvantages": ["Small-scale hardware work", "Fast product evolution"],
+      "demand": "Growing demand with smart health devices adoption globally.",
+      "required_skills": {
+        "basic": ["Electronics basics", "Tool handling", "Problem solving", "Safety protocols", "Communication basics"],
+        "intermediate": ["Device installation", "Calibration", "Connectivity setup", "Battery management", "User training"],
+        "advanced": ["Integration with health platforms", "Advanced troubleshooting", "Optimization", "System updates", "Automation integration"],
+        "professional": ["Team coordination", "Client communication", "Documentation", "Training staff", "Project management"]
+      },
+      "related_skills": ["Wearable tech", "IoT health devices", "Bluetooth", "Sensors", "Health analytics"]
+    },
+    {
+      "name": "Advanced Prosthetics Technician",
+      "overview": "Designs, assembles, and maintains advanced prosthetic devices and bionic limbs.",
+      "advantages": ["Specialized healthcare tech", "High impact work", "High pay potential"],
+      "disadvantages": ["Extremely precise work", "Requires medical collaboration"],
+      "demand": "Growing demand in medical device and rehabilitation sectors.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electronics fundamentals", "Tool handling", "Problem solving", "Safety protocols"],
+        "intermediate": ["Prosthetic assembly", "Material selection", "Calibration", "Testing", "Client fitting"],
+        "advanced": ["Bionic integration", "Sensor calibration", "Advanced biomechanics", "Software integration", "Customization"],
+        "professional": ["Patient communication", "Documentation", "Team coordination", "Project planning", "Mentoring"]
+      },
+      "related_skills": ["Bionics", "Prosthetics", "Sensors", "Rehabilitation tech", "Mechanical design"]
+    },
+    {
+      "name": "Autonomous Delivery Technician",
+      "overview": "Maintains and monitors autonomous delivery robots for warehouses, retail, and logistics.",
+      "advantages": ["High-tech robotics career", "Hands-on automation", "Emerging demand"],
+      "disadvantages": ["Small but precise work", "Technology evolves rapidly"],
+      "demand": "Growing in e-commerce and urban delivery sectors.",
+      "required_skills": {
+        "basic": ["Robotics basics", "Electronics fundamentals", "Tool handling", "Problem solving", "Safety protocols"],
+        "intermediate": ["Robot maintenance", "Navigation troubleshooting", "Battery management", "Data collection", "Diagnostics"],
+        "advanced": ["AI system calibration", "Sensor integration", "Autonomous navigation optimization", "Automation tuning", "Predictive maintenance"],
+        "professional": ["Team coordination", "Client communication", "Documentation", "Project management", "Training juniors"]
+      },
+      "related_skills": ["Autonomous robots", "AI navigation", "Sensors", "Battery tech", "Automation software"]
+    },
+    {
+      "name": "Industrial Automation Installer",
+      "overview": "Installs automated systems and machinery in factories for optimized production.",
+      "advantages": ["Hands-on high-tech career", "High demand", "Automation-focused"],
+      "disadvantages": ["Technical installation challenges", "Physical work involved"],
+      "demand": "Growing with smart factory adoption worldwide.",
+      "required_skills": {
+        "basic": ["Electrical fundamentals", "Mechanical basics", "Tool handling", "Problem solving", "Safety protocols"],
+        "intermediate": ["PLC setup", "Motor control", "Sensor calibration", "Automation software", "System testing"],
+        "advanced": ["AI integration", "Process optimization", "Advanced diagnostics", "Networked systems", "Industrial IoT"],
+        "professional": ["Team coordination", "Client communication", "Documentation", "Project planning", "Compliance management"]
+      },
+      "related_skills": ["PLC", "Robotics", "Automation software", "Sensors", "Industrial IoT"]
+    },
+    
+    {
+      "name": "Global Aviation Maintenance Engineer",
+      "overview": "Oversees maintenance, repair, and inspection of commercial aircraft worldwide to ensure safety and compliance.",
+      "advantages": ["High respect internationally", "High salary", "Travel opportunities"],
+      "disadvantages": ["Irregular hours", "High responsibility for safety"],
+      "demand": "Strong demand in global airlines, private aviation, and defense sectors.",
+      "required_skills": {
+        "basic": ["Aircraft systems basics", "Safety protocols", "Tool handling", "Problem solving", "Mechanical fundamentals"],
+        "intermediate": ["Aircraft diagnostics", "Engine maintenance", "Aviation electronics", "Compliance checks", "Documentation"],
+        "advanced": ["Aircraft systems integration", "Advanced troubleshooting", "Global aviation standards", "Automation in maintenance", "Optimization"],
+        "professional": ["Team leadership", "International regulations knowledge", "Client communication", "Project planning", "Mentoring juniors"]
+      },
+      "related_skills": ["FAA regulations", "EASA standards", "Aviation electronics", "Jet engines", "Flight systems"]
+    },
+    {
+      "name": "International Marine Surveyor",
+      "overview": "Inspects ships, offshore rigs, and maritime infrastructure globally to ensure safety, compliance, and operational efficiency.",
+      "advantages": ["High respect", "Global travel", "Lucrative niche"],
+      "disadvantages": ["Physically demanding", "Extended time at sea"],
+      "demand": "Critical in shipping, logistics, and offshore industries worldwide.",
+      "required_skills": {
+        "basic": ["Marine basics", "Navigation fundamentals", "Safety protocols", "Inspection skills", "Problem solving"],
+        "intermediate": ["Structural inspection", "Mechanical assessment", "Safety compliance", "Reporting", "Documentation"],
+        "advanced": ["Advanced maritime regulations", "Risk assessment", "Operational efficiency evaluation", "Project optimization", "Technology integration"],
+        "professional": ["Client consultation", "Team leadership", "International coordination", "Project management", "Stakeholder communication"]
+      },
+      "related_skills": ["IMO regulations", "Ship engineering", "Offshore rigs", "Maritime surveying software", "Risk assessment"]
+    },
+    {
+      "name": "International Space Systems Technician",
+      "overview": "Maintains, tests, and integrates satellites, spacecraft, and space exploration hardware for global agencies and private firms.",
+      "advantages": ["Highly prestigious", "Cutting-edge technology", "Global recognition"],
+      "disadvantages": ["Highly specialized", "Limited job positions"],
+      "demand": "Growing demand with private space companies and international space missions.",
+      "required_skills": {
+        "basic": ["Mechanical fundamentals", "Electronics basics", "Safety protocols", "Tool handling", "Problem solving"],
+        "intermediate": ["Satellite assembly", "System testing", "Telemetry understanding", "Instrumentation", "Technical documentation"],
+        "advanced": ["Space systems integration", "Advanced diagnostics", "Mission planning", "Optimization", "Communication systems"],
+        "professional": ["Team leadership", "International collaboration", "Project management", "Documentation", "Client communication"]
+      },
+      "related_skills": ["Satellite tech", "Telemetry systems", "Space-grade electronics", "Mission planning software", "Orbital mechanics"]
+    },
+    {
+      "name": "Global Renewable Energy Project Manager",
+      "overview": "Leads renewable energy projects internationally, managing teams, resources, and ensuring compliance across countries.",
+      "advantages": ["High global impact", "Leadership role", "Excellent salary"],
+      "disadvantages": ["High responsibility", "Requires cross-cultural management"],
+      "demand": "Strong demand due to global renewable energy initiatives.",
+      "required_skills": {
+        "basic": ["Energy fundamentals", "Project management basics", "Communication", "Problem solving", "Team coordination"],
+        "intermediate": ["International regulations", "Resource planning", "Risk management", "Financial modeling", "Stakeholder engagement"],
+        "advanced": ["Renewable system optimization", "Cross-border project execution", "Sustainability evaluation", "Advanced planning", "Compliance management"],
+        "professional": ["Leadership", "Client management", "Global team coordination", "Reporting & documentation", "Strategic decision-making"]
+      },
+      "related_skills": ["Solar", "Wind", "Hydropower", "Global energy standards", "Project finance"]
+    },
+    {
+      "name": "International Autonomous Systems Technician",
+      "overview": "Maintains autonomous robots, drones, and vehicles for global industries, research, and defense.",
+      "advantages": ["High-tech", "Global recognition", "Hands-on innovation"],
+      "disadvantages": ["Rapidly evolving technology", "Requires continuous learning"],
+      "demand": "Emerging demand in logistics, defense, and research worldwide.",
+      "required_skills": {
+        "basic": ["Mechanical fundamentals", "Electronics basics", "Problem solving", "Tool handling", "Safety protocols"],
+        "intermediate": ["Autonomous navigation", "Sensor calibration", "Diagnostics", "Software updates", "Battery management"],
+        "advanced": ["AI integration", "System optimization", "Advanced troubleshooting", "Predictive maintenance", "Cross-platform systems"],
+        "professional": ["Team leadership", "International collaboration", "Documentation", "Project coordination", "Client communication"]
+      },
+      "related_skills": ["Autonomous vehicles", "AI sensors", "Navigation software", "Robotics", "Drone systems"]
+    },
+    {
+      "name": "International Exoskeleton Technician",
+      "overview": "Builds and maintains wearable exoskeletons for industrial, medical, and defense applications globally.",
+      "advantages": ["Futuristic career", "High-tech niche", "Global respect"],
+      "disadvantages": ["Specialized skillset", "Limited industry adoption"],
+      "demand": "Growing in medical rehabilitation, industrial labor support, and defense sectors internationally.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electronics fundamentals", "Safety protocols", "Tool handling", "Problem solving"],
+        "intermediate": ["Exoskeleton assembly", "Sensor integration", "Battery troubleshooting", "Calibration", "Diagnostics"],
+        "advanced": ["Biomechanics optimization", "Software integration", "Advanced robotics", "Process improvement", "System testing"],
+        "professional": ["Team leadership", "Client communication", "Documentation", "Project planning", "Training juniors"]
+      },
+      "related_skills": ["Robotics", "Actuators", "Sensors", "Biomechanics", "Wearable robotics"]
+    },
+    {
+      "name": "Global Smart Manufacturing Engineer",
+      "overview": "Designs, installs, and maintains AI-powered manufacturing systems and automation in international factories.",
+      "advantages": ["High-tech", "Global career opportunities", "Industry 4.0 specialization"],
+      "disadvantages": ["Requires dual knowledge of AI + mechanics", "High responsibility"],
+      "demand": "Strong demand in multinational smart factories and Industry 4.0 plants.",
+      "required_skills": {
+        "basic": ["Mechanical fundamentals", "Electrical basics", "Problem solving", "Safety protocols", "Tool handling"],
+        "intermediate": ["PLC programming", "Automation setup", "Sensor integration", "Diagnostics", "System testing"],
+        "advanced": ["AI system optimization", "Robotics coordination", "Predictive maintenance", "Process optimization", "Automation tuning"],
+        "professional": ["Team leadership", "Client communication", "Documentation", "Project management", "Mentoring"]
+      },
+      "related_skills": ["Robotics", "AI integration", "Industrial IoT", "PLC", "Smart factory systems"]
+    },
+    {
+      "name": "International 3D Bioprinting Specialist",
+      "overview": "Operates advanced 3D bioprinters for tissue and organ fabrication in global research institutions.",
+      "advantages": ["Highly specialized", "Prestigious field", "Cutting-edge science"],
+      "disadvantages": ["Extremely precise work", "Limited positions"],
+      "demand": "Emerging demand in regenerative medicine and biomedical research worldwide.",
+      "required_skills": {
+        "basic": ["Biology fundamentals", "3D printing basics", "Safety protocols", "Problem solving", "Tool handling"],
+        "intermediate": ["Printer operation", "Tissue handling", "Sterile techniques", "Post-processing", "Material prep"],
+        "advanced": ["Bioprint optimization", "3D tissue design", "Advanced biochemistry", "Process monitoring", "Research data analysis"],
+        "professional": ["Team coordination", "Documentation", "International collaboration", "Client communication", "Training"]
+      },
+      "related_skills": ["3D bioprinting", "Tissue engineering", "Biofabrication", "Regenerative medicine", "Medical research"]
+    },
+    {
+      "name": "Global Advanced Prosthetics Engineer",
+      "overview": "Designs and maintains bionic prosthetic devices for patients internationally, integrating robotics and sensors.",
+      "advantages": ["High respect in healthcare tech", "Global impact", "High-paying niche"],
+      "disadvantages": ["Requires multidisciplinary expertise", "Precision-critical work"],
+      "demand": "Emerging demand in medical technology, rehabilitation, and defense sectors worldwide.",
+      "required_skills": {
+        "basic": ["Mechanical fundamentals", "Electronics basics", "Safety protocols", "Problem solving", "Tool handling"],
+        "intermediate": ["Prosthetic assembly", "Material selection", "Calibration", "Testing", "Client fitting"],
+        "advanced": ["Bionic integration", "Sensor calibration", "Advanced biomechanics", "Software integration", "Customization"],
+        "professional": ["Patient communication", "Documentation", "International collaboration", "Project management", "Team coordination"]
+      },
+      "related_skills": ["Bionics", "Prosthetics", "Sensors", "Biomechanics", "Rehabilitation technology"]
+    },
+    
+    {
+      "name": "Traditional Handloom Weaver",
+      "overview": "Creates handwoven fabrics and textiles using traditional Indian techniques, supporting cultural heritage.",
+      "advantages": ["Preserves culture", "High artistic value", "Local recognition"],
+      "disadvantages": ["Physically demanding", "Lower initial income without scale"],
+      "demand": "Growing demand in luxury textiles, heritage fashion, and government craft promotion programs.",
+      "required_skills": {
+        "basic": ["Handloom basics", "Weaving patterns", "Material handling", "Color matching", "Tool familiarity"],
+        "intermediate": ["Advanced weaving techniques", "Design interpretation", "Fabric finishing", "Quality control", "Time management"],
+        "advanced": ["Custom design creation", "Client interaction", "Workshop management", "Efficiency optimization", "Innovation in textiles"],
+        "professional": ["Training apprentices", "Cultural documentation", "Business handling", "Marketing skills", "Exhibition participation"]
+      },
+      "related_skills": ["Silk weaving", "Cotton weaving", "Textile design", "Embroidery", "Handcrafted fabrics"]
+    },
+    {
+      "name": "Indian Culinary Chef – Regional Cuisine",
+      "overview": "Specializes in traditional Indian cuisines like Rajasthani, Bengali, or South Indian, bringing authentic flavors to restaurants and events.",
+      "advantages": ["High local respect", "Creative expression", "Growing hospitality sector"],
+      "disadvantages": ["Long working hours", "Stressful environment in kitchens"],
+      "demand": "High demand in hotels, resorts, and cultural culinary experiences across India.",
+      "required_skills": {
+        "basic": ["Basic cooking techniques", "Ingredient knowledge", "Knife handling", "Hygiene practices", "Time management"],
+        "intermediate": ["Regional spice blending", "Menu preparation", "Presentation skills", "Costing basics", "Event catering"],
+        "advanced": ["Kitchen management", "Recipe innovation", "Team leadership", "Food quality optimization", "High-volume service handling"],
+        "professional": ["Restaurant management", "Client consultation", "Brand building", "Food photography", "Culinary workshops"]
+      },
+      "related_skills": ["Indian spices", "Regional cooking", "Plating techniques", "Food safety", "Recipe development"]
+    },
+    {
+      "name": "Indian Traditional Jewelry Artisan",
+      "overview": "Designs and crafts gold, silver, or gemstone jewelry using traditional Indian methods.",
+      "advantages": ["High cultural respect", "Luxury market opportunities", "Creative freedom"],
+      "disadvantages": ["Precision required", "Financial risk with raw materials"],
+      "demand": "Steady demand in bridal markets, festivals, and high-end fashion segments in India.",
+      "required_skills": {
+        "basic": ["Metal handling", "Basic design sketching", "Tool familiarity", "Gem handling", "Measurement accuracy"],
+        "intermediate": ["Casting techniques", "Stone setting", "Polishing methods", "Traditional design knowledge", "Small-scale production"],
+        "advanced": ["Custom design creation", "Workshop supervision", "Market trend analysis", "Jewelry valuation", "Quality assurance"],
+        "professional": ["Client consultation", "Brand building", "Luxury marketing", "Exhibition participation", "Cultural heritage preservation"]
+      },
+      "related_skills": ["Goldsmithing", "Silver crafting", "Gemstone setting", "Kundan work", "Meenakari"]
+    },
+    {
+      "name": "Organic Farmer – Specialty Crops",
+      "overview": "Grows organic fruits, vegetables, or medicinal plants with sustainable practices.",
+      "advantages": ["Environmentally friendly", "Growing organic market", "Government support schemes"],
+      "disadvantages": ["Weather dependency", "Labor-intensive", "Initial low yield"],
+      "demand": "Increasing demand due to organic lifestyle trends and health-conscious consumers in India.",
+      "required_skills": {
+        "basic": ["Soil preparation", "Plant care basics", "Irrigation handling", "Pest management", "Harvesting techniques"],
+        "intermediate": ["Crop rotation", "Organic fertilizer use", "Market research", "Supply chain handling", "Seed selection"],
+        "advanced": ["Agri-business management", "Irrigation optimization", "Advanced pest control", "Yield forecasting", "Brand marketing"],
+        "professional": ["Export knowledge", "Organic certification process", "Team management", "Client relations", "Innovation in cultivation"]
+      },
+      "related_skills": ["Sustainable farming", "Agro-tech", "Organic produce", "Medicinal plants", "Farm-to-table practices"]
+    },
+    {
+      "name": "Indian Classical Dance Instructor",
+      "overview": "Teaches and preserves classical Indian dance forms like Bharatanatyam, Kathak, or Odissi.",
+      "advantages": ["Highly respected culturally", "Creative and expressive", "Opportunity for international exposure"],
+      "disadvantages": ["Physically demanding", "Irregular income initially"],
+      "demand": "Steady demand in cultural academies, schools, and performance arts events.",
+      "required_skills": {
+        "basic": ["Dance basics", "Posture and rhythm", "Footwork", "Hand gestures", "Expression techniques"],
+        "intermediate": ["Choreography", "Teaching methods", "Performance preparation", "Cultural knowledge", "Music coordination"],
+        "advanced": ["Advanced choreography", "Workshop management", "Stage performance leadership", "Student mentorship", "Artistic innovation"],
+        "professional": ["Festival participation", "International workshops", "Cultural preservation", "School/Academy leadership", "Media exposure"]
+      },
+      "related_skills": ["Bharatanatyam", "Kathak", "Odissi", "Classical music coordination", "Stage management"]
+    },
+    
+    {
+      "name": "Electric Bike Mechanic",
+      "overview": "Repairs and maintains electric scooters and bikes, a rapidly growing market in urban India.",
+      "advantages": ["High local demand", "Hands-on work", "Flexible work locations"],
+      "disadvantages": ["Exposure to electric hazards", "Physically demanding"],
+      "demand": "Growing with urban electric mobility and government EV initiatives.",
+      "required_skills": {
+        "basic": ["Basic electronics", "Battery knowledge", "Tool handling", "Safety protocols", "Problem solving"],
+        "intermediate": ["Motor maintenance", "Battery replacement", "Diagnostics", "Client interaction", "Parts management"],
+        "advanced": ["Electric system optimization", "Charging infrastructure knowledge", "Workshop management", "Team training", "Advanced troubleshooting"],
+        "professional": ["Customer relations", "Service documentation", "Business promotion", "Quality control", "Market trend analysis"]
+      },
+      "related_skills": ["Electric vehicles", "Lithium batteries", "EV motors", "Diagnostics", "Repair tools"]
+    },
+    {
+      "name": "Water Purification Technician",
+      "overview": "Installs and maintains water purification systems for homes, offices, and industries.",
+      "advantages": ["Growing market", "Low entry barrier", "Essential service"],
+      "disadvantages": ["Fieldwork under challenging conditions", "Exposure to chemicals"],
+      "demand": "High demand due to rising awareness of clean water and rural electrification projects.",
+      "required_skills": {
+        "basic": ["Basic plumbing", "Filter types", "Tool handling", "Water chemistry basics", "Safety measures"],
+        "intermediate": ["RO system installation", "Maintenance checks", "Troubleshooting", "Pipe fitting", "Customer guidance"],
+        "advanced": ["Industrial water treatment", "System optimization", "Automation integration", "Documentation", "Team coordination"],
+        "professional": ["Business management", "Project planning", "Customer service", "Compliance awareness", "Vendor relations"]
+      },
+      "related_skills": ["RO systems", "UV filters", "Water softeners", "Plumbing", "Industrial purification"]
+    },
+    {
+      "name": "Refrigeration & AC Technician",
+      "overview": "Installs, repairs, and maintains refrigeration and air conditioning systems for homes and businesses.",
+      "advantages": ["High local demand", "Steady income", "Hands-on technical work"],
+      "disadvantages": ["Physically demanding", "Working in hot/cold environments"],
+      "demand": "Essential service with growing urbanization and commercial cooling needs.",
+      "required_skills": {
+        "basic": ["Basic electricity", "Tool handling", "Safety protocols", "Pipework basics", "System understanding"],
+        "intermediate": ["AC installation", "Refrigeration repair", "Leak detection", "Coolant handling", "Diagnostics"],
+        "advanced": ["Industrial HVAC systems", "Energy optimization", "Automation integration", "Team supervision", "Complex troubleshooting"],
+        "professional": ["Customer relations", "Project planning", "Documentation", "Regulatory compliance", "Service contracts"]
+      },
+      "related_skills": ["HVAC", "Refrigerants", "Electrical troubleshooting", "Pipe fitting", "Industrial AC systems"]
+    },
+    {
+      "name": "Solar Rooftop Installer",
+      "overview": "Installs solar panels on rooftops for residential and commercial clients.",
+      "advantages": ["High growth sector", "Environmentally friendly", "Government incentives"],
+      "disadvantages": ["Work at height", "Weather dependency"],
+      "demand": "Increasing demand due to India’s renewable energy policies and green initiatives.",
+      "required_skills": {
+        "basic": ["Tool usage", "Roof safety", "Electrical basics", "Panel handling", "Measurements"],
+        "intermediate": ["Panel alignment", "Wiring", "Inverter connection", "Basic troubleshooting", "Client guidance"],
+        "advanced": ["System optimization", "Energy efficiency analysis", "Large-scale installations", "Team coordination", "Maintenance planning"],
+        "professional": ["Project management", "Documentation", "Business promotion", "Compliance", "Customer service"]
+      },
+      "related_skills": ["Solar panels", "Inverters", "Wiring", "Green energy", "Renewable energy projects"]
+    },
+    {
+      "name": "Electrician – Residential & Commercial",
+      "overview": "Provides electrical installations, repairs, and maintenance for homes and offices.",
+      "advantages": ["High demand", "Flexible work", "Entry-level friendly"],
+      "disadvantages": ["Risk of electric shock", "Physically demanding"],
+      "demand": "Steady demand due to continuous urban development and maintenance needs.",
+      "required_skills": {
+        "basic": ["Wire handling", "Circuit basics", "Tool usage", "Safety procedures", "Basic problem solving"],
+        "intermediate": ["Lighting installation", "Power outlets", "Troubleshooting", "Appliance wiring", "Customer communication"],
+        "advanced": ["Industrial wiring", "Electrical panels", "Automation basics", "Project supervision", "Efficiency optimization"],
+        "professional": ["Team coordination", "Project documentation", "Regulatory compliance", "Client relations", "Training apprentices"]
+      },
+      "related_skills": ["Residential wiring", "Commercial wiring", "Safety standards", "Switchgear", "Automation basics"]
+    },
+    {
+      "name": "Plumber – Skilled Trades",
+      "overview": "Installs, repairs, and maintains water and sewage systems for homes, offices, and industries.",
+      "advantages": ["High demand", "Low education requirement", "Steady income"],
+      "disadvantages": ["Physically demanding", "Exposure to dirt/water"],
+      "demand": "Essential service with continuous local demand across India.",
+      "required_skills": {
+        "basic": ["Pipe handling", "Basic tools", "Water systems", "Measurement skills", "Problem solving"],
+        "intermediate": ["Leak detection", "Pipe fitting", "Bathroom/kitchen installations", "Soldering", "Customer guidance"],
+        "advanced": ["Industrial plumbing", "Automation integration", "System optimization", "Team supervision", "Project planning"],
+        "professional": ["Documentation", "Regulatory knowledge", "Business management", "Client relations", "Mentoring juniors"]
+      },
+      "related_skills": ["Water systems", "Pipe fitting", "Leak repair", "Soldering", "Industrial plumbing"]
+    },
+    {
+      "name": "Carpenter – Woodworking Specialist",
+      "overview": "Crafts furniture, fittings, and decorative wood items for homes, offices, and public spaces.",
+      "advantages": ["Creative work", "High local respect", "Flexible work"],
+      "disadvantages": ["Physically demanding", "Dust exposure"],
+      "demand": "Steady demand in interior design, real estate, and furniture sectors.",
+      "required_skills": {
+        "basic": ["Wood selection", "Tool handling", "Measuring & cutting", "Safety practices", "Basic joinery"],
+        "intermediate": ["Furniture crafting", "Cabinet making", "Surface finishing", "Client interaction", "Material optimization"],
+        "advanced": ["Custom design creation", "Workshop supervision", "Project management", "Quality assurance", "Innovation in woodworking"],
+        "professional": ["Business handling", "Team coordination", "Documentation", "Marketing skills", "Exhibition participation"]
+      },
+      "related_skills": ["Furniture making", "Cabinetry", "Wood carving", "Veneering", "Interior fittings"]
+    },
+    {
+      "name": "Tailor – Fashion & Apparel",
+      "overview": "Designs, stitches, and alters garments for individual clients or businesses.",
+      "advantages": ["Creative freedom", "Low education requirement", "High local respect"],
+      "disadvantages": ["Long hours", "Customer dependency"],
+      "demand": "Consistently high demand in urban and semi-urban areas for custom clothing and fashion trends.",
+      "required_skills": {
+        "basic": ["Fabric handling", "Measurement skills", "Basic stitching", "Pattern understanding", "Tool usage"],
+        "intermediate": ["Garment fitting", "Alterations", "Design replication", "Time management", "Customer communication"],
+        "advanced": ["Fashion designing", "Team supervision", "Workshop management", "Quality control", "Material sourcing"],
+        "professional": ["Client consultation", "Business handling", "Brand development", "Training juniors", "Exhibition participation"]
+      },
+      "related_skills": ["Stitching", "Pattern making", "Garment finishing", "Fashion design", "Alterations"]
+    },
+    {
+      "name": "Bakery & Pastry Chef",
+      "overview": "Prepares breads, pastries, cakes, and confectionery for commercial and retail purposes.",
+      "advantages": ["Creative work", "Growing demand", "Entry-level opportunities"],
+      "disadvantages": ["Long working hours", "Physically demanding"],
+      "demand": "High in urban areas due to bakery cafes, hotels, and retail chains.",
+      "required_skills": {
+        "basic": ["Ingredient knowledge", "Basic baking techniques", "Tool handling", "Hygiene practices", "Time management"],
+        "intermediate": ["Pastry making", "Cake decoration", "Oven handling", "Inventory management", "Customer guidance"],
+        "advanced": ["Menu planning", "Kitchen management", "Recipe innovation", "Team supervision", "Quality assurance"],
+        "professional": ["Business operations", "Brand building", "Training juniors", "Event catering", "Compliance"]
+      },
+      "related_skills": ["Baking", "Pastry", "Confectionery", "Cake decoration", "Culinary innovation"]
+    },
+    {
+      "name": "Barber – Professional Grooming",
+      "overview": "Provides hair cutting, styling, and grooming services for men and women.",
+      "advantages": ["High local respect", "Low entry barrier", "Flexible hours"],
+      "disadvantages": ["Physically demanding", "Customer interaction required"],
+      "demand": "Steady demand in urban and semi-urban areas across India.",
+      "required_skills": {
+        "basic": ["Hair cutting basics", "Tool handling", "Hygiene practices", "Customer interaction", "Time management"],
+        "intermediate": ["Styling techniques", "Shaving & trimming", "Hair treatment knowledge", "Salon management basics", "Client consultations"],
+        "advanced": ["Advanced grooming techniques", "Team supervision", "Branding", "Customer retention strategies", "Training juniors"],
+        "professional": ["Business management", "Salon ownership", "Marketing & social media", "Event styling", "Customer satisfaction"]
+      },
+      "related_skills": ["Hair styling", "Shaving", "Grooming", "Beard care", "Salon management"]
+    },
+    {
+      "name": "Motorcycle Delivery Technician",
+      "overview": "Maintains and repairs motorcycles and delivery vehicles used by e-commerce and food delivery platforms.",
+      "advantages": ["High demand in gig economy", "Hands-on work", "Flexible shifts"],
+      "disadvantages": ["Physically demanding", "Exposure to traffic & weather"],
+      "demand": "Rising with online food delivery and logistics growth in India.",
+      "required_skills": {
+        "basic": ["Engine basics", "Tool usage", "Safety practices", "Basic diagnostics", "Problem solving"],
+        "intermediate": ["Routine maintenance", "Brake & chain repair", "Tire replacement", "Battery handling", "Client interaction"],
+        "advanced": ["Fuel efficiency tuning", "Large fleet maintenance", "Troubleshooting complex issues", "Team coordination", "Workshop management"],
+        "professional": ["Business documentation", "Vendor management", "Customer service", "Team training", "Inventory control"]
+      },
+      "related_skills": ["Motorcycle repair", "Diagnostics", "Maintenance", "Spare parts", "Fleet management"]
+    },
+    {
+      "name": "Hospitality Housekeeping Supervisor",
+      "overview": "Manages housekeeping teams in hotels, resorts, and hospitals to maintain cleanliness and service standards.",
+      "advantages": ["High local respect", "Steady employment", "Team leadership opportunities"],
+      "disadvantages": ["Physically demanding", "Shift work required"],
+      "demand": "High in hospitality and healthcare sectors across India.",
+      "required_skills": {
+        "basic": ["Cleaning basics", "Tool handling", "Safety practices", "Time management", "Team interaction"],
+        "intermediate": ["Floor & room management", "Inventory tracking", "Client communication", "Shift scheduling", "Staff guidance"],
+        "advanced": ["Process optimization", "Training staff", "Quality audits", "Budget management", "Complaint resolution"],
+        "professional": ["Department management", "Event preparation", "Hospitality standards enforcement", "Vendor coordination", "Customer satisfaction"]
+      },
+      "related_skills": ["Cleaning", "Team management", "Inventory", "Hospitality standards", "Training"]
+    },
+    {
+      "name": "Ceramic & Pottery Artisan",
+      "overview": "Creates functional and decorative ceramic items for local and international markets.",
+      "advantages": ["Cultural respect", "Creative expression", "Low formal education required"],
+      "disadvantages": ["Physically demanding", "Requires kiln access"],
+      "demand": "Growing demand in local crafts, home decor, and exports.",
+      "required_skills": {
+        "basic": ["Clay preparation", "Basic shaping", "Tool handling", "Kiln basics", "Safety"],
+        "intermediate": ["Glazing", "Firing techniques", "Design patterns", "Surface finishing", "Workshop management"],
+        "advanced": ["Custom design creation", "Exhibition participation", "Team supervision", "Large-scale production", "Quality assurance"],
+        "professional": ["Business operations", "Client relations", "Branding", "Export documentation", "Innovation in designs"]
+      },
+      "related_skills": ["Pottery", "Ceramics", "Glazing", "Kiln operation", "Craft marketing"]
+    },
+    {
+      "name": "Bicycle Repair & Maintenance Technician",
+      "overview": "Repairs and maintains bicycles for urban commuters and sports enthusiasts.",
+      "advantages": ["High local demand", "Entry-level friendly", "Flexible hours"],
+      "disadvantages": ["Physically demanding", "Small-scale income initially"],
+      "demand": "Rising with cycling adoption for health and eco-friendly transport.",
+      "required_skills": {
+        "basic": ["Tire repair", "Chain maintenance", "Basic tool usage", "Safety", "Customer interaction"],
+        "intermediate": ["Brake adjustment", "Gear tuning", "Wheel alignment", "Routine maintenance", "Inventory handling"],
+        "advanced": ["Custom builds", "Workshop supervision", "Team management", "Advanced diagnostics", "Process optimization"],
+        "professional": ["Business management", "Client satisfaction", "Event servicing", "Brand building", "Training apprentices"]
+      },
+      "related_skills": ["Bicycle repair", "Maintenance", "Gears & brakes", "Tuning", "Customer service"]
+    },
+    {
+      "name": "Mobile Phone Repair Technician",
+      "overview": "Repairs and maintains smartphones and mobile devices.",
+      "advantages": ["High demand", "Entry-level opportunities", "Hands-on technical work"],
+      "disadvantages": ["Precision required", "Rapidly changing technology"],
+      "demand": "High due to widespread smartphone usage in India.",
+      "required_skills": {
+        "basic": ["Basic electronics", "Tool handling", "Screen replacement basics", "Battery knowledge", "Customer interaction"],
+        "intermediate": ["Circuit troubleshooting", "Component replacement", "Software troubleshooting", "Diagnostics tools", "Time management"],
+        "advanced": ["Micro-soldering", "Advanced diagnostics", "Data recovery", "Workshop management", "Repair optimization"],
+        "professional": ["Business management", "Client relations", "Quality assurance", "Training juniors", "Supplier coordination"]
+      },
+      "related_skills": ["Mobile repair", "Electronics", "Diagnostics", "Battery replacement", "Screen repair"]
+    },
+    {
+      "name": "Painter – Residential & Commercial",
+      "overview": "Applies paints, coatings, and finishes to buildings and surfaces.",
+      "advantages": ["High demand", "Flexible projects", "Low formal education required"],
+      "disadvantages": ["Physically demanding", "Exposure to chemicals"],
+      "demand": "Steady demand in urban construction and renovation projects.",
+      "required_skills": {
+        "basic": ["Surface preparation", "Tool handling", "Paint types", "Safety", "Measurement skills"],
+        "intermediate": ["Color mixing", "Finishing techniques", "Scaffolding basics", "Client communication", "Project planning"],
+        "advanced": ["Large-scale projects", "Advanced coating methods", "Team supervision", "Time optimization", "Quality assurance"],
+        "professional": ["Business management", "Contract negotiation", "Project documentation", "Training juniors", "Innovation in finishes"]
+      },
+      "related_skills": ["Painting", "Coatings", "Wall finishes", "Decorative painting", "Project management"]
+    },
+    {
+      "name": "Jewelry Polisher & Finisher",
+      "overview": "Polishes and finishes jewelry items to achieve high-quality shine and design precision.",
+      "advantages": ["Artisan respect", "Low formal education required", "Creative satisfaction"],
+      "disadvantages": ["Precision required", "Eye strain and dust exposure"],
+      "demand": "High in jewelry manufacturing, retail, and artisan workshops.",
+      "required_skills": {
+        "basic": ["Tool handling", "Polishing basics", "Safety", "Attention to detail", "Material knowledge"],
+        "intermediate": ["Gem setting basics", "Surface finishing", "Design interpretation", "Time management", "Client interaction"],
+        "advanced": ["Custom polishing", "Workshop supervision", "Quality control", "Process optimization", "Training juniors"],
+        "professional": ["Business operations", "Client consultation", "Branding", "Exhibition participation", "Innovation in finishes"]
+      },
+      "related_skills": ["Jewelry polishing", "Metal finishing", "Surface treatment", "Handcrafting", "Quality assurance"]
+    },
+    
+    {
+      "name": "Drone Operator",
+      "overview": "Operates drones for surveying, mapping, photography, and agriculture.",
+      "advantages": ["High-tech role", "Growing demand", "Creative and outdoors work"],
+      "disadvantages": ["License required", "Weather-dependent work"],
+      "demand": "High in agriculture, surveying, media, and logistics sectors.",
+      "required_skills": {
+        "basic": ["Drone handling", "Basic photography", "Battery management", "Safety rules", "Navigation"],
+        "intermediate": ["Flight planning", "Data capture", "Basic mapping", "Editing software", "Client interaction"],
+        "advanced": ["Survey mapping", "Thermal imaging", "Agricultural monitoring", "Advanced photography", "Team coordination"],
+        "professional": ["Project management", "Regulatory compliance", "Business promotion", "Team training", "Documentation"]
+      },
+      "related_skills": ["Drones", "Aerial photography", "Surveying", "GIS software", "Remote sensing"]
+    },
+    {
+      "name": "Electric Scooter Rental Technician",
+      "overview": "Maintains and repairs electric scooters for rental services.",
+      "advantages": ["Entry-level friendly", "Steady demand in cities", "Hands-on technical work"],
+      "disadvantages": ["Physically demanding", "Exposure to traffic and weather"],
+      "demand": "High in urban areas due to electric mobility adoption.",
+      "required_skills": {
+        "basic": ["Basic electronics", "Battery handling", "Tool usage", "Safety", "Troubleshooting"],
+        "intermediate": ["Motor maintenance", "System diagnostics", "Customer service", "Routine checks", "Parts replacement"],
+        "advanced": ["Fleet management", "Optimization", "Automation knowledge", "Team supervision", "Advanced troubleshooting"],
+        "professional": ["Business handling", "Regulatory compliance", "Documentation", "Vendor coordination", "Customer satisfaction"]
+      },
+      "related_skills": ["Electric vehicles", "Batteries", "Motors", "Diagnostics", "Repair"]
+    },
+    {
+      "name": "Urban Hydroponics Technician",
+      "overview": "Manages hydroponic farming systems in urban environments.",
+      "advantages": ["Sustainable agriculture", "Growing demand", "Indoor work environment"],
+      "disadvantages": ["Requires learning hydroponic systems", "Initial setup costs"],
+      "demand": "High with rise in urban farming, restaurants, and grocery chains.",
+      "required_skills": {
+        "basic": ["Plant care basics", "Nutrient solution prep", "Water management", "Tool usage", "Observation skills"],
+        "intermediate": ["System monitoring", "Pest control", "Growth optimization", "Harvesting", "Customer guidance"],
+        "advanced": ["Automated systems", "Environmental control", "Business planning", "Team management", "Research optimization"],
+        "professional": ["Market analysis", "Project documentation", "Innovation in crops", "Training juniors", "Supply chain coordination"]
+      },
+      "related_skills": ["Hydroponics", "Plant care", "Automation", "Urban agriculture", "Sustainable farming"]
+    },
+    {
+      "name": "3D Printing Technician",
+      "overview": "Operates and maintains 3D printers for prototyping, manufacturing, and design applications.",
+      "advantages": ["Cutting-edge technology", "Creative projects", "Growing adoption in industries"],
+      "disadvantages": ["Machine maintenance required", "Material costs"],
+      "demand": "Increasing demand in manufacturing, prototyping, and education sectors.",
+      "required_skills": {
+        "basic": ["Printer setup", "Filament handling", "Basic CAD", "Safety", "Tool usage"],
+        "intermediate": ["3D model preparation", "Calibration", "Printing troubleshooting", "Material selection", "Client guidance"],
+        "advanced": ["Industrial 3D printing", "Advanced materials", "Process optimization", "Team management", "Large-scale production"],
+        "professional": ["Project management", "Business operations", "Innovation", "Documentation", "Research collaboration"]
+      },
+      "related_skills": ["3D printing", "CAD software", "Prototyping", "Additive manufacturing", "Materials science"]
+    },
+    {
+      "name": "Green Building Consultant",
+      "overview": "Advises on sustainable and energy-efficient construction projects.",
+      "advantages": ["High respect", "Growing green construction demand", "Environmentally impactful"],
+      "disadvantages": ["Requires building knowledge", "Market awareness needed"],
+      "demand": "High with increasing green building regulations in India.",
+      "required_skills": {
+        "basic": ["Building materials basics", "Energy efficiency basics", "Site assessment", "Sustainability principles", "Communication"],
+        "intermediate": ["Green certifications", "Cost-benefit analysis", "Environmental assessment", "Project guidance", "Team coordination"],
+        "advanced": ["Sustainable design planning", "Advanced building codes", "Optimization", "Client advisory", "Quality assurance"],
+        "professional": ["Project documentation", "Business promotion", "Stakeholder management", "Innovation in designs", "Policy compliance"]
+      },
+      "related_skills": ["Green construction", "Energy efficiency", "LEED standards", "Sustainable architecture", "Environmental consulting"]
+    },
+    {
+      "name": "Biomedical Equipment Technician",
+      "overview": "Maintains and repairs medical devices and equipment in hospitals and labs.",
+      "advantages": ["High respect", "Steady demand", "Critical healthcare role"],
+      "disadvantages": ["Precision required", "Exposure to electrical devices"],
+      "demand": "Growing demand with healthcare expansion and tech adoption in India.",
+      "required_skills": {
+        "basic": ["Device handling", "Safety protocols", "Basic electronics", "Tool usage", "Observation skills"],
+        "intermediate": ["Equipment calibration", "Troubleshooting", "Documentation", "Preventive maintenance", "Client communication"],
+        "advanced": ["Medical device optimization", "Regulatory compliance", "Team supervision", "Process improvements", "Advanced diagnostics"],
+        "professional": ["Project management", "Training juniors", "Vendor coordination", "Research & innovation", "Hospital administration interface"]
+      },
+      "related_skills": ["Medical devices", "Calibration", "Electronics", "Healthcare tech", "Preventive maintenance"]
+    },
+    {
+      "name": "Electric Rickshaw Technician",
+      "overview": "Repairs and maintains electric rickshaws for urban transportation.",
+      "advantages": ["High urban demand", "Hands-on work", "Entry-level friendly"],
+      "disadvantages": ["Physically demanding", "Traffic exposure"],
+      "demand": "Growing demand due to electric vehicle adoption in India.",
+      "required_skills": {
+        "basic": ["Motor basics", "Battery handling", "Tool usage", "Safety protocols", "Problem solving"],
+        "intermediate": ["Diagnostics", "Motor replacement", "Electrical system repair", "Client guidance", "Routine maintenance"],
+        "advanced": ["Fleet optimization", "Automation knowledge", "Team supervision", "Workshop management", "Process improvement"],
+        "professional": ["Business handling", "Documentation", "Customer service", "Vendor coordination", "Market expansion"]
+      },
+      "related_skills": ["Electric vehicles", "Motors", "Batteries", "Diagnostics", "Repair"]
+    },
+    {
+      "name": "Smart Home Installer",
+      "overview": "Installs and configures smart home devices including lighting, security, and appliances.",
+      "advantages": ["Cutting-edge technology", "High urban demand", "Creative problem solving"],
+      "disadvantages": ["Technical troubleshooting required", "Rapid tech changes"],
+      "demand": "Rising with smart home adoption and IoT in India.",
+      "required_skills": {
+        "basic": ["Basic electronics", "Networking", "Tool usage", "Safety", "Customer communication"],
+        "intermediate": ["Device configuration", "Troubleshooting", "Integration with apps", "Automation setup", "Client guidance"],
+        "advanced": ["Advanced IoT integration", "Security optimization", "Process documentation", "Team coordination", "System design"],
+        "professional": ["Project management", "Business operations", "Innovation", "Customer training", "Market analysis"]
+      },
+      "related_skills": ["Smart home", "IoT devices", "Networking", "Automation", "Troubleshooting"]
+    },
+    {
+      "name": "Eco-Friendly Packaging Specialist",
+      "overview": "Designs and produces sustainable packaging solutions for businesses.",
+      "advantages": ["High growth sector", "Environmentally impactful", "Creative opportunities"],
+      "disadvantages": ["Market adoption can vary", "Material sourcing challenges"],
+      "demand": "Increasing with e-commerce, retail, and environmental regulations.",
+      "required_skills": {
+        "basic": ["Material handling", "Tool usage", "Design basics", "Sustainability principles", "Problem solving"],
+        "intermediate": ["Packaging design", "Production methods", "Client communication", "Cost optimization", "Team guidance"],
+        "advanced": ["Innovation in materials", "Automation integration", "Quality control", "Process optimization", "Project supervision"],
+        "professional": ["Business operations", "Client management", "Market analysis", "Team training", "Documentation"]
+      },
+      "related_skills": ["Sustainable materials", "Packaging design", "Production", "Innovation", "Business operations"]
+    },
+    {
+      "name": "Aquaculture Technician",
+      "overview": "Manages fish and seafood farming operations including breeding, feeding, and water quality monitoring.",
+      "advantages": ["Growing sector", "Hands-on outdoor work", "Entry-level friendly"],
+      "disadvantages": ["Waterborne hazards", "Physically demanding"],
+      "demand": "High due to rising seafood demand and government aquaculture programs.",
+      "required_skills": {
+        "basic": ["Fish species knowledge", "Feeding practices", "Water monitoring", "Tool usage", "Safety"],
+        "intermediate": ["Breeding management", "Disease prevention", "System maintenance", "Client guidance", "Routine documentation"],
+        "advanced": ["Automated feeding systems", "Water quality optimization", "Large-scale operations", "Team management", "Market planning"],
+        "professional": ["Project planning", "Business operations", "Sustainability compliance", "Training juniors", "Supply chain coordination"]
+      },
+      "related_skills": ["Aquaculture", "Water quality", "Fish breeding", "Feeding systems", "Sustainable farming"]
+    }
+  
+  
+  
+  
+  ]
+}

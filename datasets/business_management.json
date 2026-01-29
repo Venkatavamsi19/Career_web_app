@@ -1,0 +1,769 @@
+{
+  "category": "Business & Management",
+  "careers": [
+    {
+      "name": "Business Development Manager",
+      "overview": "Business Development Managers identify growth opportunities, build strategic partnerships, and expand market presence by analyzing trends, negotiating deals, and driving long-term revenue generation.",
+      "advantages": [
+        "High career growth",
+        "Strategic decision-making role"
+      ],
+      "disadvantages": [
+        "High pressure targets",
+        "Frequent travel"
+      ],
+      "demand": "Very high across startups, corporates, and multinational companies.",
+      "required_skills": {
+        "basic": ["Business fundamentals", "Communication skills", "Market awareness", "Presentation skills", "Negotiation basics"],
+        "intermediate": ["Client acquisition", "Market research", "Sales strategy", "Relationship management", "Data interpretation"],
+        "advanced": ["Growth strategy", "Market expansion planning"],
+        "professional": ["Strategic leadership", "Revenue management"]
+      },
+      "related_skills": ["Business Strategy", "Sales Management", "Market Analysis", "Negotiation", "Client Relations", "Corporate Growth"]
+    },
+
+    {
+      "name": "Operations Manager",
+      "overview": "Operations Managers oversee daily business operations to ensure efficiency, productivity, cost control, and smooth coordination across departments while meeting organizational goals.",
+      "advantages": [
+        "Leadership responsibility",
+        "High organizational impact"
+      ],
+      "disadvantages": [
+        "Workload pressure",
+        "Operational risks"
+      ],
+      "demand": "High demand across manufacturing, service, and logistics sectors.",
+      "required_skills": {
+        "basic": ["Process understanding", "Time management", "Documentation", "Team coordination", "Problem-solving"],
+        "intermediate": ["Process optimization", "Resource planning", "Quality control", "Performance tracking", "Risk handling"],
+        "advanced": ["Operational strategy"],
+        "professional": ["Enterprise operations leadership"]
+      },
+      "related_skills": ["Operations Management", "Process Improvement", "Logistics", "Quality Assurance", "Team Leadership", "Business Efficiency"]
+    },
+
+    {
+      "name": "Human Resource Manager",
+      "overview": "Human Resource Managers manage recruitment, employee relations, performance management, and organizational culture to build a productive and motivated workforce.",
+      "advantages": [
+        "People-focused career",
+        "Strategic role in organizations"
+      ],
+      "disadvantages": [
+        "Conflict handling",
+        "Policy compliance pressure"
+      ],
+      "demand": "Consistently high across all industries.",
+      "required_skills": {
+        "basic": ["HR fundamentals", "Communication skills", "Employee engagement", "Documentation", "Labor laws basics"],
+        "intermediate": ["Recruitment strategy", "Performance management", "Training planning", "Conflict resolution", "Policy implementation"],
+        "advanced": ["Talent management systems"],
+        "professional": ["Organizational leadership"]
+      },
+      "related_skills": ["Human Resources", "Talent Management", "Employee Relations", "Recruitment", "Training & Development", "Workforce Planning"]
+    },
+
+    {
+      "name": "Marketing Manager",
+      "overview": "Marketing Managers plan and execute marketing strategies to promote products and services, enhance brand visibility, and drive customer engagement across multiple channels.",
+      "advantages": [
+        "Creative and strategic role",
+        "High visibility impact"
+      ],
+      "disadvantages": [
+        "Performance pressure",
+        "Fast-changing trends"
+      ],
+      "demand": "Very high in digital-first businesses and brands.",
+      "required_skills": {
+        "basic": ["Marketing fundamentals", "Brand awareness", "Content basics", "Customer understanding", "Communication skills"],
+        "intermediate": ["Campaign planning", "Digital marketing", "Market research", "Budget management", "Analytics tracking"],
+        "advanced": ["Brand strategy"],
+        "professional": ["Marketing leadership"]
+      },
+      "related_skills": ["Marketing Strategy", "Digital Marketing", "Brand Management", "Consumer Behavior", "Campaign Management", "Market Research"]
+    },
+
+    {
+      "name": "Project Manager",
+      "overview": "Project Managers plan, execute, and monitor projects by coordinating teams, managing budgets, mitigating risks, and ensuring timely delivery of objectives.",
+      "advantages": [
+        "High responsibility role",
+        "Cross-functional exposure"
+      ],
+      "disadvantages": [
+        "Deadline pressure",
+        "Stakeholder management"
+      ],
+      "demand": "High demand across IT, construction, business, and consulting sectors.",
+      "required_skills": {
+        "basic": ["Project fundamentals", "Scheduling", "Documentation", "Communication", "Time management"],
+        "intermediate": ["Risk management", "Resource planning", "Stakeholder coordination", "Budget tracking", "Team leadership"],
+        "advanced": ["Program management"],
+        "professional": ["Strategic project leadership"]
+      },
+      "related_skills": ["Project Management", "Risk Assessment", "Resource Planning", "Stakeholder Management", "Process Coordination", "Leadership"]
+    },
+
+    {
+      "name": "Supply Chain Manager",
+      "overview": "Supply Chain Managers oversee procurement, logistics, inventory, and distribution processes to ensure cost-effective and timely product delivery.",
+      "advantages": [
+        "Critical business role",
+        "Global career opportunities"
+      ],
+      "disadvantages": [
+        "Supply disruptions",
+        "Operational complexity"
+      ],
+      "demand": "Extremely high due to globalization and e-commerce growth.",
+      "required_skills": {
+        "basic": ["Supply chain basics", "Inventory handling", "Vendor coordination", "Documentation", "Cost awareness"],
+        "intermediate": ["Logistics planning", "Procurement strategy", "Demand forecasting", "Process optimization", "Supplier management"],
+        "advanced": ["Global supply networks"],
+        "professional": ["Supply chain leadership"]
+      },
+      "related_skills": ["Supply Chain Management", "Logistics", "Procurement", "Inventory Control", "Vendor Management", "Operations Strategy"]
+    },
+
+    {
+      "name": "Entrepreneur / Startup Founder",
+      "overview": "Entrepreneurs create, develop, and scale new businesses by identifying market gaps, managing resources, building teams, and driving innovation.",
+      "advantages": [
+        "Complete ownership",
+        "Unlimited growth potential"
+      ],
+      "disadvantages": [
+        "Financial risk",
+        "High uncertainty"
+      ],
+      "demand": "Increasing rapidly with startup ecosystem growth in India.",
+      "required_skills": {
+        "basic": ["Business basics", "Idea validation", "Financial literacy", "Communication", "Market understanding"],
+        "intermediate": ["Product development", "Fundraising", "Team building", "Customer acquisition", "Operations management"],
+        "advanced": ["Scaling strategies"],
+        "professional": ["Visionary leadership"]
+      },
+      "related_skills": ["Entrepreneurship", "Startup Strategy", "Business Innovation", "Fundraising", "Leadership", "Market Disruption"]
+    },
+
+    {
+      "name": "Retail Store Manager",
+      "overview": "Retail Store Managers oversee daily store operations, customer service, inventory control, sales targets, and staff management to ensure profitability.",
+      "advantages": [
+        "Customer interaction",
+        "Clear career path"
+      ],
+      "disadvantages": [
+        "Long working hours",
+        "Sales pressure"
+      ],
+      "demand": "High due to organized retail expansion.",
+      "required_skills": {
+        "basic": ["Retail basics", "Customer service", "Sales handling", "Inventory basics", "Cash management"],
+        "intermediate": ["Store operations", "Staff supervision", "Sales planning", "Visual merchandising", "Performance tracking"],
+        "advanced": ["Retail strategy"],
+        "professional": ["Retail leadership"]
+      },
+      "related_skills": ["Retail Management", "Sales Operations", "Customer Experience", "Inventory Management", "Team Supervision", "Store Operations"]
+    },
+
+    {
+      "name": "Management Consultant",
+      "overview": "Management Consultants analyze business problems and provide strategic recommendations to improve efficiency, profitability, and organizational performance.",
+      "advantages": [
+        "High exposure",
+        "Premium compensation"
+      ],
+      "disadvantages": [
+        "High workload",
+        "Frequent travel"
+      ],
+      "demand": "High among corporates and consulting firms.",
+      "required_skills": {
+        "basic": ["Business analysis", "Problem-solving", "Data interpretation", "Presentation skills", "Communication"],
+        "intermediate": ["Strategy formulation", "Process improvement", "Stakeholder management", "Financial analysis", "Client handling"],
+        "advanced": ["Enterprise transformation"],
+        "professional": ["Strategic advisory leadership"]
+      },
+      "related_skills": ["Management Consulting", "Business Analysis", "Strategic Planning", "Process Optimization", "Client Advisory", "Corporate Strategy"]
+    },
+    {
+  "name": "Operations Manager",
+  "overview": "Operations Managers oversee daily business activities to ensure processes run efficiently, resources are optimized, and organizational goals are achieved through effective planning, coordination, and continuous improvement of operations.",
+  "advantages": ["High organizational importance","Leadership opportunities","Applicable across all industries"],
+  "disadvantages": ["High responsibility and pressure","Requires multitasking under tight timelines"],
+  "demand": "Very high demand across manufacturing, services, logistics, and corporate sectors.",
+  "required_skills": {
+    "basic": ["Business operations","Time management","Communication","Process understanding","Team coordination"],
+    "intermediate": ["Workflow optimization","Resource planning","Quality control","Performance monitoring","Problem solving"],
+    "advanced": ["Operational strategy","Process automation"],
+    "professional": ["Operational leadership","Enterprise management"]
+  },
+  "related_skills": ["Operations Management","Process Improvement","Leadership","Resource Planning","Decision Making","Business Optimization"]
+},
+{
+  "name": "Financial Manager",
+  "overview": "Financial Managers plan, organize, and control financial activities such as budgeting, forecasting, investments, and risk management to ensure long-term financial stability of organizations.",
+  "advantages": ["High responsibility role","Strong career growth"],
+  "disadvantages": ["High accountability","Work pressure during audits"],
+  "demand": "High demand across corporations, banks, and startups.",
+  "required_skills": {
+    "basic": ["Financial basics","Accounting principles","Numerical skills","Reporting basics","Business understanding"],
+    "intermediate": ["Budgeting","Financial analysis","Risk assessment","Cash flow management","Compliance handling"],
+    "advanced": ["Investment strategy"],
+    "professional": ["Financial leadership"]
+  },
+  "related_skills": ["Financial Management","Budgeting","Investment Planning","Risk Management","Corporate Finance","Financial Strategy"]
+},
+{
+  "name": "Product Manager",
+  "overview": "Product Managers oversee the entire lifecycle of products by coordinating between business, technical, and marketing teams to deliver customer-centric solutions.",
+  "advantages": ["High impact role","Cross-functional exposure"],
+  "disadvantages": ["High accountability","Stakeholder pressure"],
+  "demand": "Extremely high in technology-driven companies.",
+  "required_skills": {
+    "basic": ["Product fundamentals","User research basics","Communication skills","Market understanding","Documentation"],
+    "intermediate": ["Product roadmapping","Stakeholder coordination","Feature prioritization","Data analysis","Customer feedback analysis"],
+    "advanced": ["Product strategy"],
+    "professional": ["Product leadership"]
+  },
+  "related_skills": ["Product Management","User Experience","Market Research","Roadmapping","Stakeholder Management","Business Strategy"]
+},
+{
+  "name": "Sales Manager",
+  "overview": "Sales Managers lead sales teams, design sales strategies, manage client relationships, and drive revenue growth for organizations.",
+  "advantages": ["Performance-based incentives","High earning potential"],
+  "disadvantages": ["Target pressure","Competitive environment"],
+  "demand": "Very high across all industries.",
+  "required_skills": {
+    "basic": ["Sales fundamentals","Customer interaction","Communication","Product knowledge","Negotiation basics"],
+    "intermediate": ["Sales planning","Team management","Client retention","Pipeline management","Performance analysis"],
+    "advanced": ["Sales strategy"],
+    "professional": ["Revenue leadership"]
+  },
+  "related_skills": ["Sales Management","Customer Relationship Management","Negotiation","Revenue Growth","Business Development","Client Retention"]
+},
+{
+  "name": "Corporate Strategy Analyst",
+  "overview": "Corporate Strategy Analysts support senior leadership by conducting market research, competitor analysis, and strategic planning initiatives.",
+  "advantages": ["Strategic exposure","High learning curve"],
+  "disadvantages": ["Data-intensive role","High expectations"],
+  "demand": "High in large corporations and consulting firms.",
+  "required_skills": {
+    "basic": ["Business research","Data interpretation","Excel basics","Presentation skills","Analytical thinking"],
+    "intermediate": ["Competitive analysis","Market sizing","Financial modeling","Scenario planning","Strategic reporting"],
+    "advanced": ["Corporate planning"],
+    "professional": ["Strategic advisory"]
+  },
+  "related_skills": ["Corporate Strategy","Market Analysis","Financial Modeling","Competitive Intelligence","Strategic Planning","Business Research"]
+},
+{
+  "name": "Procurement Manager",
+  "overview": "Procurement Managers manage sourcing strategies, vendor relationships, and purchasing processes to ensure quality materials at optimal costs.",
+  "advantages": ["Cost control role","Operational importance"],
+  "disadvantages": ["Vendor dependency","Negotiation pressure"],
+  "demand": "High in manufacturing and service sectors.",
+  "required_skills": {
+    "basic": ["Procurement basics","Vendor communication","Documentation","Cost awareness","Inventory basics"],
+    "intermediate": ["Vendor negotiation","Contract management","Supplier evaluation","Cost optimization","Compliance management"],
+    "advanced": ["Strategic sourcing"],
+    "professional": ["Procurement leadership"]
+  },
+  "related_skills": ["Procurement Management","Vendor Management","Cost Optimization","Supply Planning","Contract Negotiation","Operations Support"]
+},
+{
+  "name": "Risk Management Specialist",
+  "overview": "Risk Management Specialists identify, assess, and mitigate financial, operational, and strategic risks to safeguard organizational stability.",
+  "advantages": ["High strategic value","Cross-department exposure"],
+  "disadvantages": ["High responsibility","Regulatory pressure"],
+  "demand": "Growing demand due to regulatory compliance and uncertainty.",
+  "required_skills": {
+    "basic": ["Risk basics","Compliance awareness","Data analysis","Documentation","Business understanding"],
+    "intermediate": ["Risk assessment models","Internal audits","Regulatory frameworks","Mitigation planning","Reporting"],
+    "advanced": ["Enterprise risk management"],
+    "professional": ["Risk governance leadership"]
+  },
+  "related_skills": ["Risk Management","Compliance","Audit Planning","Regulatory Analysis","Enterprise Risk","Corporate Governance"]
+},
+{
+  "name": "Franchise Manager",
+  "overview": "Franchise Managers oversee franchise operations, ensure brand compliance, and support franchise partners in achieving business success.",
+  "advantages": ["Entrepreneurial exposure","Brand-driven role"],
+  "disadvantages": ["Multi-location management","Operational pressure"],
+  "demand": "High in retail, food, and service franchises.",
+  "required_skills": {
+    "basic": ["Business operations","Communication","Brand standards","Documentation","Customer service"],
+    "intermediate": ["Franchise operations","Performance monitoring","Partner support","Training coordination","Expansion planning"],
+    "advanced": ["Franchise strategy"],
+    "professional": ["Brand leadership"]
+  },
+  "related_skills": ["Franchise Management","Business Operations","Brand Compliance","Partner Relations","Expansion Planning","Retail Strategy"]
+},
+{
+  "name": "Business Analyst",
+  "overview": "Business Analysts analyze business processes, identify gaps, and propose data-driven solutions to improve efficiency and decision-making.",
+  "advantages": ["Analytical role","High demand skillset"],
+  "disadvantages": ["Stakeholder dependency","Documentation-heavy"],
+  "demand": "Very high across industries.",
+  "required_skills": {
+    "basic": ["Business analysis basics","Documentation","Communication","Process mapping","Data basics"],
+    "intermediate": ["Requirement gathering","Stakeholder analysis","Process optimization","Reporting","Data visualization"],
+    "advanced": ["Business transformation"],
+    "professional": ["Analytical leadership"]
+  },
+  "related_skills": ["Business Analysis","Process Improvement","Data Interpretation","Stakeholder Management","Requirement Analysis","Decision Support"]
+},
+{
+  "name": "Quality Assurance Manager",
+  "overview": "Quality Assurance Managers ensure products and services meet quality standards by implementing quality systems, audits, and continuous improvement processes.",
+  "advantages": ["Critical role","Quality ownership"],
+  "disadvantages": ["Compliance pressure","Process rigidity"],
+  "demand": "High in manufacturing, IT, and service industries.",
+  "required_skills": {
+    "basic": ["Quality basics","Documentation","Attention to detail","Process awareness","Compliance basics"],
+    "intermediate": ["Quality audits","Process improvement","Root cause analysis","Standards implementation","Reporting"],
+    "advanced": ["Quality systems management"],
+    "professional": ["Quality leadership"]
+  },
+  "related_skills": ["Quality Assurance","Process Control","Audit Management","Compliance Monitoring","Continuous Improvement","Operational Excellence"]
+},
+{
+  "name": "Customer Experience Manager",
+  "overview": "Customer Experience Managers design and improve customer journeys by analyzing feedback, optimizing touchpoints, and enhancing service quality.",
+  "advantages": ["Customer-focused role","Brand impact"],
+  "disadvantages": ["High expectations","Customer handling stress"],
+  "demand": "Rapidly increasing in service-driven industries.",
+  "required_skills": {
+    "basic": ["Customer service basics","Communication skills","Feedback handling","Process understanding","Empathy"],
+    "intermediate": ["Journey mapping","Customer analytics","Service design","Complaint resolution","Performance metrics"],
+    "advanced": ["Experience strategy"],
+    "professional": ["Customer leadership"]
+  },
+  "related_skills": ["Customer Experience","Service Design","Journey Mapping","Customer Analytics","Brand Loyalty","Client Engagement"]
+},
+{
+  "name": "Strategic Partnerships Manager",
+  "overview": "Strategic Partnerships Managers build, manage, and scale long-term business alliances with external organizations to drive mutual growth, market expansion, and competitive advantage.",
+  "advantages": ["High strategic influence","Network-driven growth"],
+  "disadvantages": ["Dependency on partners","Complex negotiations"],
+  "demand": "High in technology, fintech, and platform-based businesses.",
+  "required_skills": {
+    "basic": ["Business fundamentals","Communication","Relationship building","Market awareness","Presentation skills"],
+    "intermediate": ["Partnership negotiation","Contract coordination","Alliance management","Performance tracking","Stakeholder alignment"],
+    "advanced": ["Ecosystem strategy"],
+    "professional": ["Partnership leadership"]
+  },
+  "related_skills": ["Strategic Alliances","Partnership Management","Business Growth","Negotiation","Ecosystem Development","Corporate Relations"]
+},
+{
+  "name": "Revenue Operations Manager",
+  "overview": "Revenue Operations Managers align sales, marketing, and customer success operations using data and processes to maximize revenue efficiency and predictability.",
+  "advantages": ["High revenue impact","Cross-functional authority"],
+  "disadvantages": ["Data dependency","Complex coordination"],
+  "demand": "Rapidly growing in SaaS and subscription businesses.",
+  "required_skills": {
+    "basic": ["Revenue basics","CRM understanding","Data literacy","Reporting","Process awareness"],
+    "intermediate": ["Sales operations","Marketing analytics","Forecasting","Pipeline optimization","KPI management"],
+    "advanced": ["Revenue architecture"],
+    "professional": ["Revenue leadership"]
+  },
+  "related_skills": ["Revenue Operations","Sales Analytics","CRM Management","Forecasting","Growth Optimization","Go-To-Market Strategy"]
+},
+{
+  "name": "Corporate Governance Manager",
+  "overview": "Corporate Governance Managers ensure ethical leadership, board effectiveness, and regulatory compliance while supporting transparent and accountable decision-making.",
+  "advantages": ["Board-level exposure","High trust role"],
+  "disadvantages": ["Strict regulations","High accountability"],
+  "demand": "Increasing due to regulatory scrutiny and ESG focus.",
+  "required_skills": {
+    "basic": ["Governance basics","Legal awareness","Documentation","Ethics","Corporate policies"],
+    "intermediate": ["Board coordination","Compliance monitoring","Risk oversight","Policy drafting","Regulatory reporting"],
+    "advanced": ["Governance frameworks"],
+    "professional": ["Governance leadership"]
+  },
+  "related_skills": ["Corporate Governance","Board Management","Ethical Leadership","Regulatory Compliance","Risk Oversight","Corporate Policy"]
+},
+{
+  "name": "ESG Program Manager",
+  "overview": "ESG Program Managers design and manage environmental, social, and governance initiatives to ensure sustainable, ethical, and compliant business operations.",
+  "advantages": ["Sustainability impact","Future-proof role"],
+  "disadvantages": ["Reporting complexity","Regulatory evolution"],
+  "demand": "Very high due to global ESG mandates.",
+  "required_skills": {
+    "basic": ["ESG fundamentals","Sustainability basics","Data collection","Reporting","Regulatory awareness"],
+    "intermediate": ["Impact measurement","ESG frameworks","Stakeholder engagement","Compliance reporting","Program coordination"],
+    "advanced": ["Sustainability strategy"],
+    "professional": ["ESG leadership"]
+  },
+  "related_skills": ["ESG Management","Sustainability Strategy","Impact Reporting","Corporate Responsibility","Governance Standards","Ethical Business"]
+},
+{
+  "name": "Pricing Strategy Manager",
+  "overview": "Pricing Strategy Managers design data-driven pricing models to maximize profitability, competitiveness, and customer value across products and services.",
+  "advantages": ["Direct profit impact","Strategic role"],
+  "disadvantages": ["Market sensitivity","Analytical pressure"],
+  "demand": "High in retail, SaaS, and FMCG sectors.",
+  "required_skills": {
+    "basic": ["Pricing basics","Market research","Numerical skills","Excel","Competitive analysis"],
+    "intermediate": ["Pricing models","Elasticity analysis","Revenue optimization","Scenario planning","Data interpretation"],
+    "advanced": ["Monetization strategy"],
+    "professional": ["Pricing leadership"]
+  },
+  "related_skills": ["Pricing Strategy","Revenue Optimization","Market Analytics","Profitability Analysis","Competitive Pricing","Monetization"]
+},
+{
+  "name": "Business Process Reengineering Manager",
+  "overview": "Business Process Reengineering Managers redesign core business processes to improve efficiency, reduce costs, and enhance organizational performance.",
+  "advantages": ["High transformation impact","Operational authority"],
+  "disadvantages": ["Change resistance","Complex execution"],
+  "demand": "High in large enterprises and transformation projects.",
+  "required_skills": {
+    "basic": ["Process basics","Workflow mapping","Documentation","Analytical thinking","Communication"],
+    "intermediate": ["Process redesign","Automation planning","Change management","Performance metrics","Stakeholder alignment"],
+    "advanced": ["Enterprise process transformation"],
+    "professional": ["Transformation leadership"]
+  },
+  "related_skills": ["Process Reengineering","Operational Excellence","Workflow Optimization","Change Management","Efficiency Improvement","Business Transformation"]
+},
+{
+  "name": "Chief of Staff",
+  "overview": "Chief of Staff professionals support senior executives by managing strategic priorities, cross-functional initiatives, and executive decision-making processes.",
+  "advantages": ["Executive exposure","Fast career growth"],
+  "disadvantages": ["High pressure","Broad responsibilities"],
+  "demand": "Rapidly increasing in startups and large corporations.",
+  "required_skills": {
+    "basic": ["Business fundamentals","Communication","Prioritization","Documentation","Analytical thinking"],
+    "intermediate": ["Strategic coordination","Stakeholder management","Decision support","Performance tracking","Project oversight"],
+    "advanced": ["Executive strategy"],
+    "professional": ["Executive leadership"]
+  },
+  "related_skills": ["Executive Support","Strategic Coordination","Leadership Advisory","Decision Management","Organizational Alignment","Business Operations"]
+},
+{
+  "name": "Monetization Manager",
+  "overview": "Monetization Managers design and optimize revenue models by identifying new income streams and improving value extraction from products and services.",
+  "advantages": ["High revenue ownership","Innovation-driven"],
+  "disadvantages": ["Market testing risks","Data dependency"],
+  "demand": "High in digital platforms and startups.",
+  "required_skills": {
+    "basic": ["Revenue concepts","Market research","Business modeling","Data basics","Customer understanding"],
+    "intermediate": ["Pricing experiments","Revenue modeling","Customer segmentation","Product alignment","Analytics"],
+    "advanced": ["Revenue architecture"],
+    "professional": ["Monetization leadership"]
+  },
+  "related_skills": ["Monetization Strategy","Revenue Modeling","Business Innovation","Customer Value Analysis","Growth Strategy","Digital Economics"]
+},
+{
+  "name": "Corporate Planning Manager",
+  "overview": "Corporate Planning Managers lead long-term planning, budgeting, and performance alignment to ensure organizational goals are met efficiently.",
+  "advantages": ["Strategic role","Leadership interaction"],
+  "disadvantages": ["Forecast uncertainty","High responsibility"],
+  "demand": "High in conglomerates and public enterprises.",
+  "required_skills": {
+    "basic": ["Planning basics","Financial literacy","Excel","Reporting","Business awareness"],
+    "intermediate": ["Budget forecasting","Strategic alignment","Performance tracking","Scenario analysis","Resource planning"],
+    "advanced": ["Enterprise planning"],
+    "professional": ["Corporate leadership"]
+  },
+  "related_skills": ["Corporate Planning","Strategic Forecasting","Budget Management","Performance Analysis","Business Alignment","Long-Term Strategy"]
+},
+{
+  "name": "Market Intelligence Manager",
+  "overview": "Market Intelligence Managers collect and analyze competitive, customer, and industry data to support strategic business decisions.",
+  "advantages": ["High strategic insight","Decision influence"],
+  "disadvantages": ["Data overload","Continuous monitoring"],
+  "demand": "High in competitive and global markets.",
+  "required_skills": {
+    "basic": ["Market research","Data collection","Analytical thinking","Reporting","Industry awareness"],
+    "intermediate": ["Competitive intelligence","Trend analysis","Data visualization","Insight generation","Stakeholder communication"],
+    "advanced": ["Strategic intelligence"],
+    "professional": ["Insight leadership"]
+  },
+  "related_skills": ["Market Intelligence","Competitive Analysis","Industry Research","Strategic Insights","Business Analytics","Decision Support"]
+},
+{
+  "name": "Growth Strategy Manager",
+  "overview": "Growth Strategy Managers design and execute data-driven initiatives to scale user acquisition, revenue, and market expansion through experimentation and strategic planning.",
+  "advantages": ["High growth impact","Innovation-driven role"],
+  "disadvantages": ["High experimentation risk","Fast-paced pressure"],
+  "demand": "Very high in startups and digital businesses.",
+  "required_skills": {
+    "basic": ["Business fundamentals","Growth concepts","Data interpretation","Customer awareness","Analytical thinking"],
+    "intermediate": ["Growth experiments","Funnel analysis","Market expansion","Cross-team collaboration","Performance tracking"],
+    "advanced": ["Scalable growth strategy"],
+    "professional": ["Growth leadership"]
+  },
+  "related_skills": ["Growth Strategy","Business Scaling","Market Expansion","Data-Driven Decision Making","Revenue Growth","Startup Strategy"]
+},
+{
+  "name": "Operations Excellence Manager",
+  "overview": "Operations Excellence Managers drive continuous improvement initiatives to enhance efficiency, reduce waste, and optimize operational performance across organizations.",
+  "advantages": ["Efficiency ownership","Enterprise-wide impact"],
+  "disadvantages": ["Change resistance","Process complexity"],
+  "demand": "High in manufacturing and service industries.",
+  "required_skills": {
+    "basic": ["Operations basics","Process understanding","Documentation","Analytical skills","Quality awareness"],
+    "intermediate": ["Lean practices","Process optimization","Performance metrics","Change management","Root cause analysis"],
+    "advanced": ["Operational transformation"],
+    "professional": ["Excellence leadership"]
+  },
+  "related_skills": ["Operational Excellence","Process Optimization","Lean Management","Continuous Improvement","Efficiency Analysis","Change Enablement"]
+},
+{
+  "name": "Business Continuity Manager",
+  "overview": "Business Continuity Managers ensure organizational resilience by planning for disruptions and enabling rapid recovery of critical business operations.",
+  "advantages": ["Risk-critical role","High strategic importance"],
+  "disadvantages": ["Crisis-driven pressure","High accountability"],
+  "demand": "Growing due to global operational risks.",
+  "required_skills": {
+    "basic": ["Risk awareness","Business processes","Documentation","Compliance basics","Communication"],
+    "intermediate": ["Continuity planning","Disaster recovery","Impact analysis","Risk mitigation","Scenario testing"],
+    "advanced": ["Resilience frameworks"],
+    "professional": ["Continuity leadership"]
+  },
+  "related_skills": ["Business Continuity","Risk Resilience","Disaster Recovery Planning","Operational Risk","Crisis Management","Organizational Stability"]
+},
+{
+  "name": "Change Management Lead",
+  "overview": "Change Management Leads guide organizations through strategic, digital, and cultural transformations by managing people, processes, and communication.",
+  "advantages": ["High transformation impact","Leadership exposure"],
+  "disadvantages": ["Employee resistance","Emotional challenges"],
+  "demand": "Very high in digital transformation programs.",
+  "required_skills": {
+    "basic": ["Change basics","Communication","Stakeholder awareness","Documentation","Business understanding"],
+    "intermediate": ["Change frameworks","Training planning","Engagement strategies","Impact assessment","Adoption tracking"],
+    "advanced": ["Transformation leadership"],
+    "professional": ["Organizational leadership"]
+  },
+  "related_skills": ["Change Management","Organizational Transformation","Employee Engagement","Adoption Strategy","Leadership Communication","Culture Building"]
+},
+{
+  "name": "Commercial Operations Manager",
+  "overview": "Commercial Operations Managers support revenue teams by optimizing commercial processes, contracts, pricing, and operational efficiency.",
+  "advantages": ["Revenue enablement role","Cross-functional exposure"],
+  "disadvantages": ["Process-heavy","Stakeholder dependency"],
+  "demand": "High in B2B enterprises.",
+  "required_skills": {
+    "basic": ["Commercial basics","Contract understanding","Data literacy","Documentation","Business awareness"],
+    "intermediate": ["Deal management","Pricing support","Sales operations","Process optimization","Revenue reporting"],
+    "advanced": ["Commercial strategy"],
+    "professional": ["Commercial leadership"]
+  },
+  "related_skills": ["Commercial Operations","Revenue Enablement","Contract Management","Deal Optimization","Sales Support","Business Operations"]
+},
+{
+  "name": "Organizational Development Manager",
+  "overview": "Organizational Development Managers improve organizational effectiveness by aligning structure, culture, leadership, and talent strategies.",
+  "advantages": ["People-centric role","Long-term impact"],
+  "disadvantages": ["Slow change cycles","Measurement challenges"],
+  "demand": "High in large enterprises and HR transformations.",
+  "required_skills": {
+    "basic": ["Organization basics","Behavioral understanding","Communication","Data interpretation","HR awareness"],
+    "intermediate": ["Talent development","Culture initiatives","Leadership programs","Assessment tools","Change coordination"],
+    "advanced": ["Organizational strategy"],
+    "professional": ["OD leadership"]
+  },
+  "related_skills": ["Organizational Development","Culture Design","Leadership Development","Talent Strategy","Workforce Planning","Change Enablement"]
+},
+{
+  "name": "Corporate Innovation Manager",
+  "overview": "Corporate Innovation Managers drive innovation initiatives by exploring new business models, technologies, and internal innovation programs.",
+  "advantages": ["Creative freedom","Future-focused role"],
+  "disadvantages": ["Uncertain ROI","Experimentation risks"],
+  "demand": "High in large corporations and R&D-driven firms.",
+  "required_skills": {
+    "basic": ["Innovation basics","Business models","Market awareness","Research skills","Creative thinking"],
+    "intermediate": ["Innovation frameworks","Pilot management","Cross-team collaboration","Opportunity evaluation","Startup scouting"],
+    "advanced": ["Innovation strategy"],
+    "professional": ["Innovation leadership"]
+  },
+  "related_skills": ["Corporate Innovation","Business Model Design","Innovation Management","New Ventures","Strategic Experimentation","Future Strategy"]
+},
+{
+  "name": "Program Management Office Head",
+  "overview": "PMO Heads oversee enterprise programs by ensuring governance, alignment, execution discipline, and performance tracking across projects.",
+  "advantages": ["High organizational control","Executive visibility"],
+  "disadvantages": ["Governance pressure","Multi-project complexity"],
+  "demand": "High in IT, infrastructure, and enterprises.",
+  "required_skills": {
+    "basic": ["Project basics","Documentation","Communication","Scheduling","Risk awareness"],
+    "intermediate": ["Program governance","Resource planning","Portfolio tracking","Performance metrics","Stakeholder reporting"],
+    "advanced": ["Enterprise program management"],
+    "professional": ["PMO leadership"]
+  },
+  "related_skills": ["Program Management","Portfolio Governance","Enterprise Delivery","Project Oversight","Execution Excellence","Strategic Alignment"]
+},
+{
+  "name": "Vendor Risk Manager",
+  "overview": "Vendor Risk Managers assess and mitigate risks arising from third-party vendors to ensure business continuity and compliance.",
+  "advantages": ["Risk ownership","Cross-functional role"],
+  "disadvantages": ["Vendor dependency","Regulatory scrutiny"],
+  "demand": "High in BFSI and IT services.",
+  "required_skills": {
+    "basic": ["Vendor basics","Risk awareness","Compliance understanding","Documentation","Business processes"],
+    "intermediate": ["Third-party risk assessment","Due diligence","Audit coordination","Contract risk","Monitoring frameworks"],
+    "advanced": ["Enterprise vendor risk"],
+    "professional": ["Risk leadership"]
+  },
+  "related_skills": ["Vendor Risk","Third-Party Management","Compliance Oversight","Operational Risk","Contract Risk","Business Resilience"]
+},
+{
+  "name": "Portfolio Manager",
+  "overview": "Portfolio Managers oversee multiple strategic initiatives or products to ensure alignment with business goals and optimal resource utilization.",
+  "advantages": ["Strategic control","High decision authority"],
+  "disadvantages": ["Resource conflicts","High accountability"],
+  "demand": "High in enterprise and consulting firms.",
+  "required_skills": {
+    "basic": ["Portfolio basics","Planning skills","Analytical thinking","Communication","Business understanding"],
+    "intermediate": ["Prioritization","Resource allocation","Performance tracking","Stakeholder coordination","Risk balancing"],
+    "advanced": ["Portfolio optimization"],
+    "professional": ["Portfolio leadership"]
+  },
+  "related_skills": ["Portfolio Management","Strategic Prioritization","Resource Planning","Enterprise Governance","Business Alignment","Performance Optimization"]
+},
+{
+  "name": "Corporate Affairs Manager",
+  "overview": "Corporate Affairs Managers manage external relations, public policy engagement, and corporate communications to protect organizational reputation.",
+  "advantages": ["Public influence","Leadership interaction"],
+  "disadvantages": ["Reputation risk","Policy dependency"],
+  "demand": "High in regulated industries.",
+  "required_skills": {
+    "basic": ["Communication skills","Policy awareness","Media basics","Documentation","Stakeholder management"],
+    "intermediate": ["Government relations","Public affairs strategy","Crisis communication","Reputation management","Advocacy"],
+    "advanced": ["Corporate diplomacy"],
+    "professional": ["Public affairs leadership"]
+  },
+  "related_skills": ["Corporate Affairs","Public Policy","Government Relations","Reputation Management","Strategic Communication","Regulatory Engagement"]
+},
+{
+  "name": "Global Expansion Manager",
+  "overview": "Global Expansion Managers plan and execute international market entry strategies, partnerships, and localization initiatives.",
+  "advantages": ["International exposure","Market leadership"],
+  "disadvantages": ["Regulatory complexity","Cultural challenges"],
+  "demand": "High in multinational and scaling startups.",
+  "required_skills": {
+    "basic": ["International business","Market research","Communication","Cultural awareness","Planning"],
+    "intermediate": ["Market entry strategy","Localization planning","Regulatory navigation","Partner selection","Risk analysis"],
+    "advanced": ["Global strategy"],
+    "professional": ["Expansion leadership"]
+  },
+  "related_skills": ["Global Expansion","International Business","Market Entry Strategy","Cross-Border Operations","Strategic Growth","Global Partnerships"]
+},
+{
+  "name": "Business Architecture Manager",
+  "overview": "Business Architecture Managers align business strategy, processes, capabilities, and technology to drive enterprise transformation.",
+  "advantages": ["Enterprise-wide impact","Strategic visibility"],
+  "disadvantages": ["Complex frameworks","High coordination"],
+  "demand": "High in digital transformation programs.",
+  "required_skills": {
+    "basic": ["Business architecture basics","Process mapping","Documentation","Strategic thinking","Enterprise awareness"],
+    "intermediate": ["Capability modeling","Operating models","Transformation planning","Stakeholder alignment","Roadmapping"],
+    "advanced": ["Enterprise architecture"],
+    "professional": ["Architecture leadership"]
+  },
+  "related_skills": ["Business Architecture","Enterprise Modeling","Operating Models","Transformation Strategy","Capability Design","Strategic Alignment"]
+},
+{
+  "name": "Data-Driven Decision Manager",
+  "overview": "Data-Driven Decision Managers enable leadership teams to make informed decisions by translating analytics into actionable business insights.",
+  "advantages": ["Insight ownership","High executive value"],
+  "disadvantages": ["Data dependency","High expectations"],
+  "demand": "Very high in analytics-driven organizations.",
+  "required_skills": {
+    "basic": ["Data basics","Business understanding","Analytical thinking","Reporting","Communication"],
+    "intermediate": ["Insight generation","Data storytelling","Performance analysis","Dashboarding","Decision frameworks"],
+    "advanced": ["Decision science"],
+    "professional": ["Insight leadership"]
+  },
+  "related_skills": ["Decision Intelligence","Business Analytics","Data Interpretation","Executive Insights","Strategic Analytics","Performance Measurement"]
+},
+{
+  "name": "Regulatory Compliance Manager",
+  "overview": "Regulatory Compliance Managers ensure organizations comply with laws, regulations, and internal policies across business operations.",
+  "advantages": ["High governance role","Risk prevention"],
+  "disadvantages": ["Regulatory pressure","Documentation-heavy"],
+  "demand": "High in BFSI, pharma, and manufacturing.",
+  "required_skills": {
+    "basic": ["Compliance basics","Legal awareness","Documentation","Policy understanding","Risk basics"],
+    "intermediate": ["Regulatory monitoring","Compliance audits","Risk assessments","Reporting","Control frameworks"],
+    "advanced": ["Compliance governance"],
+    "professional": ["Compliance leadership"]
+  },
+  "related_skills": ["Regulatory Compliance","Risk Controls","Audit Coordination","Governance Frameworks","Legal Compliance","Operational Risk"]
+},
+{
+  "name": "Digital Transformation Program Manager",
+  "overview": "Digital Transformation Program Managers lead large-scale digital initiatives to modernize business models, processes, and customer experiences.",
+  "advantages": ["Future-ready role","Executive visibility"],
+  "disadvantages": ["High complexity","Change resistance"],
+  "demand": "Extremely high across industries.",
+  "required_skills": {
+    "basic": ["Digital basics","Business processes","Communication","Project fundamentals","Technology awareness"],
+    "intermediate": ["Transformation planning","Stakeholder alignment","Technology adoption","Change execution","Performance tracking"],
+    "advanced": ["Enterprise digital strategy"],
+    "professional": ["Transformation leadership"]
+  },
+  "related_skills": ["Digital Transformation","Program Management","Enterprise Modernization","Change Enablement","Technology Strategy","Business Innovation"]
+},
+{
+  "name": "Shared Services Manager",
+  "overview": "Shared Services Managers optimize centralized business services to improve efficiency, cost control, and service quality across organizations.",
+  "advantages": ["Cost optimization","Operational control"],
+  "disadvantages": ["Service expectations","Process rigidity"],
+  "demand": "High in large enterprises.",
+  "required_skills": {
+    "basic": ["Service operations","Process understanding","Communication","Documentation","Customer focus"],
+    "intermediate": ["Service optimization","Process standardization","Performance metrics","Cost control","Team management"],
+    "advanced": ["Service delivery strategy"],
+    "professional": ["Operations leadership"]
+  },
+  "related_skills": ["Shared Services","Service Operations","Process Standardization","Operational Efficiency","Cost Management","Service Excellence"]
+},
+{
+  "name": "Value Chain Manager",
+  "overview": "Value Chain Managers analyze and optimize end-to-end business activities to maximize value creation and competitive advantage.",
+  "advantages": ["Strategic insight","End-to-end ownership"],
+  "disadvantages": ["Complex analysis","Cross-functional challenges"],
+  "demand": "High in manufacturing and logistics-heavy industries.",
+  "required_skills": {
+    "basic": ["Value chain basics","Business processes","Analytical thinking","Market awareness","Documentation"],
+    "intermediate": ["Cost analysis","Process integration","Supplier coordination","Efficiency metrics","Strategic assessment"],
+    "advanced": ["Value optimization strategy"],
+    "professional": ["Value leadership"]
+  },
+  "related_skills": ["Value Chain Analysis","Business Optimization","Strategic Operations","Cost Efficiency","Competitive Advantage","Process Integration"]
+},
+{
+  "name": "Workforce Strategy Manager",
+  "overview": "Workforce Strategy Managers align talent planning with long-term business objectives through analytics, forecasting, and capability development.",
+  "advantages": ["Future workforce planning","Strategic HR role"],
+  "disadvantages": ["Forecast uncertainty","Talent market dependency"],
+  "demand": "High in enterprise HR transformations.",
+  "required_skills": {
+    "basic": ["Workforce basics","Data interpretation","HR understanding","Planning skills","Business awareness"],
+    "intermediate": ["Workforce analytics","Capability planning","Demand forecasting","Talent modeling","Stakeholder coordination"],
+    "advanced": ["Human capital strategy"],
+    "professional": ["Workforce leadership"]
+  },
+  "related_skills": ["Workforce Strategy","Talent Planning","HR Analytics","Capability Development","Future of Work","Organizational Planning"]
+},
+{
+  "name": "Strategic Risk Advisory Manager",
+  "overview": "Strategic Risk Advisory Managers advise leadership on enterprise-level risks, uncertainties, and mitigation strategies affecting long-term goals.",
+  "advantages": ["High advisory value","Executive influence"],
+  "disadvantages": ["High responsibility","Decision sensitivity"],
+  "demand": "High in consulting and large enterprises.",
+  "required_skills": {
+    "basic": ["Risk basics","Business understanding","Analytical thinking","Documentation","Communication"],
+    "intermediate": ["Enterprise risk analysis","Scenario planning","Risk modeling","Advisory reporting","Stakeholder engagement"],
+    "advanced": ["Strategic risk frameworks"],
+    "professional": ["Risk advisory leadership"]
+  },
+  "related_skills": ["Strategic Risk","Enterprise Advisory","Scenario Analysis","Risk Modeling","Executive Consulting","Business Resilience"]
+}
+
+    
+  ]
+}

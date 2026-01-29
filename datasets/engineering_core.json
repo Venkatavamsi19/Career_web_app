@@ -1,0 +1,1123 @@
+{
+  "category": "Engineering",
+  "careers": [
+    {
+      "name": "Mechanical Engineer",
+      "overview": "A Mechanical Engineer is responsible for applying engineering principles, performing calculations, designing systems, and overseeing projects to ensure efficiency, safety, and innovation in technical solutions across various industries.",
+      "advantages": [
+        "High demand in industry",
+        "Opportunities for innovation",
+        "Competitive salary",
+        "Wide career growth potential",
+        "Professional recognition"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Challenging technical problems",
+        "Long work hours during projects",
+        "Continuous skill upgrades required"
+      ],
+      "demand": "Very high in manufacturing and infrastructure sectors.",
+      "required_skills": {
+        "basic": [
+          "Fundamentals of engineering",
+          "Mathematics",
+          "Physics",
+          "Technical drawing",
+          "Computer literacy"
+        ],
+        "intermediate": [
+          "Design skills",
+          "Problem-solving",
+          "Project planning",
+          "Simulation software",
+          "Field measurements"        ],
+        "advanced": [
+          "Advanced design optimization",
+          "Project management",
+          "System integration",
+          "Failure analysis",
+          "Industrial automation"],
+        "professional": [
+          "Leadership in engineering projects",
+          "Strategic decision-making",
+          "Innovation management",
+          "Technical mentoring",
+          "Industry compliance knowledge"
+        ]
+      },
+      "related_skills": [
+        "Problem Solving",
+        "Technical Knowledge",
+        "Project Management",
+        "CAD",
+        "Simulation",
+        "Analysis",
+        "Teamwork",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Civil Engineer",
+      "overview": "A Civil Engineer is responsible for applying engineering principles, performing calculations, designing systems, and overseeing projects to ensure efficiency, safety, and innovation in technical solutions across various industries.",
+      "advantages": [
+        "High demand in industry",
+        "Opportunities for innovation",
+        "Competitive salary",
+        "Wide career growth potential",
+        "Professional recognition"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Challenging technical problems",
+        "Long work hours during projects",
+        "Continuous skill upgrades required"
+      ],
+      "demand": "Consistently high due to global engineering needs.",
+      "required_skills": {
+        "basic": [
+          "Fundamentals of engineering",
+          "Mathematics",
+          "Physics",
+          "Technical drawing",
+          "Computer literacy"
+        ],
+        "intermediate": [
+          "Design skills",
+          "Problem-solving",
+          "Project planning",
+          "Simulation software",
+          "Field measurements"
+        ],
+        "advanced": [
+          "Advanced design optimization",
+          "Project management",
+          "System integration",
+          "Failure analysis",
+          "Industrial automation"
+        ],
+        "professional": [
+          "Leadership in engineering projects",
+          "Strategic decision-making",
+          "Innovation management",
+          "Technical mentoring",
+          "Industry compliance knowledge"
+        ]
+      },
+      "related_skills": [
+        "Problem Solving",
+        "Technical Knowledge",
+        "Project Management",
+        "CAD",
+        "Simulation",
+        "Analysis",
+        "Teamwork",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Electrical Engineer",
+      "overview": "A Electrical Engineer is responsible for applying engineering principles, performing calculations, designing systems, and overseeing projects to ensure efficiency, safety, and innovation in technical solutions across various industries.",
+      "advantages": [
+        "High demand in industry",
+        "Opportunities for innovation",
+        "Competitive salary",
+        "Wide career growth potential",
+        "Professional recognition"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Challenging technical problems",
+        "Long work hours during projects",
+        "Continuous skill upgrades required"
+      ],
+      "demand": "Growing rapidly with industrial expansion.",
+      "required_skills": {
+        "basic": [
+          "Fundamentals of engineering",
+          "Mathematics",
+          "Physics",
+          "Technical drawing",
+          "Computer literacy"
+        ],
+        "intermediate": [
+          "Design skills",
+          "Problem-solving",
+          "Project planning",
+          "Simulation software",
+          "Field measurements"
+        ],
+        "advanced": [
+          "Advanced design optimization",
+          "Project management",
+          "System integration",
+          "Failure analysis",
+          "Industrial automation"
+        ],
+        "professional": [
+          "Leadership in engineering projects",
+          "Strategic decision-making",
+          "Innovation management",
+          "Technical mentoring",
+          "Industry compliance knowledge"
+        ]
+      },
+      "related_skills": [
+        "Problem Solving",
+        "Technical Knowledge",
+        "Project Management",
+        "CAD",
+        "Simulation",
+        "Analysis",
+        "Teamwork",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Chemical Engineer",
+      "overview": "A Chemical Engineer is responsible for applying engineering principles, performing calculations, designing systems, and overseeing projects to ensure efficiency, safety, and innovation in technical solutions across various industries.",
+      "advantages": [
+        "High demand in industry",
+        "Opportunities for innovation",
+        "Competitive salary",
+        "Wide career growth potential",
+        "Professional recognition"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Challenging technical problems",
+        "Long work hours during projects",
+        "Continuous skill upgrades required"
+      ],
+      "demand": "Very high in manufacturing and infrastructure sectors.",
+      "required_skills": {
+        "basic": [
+          "Fundamentals of engineering",
+          "Mathematics",
+          "Physics",
+          "Technical drawing",
+          "Computer literacy"
+        ],
+        "intermediate": [
+          "Design skills",
+          "Problem-solving",
+          "Project planning",
+          "Simulation software",
+          "Field measurements"
+        ],
+        "advanced": [
+          "Advanced design optimization",
+          "Project management",
+          "System integration",
+          "Failure analysis",
+          "Industrial automation"
+        ],
+        "professional": [
+          "Leadership in engineering projects",
+          "Strategic decision-making",
+          "Innovation management",
+          "Technical mentoring",
+          "Industry compliance knowledge"
+        ]
+      },
+      "related_skills": [
+        "Problem Solving",
+        "Technical Knowledge",
+        "Project Management",
+        "CAD",
+        "Simulation",
+        "Analysis",
+        "Teamwork",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Aerospace Engineer",
+      "overview": "A Aerospace Engineer is responsible for applying engineering principles, performing calculations, designing systems, and overseeing projects to ensure efficiency, safety, and innovation in technical solutions across various industries.",
+      "advantages": [
+        "High demand in industry",
+        "Opportunities for innovation",
+        "Competitive salary",
+        "Wide career growth potential",
+        "Professional recognition"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Challenging technical problems",
+        "Long work hours during projects",
+        "Continuous skill upgrades required"
+      ],
+      "demand": "Consistently high due to global engineering needs.",
+      "required_skills": {
+        "basic": [
+          "Fundamentals of engineering",
+          "Mathematics",
+          "Physics",
+          "Technical drawing",
+          "Computer literacy"
+        ],
+        "intermediate": [
+          "Design skills",
+          "Problem-solving",
+          "Project planning",
+          "Simulation software",
+          "Field measurements"
+        ],
+        "advanced": [
+          "Advanced design optimization",
+          "Project management",
+          "System integration",
+          "Failure analysis",
+          "Industrial automation"
+        ],
+        "professional": [
+          "Leadership in engineering projects",
+          "Strategic decision-making",
+          "Innovation management",
+          "Technical mentoring",
+          "Industry compliance knowledge"
+        ]
+      },
+      "related_skills": [
+        "Problem Solving",
+        "Technical Knowledge",
+        "Project Management",
+        "CAD",
+        "Simulation",
+        "Analysis",
+        "Teamwork",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Industrial Engineer",
+      "overview": "A Industrial Engineer is responsible for applying engineering principles, performing calculations, designing systems, and overseeing projects to ensure efficiency, safety, and innovation in technical solutions across various industries.",
+      "advantages": [
+        "High demand in industry",
+        "Opportunities for innovation",
+        "Competitive salary",
+        "Wide career growth potential",
+        "Professional recognition"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Challenging technical problems",
+        "Long work hours during projects",
+        "Continuous skill upgrades required"
+      ],
+      "demand": "Growing rapidly with industrial expansion.",
+      "required_skills": {
+        "basic": [
+          "Fundamentals of engineering",
+          "Mathematics",
+          "Physics",
+          "Technical drawing",
+          "Computer literacy" 
+        ],
+        "intermediate": [
+          "Design skills",
+          "Problem-solving",
+          "Project planning",
+          "Simulation software",
+          "Field measurements"
+        ],
+        "advanced": [
+          "Advanced design optimization",
+          "Project management",
+          "System integration",
+          "Failure analysis",
+          "Industrial automation"
+        ],
+        "professional": [
+          "Leadership in engineering projects",
+          "Strategic decision-making",
+          "Innovation management",
+          "Technical mentoring",
+          "Industry compliance knowledge"
+        ]
+      },
+      "related_skills": [
+        "Problem Solving",
+        "Technical Knowledge",
+        "Project Management",
+        "CAD",
+        "Simulation",
+        "Analysis",
+        "Teamwork",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Materials Engineer",
+      "overview": "A Materials Engineer is responsible for applying engineering principles, performing calculations, designing systems, and overseeing projects to ensure efficiency, safety, and innovation in technical solutions across various industries.",
+      "advantages": [
+        "High demand in industry",
+        "Opportunities for innovation",
+        "Competitive salary",
+        "Wide career growth potential",
+        "Professional recognition"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Challenging technical problems",
+        "Long work hours during projects",
+        "Continuous skill upgrades required"
+      ],
+      "demand": "Very high in manufacturing and infrastructure sectors.",
+      "required_skills": {
+        "basic": [
+          "Fundamentals of engineering",
+          "Mathematics",
+          "Physics",
+          "Technical drawing",
+          "Computer literacy"
+        ],
+        "intermediate": [
+          "Design skills",
+          "Problem-solving",
+          "Project planning",
+          "Simulation software",
+          "Field measurements"
+        ],
+        "advanced": [
+          "Advanced design optimization",
+          "Project management",
+          "System integration",
+          "Failure analysis",
+          "Industrial automation"
+        ],
+        "professional": [
+          "Leadership in engineering projects",
+          "Strategic decision-making",
+          "Innovation management",
+          "Technical mentoring",
+          "Industry compliance knowledge"
+        ]
+      },
+      "related_skills": [
+        "Problem Solving",
+        "Technical Knowledge",
+        "Project Management",
+        "CAD",
+        "Simulation",
+        "Analysis",
+        "Teamwork",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Mining Engineer",
+      "overview": "A Mining Engineer is responsible for applying engineering principles, performing calculations, designing systems, and overseeing projects to ensure efficiency, safety, and innovation in technical solutions across various industries.",
+      "advantages": [
+        "High demand in industry",
+        "Opportunities for innovation",
+        "Competitive salary",
+        "Wide career growth potential",
+        "Professional recognition"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Challenging technical problems",
+        "Long work hours during projects",
+        "Continuous skill upgrades required"
+      ],
+      "demand": "Consistently high due to global engineering needs.",
+      "required_skills": {
+        "basic": [
+          "Fundamentals of engineering",
+          "Mathematics",
+          "Physics",
+          "Technical drawing",
+          "Computer literacy"
+        ],
+        "intermediate": [
+          "Design skills",
+          "Problem-solving",
+          "Project planning",
+          "Simulation software",
+          "Field measurements"
+        ],
+        "advanced": [
+          "Advanced design optimization",
+          "Project management",
+          "System integration",
+          "Failure analysis",
+          "Industrial automation"
+        ],
+        "professional": [
+          "Leadership in engineering projects",
+          "Strategic decision-making",
+          "Innovation management",
+          "Technical mentoring",
+          "Industry compliance knowledge"
+        ]
+      },
+      "related_skills": [
+        "Problem Solving",
+        "Technical Knowledge",
+        "Project Management",
+        "CAD",
+        "Simulation",
+        "Analysis",
+        "Teamwork",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Environmental Engineer",
+      "overview": "A Environmental Engineer is responsible for applying engineering principles, performing calculations, designing systems, and overseeing projects to ensure efficiency, safety, and innovation in technical solutions across various industries.",
+      "advantages": [
+        "High demand in industry",
+        "Opportunities for innovation",
+        "Competitive salary",
+        "Wide career growth potential",
+        "Professional recognition"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Challenging technical problems",
+        "Long work hours during projects",
+        "Continuous skill upgrades required"
+      ],
+      "demand": "Growing rapidly with industrial expansion.",
+      "required_skills": {
+        "basic": [
+          "Fundamentals of engineering",
+          "Mathematics",
+          "Physics",
+          "Technical drawing",
+          "Computer literacy"
+        ],
+        "intermediate": [
+          "Design skills",
+          "Problem-solving",
+          "Project planning",
+          "Simulation software",
+          "Field measurements"
+        ],
+        "advanced": [
+          "Advanced design optimization",
+          "Project management",
+          "System integration",
+          "Failure analysis",
+          "Industrial automation"
+        ],
+        "professional": [
+          "Leadership in engineering projects",
+          "Strategic decision-making",
+          "Innovation management",
+          "Technical mentoring",
+          "Industry compliance knowledge"
+        ]
+      },
+      "related_skills": [
+        "Problem Solving",
+        "Technical Knowledge",
+        "Project Management",
+        "CAD",
+        "Simulation",
+        "Analysis",
+        "Teamwork",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Structural Engineer",
+      "overview": "A Structural Engineer is responsible for applying engineering principles, performing calculations, designing systems, and overseeing projects to ensure efficiency, safety, and innovation in technical solutions across various industries.",
+      "advantages": [
+        "High demand in industry",
+        "Opportunities for innovation",
+        "Competitive salary",
+        "Wide career growth potential",
+        "Professional recognition"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Challenging technical problems",
+        "Long work hours during projects",
+        "Continuous skill upgrades required"
+      ],
+      "demand": "Very high in manufacturing and infrastructure sectors.",
+      "required_skills": {
+        "basic": [
+          "Fundamentals of engineering",
+          "Mathematics",
+          "Physics",
+          "Technical drawing",
+          "Computer literacy"
+        ],
+        "intermediate": [
+          "Design skills",
+          "Problem-solving",
+          "Project planning",
+          "Simulation software",
+          "Field measurements"
+        ],
+        "advanced": [
+          "Advanced design optimization",
+          "Project management",
+          "System integration",
+          "Failure analysis",
+          "Industrial automation"
+        ],
+        "professional": [
+          "Leadership in engineering projects",
+          "Strategic decision-making",
+          "Innovation management",
+          "Technical mentoring",
+          "Industry compliance knowledge"
+        ]
+      },
+      "related_skills": [
+        "Problem Solving",
+        "Technical Knowledge",
+        "Project Management",
+        "CAD",
+        "Simulation",
+        "Analysis",
+        "Teamwork",
+        "Quality Assurance"
+      ]
+    },
+    {
+  "name": "Civil Site Engineer",
+  "overview": "Civil Site Engineers manage day-to-day construction activities on site, ensuring that structural designs, materials, and workmanship comply with approved plans, safety standards, and project timelines.",
+  "advantages": ["Hands-on field experience", "Strong demand in infrastructure projects"],
+  "disadvantages": ["Long working hours", "Exposure to harsh site conditions"],
+  "demand": "High due to continuous infrastructure and real estate development.",
+  "required_skills": {
+    "basic": ["Construction basics", "Reading drawings", "Material knowledge", "Safety awareness", "Basic surveying"],
+    "intermediate": ["Site supervision", "Quality control", "Quantity estimation", "Contractor coordination", "Scheduling"],
+    "advanced": ["Project execution planning", "Risk mitigation"],
+    "professional": ["Construction leadership", "Project supervision"]
+  },
+  "related_skills": ["Site Management", "Construction Supervision", "Quality Control", "Project Execution", "Structural Coordination"]
+},
+{
+  "name": "Structural Design Engineer",
+  "overview": "Structural Design Engineers analyze and design safe, durable structures such as buildings, bridges, and towers by applying engineering principles, material science, and design codes.",
+  "advantages": ["High technical expertise", "Critical role in safety"],
+  "disadvantages": ["High responsibility", "Design accuracy pressure"],
+  "demand": "Consistently high in construction and infrastructure sectors.",
+  "required_skills": {
+    "basic": ["Engineering mechanics", "Strength of materials", "Structural concepts", "Math skills", "Drafting basics"],
+    "intermediate": ["Structural analysis", "Load calculations", "Design codes", "Software tools", "Material selection"],
+    "advanced": ["Earthquake-resistant design", "Complex structural systems"],
+    "professional": ["Structural consulting leadership"]
+  },
+  "related_skills": ["Structural Analysis", "Design Codes", "Concrete Design", "Steel Design", "Engineering Software"]
+},
+{
+  "name": "Construction Planning Engineer",
+  "overview": "Construction Planning Engineers develop schedules, allocate resources, and optimize workflows to ensure construction projects are completed on time and within budget.",
+  "advantages": ["Strategic role", "High project visibility"],
+  "disadvantages": ["Deadline pressure", "Coordination challenges"],
+  "demand": "High in large-scale infrastructure and EPC projects.",
+  "required_skills": {
+    "basic": ["Construction process knowledge", "Excel skills", "Communication", "Time management", "Documentation"],
+    "intermediate": ["Project scheduling", "Resource planning", "Progress tracking", "Cost control", "Reporting"],
+    "advanced": ["Project optimization techniques"],
+    "professional": ["Planning leadership"]
+  },
+  "related_skills": ["Project Planning", "Scheduling", "Resource Management", "Cost Control", "Construction Analytics"]
+},
+{
+  "name": "Quantity Surveyor",
+  "overview": "Quantity Surveyors estimate project costs, manage budgets, and control expenditures throughout the construction lifecycle to ensure financial efficiency.",
+  "advantages": ["Strong financial role", "High demand globally"],
+  "disadvantages": ["Accuracy pressure", "Cost accountability"],
+  "demand": "Very high in construction and infrastructure projects.",
+  "required_skills": {
+    "basic": ["Measurement techniques", "Construction materials", "Math skills", "BOQ basics", "Documentation"],
+    "intermediate": ["Cost estimation", "Billing", "Contract administration", "Budget tracking", "Tendering"],
+    "advanced": ["Cost optimization strategies"],
+    "professional": ["Commercial management leadership"]
+  },
+  "related_skills": ["Cost Estimation", "Billing", "Contract Management", "Budget Control", "Commercial Engineering"]
+},
+{
+  "name": "Highway Design Engineer",
+  "overview": "Highway Design Engineers plan and design roadways, intersections, and transportation corridors to ensure safety, efficiency, and long-term durability.",
+  "advantages": ["Government project exposure", "High infrastructure demand"],
+  "disadvantages": ["Design regulation complexity", "Field coordination"],
+  "demand": "High due to national road and transport projects.",
+  "required_skills": {
+    "basic": ["Transportation engineering basics", "Surveying", "Drawing interpretation", "Road materials", "Safety norms"],
+    "intermediate": ["Geometric design", "Traffic analysis", "Pavement design", "Design software", "Standards compliance"],
+    "advanced": ["Urban transport planning"],
+    "professional": ["Transportation project leadership"]
+  },
+  "related_skills": ["Highway Engineering", "Traffic Analysis", "Pavement Design", "Transport Planning", "Road Safety"]
+},
+{
+  "name": "Construction Safety Assistant",
+  "overview": "Construction Safety Assistants help implement safety procedures on sites to prevent accidents and ensure compliance with safety regulations.",
+  "advantages": ["Safety-focused role", "Growing demand"],
+  "disadvantages": ["Enforcement challenges", "Site exposure"],
+  "demand": "Increasing due to strict safety regulations.",
+  "required_skills": {
+    "basic": ["Safety basics", "Hazard identification", "Site awareness", "Communication", "Documentation"],
+    "intermediate": ["Safety inspections", "Incident reporting", "Compliance checks", "Training assistance", "Risk assessment"],
+    "advanced": ["Safety system implementation"],
+    "professional": ["Safety management leadership"]
+  },
+  "related_skills": ["Construction Safety", "Risk Identification", "Compliance Monitoring", "Site Safety Audits", "Accident Prevention"]
+},
+{
+  "name": "Material Testing Technician (Civil)",
+  "overview": "Material Testing Technicians test construction materials such as concrete, soil, and aggregates to ensure quality and compliance with standards.",
+  "advantages": ["Quality-focused role", "Technical skill development"],
+  "disadvantages": ["Lab and field coordination", "Repetitive testing"],
+  "demand": "High in quality-controlled projects.",
+  "required_skills": {
+    "basic": ["Material properties", "Testing procedures", "Lab safety", "Data recording", "Equipment handling"],
+    "intermediate": ["Concrete testing", "Soil testing", "Report preparation", "Standard compliance", "Sampling methods"],
+    "advanced": ["Advanced material evaluation"],
+    "professional": ["Quality testing supervision"]
+  },
+  "related_skills": ["Material Testing", "Concrete Quality", "Soil Analysis", "Lab Operations", "Quality Assurance"]
+},
+{
+  "name": "Foundation Design Engineer",
+  "overview": "Foundation Design Engineers design shallow and deep foundations to safely transfer structural loads to the ground.",
+  "advantages": ["High specialization", "Essential for high-rise projects"],
+  "disadvantages": ["Technical complexity", "High design accountability"],
+  "demand": "High for urban and infrastructure construction.",
+  "required_skills": {
+    "basic": ["Soil mechanics", "Structural basics", "Load concepts", "Data analysis", "Design principles"],
+    "intermediate": ["Pile design", "Footing design", "Soil testing interpretation", "Code application", "Structural coordination"],
+    "advanced": ["Advanced foundation systems"],
+    "professional": ["Foundation consulting leadership"]
+  },
+  "related_skills": ["Foundation Engineering", "Geotechnical Design", "Load Transfer Systems", "Soil-Structure Interaction", "Structural Safety"]
+},
+{
+  "name": "Construction Quality Engineer",
+  "overview": "Construction Quality Engineers ensure that construction materials, processes, and workmanship meet specified quality standards and codes.",
+  "advantages": ["Quality ownership", "Critical site role"],
+  "disadvantages": ["Inspection pressure", "Conflict handling"],
+  "demand": "High in regulated infrastructure projects.",
+  "required_skills": {
+    "basic": ["Quality standards", "Material testing", "Documentation", "Attention to detail", "Site safety"],
+    "intermediate": ["Quality audits", "Testing procedures", "Non-conformance handling", "Reporting", "Compliance"],
+    "advanced": ["Quality systems implementation"],
+    "professional": ["Quality management leadership"]
+  },
+  "related_skills": ["Quality Assurance", "Material Testing", "Compliance Monitoring", "Construction Audits", "Process Control"]
+},
+{
+  "name": "Urban Planning Engineer",
+  "overview": "Urban Planning Engineers plan land use, transportation, and infrastructure systems to support sustainable urban development.",
+  "advantages": ["Societal impact", "Government sector roles"],
+  "disadvantages": ["Policy dependency", "Long project timelines"],
+  "demand": "High due to urbanization and smart city initiatives.",
+  "required_skills": {
+    "basic": ["Urban studies", "Mapping basics", "Data analysis", "Communication", "Regulation awareness"],
+    "intermediate": ["Land-use planning", "Transport planning", "GIS tools", "Infrastructure coordination", "Policy analysis"],
+    "advanced": ["Smart city planning"],
+    "professional": ["Urban development leadership"]
+  },
+  "related_skills": ["Urban Planning", "Land Use Management", "Infrastructure Planning", "Smart Cities", "Public Policy"]
+},
+{
+  "name": "Bridge Design Engineer",
+  "overview": "Bridge Design Engineers specialize in designing safe and durable bridges by analyzing loads, materials, and environmental factors.",
+  "advantages": ["Prestigious projects", "High technical challenge"],
+  "disadvantages": ["High precision requirement", "Design pressure"],
+  "demand": "High due to transport and infrastructure expansion.",
+  "required_skills": {
+    "basic": ["Structural mechanics", "Material science", "Drawing skills", "Load concepts", "Math proficiency"],
+    "intermediate": ["Bridge analysis", "Design codes", "Software modeling", "Detailing", "Construction coordination"],
+    "advanced": ["Long-span bridge design"],
+    "professional": ["Structural design leadership"]
+  },
+  "related_skills": ["Bridge Engineering", "Structural Modeling", "Load Analysis", "Infrastructure Design", "Civil Structures"]
+},
+{
+  "name": "Junior Electrical Engineer",
+  "overview": "Junior Electrical Engineers assist in designing, installing, and maintaining electrical systems in buildings, factories, and infrastructure projects while gaining practical field experience.",
+  "advantages": ["Entry-level opportunity", "Wide industry exposure"],
+  "disadvantages": ["Limited authority", "Field-based workload"],
+  "demand": "High across construction and industrial sectors.",
+  "required_skills": {
+    "basic": ["Electrical fundamentals", "Basic circuits", "Safety practices", "Wiring basics", "Technical drawing reading"],
+    "intermediate": ["Site coordination", "Load calculations", "Testing procedures", "Documentation", "Maintenance support"],
+    "advanced": ["Electrical system understanding"],
+    "professional": ["Engineering growth leadership"]
+  },
+  "related_skills": ["Electrical Engineering Basics", "Circuit Analysis", "Power Distribution", "Site Electrical Work", "Technical Documentation"]
+},
+{
+  "name": "Electrical Site Engineer",
+  "overview": "Electrical Site Engineers supervise installation, testing, and commissioning of electrical systems at construction and industrial project sites.",
+  "advantages": ["Hands-on field role", "High site demand"],
+  "disadvantages": ["Long site hours", "High responsibility"],
+  "demand": "Very high in infrastructure and real estate projects.",
+  "required_skills": {
+    "basic": ["Electrical installation basics", "Wiring standards", "Safety regulations", "Material knowledge", "Drawing interpretation"],
+    "intermediate": ["Load planning", "Cable management", "Testing coordination", "Contractor supervision", "Progress reporting"],
+    "advanced": ["System commissioning"],
+    "professional": ["Site electrical leadership"]
+  },
+  "related_skills": ["Electrical Installation", "Site Supervision", "Power Distribution", "Commissioning Support", "Safety Compliance"]
+},
+{
+  "name": "Power Systems Engineer",
+  "overview": "Power Systems Engineers design, analyze, and manage power generation, transmission, and distribution systems to ensure reliable electricity supply.",
+  "advantages": ["Core electrical role", "High technical value"],
+  "disadvantages": ["Complex calculations", "High responsibility"],
+  "demand": "Very high due to expanding power infrastructure.",
+  "required_skills": {
+    "basic": ["Power system basics", "Electrical machines", "Circuit theory", "Mathematics", "Protection basics"],
+    "intermediate": ["Load flow analysis", "Power system protection", "Substation design", "Grid coordination", "Fault analysis"],
+    "advanced": ["Grid stability analysis"],
+    "professional": ["Power system planning leadership"]
+  },
+  "related_skills": ["Power Systems", "Grid Analysis", "Electrical Protection", "Substation Engineering", "Energy Distribution"]
+},
+{
+  "name": "Electrical Design Engineer",
+  "overview": "Electrical Design Engineers create electrical layouts, schematics, and calculations for residential, commercial, and industrial projects.",
+  "advantages": ["Office-based role", "Design-focused career"],
+  "disadvantages": ["High accuracy demand", "Deadline pressure"],
+  "demand": "High in consulting and EPC companies.",
+  "required_skills": {
+    "basic": ["Electrical drawing basics", "Circuit design", "Standards knowledge", "Software basics", "Calculation skills"],
+    "intermediate": ["Load calculations", "Lighting design", "Panel design", "Cable sizing", "Design documentation"],
+    "advanced": ["System optimization"],
+    "professional": ["Design leadership"]
+  },
+  "related_skills": ["Electrical Design", "Load Calculation", "Panel Design", "AutoCAD Electrical", "Power Layout Planning"]
+},
+{
+  "name": "Control & Instrumentation Engineer",
+  "overview": "Control and Instrumentation Engineers design and maintain control systems and instruments used in industrial automation and process plants.",
+  "advantages": ["High-tech role", "Strong industrial demand"],
+  "disadvantages": ["Complex systems", "Continuous learning required"],
+  "demand": "Very high in automation-driven industries.",
+  "required_skills": {
+    "basic": ["Electrical fundamentals", "Sensors basics", "Control theory", "Instrumentation basics", "Safety standards"],
+    "intermediate": ["PLC programming", "Control loops", "Instrumentation calibration", "SCADA basics", "System testing"],
+    "advanced": ["Advanced automation systems"],
+    "professional": ["Automation leadership"]
+  },
+  "related_skills": ["Industrial Automation", "PLC Systems", "Instrumentation Control", "Process Automation", "SCADA Systems"]
+},
+{
+  "name": "Renewable Energy Electrical Engineer",
+  "overview": "Renewable Energy Electrical Engineers design and manage electrical systems for solar, wind, and other renewable power plants.",
+  "advantages": ["Future-focused career", "Sustainability impact"],
+  "disadvantages": ["Project-based work", "Technology changes"],
+  "demand": "Rapidly growing due to clean energy initiatives.",
+  "required_skills": {
+    "basic": ["Electrical basics", "Renewable energy concepts", "Power electronics basics", "Safety standards", "System monitoring"],
+    "intermediate": ["Solar plant design", "Inverter systems", "Grid integration", "Energy storage basics", "Performance analysis"],
+    "advanced": ["Renewable system optimization"],
+    "professional": ["Energy project leadership"]
+  },
+  "related_skills": ["Renewable Energy Systems", "Solar Power Engineering", "Grid Integration", "Power Electronics", "Energy Storage"]
+},
+{
+  "name": "Process Engineer",
+  "overview": "Process Engineers design, analyze, and optimize chemical processes to improve efficiency, safety, and product quality.",
+  "advantages": ["Core chemical role", "High technical value"],
+  "disadvantages": ["Process responsibility", "Performance pressure"],
+  "demand": "Very high across chemical and manufacturing industries.",
+  "required_skills": {
+    "basic": ["Process fundamentals", "Thermodynamics", "Fluid mechanics", "Heat transfer basics", "Process diagrams"],
+    "intermediate": ["Process optimization", "Troubleshooting", "Mass and energy balance", "Equipment selection", "Data analysis"],
+    "advanced": ["Advanced process design"],
+    "professional": ["Process engineering leadership"]
+  },
+  "related_skills": ["Process Engineering", "Chemical Process Design", "Mass Balance", "Energy Optimization", "Plant Efficiency"]
+},
+{
+  "name": "Production Chemical Engineer",
+  "overview": "Production Chemical Engineers manage daily plant operations, ensure production targets, and maintain process stability.",
+  "advantages": ["Operational control", "High industrial demand"],
+  "disadvantages": ["Shift work", "Operational pressure"],
+  "demand": "High in continuous process plants.",
+  "required_skills": {
+    "basic": ["Chemical processes", "Plant operations", "Safety procedures", "Equipment basics", "Process control basics"],
+    "intermediate": ["Production planning", "Troubleshooting", "Yield improvement", "Shift coordination", "Documentation"],
+    "advanced": ["Production optimization"],
+    "professional": ["Operations leadership"]
+  },
+  "related_skills": ["Chemical Production", "Plant Operations", "Process Control", "Manufacturing Optimization", "Safety Management"]
+},
+{
+  "name": "Quality Control Chemical Engineer",
+  "overview": "Quality Control Chemical Engineers ensure raw materials, in-process samples, and finished products meet quality standards.",
+  "advantages": ["Quality-focused role", "Process reliability"],
+  "disadvantages": ["Repetitive testing", "Strict compliance"],
+  "demand": "High in pharmaceuticals and chemicals.",
+  "required_skills": {
+    "basic": ["Analytical chemistry basics", "Sampling methods", "Testing procedures", "Documentation", "Quality standards"],
+    "intermediate": ["Instrument handling", "Data interpretation", "Deviation analysis", "Process validation", "Reporting"],
+    "advanced": ["Quality system implementation"],
+    "professional": ["Quality leadership"]
+  },
+  "related_skills": ["Quality Control", "Chemical Testing", "Analytical Methods", "Process Validation", "Compliance"]
+},
+{
+  "name": "Chemical Plant Engineer",
+  "overview": "Chemical Plant Engineers oversee plant equipment, utilities, and processes to ensure safe and efficient operations.",
+  "advantages": ["Plant-wide exposure", "Critical operational role"],
+  "disadvantages": ["High responsibility", "On-site presence required"],
+  "demand": "High in large-scale chemical plants.",
+  "required_skills": {
+    "basic": ["Plant equipment basics", "Chemical processes", "Safety regulations", "Utilities knowledge", "Maintenance basics"],
+    "intermediate": ["Plant troubleshooting", "Process improvement", "Equipment coordination", "Shutdown planning", "Reporting"],
+    "advanced": ["Plant optimization"],
+    "professional": ["Plant engineering leadership"]
+  },
+  "related_skills": ["Chemical Plant Operations", "Equipment Management", "Process Improvement", "Industrial Utilities", "Safety Compliance"]
+},
+{
+  "name": "Petrochemical Engineer",
+  "overview": "Petrochemical Engineers design and operate processes that convert raw hydrocarbons into valuable chemical products.",
+  "advantages": ["High-paying sector", "Advanced chemical processes"],
+  "disadvantages": ["High-risk environment", "Strict regulations"],
+  "demand": "High in oil and gas downstream industries.",
+  "required_skills": {
+    "basic": ["Petrochemical basics", "Reaction engineering", "Thermodynamics", "Process safety", "Material properties"],
+    "intermediate": ["Refinery processes", "Catalyst handling", "Separation techniques", "Process control", "Optimization"],
+    "advanced": ["Advanced petrochemical design"],
+    "professional": ["Petrochemical leadership"]
+  },
+  "related_skills": ["Petrochemical Processing", "Reaction Engineering", "Separation Processes", "Refinery Operations", "Process Safety"]
+},
+{
+  "name": "Polymer Engineer",
+  "overview": "Polymer Engineers develop, process, and improve polymer materials used in plastics, rubbers, and composites.",
+  "advantages": ["Specialized field", "Strong manufacturing demand"],
+  "disadvantages": ["Niche specialization", "Material sensitivity"],
+  "demand": "High in plastics and materials industries.",
+  "required_skills": {
+    "basic": ["Polymer chemistry", "Material science basics", "Processing methods", "Testing basics", "Safety practices"],
+    "intermediate": ["Polymer processing", "Material characterization", "Quality analysis", "Product development", "Troubleshooting"],
+    "advanced": ["Advanced polymer design"],
+    "professional": ["Materials leadership"]
+  },
+  "related_skills": ["Polymer Engineering", "Material Development", "Plastics Processing", "Quality Analysis", "Product Innovation"]
+},
+{
+  "name": "Chemical R&D Engineer",
+  "overview": "Chemical R&D Engineers develop new chemical products, processes, and formulations through laboratory and pilot-scale research.",
+  "advantages": ["Innovation-driven role", "High learning potential"],
+  "disadvantages": ["Long development cycles", "Experimental uncertainty"],
+  "demand": "High in specialty chemicals and pharma.",
+  "required_skills": {
+    "basic": ["Chemical principles", "Laboratory techniques", "Data analysis", "Documentation", "Research methods"],
+    "intermediate": ["Experimental design", "Pilot studies", "Process scaling", "Result interpretation", "Technical reporting"],
+    "advanced": ["Product development strategy"],
+    "professional": ["R&D leadership"]
+  },
+  "related_skills": ["Chemical Research", "Product Development", "Process Scale-up", "Laboratory Analysis", "Innovation Management"]
+},
+{
+  "name": "Mechanical Design Engineer",
+  "overview": "Mechanical Design Engineers design mechanical components and systems using engineering principles, CAD tools, and material knowledge.",
+  "advantages": ["Creative role", "Core mechanical discipline"],
+  "disadvantages": ["Design responsibility", "Accuracy pressure"],
+  "demand": "Very high in manufacturing and product industries.",
+  "required_skills": {
+    "basic": ["Machine design basics", "Engineering drawings", "Material properties", "Tolerance concepts", "Mechanics"],
+    "intermediate": ["CAD modeling", "Design calculations", "Component selection", "DFMA concepts", "Prototype evaluation"],
+    "advanced": ["System-level design"],
+    "professional": ["Design leadership"]
+  },
+  "related_skills": ["Mechanical Design", "CAD Modeling", "Machine Elements", "Product Engineering", "Design Optimization"]
+},
+{
+  "name": "Maintenance Mechanical Engineer",
+  "overview": "Maintenance Mechanical Engineers ensure reliability and availability of machines by planning preventive and corrective maintenance activities.",
+  "advantages": ["Critical operational role", "Job stability"],
+  "disadvantages": ["Emergency breakdowns", "On-site demands"],
+  "demand": "High in continuous process industries.",
+  "required_skills": {
+    "basic": ["Machine components", "Maintenance basics", "Lubrication knowledge", "Safety practices", "Tool handling"],
+    "intermediate": ["Preventive maintenance", "Breakdown analysis", "Spare management", "Condition monitoring", "Documentation"],
+    "advanced": ["Reliability engineering"],
+    "professional": ["Maintenance leadership"]
+  },
+  "related_skills": ["Mechanical Maintenance", "Equipment Reliability", "Preventive Maintenance", "Breakdown Analysis", "Asset Management"]
+},
+{
+  "name": "HVAC Mechanical Engineer",
+  "overview": "HVAC Mechanical Engineers design and maintain heating, ventilation, and air conditioning systems for buildings and industrial facilities.",
+  "advantages": ["High demand skill", "Urban infrastructure relevance"],
+  "disadvantages": ["Site coordination challenges", "Design constraints"],
+  "demand": "Very high due to infrastructure growth.",
+  "required_skills": {
+    "basic": ["Thermodynamics", "Heat transfer basics", "Fluid mechanics", "HVAC components", "Building systems"],
+    "intermediate": ["Load calculations", "System design", "Ducting design", "Energy efficiency", "Installation coordination"],
+    "advanced": ["HVAC system optimization"],
+    "professional": ["HVAC project leadership"]
+  },
+  "related_skills": ["HVAC Design", "Thermal Engineering", "Building Services", "Energy Efficiency", "Mechanical Systems"]
+},
+{
+  "name": "Automobile Mechanical Engineer",
+  "overview": "Automobile Mechanical Engineers design, test, and improve vehicle systems including engines, transmissions, and chassis components.",
+  "advantages": ["Popular specialization", "Automotive industry growth"],
+  "disadvantages": ["Competitive field", "High precision requirements"],
+  "demand": "High in automotive manufacturing and R&D.",
+  "required_skills": {
+    "basic": ["IC engines basics", "Vehicle systems", "Materials knowledge", "Mechanics", "Workshop practices"],
+    "intermediate": ["Engine testing", "Vehicle dynamics", "Component design", "Quality testing", "Performance analysis"],
+    "advanced": ["Advanced vehicle engineering"],
+    "professional": ["Automotive leadership"]
+  },
+  "related_skills": ["Automobile Engineering", "Vehicle Systems", "Engine Technology", "Automotive Testing", "Mechanical Design"]
+},
+{
+  "name": "Thermal Engineer",
+  "overview": "Thermal Engineers analyze and design systems involving heat transfer, thermodynamics, and energy conversion processes.",
+  "advantages": ["Core mechanical role", "Energy sector relevance"],
+  "disadvantages": ["Complex calculations", "Design sensitivity"],
+  "demand": "High in power and process industries.",
+  "required_skills": {
+    "basic": ["Thermodynamics", "Heat transfer", "Fluid mechanics", "Energy systems", "Mathematical analysis"],
+    "intermediate": ["Thermal system design", "Performance evaluation", "Simulation basics", "Energy optimization", "Testing"],
+    "advanced": ["Advanced thermal modeling"],
+    "professional": ["Thermal engineering leadership"]
+  },
+  "related_skills": ["Thermal Engineering", "Heat Transfer", "Energy Systems", "Power Plant Engineering", "Thermal Analysis"]
+},
+{
+  "name": "Manufacturing Engineer",
+  "overview": "Manufacturing Engineers develop efficient manufacturing systems, improve productivity, and optimize mechanical production processes.",
+  "advantages": ["Industry relevance", "Process ownership"],
+  "disadvantages": ["Cost pressure", "Operational challenges"],
+  "demand": "Very high in mass production industries.",
+  "required_skills": {
+    "basic": ["Manufacturing processes", "Tooling basics", "Production systems", "Engineering drawings", "Safety standards"],
+    "intermediate": ["Process planning", "Tool design", "Cycle time analysis", "Lean tools", "Quality improvement"],
+    "advanced": ["Manufacturing system design"],
+    "professional": ["Manufacturing leadership"]
+  },
+  "related_skills": ["Manufacturing Engineering", "Process Planning", "Tool Design", "Lean Systems", "Production Optimization"]
+},
+{
+  "name": "Mechanical Project Engineer",
+  "overview": "Mechanical Project Engineers manage mechanical engineering projects by coordinating design, procurement, installation, and commissioning activities.",
+  "advantages": ["Leadership exposure", "Project ownership"],
+  "disadvantages": ["Deadline pressure", "Coordination complexity"],
+  "demand": "High in EPC and industrial projects.",
+  "required_skills": {
+    "basic": ["Mechanical fundamentals", "Project basics", "Documentation", "Communication", "Planning skills"],
+    "intermediate": ["Project scheduling", "Vendor coordination", "Cost control", "Quality monitoring", "Risk management"],
+    "advanced": ["Mechanical project execution"],
+    "professional": ["Project leadership"]
+  },
+  "related_skills": ["Mechanical Project Management", "Engineering Coordination", "Cost Control", "Project Execution", "Industrial Projects"]
+},
+{
+  "name": "Aircraft Design Engineer",
+  "overview": "Aircraft Design Engineers create and optimize aircraft structures and components to ensure safety, performance, and fuel efficiency.",
+  "advantages": ["Creative engineering role", "High innovation scope"],
+  "disadvantages": ["Design responsibility", "Long development cycles"],
+  "demand": "High in aircraft manufacturing and R&D.",
+  "required_skills": {
+    "basic": ["Aircraft components", "Engineering drawings", "Aerodynamics", "Material properties", "Structural basics"],
+    "intermediate": ["CAD modeling", "Weight estimation", "Load analysis", "Design validation", "Prototype evaluation"],
+    "advanced": ["Aircraft structural optimization", "Advanced design methods", "Simulation modeling"],
+    "professional": ["Aircraft design leadership", "Technical decision making"]
+  },
+  "related_skills": ["Aircraft Design", "Aerodynamics", "Structural Engineering", "CAD Modeling", "Aviation Systems"]
+},
+{
+  "name": "Aerodynamics Engineer",
+  "overview": "Aerodynamics Engineers analyze airflow behavior around aircraft and spacecraft to improve lift, drag, stability, and fuel efficiency.",
+  "advantages": ["Highly specialized skill", "Research-driven role"],
+  "disadvantages": ["Complex analysis", "Simulation-intensive work"],
+  "demand": "High in aerospace research and testing organizations.",
+  "required_skills": {
+    "basic": ["Fluid mechanics", "Aerodynamics fundamentals", "Mathematics", "Physics", "Data analysis"],
+    "intermediate": ["Wind tunnel testing", "Flow analysis", "Performance calculations", "CFD basics", "Result interpretation"],
+    "advanced": ["Advanced CFD modeling", "High-speed aerodynamics", "Flow optimization"],
+    "professional": ["Aerodynamic research leadership", "Technical consulting"]
+  },
+  "related_skills": ["Aerodynamics", "Fluid Mechanics", "CFD Analysis", "Flight Performance", "Wind Tunnel Testing"]
+},
+{
+  "name": "Propulsion Engineer",
+  "overview": "Propulsion Engineers design and analyze engines and propulsion systems used in aircraft, rockets, and spacecraft.",
+  "advantages": ["Core aerospace specialization", "High innovation"],
+  "disadvantages": ["Complex thermal systems", "High testing risk"],
+  "demand": "High in aviation, defense, and space missions.",
+  "required_skills": {
+    "basic": ["Thermodynamics", "Fluid mechanics", "Combustion basics", "Energy systems", "Mathematics"],
+    "intermediate": ["Jet engine systems", "Rocket propulsion", "Performance analysis", "Testing procedures", "Thermal analysis"],
+    "advanced": ["Advanced propulsion modeling", "High-speed flow systems", "Engine optimization"],
+    "professional": ["Propulsion system leadership", "Mission-level engineering"]
+  },
+  "related_skills": ["Aerospace Propulsion", "Jet Engines", "Rocket Systems", "Thermal Engineering", "Energy Conversion"]
+},
+{
+  "name": "Flight Test Engineer",
+  "overview": "Flight Test Engineers plan, conduct, and analyze flight tests to validate aircraft performance, safety, and regulatory compliance.",
+  "advantages": ["Hands-on flight exposure", "High responsibility role"],
+  "disadvantages": ["High risk", "Extensive planning"],
+  "demand": "High in aircraft development programs.",
+  "required_skills": {
+    "basic": ["Flight mechanics", "Aircraft systems", "Data recording", "Safety procedures", "Engineering basics"],
+    "intermediate": ["Test planning", "Performance analysis", "Instrumentation", "Data interpretation", "Risk assessment"],
+    "advanced": ["Advanced flight evaluation", "Certification testing", "System validation"],
+    "professional": ["Flight test leadership", "Program coordination"]
+  },
+  "related_skills": ["Flight Testing", "Aircraft Performance", "Test Engineering", "Data Analysis", "Aviation Safety"]
+},
+{
+  "name": "Aerospace Manufacturing Engineer",
+  "overview": "Aerospace Manufacturing Engineers develop and optimize manufacturing processes for aircraft and spacecraft components.",
+  "advantages": ["Industry relevance", "Production ownership"],
+  "disadvantages": ["Quality pressure", "Process constraints"],
+  "demand": "High in aerospace production facilities.",
+  "required_skills": {
+    "basic": ["Manufacturing processes", "Material handling", "Engineering drawings", "Tooling basics", "Safety standards"],
+    "intermediate": ["Process planning", "Composite manufacturing", "Quality control", "Lean practices", "Cost optimization"],
+    "advanced": ["Advanced aerospace manufacturing systems", "Automation integration", "Process innovation"],
+    "professional": ["Manufacturing leadership", "Production strategy"]
+  },
+  "related_skills": ["Aerospace Manufacturing", "Composite Structures", "Process Engineering", "Lean Production", "Quality Control"]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+}

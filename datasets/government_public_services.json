@@ -1,0 +1,867 @@
+{
+  "category": "Government & Public Services",
+  "careers": [
+    {
+      "name": "Public Policy Analyst",
+      "overview": "Analyzes, develops, and evaluates government policies to improve programs, ensure efficiency, and promote public welfare. Works with stakeholders, conducts research, and interprets data to guide decision-making.",
+      "advantages": ["Influences public policy", "Intellectual challenge", "High social impact", "Diverse work environment", "Opportunities for specialization"],
+      "disadvantages": ["Bureaucratic delays", "Pressure from multiple stakeholders", "Limited implementation authority", "Tight deadlines", "Political influence can affect outcomes"],
+      "demand": "Moderate, especially in government think tanks and policy institutes.",
+      "required_skills": {
+        "basic": ["Research methods", "Data collection", "Critical thinking", "Basic statistics", "Report writing"],
+        "intermediate": ["Policy analysis", "Stakeholder engagement", "Legislative knowledge", "Program evaluation", "Survey design"],
+        "advanced": ["Data interpretation", "Economic modeling", "Impact assessment", "Strategic planning", "Presentation skills"],
+        "professional": ["Policy drafting", "Government consulting", "Leadership", "Decision-making", "Negotiation"]
+      },
+      "related_skills": ["Government", "Public Policy", "Social Research", "Policy Evaluation", "Political Analysis"]
+    },
+    {
+      "name": "Diplomat / Foreign Service Officer",
+      "overview": "Represents the country abroad, manages international relations, negotiates treaties, and protects national interests. Works in embassies, consulates, or international organizations while handling cultural and political challenges.",
+      "advantages": ["Travel opportunities", "Prestigious career", "Cultural exchange", "Networking with global leaders", "Influence international policy"],
+      "disadvantages": ["Long hours", "Frequent relocation", "High stress", "Family adjustments", "Exposure to political risks"],
+      "demand": "High demand for multilingual and skilled candidates in foreign service and international diplomacy.",
+      "required_skills": {
+        "basic": ["Communication", "Research", "Cultural awareness", "Writing skills", "Foreign languages"],
+        "intermediate": ["Negotiation", "Conflict resolution", "Diplomatic protocol", "Report preparation", "Stakeholder management"],
+        "advanced": ["International relations", "Policy formulation", "Crisis management", "Economic analysis", "Public speaking"],
+        "professional": ["Leadership", "Strategic planning", "Representation skills", "Global policy advising", "Cross-cultural management"]
+      },
+      "related_skills": ["Diplomacy", "International Affairs", "Foreign Policy", "Negotiation", "Global Governance"]
+    },
+    {
+      "name": "City Planner / Urban Planner",
+      "overview": "Plans and develops urban areas, ensuring sustainable growth, efficient land use, and high-quality public spaces. Collaborates with government agencies, developers, and communities to balance economic, environmental, and social needs.",
+      "advantages": ["Impact on city growth", "Creative problem-solving", "Diverse projects", "Community engagement", "Sustainable development opportunities"],
+      "disadvantages": ["Lengthy approval processes", "Stakeholder conflicts", "Budget constraints", "High public scrutiny", "Time-sensitive planning challenges"],
+      "demand": "Growing demand in urban development, housing, and infrastructure sectors.",
+      "required_skills": {
+        "basic": ["Research", "Mapping", "Basic design", "Urban studies", "Data collection"],
+        "intermediate": ["GIS mapping", "Community consultation", "Zoning knowledge", "Project documentation", "Urban analysis"],
+        "advanced": ["Urban design", "Sustainability planning", "Traffic modeling", "Budget planning", "Environmental assessment"],
+        "professional": ["Project management", "Leadership", "Policy advising", "Strategic urban planning", "Inter-agency coordination"]
+      },
+      "related_skills": ["Planning", "Urban Development", "Infrastructure", "Sustainability", "Environmental Planning"]
+    },
+    {
+      "name": "Legislative Assistant",
+      "overview": "Supports lawmakers by conducting research, drafting bills, analyzing legislation, and preparing reports. Serves as a liaison between lawmakers, constituents, and government agencies.",
+      "advantages": ["Exposure to lawmaking process", "Networking opportunities", "Influence public policy", "Develop legislative expertise", "Fast-paced work environment"],
+      "disadvantages": ["Long hours", "High-pressure deadlines", "Political challenges", "Limited autonomy", "Frequent document reviews"],
+      "demand": "Consistently needed in legislative offices and government institutions.",
+      "required_skills": {
+        "basic": ["Research", "Writing", "Communication", "Basic legal knowledge", "Time management"],
+        "intermediate": ["Legislative analysis", "Data interpretation", "Policy research", "Meeting coordination", "Constituent correspondence"],
+        "advanced": ["Drafting legislation", "Policy advising", "Strategic thinking", "Political analysis", "Negotiation skills"],
+        "professional": ["Leadership", "Decision-making", "Government consulting", "Advocacy", "Stakeholder management"]
+      },
+      "related_skills": ["Government", "Legislation", "Political Affairs", "Policy Analysis", "Public Administration"]
+    },
+    {
+      "name": "Social Worker (Government)",
+      "overview": "Provides support and services to individuals, families, and communities under government programs. Works in child welfare, mental health, and community development, ensuring public well-being.",
+      "advantages": ["Direct social impact", "Diverse clients", "Community engagement", "Professional growth", "Job stability in public sector"],
+      "disadvantages": ["Emotional stress", "Heavy caseloads", "Bureaucracy", "Limited resources", "Paperwork-intensive"],
+      "demand": "High demand in public health, welfare, and community services.",
+      "required_skills": {
+        "basic": ["Empathy", "Active listening", "Basic counseling", "Documentation", "Community knowledge"],
+        "intermediate": ["Case management", "Conflict resolution", "Policy knowledge", "Interviewing skills", "Advocacy"],
+        "advanced": ["Program planning", "Crisis intervention", "Data analysis", "Resource allocation", "Team coordination"],
+        "professional": ["Leadership", "Community development", "Government compliance", "Ethical decision-making", "Public relations"]
+      },
+      "related_skills": ["Social Work", "Public Services", "Community Support", "Child Welfare", "Mental Health"]
+    },
+    {
+      "name": "Police Officer",
+      "overview": "Maintains law and order, protects citizens, enforces laws, and conducts investigations. Engages with communities to promote safety and prevent crime.",
+      "advantages": ["Public service", "Job stability", "Physical activity", "Variety of work", "Teamwork opportunities"],
+      "disadvantages": ["Dangerous situations", "High stress", "Shift work", "Emotional strain", "Administrative duties"],
+      "demand": "High demand in urban and rural areas for community policing and law enforcement.",
+      "required_skills": {
+        "basic": ["Communication", "Observation", "Report writing", "Problem solving", "Physical fitness"],
+        "intermediate": ["Investigation", "Conflict resolution", "Traffic management", "Evidence collection", "Basic law knowledge"],
+        "advanced": ["Criminal law application", "Tactical planning", "Team leadership", "Crisis management", "Community engagement"],
+        "professional": ["Command leadership", "Strategic policing", "Policy advising", "Public safety planning", "Ethical decision-making"]
+      },
+      "related_skills": ["Law Enforcement", "Public Safety", "Security", "Crime Prevention", "Community Policing"]
+    },
+    {
+      "name": "Firefighter",
+      "overview": "Responds to fire emergencies, rescues people, provides disaster relief, and ensures public safety. Works in high-risk environments requiring teamwork and rapid decision-making.",
+      "advantages": ["Public service", "Exciting and varied work", "Team-oriented", "Physical fitness", "Respect in community"],
+      "disadvantages": ["High risk", "Irregular hours", "Exposure to danger", "Physically demanding", "Emotional stress"],
+      "demand": "Moderate to high in urban and rural fire departments and emergency services.",
+      "required_skills": {
+        "basic": ["Physical fitness", "Communication", "Observation", "Basic first aid", "Teamwork"],
+        "intermediate": ["Fire safety knowledge", "Rescue techniques", "Hazard assessment", "Equipment handling", "Report writing"],
+        "advanced": ["Incident management", "Emergency planning", "Tactical decision-making", "Leadership under pressure", "Disaster response"],
+        "professional": ["Fire safety policy", "Training coordination", "Command leadership", "Strategic emergency management", "Community education"]
+      },
+      "related_skills": ["Emergency Services", "Fire Safety", "Disaster Management", "Public Safety", "Rescue Operations"]
+    },
+    {
+      "name": "Customs Officer",
+      "overview": "Monitors imports and exports, prevents smuggling, and ensures compliance with customs regulations. Works at borders, ports, and airports to protect the country.",
+      "advantages": ["Public service", "Travel opportunities", "Job stability", "Law enforcement experience", "Diverse duties"],
+      "disadvantages": ["Shift work", "High stress", "Exposure to confrontation", "Bureaucracy", "Long hours"],
+      "demand": "Moderate demand at ports, airports, and border security departments.",
+      "required_skills": {
+        "basic": ["Observation", "Communication", "Report writing", "Basic law knowledge", "Attention to detail"],
+        "intermediate": ["Inspection procedures", "Risk assessment", "Interpersonal skills", "Data entry", "Regulatory compliance"],
+        "advanced": ["Investigation", "Smuggling detection", "Legal interpretation", "Incident reporting", "Team coordination"],
+        "professional": ["Leadership", "Policy enforcement", "Strategic operations", "Risk management", "Public relations"]
+      },
+      "related_skills": ["Border Security", "Customs", "Law Enforcement", "Inspection", "Trade Compliance"]
+    },
+    {
+      "name": "Intelligence Analyst",
+      "overview": "Collects, analyzes, and interprets intelligence data to support national security. Prepares reports, identifies threats, and advises decision-makers in government agencies.",
+      "advantages": ["High social impact", "Intellectual challenge", "Access to classified information", "Career advancement", "Team collaboration"],
+      "disadvantages": ["High security clearance", "Stressful environment", "Long hours", "Limited transparency", "Confidentiality restrictions"],
+      "demand": "High demand in national intelligence agencies and defense departments.",
+      "required_skills": {
+        "basic": ["Research", "Observation", "Report writing", "Critical thinking", "Data collection"],
+        "intermediate": ["Data analysis", "Pattern recognition", "Problem-solving", "Technology use", "Stakeholder communication"],
+        "advanced": ["Threat assessment", "Strategic advising", "Policy analysis", "Decision-making under pressure", "Security protocols"],
+        "professional": ["Leadership", "Intelligence management", "Inter-agency coordination", "Risk management", "Policy formulation"]
+      },
+      "related_skills": ["Intelligence", "Security", "Data Analysis", "National Defense", "Threat Assessment"]
+    },
+    {
+      "name": "Customs and Border Protection Officer",
+      "overview": "Ensures security at national borders by inspecting travelers, cargo, and enforcing immigration and customs laws. Works to prevent illegal trade and protect citizens.",
+      "advantages": ["Public service", "Travel opportunities", "Job security", "Hands-on work", "Diverse environment"],
+      "disadvantages": ["Shift work", "Stressful situations", "Exposure to danger", "High responsibility", "Strict regulations"],
+      "demand": "Consistent demand in border and customs agencies.",
+      "required_skills": {
+        "basic": ["Observation", "Communication", "Report writing", "Basic law knowledge", "Physical fitness"],
+        "intermediate": ["Inspection techniques", "Risk assessment", "Conflict resolution", "Data management", "Interpersonal skills"],
+        "advanced": ["Investigation", "Legal interpretation", "Incident coordination", "Policy enforcement", "Leadership"],
+        "professional": ["Strategic planning", "Policy development", "Command leadership", "Crisis management", "Public safety management"]
+      },
+      "related_skills": ["Customs", "Border Security", "Immigration", "Law Enforcement", "Trade Compliance"]
+    },
+    
+  {
+    "name": "Public Relations Officer",
+    "overview": "Manages communication between government agencies and the public. Crafts press releases, handles media inquiries, and ensures positive public image.",
+    "advantages": ["Creative work", "Media exposure", "Networking", "Influence public perception", "Diverse projects"],
+    "disadvantages": ["High stress", "Crisis management", "Tight deadlines", "Public scrutiny", "Requires diplomacy"],
+    "demand": "High demand in government departments and public agencies.",
+    "required_skills": {
+      "basic": ["Writing", "Communication", "Basic media knowledge", "Organization", "Presentation"],
+      "intermediate": ["Press release writing", "Social media management", "Event coordination", "Stakeholder communication", "Research"],
+      "advanced": ["Crisis management", "Strategic planning", "Branding", "Policy messaging", "Team coordination"],
+      "professional": ["Government relations", "Media strategy", "Public image management", "Leadership", "Advanced communication"]
+    },
+    "related_skills": ["Public Relations", "Media Handling", "Communication Strategy", "Government Messaging", "Stakeholder Engagement"]
+  },
+  {
+    "name": "Court Clerk",
+    "overview": "Maintains court records, schedules hearings, prepares legal documents, and assists judges and lawyers in administrative tasks.",
+    "advantages": ["Stable government job", "Exposure to legal processes", "Structured work environment", "Professional growth", "Interaction with legal experts"],
+    "disadvantages": ["Repetitive work", "High attention to detail required", "Bureaucratic processes", "Deadlines", "Limited decision-making"],
+    "demand": "Moderate demand in courts at municipal, state, and federal levels.",
+    "required_skills": {
+      "basic": ["Typing", "Communication", "Organization", "Basic legal knowledge", "File management"],
+      "intermediate": ["Document preparation", "Scheduling", "Record keeping", "Attention to detail", "Report writing"],
+      "advanced": ["Court procedure knowledge", "Time management", "Problem-solving", "Administrative coordination", "Data management"],
+      "professional": ["Legal documentation", "Court administration", "Government compliance", "Team supervision", "Policy adherence"]
+    },
+    "related_skills": ["Legal Support", "Court Administration", "Record Management", "Scheduling", "Government Procedures"]
+  },
+  {
+    "name": "Probation Officer",
+    "overview": "Supervises offenders placed on probation, ensures compliance with court conditions, provides counseling, and supports rehabilitation efforts.",
+    "advantages": ["Direct social impact", "Community involvement", "Career growth", "Diverse responsibilities", "Skill development in counseling"],
+    "disadvantages": ["Emotional stress", "Potential safety risks", "High caseloads", "Administrative duties", "Workload pressure"],
+    "demand": "High demand in criminal justice and corrections departments.",
+    "required_skills": {
+      "basic": ["Communication", "Observation", "Empathy", "Record keeping", "Basic counseling"],
+      "intermediate": ["Case management", "Conflict resolution", "Assessment", "Documentation", "Time management"],
+      "advanced": ["Behavioral analysis", "Rehabilitation planning", "Crisis management", "Decision making", "Supervisory skills"],
+      "professional": ["Criminal justice knowledge", "Government regulations", "Team leadership", "Policy enforcement", "Client advocacy"]
+    },
+    "related_skills": ["Probation Management", "Criminal Justice", "Rehabilitation", "Counseling", "Social Work"]
+  },
+  {
+    "name": "Immigration Officer",
+    "overview": "Processes visa applications, inspects travelers, enforces immigration laws, and ensures compliance with government policies at borders.",
+    "advantages": ["Stable government job", "Global exposure", "Enforcement authority", "Diverse responsibilities", "Career progression"],
+    "disadvantages": ["Shift work", "Stressful interactions", "Legal responsibility", "High workload", "Limited flexibility"],
+    "demand": "High demand at immigration offices, airports, and border crossings.",
+    "required_skills": {
+      "basic": ["Communication", "Record keeping", "Observation", "Basic law knowledge", "Attention to detail"],
+      "intermediate": ["Document verification", "Data entry", "Customer service", "Report writing", "Problem identification"],
+      "advanced": ["Legal interpretation", "Decision making under pressure", "Conflict resolution", "Risk assessment", "Investigation"],
+      "professional": ["Immigration law enforcement", "Government procedures", "Policy implementation", "Leadership", "Training"]
+    },
+    "related_skills": ["Immigration Control", "Border Security", "Visa Processing", "Legal Compliance", "Government Enforcement"]
+  },
+  {
+    "name": "Election Officer",
+    "overview": "Organizes and oversees elections, ensures fair voting processes, trains staff, and manages polling stations during elections.",
+    "advantages": ["Impact on democracy", "Structured work environment", "Skill development", "Diverse activities", "Government role stability"],
+    "disadvantages": ["High responsibility", "Time-sensitive work", "Stressful election periods", "Public scrutiny", "Repetitive tasks during campaigns"],
+    "demand": "High demand during election periods across government election commissions.",
+    "required_skills": {
+      "basic": ["Communication", "Organization", "Attention to detail", "Data entry", "Record keeping"],
+      "intermediate": ["Polling management", "Staff coordination", "Report writing", "Scheduling", "Problem-solving"],
+      "advanced": ["Crisis management", "Decision making", "Training supervision", "Policy adherence", "Stakeholder coordination"],
+      "professional": ["Election law knowledge", "Government compliance", "Leadership", "Strategic planning", "Public administration"]
+    },
+    "related_skills": ["Election Management", "Voting Process", "Government Administration", "Polling", "Democracy Support"]
+  },
+  {
+    "name": "Corrections Officer",
+    "overview": "Supervises inmates in correctional facilities, maintains security, enforces rules, and assists with rehabilitation programs.",
+    "advantages": ["Stable government role", "Structured work", "Skill development", "Community safety impact", "Career progression"],
+    "disadvantages": ["Physical demands", "High stress", "Potential danger", "Shift work", "Emotional challenges"],
+    "demand": "High demand in prisons and correctional institutions.",
+    "required_skills": {
+      "basic": ["Communication", "Observation", "Attention to detail", "Basic law knowledge", "Patience"],
+      "intermediate": ["Conflict resolution", "Report writing", "Security procedures", "Teamwork", "Documentation"],
+      "advanced": ["Crisis management", "Decision making", "Investigation", "Supervisory skills", "Risk assessment"],
+      "professional": ["Corrections regulations", "Government compliance", "Policy enforcement", "Leadership", "Rehabilitation programs"]
+    },
+    "related_skills": ["Prison Management", "Security", "Law Enforcement", "Correctional Services", "Rehabilitation"]
+  },
+  {
+    "name": "Urban Development Officer",
+    "overview": "Plans and implements urban development projects, monitors compliance with zoning laws, and coordinates with multiple government agencies.",
+    "advantages": ["Community impact", "Career growth", "Diverse projects", "Government stability", "Skill enhancement"],
+    "disadvantages": ["Political pressure", "Tight deadlines", "Bureaucracy", "Public scrutiny", "Complex regulations"],
+    "demand": "Moderate demand in municipal and regional planning departments.",
+    "required_skills": {
+      "basic": ["Communication", "Research", "Report writing", "Organization", "Basic planning"],
+      "intermediate": ["Project coordination", "Stakeholder communication", "Data analysis", "Documentation", "GIS knowledge"],
+      "advanced": ["Strategic planning", "Policy interpretation", "Decision making", "Sustainability assessment", "Conflict resolution"],
+      "professional": ["Urban development policy", "Government compliance", "Leadership", "Project management", "Community engagement"]
+    },
+    "related_skills": ["Urban Planning", "City Development", "Zoning", "Government Projects", "Sustainable Planning"]
+  },
+  {
+    "name": "Emergency Management Director",
+    "overview": "Prepares, coordinates, and directs disaster response and recovery plans. Ensures readiness of government and community resources during emergencies.",
+    "advantages": ["High impact", "Leadership role", "Skill development", "Diverse responsibilities", "Community safety"],
+    "disadvantages": ["High stress", "24/7 availability", "Crisis pressure", "Coordination challenges", "Political accountability"],
+    "demand": "High demand in state and federal emergency management agencies.",
+    "required_skills": {
+      "basic": ["Communication", "Organization", "Report writing", "Basic risk assessment", "Observation"],
+      "intermediate": ["Planning coordination", "Team management", "Crisis assessment", "Documentation", "Resource allocation"],
+      "advanced": ["Disaster strategy", "Decision making under pressure", "Policy implementation", "Stakeholder engagement", "Simulation planning"],
+      "professional": ["Emergency management policy", "Government compliance", "Leadership", "Strategic planning", "Advanced risk assessment"]
+    },
+    "related_skills": ["Disaster Management", "Crisis Coordination", "Government Preparedness", "Emergency Planning", "Public Safety"]
+  },
+  {
+    "name": "Human Resources Officer (Government)",
+    "overview": "Manages recruitment, employee relations, training, and policy implementation for government organizations.",
+    "advantages": ["Structured career path", "People management", "Policy impact", "Skill development", "Stable government role"],
+    "disadvantages": ["Bureaucratic processes", "High responsibility", "Administrative work", "Political compliance", "Limited creativity"],
+    "demand": "Moderate demand across government departments and agencies.",
+    "required_skills": {
+      "basic": ["Communication", "Organization", "Record keeping", "Basic HR knowledge", "Teamwork"],
+      "intermediate": ["Recruitment processes", "Training coordination", "Policy enforcement", "Documentation", "Conflict resolution"],
+      "advanced": ["Strategic HR planning", "Leadership", "Employee engagement", "Decision making", "Problem-solving"],
+      "professional": ["Government HR regulations", "Policy implementation", "Workforce planning", "Leadership mentoring", "Talent management"]
+    },
+    "related_skills": ["Human Resources", "Government Administration", "Employee Relations", "Recruitment", "Training & Development"]
+  },
+  
+  {
+    "name": "Public Health Inspector",
+    "overview": "Monitors and enforces public health regulations, inspects facilities, investigates complaints, and ensures safe sanitary conditions in communities.",
+    "advantages": ["Direct public impact", "Job stability", "Variety of inspections", "Community service", "Regulatory experience"],
+    "disadvantages": ["Fieldwork in all conditions", "Dealing with noncompliance", "Documentation workload", "Stressful inspections", "Limited advancement without specialization"],
+    "demand": "Moderate demand in municipal and state health departments.",
+    "required_skills": {
+      "basic": ["Observation", "Report writing", "Communication", "Data collection", "Record keeping"],
+      "intermediate": ["Health code knowledge", "Inspection techniques", "Risk assessment", "Team coordination", "Complaint investigation"],
+      "advanced": ["Policy implementation", "Strategic planning", "Decision making", "Public education", "Crisis management"],
+      "professional": ["Regulatory compliance", "Leadership", "Public health strategy", "Emergency response", "Stakeholder liaison"]
+    },
+    "related_skills": ["Sanitation", "Food Safety", "Health Regulations", "Environmental Health", "Public Safety"]
+  },
+  {
+    "name": "Government Medical Officer",
+    "overview": "Provides medical care in government hospitals or clinics, oversees public health programs, and supports policy planning for health services.",
+    "advantages": ["Patient impact", "Diverse clinical exposure", "Leadership in public health", "Policy influence", "Stable government position"],
+    "disadvantages": ["Heavy workload", "Bureaucratic procedures", "Emergency duties", "Limited private practice freedom", "Administrative tasks"],
+    "demand": "High demand in federal and state health services.",
+    "required_skills": {
+      "basic": ["Medical knowledge", "Patient assessment", "Communication", "Record keeping", "Basic diagnostics"],
+      "intermediate": ["Treatment planning", "Public health program management", "Clinical coordination", "Data reporting", "Laboratory interpretation"],
+      "advanced": ["Health policy advising", "Strategic planning", "Resource allocation", "Staff supervision", "Quality control"],
+      "professional": ["Healthcare leadership", "Epidemiology", "Regulatory compliance", "Medical ethics", "Community health planning"]
+    },
+    "related_skills": ["Public Health", "Government Hospitals", "Clinical Governance", "Epidemiology", "Healthcare Administration"]
+  },
+  {
+    "name": "Epidemiologist (Government)",
+    "overview": "Studies disease patterns, conducts research, analyzes public health data, and advises government agencies on prevention and control measures.",
+    "advantages": ["High societal impact", "Research opportunities", "Data-driven work", "Policy influence", "Job stability"],
+    "disadvantages": ["Data-intensive", "Possible field exposure", "Reporting pressure", "Long hours during outbreaks", "Limited patient interaction"],
+    "demand": "High demand in government health agencies and disease control centers.",
+    "required_skills": {
+      "basic": ["Data collection", "Statistical analysis", "Observation", "Reporting", "Communication"],
+      "intermediate": ["Epidemiological study design", "Survey administration", "Health database management", "Research coordination", "Stakeholder communication"],
+      "advanced": ["Risk assessment", "Strategic planning", "Policy advising", "Advanced analytics", "Program evaluation"],
+      "professional": ["Public health strategy", "Disease surveillance", "Government reporting standards", "Leadership", "Grant management"]
+    },
+    "related_skills": ["Disease Control", "Public Health Research", "Outbreak Investigation", "Data Analytics", "Health Policy"]
+  },
+  {
+    "name": "Government Health Educator",
+    "overview": "Develops and implements public health education programs, creates awareness campaigns, and evaluates community health outcomes.",
+    "advantages": ["Community impact", "Creative program design", "Diverse responsibilities", "Collaboration with agencies", "Stable government role"],
+    "disadvantages": ["Event coordination workload", "Public resistance", "Funding constraints", "Data reporting", "Travel for outreach"],
+    "demand": "Moderate demand in public health departments and government health programs.",
+    "required_skills": {
+      "basic": ["Communication", "Presentation", "Writing", "Research", "Public speaking"],
+      "intermediate": ["Curriculum design", "Campaign management", "Community engagement", "Data collection", "Social media management"],
+      "advanced": ["Program evaluation", "Strategic planning", "Stakeholder coordination", "Leadership", "Policy implementation"],
+      "professional": ["Health promotion strategy", "Government regulations", "Community assessment", "Grant writing", "Behavioral research"]
+    },
+    "related_skills": ["Public Health Education", "Community Outreach", "Health Campaigns", "Government Programs", "Behavioral Health"]
+  },
+  {
+    "name": "Government Clinical Laboratory Scientist",
+    "overview": "Performs diagnostic testing in government laboratories, ensures compliance with medical standards, and provides accurate reports for healthcare decisions.",
+    "advantages": ["Critical for public health", "Diverse testing tasks", "Stable employment", "Specialized skill development", "Team collaboration"],
+    "disadvantages": ["Repetitive tasks", "Laboratory hazards", "Strict protocol adherence", "Long hours", "Stress during outbreaks"],
+    "demand": "High demand in government hospitals, diagnostic centers, and research labs.",
+    "required_skills": {
+      "basic": ["Sample collection", "Laboratory techniques", "Data entry", "Safety practices", "Observation"],
+      "intermediate": ["Diagnostic testing", "Quality control", "Equipment operation", "Data interpretation", "Reporting results"],
+      "advanced": ["Lab management", "Research coordination", "Problem solving", "Protocol development", "Training junior staff"],
+      "professional": ["Regulatory compliance", "Leadership", "Health standards enforcement", "Advanced diagnostics", "Government laboratory policy"]
+    },
+    "related_skills": ["Clinical Laboratory", "Medical Testing", "Diagnostics", "Public Health Labs", "Government Health Services"]
+  },
+  
+  {
+    "name": "IAS Officer (Indian Administrative Service)",
+    "overview": "Leads administrative functions in government, implements policies, and manages district/state level governance.",
+    "advantages": ["High authority", "Policy-making influence", "Stable career", "Public recognition", "Diverse opportunities"],
+    "disadvantages": ["High responsibility", "Stressful deadlines", "Political pressure", "Long working hours", "Public scrutiny"],
+    "demand": "Very high in central and state government.",
+    "required_skills": {
+      "basic": ["Communication", "Organization", "Decision making", "Report writing", "Team coordination"],
+      "intermediate": ["Policy interpretation", "Public speaking", "Crisis management", "Stakeholder engagement", "Project management"],
+      "advanced": ["Strategic planning", "Administrative leadership", "Resource allocation", "Government law", "Policy implementation"],
+      "professional": ["Governance", "Leadership", "Public administration", "Regulatory compliance", "Inter-departmental coordination"]
+    },
+    "related_skills": ["Administration", "Public Policy", "Government Services", "Leadership", "Management"]
+  },
+  {
+    "name": "IPS Officer (Indian Police Service)",
+    "overview": "Manages police operations, ensures law and order, and leads security strategies at district/state/national levels.",
+    "advantages": ["High responsibility", "Leadership in law enforcement", "Public service impact", "Variety of assignments", "Stable government career"],
+    "disadvantages": ["Dangerous assignments", "Stressful situations", "Long hours", "Political influence", "High accountability"],
+    "demand": "High in central and state police departments.",
+    "required_skills": {
+      "basic": ["Communication", "Observation", "Report writing", "Team coordination", "Problem-solving"],
+      "intermediate": ["Law enforcement", "Crisis management", "Investigation", "Stakeholder communication", "Patrolling strategies"],
+      "advanced": ["Leadership", "Strategic planning", "Resource management", "Security protocols", "Policy enforcement"],
+      "professional": ["Criminal law", "Public safety", "Government liaison", "Crisis leadership", "Law enforcement administration"]
+    },
+    "related_skills": ["Police Administration", "Law Enforcement", "Crisis Management", "Investigation", "Public Security"]
+  },
+  {
+    "name": "Government Hospital Director",
+    "overview": "Oversees operations of government hospitals, ensures healthcare delivery, manages staff and budgets.",
+    "advantages": ["High impact on public health", "Leadership position", "Stable career", "Diverse healthcare exposure", "Administrative authority"],
+    "disadvantages": ["High workload", "Conflict resolution", "Stressful decision-making", "Limited patient care", "Bureaucratic challenges"],
+    "demand": "High in public hospitals across states.",
+    "required_skills": {
+      "basic": ["Communication", "Organization", "Documentation", "Teamwork", "Problem-solving"],
+      "intermediate": ["Hospital operations", "Resource allocation", "Staff coordination", "Patient care management", "Data reporting"],
+      "advanced": ["Strategic planning", "Regulatory compliance", "Leadership", "Crisis management", "Policy implementation"],
+      "professional": ["Healthcare governance", "Public health strategy", "Government regulations", "Medical administration", "Hospital management"]
+    },
+    "related_skills": ["Hospital Administration", "Public Health", "Government Healthcare", "Healthcare Management", "Medical Policy"]
+  },
+  {
+    "name": "Government School Principal",
+    "overview": "Leads government schools, implements educational policies, manages teachers, and ensures quality education.",
+    "advantages": ["Leadership role", "Impact on education", "Stable government career", "Community recognition", "Policy implementation authority"],
+    "disadvantages": ["High administrative workload", "Conflict management", "Exams and audits stress", "Limited teaching time", "Government bureaucracy"],
+    "demand": "High in public school systems across states.",
+    "required_skills": {
+      "basic": ["Communication", "Organization", "Teaching basics", "Report writing", "Team coordination"],
+      "intermediate": ["Curriculum management", "Staff supervision", "Student guidance", "Examination oversight", "Policy interpretation"],
+      "advanced": ["Strategic planning", "Leadership", "School administration", "Resource management", "Conflict resolution"],
+      "professional": ["Education governance", "Government regulations", "Public administration", "Educational policy", "School management"]
+    },
+    "related_skills": ["Education Administration", "Government Schools", "Public Policy", "Leadership", "Teaching Management"]
+  },
+  {
+    "name": "Customs and Excise Officer",
+    "overview": "Manages import/export duties, prevents smuggling, ensures regulatory compliance in trade and customs.",
+    "advantages": ["Stable government role", "Field variety", "High responsibility", "Legal authority", "Public service recognition"],
+    "disadvantages": ["High vigilance requirement", "Risky inspections", "Work pressure", "Transfer postings", "Regulatory challenges"],
+    "demand": "High in central government trade departments.",
+    "required_skills": {
+      "basic": ["Communication", "Documentation", "Observation", "Report writing", "Problem-solving"],
+      "intermediate": ["Customs law", "Inspection", "Trade compliance", "Investigation techniques", "Stakeholder communication"],
+      "advanced": ["Leadership", "Strategic planning", "Enforcement management", "Legal interpretation", "Resource allocation"],
+      "professional": ["Regulatory compliance", "Government law", "Trade policy", "Investigation leadership", "Administrative management"]
+    },
+    "related_skills": ["Customs Administration", "Trade Compliance", "Law Enforcement", "Government Regulation", "Import-Export Management"]
+  },
+  {
+    "name": "Revenue Officer",
+    "overview": "Handles taxation, revenue collection, audits, and financial compliance for government entities.",
+    "advantages": ["Stable government career", "Financial expertise", "Public recognition", "Policy implementation", "Analytical work"],
+    "disadvantages": ["Workload pressure", "Periodic audits", "High accountability", "Public grievances", "Strict deadlines"],
+    "demand": "High in income and state tax departments.",
+    "required_skills": {
+      "basic": ["Accounting", "Communication", "Organization", "Documentation", "Analytical thinking"],
+      "intermediate": ["Tax laws", "Audit procedures", "Reporting", "Data analysis", "Stakeholder management"],
+      "advanced": ["Leadership", "Policy interpretation", "Strategic planning", "Resource allocation", "Decision making"],
+      "professional": ["Revenue management", "Government finance", "Tax compliance", "Budgeting", "Financial governance"]
+    },
+    "related_skills": ["Tax Administration", "Government Finance", "Auditing", "Accounting", "Revenue Collection"]
+  },
+  {
+    "name": "Government Engineer",
+    "overview": "Designs, supervises, and manages public infrastructure projects in water, roads, and utilities.",
+    "advantages": ["Stable government career", "Large-scale projects", "Societal impact", "Professional growth", "Technical authority"],
+    "disadvantages": ["Project deadlines", "Site visits stress", "Bureaucracy", "Resource management", "Field challenges"],
+    "demand": "High in public works and infrastructure departments.",
+    "required_skills": {
+      "basic": ["Technical knowledge", "Communication", "Documentation", "Problem-solving", "Teamwork"],
+      "intermediate": ["Project supervision", "Civil/Mechanical/Electrical expertise", "Budget management", "Resource planning", "Stakeholder coordination"],
+      "advanced": ["Strategic planning", "Engineering design", "Leadership", "Regulatory compliance", "Project optimization"],
+      "professional": ["Government project management", "Public infrastructure", "Engineering governance", "Policy implementation", "Technical leadership"]
+    },
+    "related_skills": ["Civil Engineering", "Mechanical Engineering", "Infrastructure Management", "Government Projects", "Public Works"]
+  },
+  {
+    "name": "Forest Officer (IFS)",
+    "overview": "Manages forests, wildlife, and environmental protection programs, and implements conservation policies.",
+    "advantages": ["Nature conservation", "Government career", "Field work variety", "Leadership in environmental projects", "Public recognition"],
+    "disadvantages": ["Remote postings", "Field hardships", "Administrative duties", "Public pressure", "Policy challenges"],
+    "demand": "High in central and state forest departments.",
+    "required_skills": {
+      "basic": ["Observation", "Communication", "Report writing", "Documentation", "Teamwork"],
+      "intermediate": ["Forest management", "Wildlife conservation", "Policy understanding", "Data collection", "Stakeholder coordination"],
+      "advanced": ["Leadership", "Strategic planning", "Environmental regulation", "Resource management", "Decision making"],
+      "professional": ["Conservation strategy", "Government regulations", "Environmental governance", "Project leadership", "Forest policy implementation"]
+    },
+    "related_skills": ["Forestry", "Wildlife Management", "Environmental Policy", "Government Conservation", "Ecology"]
+  },
+  {
+    "name": "Judicial Magistrate",
+    "overview": "Oversees legal proceedings, enforces laws, and adjudicates civil and criminal cases in government courts.",
+    "advantages": ["Legal authority", "Respectable position", "Stable government career", "Decision-making power", "Public service impact"],
+    "disadvantages": ["High responsibility", "Legal complexities", "Stressful case load", "Public scrutiny", "Continuous learning required"],
+    "demand": "High in district and state courts.",
+    "required_skills": {
+      "basic": ["Communication", "Legal writing", "Research", "Observation", "Decision making"],
+      "intermediate": ["Law interpretation", "Case management", "Court procedures", "Stakeholder communication", "Documentation"],
+      "advanced": ["Judgment drafting", "Leadership in court", "Strategic legal planning", "Conflict resolution", "Policy application"],
+      "professional": ["Civil & criminal law", "Judicial administration", "Legal compliance", "Government law", "Court governance"]
+    },
+    "related_skills": ["Judiciary", "Government Law", "Legal Administration", "Civil & Criminal Law", "Court Management"]
+  },
+  {
+    "name": "Government Social Welfare Officer",
+    "overview": "Implements social welfare schemes, monitors programs, and provides support to underprivileged communities.",
+    "advantages": ["Impact on society", "Stable government role", "Diverse projects", "Community interaction", "Policy influence"],
+    "disadvantages": ["Field challenges", "Workload pressure", "Limited resources", "Administrative paperwork", "High accountability"],
+    "demand": "High in social welfare departments.",
+    "required_skills": {
+      "basic": ["Communication", "Documentation", "Teamwork", "Problem-solving", "Report writing"],
+      "intermediate": ["Program monitoring", "Stakeholder engagement", "Community outreach", "Data reporting", "Policy interpretation"],
+      "advanced": ["Leadership", "Strategic planning", "Resource allocation", "Conflict resolution", "Project management"],
+      "professional": ["Government social policy", "Program implementation", "Welfare administration", "Public service strategy", "Regulatory compliance"]
+    },
+    "related_skills": ["Social Work", "Government Welfare", "Community Development", "Policy Implementation", "Public Administration"]
+  },
+  
+   {
+    "name": "Public Relations Officer (Government)",
+    "overview": "Manages communications and public relations for government departments, ensuring transparency and positive public perception.",
+    "advantages": ["Diverse communication work", "Influence public awareness", "Media interaction", "Government stability", "Policy involvement"],
+    "disadvantages": ["High pressure", "Media scrutiny", "Crisis handling", "Deadlines", "Requires constant updates"],
+    "demand": "High in ministries, public departments, and government agencies.",
+    "required_skills": {
+      "basic": ["Writing", "Speaking", "Media literacy", "Teamwork", "Basic research"],
+      "intermediate": ["PR strategies", "Crisis management", "Event coordination", "Social media management", "Public engagement"],
+      "advanced": ["Leadership", "Strategic planning", "Policy understanding", "Campaign management", "Stakeholder communication"],
+      "professional": ["Government communications", "Public affairs", "Media relations", "Brand management", "Policy promotion"]
+    },
+    "related_skills": ["Public Communication", "Media Management", "Government PR", "Stakeholder Engagement", "Content Strategy"]
+  },
+   {
+    "name": "Policy Analyst (Government)",
+    "overview": "Researches, analyzes, and evaluates public policies, providing insights and recommendations to government officials.",
+    "advantages": ["Influence on decision-making", "Intellectual challenge", "Stable government role", "Variety of policy areas", "Research-based work"],
+    "disadvantages": ["High responsibility", "Pressure for accuracy", "Deadlines", "Complex political environment", "Data-intensive work"],
+    "demand": "High across ministries, think tanks, and government research agencies.",
+    "required_skills": {
+      "basic": ["Research", "Communication", "Data collection", "Report writing", "Critical thinking"],
+      "intermediate": ["Policy evaluation", "Stakeholder analysis", "Analytical reasoning", "Presentation skills", "Statistical analysis"],
+      "advanced": ["Leadership", "Strategic thinking", "Project management", "Decision-making", "Cross-department coordination"],
+      "professional": ["Government policy expertise", "Legislation knowledge", "Program evaluation", "Public administration", "Policy advisory"]
+    },
+    "related_skills": ["Policy Development", "Government Research", "Regulatory Analysis", "Program Evaluation", "Data-driven Policy"]
+  },
+  {
+    "name": "Government Procurement Officer",
+    "overview": "Handles purchasing and procurement of goods and services for government departments, ensuring compliance with rules and cost-effectiveness.",
+    "advantages": ["Stable employment", "Exposure to procurement systems", "Authority in approvals", "Diverse vendor interactions", "Strategic purchasing"],
+    "disadvantages": ["Paperwork-heavy", "Compliance pressure", "Deadlines", "Audits", "Ethical responsibilities"],
+    "demand": "High in all government ministries and departments.",
+    "required_skills": {
+      "basic": ["Communication", "Documentation", "Negotiation", "Basic accounting", "Attention to detail"],
+      "intermediate": ["Procurement procedures", "Vendor management", "Budget tracking", "Contract analysis", "Problem-solving"],
+      "advanced": ["Leadership", "Strategic sourcing", "Policy enforcement", "Decision-making", "Project management"],
+      "professional": ["Government procurement law", "Financial regulations", "Compliance monitoring", "Tender evaluation", "Contract management"]
+    },
+    "related_skills": ["Government Contracts", "Vendor Relations", "Purchasing", "Budget Management", "Compliance"]
+  },
+  {
+    "name": "Government Environmental Officer",
+    "overview": "Monitors environmental regulations, implements sustainability programs, and ensures government compliance with environmental laws.",
+    "advantages": ["Impactful work", "Diverse fieldwork", "Government stability", "Community engagement", "Policy involvement"],
+    "disadvantages": ["Field risks", "High accountability", "Bureaucratic delays", "Complex regulations", "Stakeholder conflicts"],
+    "demand": "High in environmental departments, regulatory agencies, and municipal offices.",
+    "required_skills": {
+      "basic": ["Observation", "Data collection", "Communication", "Teamwork", "Documentation"],
+      "intermediate": ["Environmental regulations", "Impact assessment", "Sustainability planning", "Reporting", "Problem-solving"],
+      "advanced": ["Leadership", "Project management", "Policy implementation", "Strategic planning", "Stakeholder coordination"],
+      "professional": ["Environmental law expertise", "Government compliance", "Sustainability programs", "Resource management", "Environmental auditing"]
+    },
+    "related_skills": ["Environmental Protection", "Regulatory Compliance", "Sustainability", "Government Policy", "Monitoring"]
+  },
+  {
+    "name": "Government Legal Advisor",
+    "overview": "Provides legal guidance to government agencies, ensuring decisions comply with laws and regulations.",
+    "advantages": ["Stable government career", "Influence policy", "Professional growth", "Variety of cases", "Authority in legal matters"],
+    "disadvantages": ["High responsibility", "Pressure in decision-making", "Long working hours", "Complex regulations", "Documentation-heavy"],
+    "demand": "High across ministries, legal departments, and public institutions.",
+    "required_skills": {
+      "basic": ["Legal research", "Communication", "Documentation", "Critical thinking", "Teamwork"],
+      "intermediate": ["Contract analysis", "Policy interpretation", "Drafting legal documents", "Negotiation", "Problem-solving"],
+      "advanced": ["Leadership", "Strategic legal planning", "Advisory skills", "Decision-making", "Litigation strategy"],
+      "professional": ["Government law expertise", "Regulatory compliance", "Legal advisory", "Public administration law", "Policy guidance"]
+    },
+    "related_skills": ["Legal Advisory", "Government Compliance", "Policy Interpretation", "Contract Law", "Public Administration"]
+  },
+{
+    "name": "Government Fire Safety Officer",
+    "overview": "Ensures fire safety in public buildings and government facilities, conducts inspections, and implements fire prevention measures.",
+    "advantages": ["Public safety impact", "Stable employment", "Authority role", "Diverse inspections", "Professional skills"],
+    "disadvantages": ["High responsibility", "Field risk", "Night and emergency shifts", "Stressful situations", "Paperwork"],
+    "demand": "High in municipal fire departments and public institutions.",
+    "required_skills": {
+      "basic": ["Observation", "Communication", "Teamwork", "Documentation", "Problem-solving"],
+      "intermediate": ["Fire safety regulations", "Inspection techniques", "Risk assessment", "Emergency response", "Reporting"],
+      "advanced": ["Leadership", "Policy implementation", "Strategic planning", "Training", "Project coordination"],
+      "professional": ["Government fire safety laws", "Emergency management", "Regulatory compliance", "Public safety management", "Program development"]
+    },
+    "related_skills": ["Fire Safety", "Government Safety Regulations", "Emergency Response", "Inspection", "Public Safety"]
+  },
+  {
+    "name": "Government Transport Officer",
+    "overview": "Manages transportation infrastructure and services, ensures compliance with transport policies, and oversees public transport operations.",
+    "advantages": ["Stable government job", "Variety of projects", "Public impact", "Policy implementation", "Career growth"],
+    "disadvantages": ["Bureaucracy", "Field inspections", "High responsibility", "Deadlines", "Stakeholder conflicts"],
+    "demand": "High in municipal transport authorities and state departments.",
+    "required_skills": {
+      "basic": ["Communication", "Observation", "Documentation", "Teamwork", "Problem-solving"],
+      "intermediate": ["Transport planning", "Regulatory knowledge", "Data analysis", "Project coordination", "Stakeholder engagement"],
+      "advanced": ["Leadership", "Strategic planning", "Policy implementation", "Budgeting", "Decision-making"],
+      "professional": ["Government transport policy", "Infrastructure planning", "Public transport management", "Regulatory compliance", "Program evaluation"]
+    },
+    "related_skills": ["Transport Management", "Public Infrastructure", "Government Policy", "Traffic Planning", "Project Management"]
+  },
+  
+  {
+    "name": "Government IT Security Analyst",
+    "overview": "Protects government networks, systems, and data from cyber threats, and ensures compliance with cybersecurity policies.",
+    "advantages": ["High demand", "Government stability", "Technical challenge", "Professional growth", "Variety of projects"],
+    "disadvantages": ["High responsibility", "On-call duties", "Constantly evolving threats", "Stressful during breaches", "Need for continuous learning"],
+    "demand": "High across government agencies handling sensitive data and digital services.",
+    "required_skills": {
+      "basic": ["Networking basics", "Communication", "Observation", "Documentation", "Problem-solving"],
+      "intermediate": ["Cybersecurity principles", "Firewall management", "Threat detection", "Incident reporting", "Vulnerability assessment"],
+      "advanced": ["Leadership", "Risk management", "Security audits", "Policy enforcement", "Project coordination"],
+      "professional": ["Government cybersecurity regulations", "Penetration testing", "Data protection laws", "Information security strategy", "Security program management"]
+    },
+    "related_skills": ["Network Security", "Threat Analysis", "Cybersecurity Compliance", "Government IT", "Incident Response"]
+  },
+  {
+    "name": "Government Health Inspector",
+    "overview": "Inspects public facilities, food establishments, and workplaces to ensure health and hygiene compliance with government standards.",
+    "advantages": ["Impact on public health", "Government employment", "Diverse inspections", "Fieldwork", "Community engagement"],
+    "disadvantages": ["Field exposure", "Paperwork", "Bureaucratic procedures", "High responsibility", "Public scrutiny"],
+    "demand": "High in municipal, state, and federal health departments.",
+    "required_skills": {
+      "basic": ["Observation", "Communication", "Documentation", "Teamwork", "Report writing"],
+      "intermediate": ["Health regulations", "Sanitation inspections", "Data collection", "Problem-solving", "Analytical thinking"],
+      "advanced": ["Leadership", "Policy implementation", "Training", "Project management", "Stakeholder coordination"],
+      "professional": ["Public health law", "Government compliance", "Inspection protocols", "Program management", "Regulatory expertise"]
+    },
+    "related_skills": ["Health Compliance", "Food Safety", "Sanitation", "Government Health", "Public Safety"]
+  },
+  {
+    "name": "Government Statistician",
+    "overview": "Collects, analyzes, and interprets data to inform government policies, programs, and economic planning.",
+    "advantages": ["Intellectual challenge", "Stable career", "Data-driven impact", "Policy influence", "Variety of sectors"],
+    "disadvantages": ["High accuracy requirement", "Data-heavy", "Deadline pressure", "Bureaucracy", "Complex statistical analysis"],
+    "demand": "High in national statistical offices, ministries, and policy research departments.",
+    "required_skills": {
+      "basic": ["Mathematics", "Data collection", "Report writing", "Communication", "Teamwork"],
+      "intermediate": ["Statistical software", "Data analysis", "Survey design", "Data visualization", "Problem-solving"],
+      "advanced": ["Leadership", "Policy advising", "Project management", "Cross-department coordination", "Advanced analytics"],
+      "professional": ["Government statistics policy", "Economic analysis", "Program evaluation", "Regulatory compliance", "Data governance"]
+    },
+    "related_skills": ["Statistics", "Data Analysis", "Government Research", "Policy Evaluation", "Survey Design"]
+  },
+  {
+    "name": "Government Disaster Management Officer",
+    "overview": "Plans and coordinates emergency response and disaster mitigation programs to ensure public safety and rapid recovery.",
+    "advantages": ["Impactful work", "Diverse scenarios", "Government job security", "Leadership opportunities", "Community engagement"],
+    "disadvantages": ["High stress", "Emergency response", "Irregular hours", "Field risks", "Bureaucracy"],
+    "demand": "High in national and state disaster management authorities and emergency response agencies.",
+    "required_skills": {
+      "basic": ["Communication", "Observation", "Documentation", "Teamwork", "Problem-solving"],
+      "intermediate": ["Emergency planning", "Risk assessment", "Resource coordination", "Data collection", "Reporting"],
+      "advanced": ["Leadership", "Policy implementation", "Project management", "Strategic planning", "Stakeholder coordination"],
+      "professional": ["Disaster management laws", "Government emergency protocols", "Crisis management", "Program development", "Public safety planning"]
+    },
+    "related_skills": ["Disaster Response", "Emergency Management", "Government Safety", "Crisis Planning", "Risk Assessment"]
+  },
+  {
+    "name": "Government Tax Inspector",
+    "overview": "Audits individuals and organizations for compliance with tax laws, investigates discrepancies, and ensures proper revenue collection.",
+    "advantages": ["Stable government career", "Financial authority", "Analytical work", "Policy enforcement", "Professional growth"],
+    "disadvantages": ["High scrutiny", "Complex regulations", "Deadline pressure", "Investigative stress", "Paperwork"],
+    "demand": "High in revenue departments, taxation offices, and auditing agencies.",
+    "required_skills": {
+      "basic": ["Accounting basics", "Communication", "Documentation", "Observation", "Teamwork"],
+      "intermediate": ["Tax laws", "Audit procedures", "Data analysis", "Report writing", "Problem-solving"],
+      "advanced": ["Leadership", "Decision-making", "Policy enforcement", "Project management", "Risk assessment"],
+      "professional": ["Government taxation laws", "Revenue collection", "Financial auditing", "Compliance monitoring", "Regulatory expertise"]
+    },
+    "related_skills": ["Tax Auditing", "Financial Compliance", "Government Revenue", "Policy Enforcement", "Data Analysis"]
+  },
+  {
+    "name": "Government Legal Officer",
+    "overview": "Provides legal advice, drafts legislation, and represents government departments in legal proceedings.",
+    "advantages": ["Influence government policy", "Stable career", "Professional prestige", "Diverse legal work", "Skill development"],
+    "disadvantages": ["High responsibility", "Complex laws", "Documentation-heavy", "Pressure in litigation", "Public scrutiny"],
+    "demand": "High in ministries, legal departments, and public institutions.",
+    "required_skills": {
+      "basic": ["Legal research", "Communication", "Writing", "Critical thinking", "Teamwork"],
+      "intermediate": ["Drafting legal documents", "Contract analysis", "Policy interpretation", "Negotiation", "Problem-solving"],
+      "advanced": ["Leadership", "Advisory skills", "Decision-making", "Litigation strategy", "Project management"],
+      "professional": ["Government law", "Regulatory compliance", "Policy guidance", "Legal advisory", "Public administration"]
+    },
+    "related_skills": ["Government Law", "Legal Advisory", "Policy Interpretation", "Contract Law", "Regulatory Compliance"]
+  },
+  {
+    "name": "Government Revenue Officer",
+    "overview": "Manages government income sources, ensures accurate accounting, monitors financial transactions, and implements revenue policies.",
+    "advantages": ["Stable government career", "Authority in finance", "Analytical work", "Policy implementation", "Professional growth"],
+    "disadvantages": ["Complex financial regulations", "High accountability", "Deadlines", "Audits", "Paperwork"],
+    "demand": "High across finance ministries and taxation departments.",
+    "required_skills": {
+      "basic": ["Accounting basics", "Communication", "Observation", "Documentation", "Teamwork"],
+      "intermediate": ["Financial analysis", "Revenue monitoring", "Policy knowledge", "Report writing", "Problem-solving"],
+      "advanced": ["Leadership", "Strategic planning", "Budget management", "Decision-making", "Project coordination"],
+      "professional": ["Government revenue policy", "Tax regulations", "Financial auditing", "Compliance monitoring", "Public finance management"]
+    },
+    "related_skills": ["Revenue Management", "Government Finance", "Tax Compliance", "Financial Reporting", "Budget Analysis"]
+  },
+  {
+    "name": "Government Intelligence Officer",
+    "overview": "Collects, analyzes, and evaluates intelligence data to support national security and law enforcement efforts.",
+    "advantages": ["High responsibility", "National impact", "Variety of assignments", "Professional growth", "Stable career"],
+    "disadvantages": ["High stress", "Confidentiality constraints", "Irregular hours", "Field risks", "Security clearance requirements"],
+    "demand": "High in intelligence agencies, law enforcement, and national security departments.",
+    "required_skills": {
+      "basic": ["Observation", "Communication", "Documentation", "Critical thinking", "Teamwork"],
+      "intermediate": ["Data analysis", "Investigation", "Report writing", "Research", "Problem-solving"],
+      "advanced": ["Leadership", "Strategic analysis", "Decision-making", "Risk assessment", "Project management"],
+      "professional": ["National security laws", "Intelligence gathering", "Government protocols", "Counterintelligence", "Policy enforcement"]
+    },
+    "related_skills": ["Intelligence Analysis", "Government Security", "Investigation", "Policy Enforcement", "Risk Assessment"]
+  },
+  {
+    "name": "Government Housing Officer",
+    "overview": "Manages public housing programs, ensures policy compliance, and supports citizens in accessing affordable housing.",
+    "advantages": ["Community impact", "Stable government job", "Diverse tasks", "Policy implementation", "Professional growth"],
+    "disadvantages": ["Bureaucracy", "Complex regulations", "High responsibility", "Paperwork", "Stakeholder conflicts"],
+    "demand": "High in housing authorities, urban development, and municipal government offices.",
+    "required_skills": {
+      "basic": ["Communication", "Documentation", "Observation", "Teamwork", "Problem-solving"],
+      "intermediate": ["Housing policies", "Program coordination", "Data analysis", "Reporting", "Conflict resolution"],
+      "advanced": ["Leadership", "Project management", "Policy implementation", "Strategic planning", "Decision-making"],
+      "professional": ["Government housing regulations", "Urban development policies", "Public administration", "Program evaluation", "Regulatory compliance"]
+    },
+    "related_skills": ["Public Housing", "Government Programs", "Policy Implementation", "Urban Development", "Community Engagement"]
+  },
+  {
+    "name": "Government Transportation Planner",
+    "overview": "Plans and optimizes public transport systems, traffic flow, and infrastructure to enhance mobility and efficiency.",
+    "advantages": ["Impactful work", "Government stability", "Analytical challenge", "Project variety", "Policy influence"],
+    "disadvantages": ["Bureaucracy", "Field inspections", "High responsibility", "Complex coordination", "Stakeholder pressure"],
+    "demand": "High in municipal and state transport departments and urban planning offices.",
+    "required_skills": {
+      "basic": ["Communication", "Observation", "Documentation", "Teamwork", "Problem-solving"],
+      "intermediate": ["Transport planning", "Data analysis", "Policy knowledge", "Reporting", "Project coordination"],
+      "advanced": ["Leadership", "Strategic planning", "Decision-making", "Budget management", "Project management"],
+      "professional": ["Government transport regulations", "Urban mobility planning", "Infrastructure development", "Public policy implementation", "Regulatory compliance"]
+    },
+    "related_skills": ["Public Transport", "Urban Planning", "Government Policy", "Traffic Analysis", "Infrastructure Management"]
+  },
+  
+  {
+    "name": "Government Environmental Officer",
+    "overview": "Monitors environmental programs, ensures compliance with regulations, and promotes sustainable practices in public projects.",
+    "advantages": ["Impactful work", "Government stability", "Field engagement", "Policy influence", "Professional growth"],
+    "disadvantages": ["Field exposure", "Regulatory complexity", "Paperwork", "Bureaucratic procedures", "High responsibility"],
+    "demand": "High in environmental protection agencies and government sustainability programs.",
+    "required_skills": {
+      "basic": ["Observation", "Communication", "Documentation", "Teamwork", "Report writing"],
+      "intermediate": ["Environmental regulations", "Data analysis", "Project monitoring", "Policy understanding", "Problem-solving"],
+      "advanced": ["Leadership", "Strategic planning", "Project management", "Policy implementation", "Stakeholder coordination"],
+      "professional": ["Environmental law", "Sustainability programs", "Government compliance", "Public policy", "Regulatory expertise"]
+    },
+    "related_skills": ["Environmental Protection", "Sustainability", "Government Policy", "Ecology", "Regulatory Compliance"]
+  },
+  {
+    "name": "Government Social Welfare Officer",
+    "overview": "Designs and implements social welfare programs, ensures policy compliance, and supports marginalized communities.",
+    "advantages": ["Community impact", "Stable government job", "Diverse tasks", "Policy development", "Professional growth"],
+    "disadvantages": ["Bureaucracy", "High responsibility", "Paperwork", "Stakeholder pressure", "Emotional stress"],
+    "demand": "High in social services departments, welfare boards, and community outreach programs.",
+    "required_skills": {
+      "basic": ["Communication", "Documentation", "Teamwork", "Observation", "Problem-solving"],
+      "intermediate": ["Program coordination", "Policy knowledge", "Data collection", "Report writing", "Conflict resolution"],
+      "advanced": ["Leadership", "Project management", "Policy implementation", "Decision-making", "Strategic planning"],
+      "professional": ["Government welfare policies", "Social program evaluation", "Public administration", "Community engagement", "Regulatory compliance"]
+    },
+    "related_skills": ["Social Welfare", "Community Development", "Government Programs", "Policy Implementation", "Public Services"]
+  },
+  {
+    "name": "Government Education Administrator",
+    "overview": "Oversees public education institutions, ensures quality standards, implements educational policies, and manages school operations.",
+    "advantages": ["Policy impact", "Stable career", "Professional growth", "Leadership opportunities", "Diverse tasks"],
+    "disadvantages": ["Bureaucracy", "Paperwork", "High responsibility", "Policy pressure", "Stakeholder management"],
+    "demand": "High in education ministries, school boards, and public education departments.",
+    "required_skills": {
+      "basic": ["Communication", "Documentation", "Teamwork", "Organization", "Observation"],
+      "intermediate": ["Policy understanding", "Program coordination", "Data analysis", "Report writing", "Problem-solving"],
+      "advanced": ["Leadership", "Decision-making", "Project management", "Policy implementation", "Strategic planning"],
+      "professional": ["Educational law", "Government policy", "Program evaluation", "Public administration", "Regulatory compliance"]
+    },
+    "related_skills": ["Education Management", "Government Policy", "School Administration", "Public Education", "Program Coordination"]
+  },
+  {
+    "name": "Government Public Relations Officer",
+    "overview": "Manages communication between government departments and the public, ensures transparency, and handles media relations.",
+    "advantages": ["Public visibility", "Stable government job", "Communication skills development", "Policy influence", "Variety of tasks"],
+    "disadvantages": ["High responsibility", "Media scrutiny", "Pressure to respond quickly", "Bureaucracy", "Workload"],
+    "demand": "High in ministries, public offices, and government agencies with public outreach programs.",
+    "required_skills": {
+      "basic": ["Communication", "Writing", "Observation", "Teamwork", "Presentation"],
+      "intermediate": ["Media relations", "Content creation", "Data analysis", "Report writing", "Problem-solving"],
+      "advanced": ["Leadership", "Strategy development", "Project management", "Policy communication", "Stakeholder coordination"],
+      "professional": ["Government communication policy", "Public affairs", "Media strategy", "Regulatory compliance", "Crisis communication"]
+    },
+    "related_skills": ["Public Relations", "Government Communication", "Media Management", "Policy Outreach", "Stakeholder Engagement"]
+  },
+  {
+    "name": "Government Urban Planner",
+    "overview": "Develops urban development plans, manages city growth, and ensures sustainable infrastructure development in compliance with regulations.",
+    "advantages": ["Creative problem-solving", "Impact on community", "Stable career", "Policy influence", "Project variety"],
+    "disadvantages": ["Bureaucracy", "Regulatory complexity", "High responsibility", "Stakeholder management", "Field inspections"],
+    "demand": "High in municipal planning departments and urban development authorities.",
+    "required_skills": {
+      "basic": ["Communication", "Observation", "Documentation", "Teamwork", "Research"],
+      "intermediate": ["Urban planning principles", "Data analysis", "Policy understanding", "Report writing", "Problem-solving"],
+      "advanced": ["Leadership", "Project management", "Strategic planning", "Decision-making", "Stakeholder coordination"],
+      "professional": ["Government urban development policies", "Sustainability planning", "Regulatory compliance", "Infrastructure planning", "Public administration"]
+    },
+    "related_skills": ["Urban Planning", "Government Policy", "Infrastructure Management", "Sustainability", "Community Development"]
+  },
+  {
+    "name": "Government Customs Officer",
+    "overview": "Monitors and regulates import/export activities, enforces customs laws, and prevents illegal trade across borders.",
+    "advantages": ["Stable government career", "Authority in trade", "Analytical work", "Variety of tasks", "Professional growth"],
+    "disadvantages": ["High responsibility", "Field inspections", "Potential risk", "Bureaucracy", "Irregular hours"],
+    "demand": "High in customs departments, border security, and trade enforcement agencies.",
+    "required_skills": {
+      "basic": ["Communication", "Observation", "Documentation", "Teamwork", "Problem-solving"],
+      "intermediate": ["Customs regulations", "Data analysis", "Reporting", "Trade compliance", "Inspection procedures"],
+      "advanced": ["Leadership", "Decision-making", "Policy enforcement", "Project management", "Strategic planning"],
+      "professional": ["Government trade policy", "Customs law", "Regulatory compliance", "Risk assessment", "Border security protocols"]
+    },
+    "related_skills": ["Customs Compliance", "Trade Regulation", "Government Enforcement", "Border Security", "Inspection Procedures"]
+  },
+  {
+    "name": "Government Legal Aid Officer",
+    "overview": "Provides free legal support to underprivileged citizens, ensures legal rights protection, and coordinates government legal aid programs.",
+    "advantages": ["Social impact", "Government stability", "Professional satisfaction", "Policy influence", "Legal skill development"],
+    "disadvantages": ["High responsibility", "Complex legal cases", "Workload", "Bureaucracy", "Emotional stress"],
+    "demand": "High in legal aid departments, public defenders’ offices, and government social services.",
+    "required_skills": {
+      "basic": ["Legal research", "Communication", "Writing", "Teamwork", "Critical thinking"],
+      "intermediate": ["Case analysis", "Policy understanding", "Report writing", "Negotiation", "Problem-solving"],
+      "advanced": ["Leadership", "Program coordination", "Decision-making", "Stakeholder engagement", "Project management"],
+      "professional": ["Government legal aid policies", "Regulatory compliance", "Public law", "Legal advisory", "Program evaluation"]
+    },
+    "related_skills": ["Legal Aid", "Government Law", "Public Policy", "Case Management", "Community Support"]
+  },
+  {
+    "name": "Government Water Resource Officer",
+    "overview": "Manages water resources, ensures sustainable usage, and oversees government water management programs.",
+    "advantages": ["Environmental impact", "Stable government career", "Fieldwork", "Policy implementation", "Professional growth"],
+    "disadvantages": ["Field inspections", "Bureaucracy", "High responsibility", "Complex regulations", "Stakeholder coordination"],
+    "demand": "High in water resource departments, environmental agencies, and urban planning authorities.",
+    "required_skills": {
+      "basic": ["Communication", "Observation", "Documentation", "Teamwork", "Data collection"],
+      "intermediate": ["Water resource management", "Data analysis", "Policy knowledge", "Report writing", "Problem-solving"],
+      "advanced": ["Leadership", "Project management", "Decision-making", "Strategic planning", "Stakeholder coordination"],
+      "professional": ["Government water policy", "Sustainability programs", "Regulatory compliance", "Public administration", "Environmental law"]
+    },
+    "related_skills": ["Water Management", "Government Policy", "Environmental Protection", "Sustainability", "Resource Planning"]
+  },
+  {
+    "name": "Government Public Health Administrator",
+    "overview": "Oversees public health programs, coordinates healthcare initiatives, and ensures compliance with health regulations.",
+    "advantages": ["Impactful work", "Stable government career", "Policy influence", "Diverse projects", "Professional growth"],
+    "disadvantages": ["Bureaucracy", "High responsibility", "Regulatory complexity", "Paperwork", "Stakeholder pressure"],
+    "demand": "High in health ministries, public hospitals, and government health programs.",
+    "required_skills": {
+      "basic": ["Communication", "Documentation", "Observation", "Teamwork", "Problem-solving"],
+      "intermediate": ["Health program coordination", "Policy knowledge", "Data analysis", "Reporting", "Conflict resolution"],
+      "advanced": ["Leadership", "Strategic planning", "Decision-making", "Project management", "Policy implementation"],
+      "professional": ["Government health regulations", "Public health law", "Program evaluation", "Regulatory compliance", "Healthcare administration"]
+    },
+    "related_skills": ["Public Health", "Government Programs", "Healthcare Policy", "Health Administration", "Community Health"]
+  },
+  {
+    "name": "Government Immigration Officer",
+    "overview": "Manages immigration procedures, enforces legal compliance, and oversees entry and exit at borders.",
+    "advantages": ["Stable government job", "Authority", "Diverse tasks", "Public service impact", "Professional growth"],
+    "disadvantages": ["High responsibility", "Field inspections", "Potential conflict situations", "Bureaucracy", "Irregular hours"],
+    "demand": "High in immigration departments, border control, and government regulatory agencies.",
+    "required_skills": {
+      "basic": ["Communication", "Observation", "Documentation", "Teamwork", "Problem-solving"],
+      "intermediate": ["Immigration laws", "Data analysis", "Report writing", "Inspection procedures", "Customer service"],
+      "advanced": ["Leadership", "Decision-making", "Policy enforcement", "Project management", "Stakeholder coordination"],
+      "professional": ["Government immigration policy", "Regulatory compliance", "Public law", "Risk assessment", "Border management"]
+    },
+    "related_skills": ["Immigration Control", "Government Law", "Border Security", "Regulatory Compliance", "Public Service"]
+  }
+
+
+  ]
+}

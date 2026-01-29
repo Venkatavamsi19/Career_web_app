@@ -1,0 +1,2531 @@
+{
+  "category": "Science & Research",
+  "careers": [
+    {
+      "name": "Research Scientist",
+      "overview": "Conducts experiments, analyzes data, and publishes findings in various scientific fields.",
+      "advantages": [
+        "Opportunities for discovery",
+        "High intellectual stimulation",
+        "Potential for academic or industrial career"
+      ],
+      "disadvantages": [
+        "Long hours in lab or field",
+        "Grant and publication pressure"
+      ],
+      "demand": "High demand in pharmaceuticals, biotech, and academic research globally.",
+      "required_skills": {
+        "basic": ["Scientific method", "Lab safety", "Data collection", "Observation skills", "Basic statistics"],
+        "intermediate": ["Experimental design", "Data analysis", "Report writing", "Statistical software", "Collaboration"],
+        "advanced": ["Advanced analytics", "Grant writing", "Specialized instrumentation", "Research methodology", "Project management"],
+        "professional": ["Leadership", "Mentoring juniors", "Cross-disciplinary research", "Publication strategy", "Ethical compliance"]
+      },
+      "related_skills": ["Python for research", "R", "MATLAB", "Laboratory techniques", "Peer review"]
+    },
+    {
+      "name": "Biostatistician",
+      "overview": "Applies statistical methods to biological and medical research to draw meaningful conclusions.",
+      "advantages": [
+        "Critical in clinical trials",
+        "High salary potential",
+        "In-demand skill set"
+      ],
+      "disadvantages": [
+        "Mathematical complexity",
+        "Tight deadlines in medical studies"
+      ],
+      "demand": "Growing demand in healthcare, pharma, and public health research.",
+      "required_skills": {
+        "basic": ["Statistics fundamentals", "Data handling", "Excel", "Programming basics", "Problem-solving"],
+        "intermediate": ["R or SAS programming", "Data visualization", "Regression analysis", "Experimental design", "Database management"],
+        "advanced": ["Clinical trial analysis", "Machine learning applications", "Predictive modeling", "Data interpretation", "Advanced statistical methods"],
+        "professional": ["Publication preparation", "Collaboration with medical teams", "Project leadership", "Regulatory compliance", "Ethical data use"]
+      },
+      "related_skills": ["R", "SAS", "Python", "SPSS", "Clinical research"]
+    },
+    {
+      "name": "Environmental Scientist",
+      "overview": "Studies the environment and develops solutions to ecological and sustainability challenges.",
+      "advantages": [
+        "Work impacts society and planet",
+        "Variety of field and lab work",
+        "Opportunities in NGOs, government, and private sector"
+      ],
+      "disadvantages": [
+        "Field work can be physically demanding",
+        "Funding constraints in research"
+      ],
+      "demand": "High demand in climate research, sustainability projects, and government agencies.",
+      "required_skills": {
+        "basic": ["Ecology basics", "Data collection", "Observation skills", "Report writing", "Survey techniques"],
+        "intermediate": ["Environmental modeling", "GIS mapping", "Pollution analysis", "Regulatory knowledge", "Statistical analysis"],
+        "advanced": ["Environmental impact assessment", "Project management", "Policy evaluation", "Advanced analytics", "Research publishing"],
+        "professional": ["Team leadership", "Grant writing", "Stakeholder collaboration", "Public communication", "Strategic planning"]
+      },
+      "related_skills": ["GIS", "Remote sensing", "Python for analysis", "Environmental regulations", "Data visualization"]
+    },
+    {
+      "name": "Geneticist",
+      "overview": "Studies genes, heredity, and variation in organisms to understand biological processes.",
+      "advantages": [
+        "Cutting-edge science",
+        "Potential for high-impact discoveries",
+        "Growing biotech and pharma opportunities"
+      ],
+      "disadvantages": [
+        "Complex lab work",
+        "Requires advanced education"
+      ],
+      "demand": "High demand in biotech, research institutes, and healthcare genetics services.",
+      "required_skills": {
+        "basic": ["Biology fundamentals", "Molecular biology basics", "Lab safety", "Microscopy", "Data collection"],
+        "intermediate": ["DNA/RNA techniques", "CRISPR basics", "Genomic analysis", "Lab reporting", "Bioinformatics basics"],
+        "advanced": ["Genome editing", "Statistical genetics", "High-throughput analysis", "Research design", "Advanced bioinformatics"],
+        "professional": ["Collaboration in research", "Grant writing", "Ethical compliance", "Project leadership", "Publication"]
+      },
+      "related_skills": ["CRISPR", "Bioinformatics", "Python/R", "Next-gen sequencing", "Molecular genetics"]
+    },
+    {
+      "name": "Clinical Research Associate",
+      "overview": "Manages and monitors clinical trials to ensure data integrity and regulatory compliance.",
+      "advantages": [
+        "High demand in pharma",
+        "Global career opportunities",
+        "Experience in regulatory affairs"
+      ],
+      "disadvantages": [
+        "Travel-intensive",
+        "Strict regulatory timelines"
+      ],
+      "demand": "Growing demand as clinical trials expand in medical research worldwide.",
+      "required_skills": {
+        "basic": ["Medical terminology", "Documentation", "Data entry", "Clinical trial basics", "Observation skills"],
+        "intermediate": ["Monitoring procedures", "Protocol compliance", "Reporting adverse events", "Team coordination", "Regulatory knowledge"],
+        "advanced": ["Study design understanding", "Data analysis", "Risk assessment", "Project tracking", "Problem-solving"],
+        "professional": ["Leadership", "Stakeholder communication", "Regulatory submission", "Process improvement", "Training juniors"]
+      },
+      "related_skills": ["GCP", "SAS", "Clinical trial management systems", "Regulatory compliance", "Medical writing"]
+    },
+    {
+      "name": "Pharmaceutical Scientist",
+      "overview": "Researches and develops drugs and therapies for disease treatment.",
+      "advantages": [
+        "High-paying industry",
+        "Direct impact on healthcare",
+        "Opportunities in R&D and production"
+      ],
+      "disadvantages": [
+        "Highly regulated industry",
+        "Long experimental cycles"
+      ],
+      "demand": "High demand in pharma and biotech globally for new drug development.",
+      "required_skills": {
+        "basic": ["Chemistry fundamentals", "Lab safety", "Data recording", "Observation", "Basic microbiology"],
+        "intermediate": ["Drug formulation", "Pharmacology basics", "Analytical techniques", "Lab reporting", "Data interpretation"],
+        "advanced": ["Clinical trial preparation", "Regulatory compliance", "Advanced pharmacology", "Process optimization", "Research publishing"],
+        "professional": ["Team leadership", "Project management", "Cross-functional collaboration", "Patent filing", "Scientific presentation"]
+      },
+      "related_skills": ["HPLC", "Chromatography", "Drug design software", "Python/R", "Regulatory standards"]
+    },
+    {
+      "name": "Neuroscientist",
+      "overview": "Studies the structure and function of the nervous system to understand behavior and cognition.",
+      "advantages": [
+        "High-impact research",
+        "Cutting-edge technology",
+        "Cross-disciplinary work"
+      ],
+      "disadvantages": [
+        "Requires advanced degree",
+        "Complex experiments and analysis"
+      ],
+      "demand": "Growing demand in healthcare, neurotechnology, and research institutes.",
+      "required_skills": {
+        "basic": ["Biology", "Neuroanatomy", "Lab techniques", "Observation", "Data collection"],
+        "intermediate": ["Electrophysiology", "Behavioral experiments", "Imaging techniques", "Data analysis", "Programming basics"],
+        "advanced": ["Neuroinformatics", "Machine learning for neuroscience", "Research design", "Advanced imaging", "Statistical modeling"],
+        "professional": ["Grant writing", "Cross-team collaboration", "Publication strategy", "Mentoring", "Ethical research"]
+      },
+      "related_skills": ["MATLAB", "Python", "EEG/MEG", "fMRI", "Neuroimaging software"]
+    },
+    {
+      "name": "Astrophysicist",
+      "overview": "Studies celestial objects, space phenomena, and the universe's physical properties.",
+      "advantages": [
+        "Exploration of fundamental science",
+        "Highly respected profession",
+        "Opportunities in academia and space agencies"
+      ],
+      "disadvantages": [
+        "Advanced math and physics required",
+        "Often competitive and grant-dependent"
+      ],
+      "demand": "Demand in research institutions, observatories, and space organizations globally.",
+      "required_skills": {
+        "basic": ["Physics fundamentals", "Mathematics basics", "Observation skills", "Data recording", "Scientific reasoning"],
+        "intermediate": ["Astrophysics modeling", "Simulation software", "Data analysis", "Research writing", "Programming basics"],
+        "advanced": ["Cosmology", "Stellar dynamics", "Computational physics", "Advanced data modeling", "Instrumentation"],
+        "professional": ["Grant writing", "Collaboration", "Teaching", "Publication", "Project leadership"]
+      },
+      "related_skills": ["Python", "MATLAB", "AstroPy", "Data visualization", "Telescope instrumentation"]
+    },
+    {
+      "name": "Biomedical Engineer",
+      "overview": "Designs and develops medical devices, prosthetics, and healthcare technologies.",
+      "advantages": [
+        "High demand in healthcare",
+        "Combines engineering and medicine",
+        "Innovative work"
+      ],
+      "disadvantages": [
+        "Regulatory compliance",
+        "Complex interdisciplinary knowledge required"
+      ],
+      "demand": "Strong demand in hospitals, medical device companies, and research labs.",
+      "required_skills": {
+        "basic": ["Biology basics", "Engineering fundamentals", "Problem solving", "Data analysis", "CAD basics"],
+        "intermediate": ["Medical device design", "Simulation tools", "Testing protocols", "Materials science", "Programming basics"],
+        "advanced": ["Regulatory standards", "Advanced modeling", "Prototyping", "Biomechanics", "Clinical trials support"],
+        "professional": ["Project management", "Cross-functional collaboration", "Documentation", "Innovation strategy", "Team leadership"]
+      },
+      "related_skills": ["SolidWorks", "MATLAB", "Python", "Biomedical instrumentation", "3D printing"]
+    },
+    {
+      "name": "Chemist / Laboratory Scientist",
+      "overview": "Analyzes substances, develops chemical products, and supports research in chemistry-related fields.",
+      "advantages": [
+        "Wide career options",
+        "Industry and research flexibility",
+        "High demand in pharmaceuticals and materials"
+      ],
+      "disadvantages": [
+        "Lab safety risks",
+        "Repetitive experimental work"
+      ],
+      "demand": "High demand in chemical, pharmaceutical, and materials research industries.",
+      "required_skills": {
+        "basic": ["Chemistry fundamentals", "Lab safety", "Measurement techniques", "Data recording", "Problem solving"],
+        "intermediate": ["Analytical techniques", "Titration", "Spectroscopy", "Experimental design", "Data analysis"],
+        "advanced": ["Chemical synthesis", "Process optimization", "Advanced instrumentation", "Research methodology", "Publication"],
+        "professional": ["Project management", "Team leadership", "Regulatory compliance", "Documentation", "Mentoring"]
+      },
+      "related_skills": ["HPLC", "GC-MS", "NMR", "MATLAB", "Laboratory software"]
+    },
+    
+    {
+      "name": "Bioinformatics Scientist",
+      "overview": "Uses computational tools to analyze biological data, such as genomes and protein structures.",
+      "advantages": [
+        "High demand in genomics and pharma",
+        "Integrates biology and AI",
+        "Cutting-edge research opportunities"
+      ],
+      "disadvantages": [
+        "Requires coding skills",
+        "Complex data analysis"
+      ],
+      "demand": "Very high demand in biotech, pharmaceuticals, and personalized medicine.",
+      "required_skills": {
+        "basic": ["Biology fundamentals", "Statistics basics", "Python/R basics", "Data handling", "Problem solving"],
+        "intermediate": ["Sequence analysis", "Genomics pipelines", "Data visualization", "Machine learning basics", "Databases"],
+        "advanced": ["High-throughput data analysis", "AI in bioinformatics", "Advanced modeling", "Cloud computing", "Research methodology"],
+        "professional": ["Project leadership", "Publication", "Collaboration", "Grant writing", "Ethical data management"]
+      },
+      "related_skills": ["Python", "R", "Next-gen sequencing", "Machine learning", "Bioconductor"]
+    },
+    {
+      "name": "Neuroinformatics Researcher",
+      "overview": "Combines neuroscience and data science to model and analyze brain function.",
+      "advantages": [
+        "High-tech interdisciplinary role",
+        "Strong research impact",
+        "AI and data integration"
+      ],
+      "disadvantages": [
+        "Requires advanced mathematics and programming",
+        "Very specialized field"
+      ],
+      "demand": "Growing demand in neurotechnology, AI-driven healthcare, and brain research.",
+      "required_skills": {
+        "basic": ["Neuroscience basics", "Programming basics", "Data collection", "Mathematical foundations", "Observation skills"],
+        "intermediate": ["Data preprocessing", "Neural modeling", "Python/R programming", "Visualization", "Signal processing"],
+        "advanced": ["Machine learning for neuroscience", "Brain network modeling", "Statistical analysis", "High-dimensional data handling", "Simulation techniques"],
+        "professional": ["Research collaboration", "Grant writing", "Publication", "Cross-disciplinary communication", "Project management"]
+      },
+      "related_skills": ["MATLAB", "Python", "TensorFlow", "fMRI analysis", "Neuroimaging software"]
+    },
+    {
+      "name": "Astrobiologist",
+      "overview": "Studies life in the universe, including the potential for life on other planets.",
+      "advantages": [
+        "Exploration-focused",
+        "Highly unique and exciting field",
+        "Opportunity for space research"
+      ],
+      "disadvantages": [
+        "Limited job openings",
+        "Highly competitive"
+      ],
+      "demand": "Rare but prestigious roles in space agencies and research institutions.",
+      "required_skills": {
+        "basic": ["Biology basics", "Chemistry basics", "Astronomy fundamentals", "Observation skills", "Scientific reasoning"],
+        "intermediate": ["Planetary science", "Microbial analysis", "Field research", "Data analysis", "Lab techniques"],
+        "advanced": ["Exoplanet habitability modeling", "Space mission data analysis", "Astrobiology experiments", "Computational modeling", "Scientific writing"],
+        "professional": ["Research leadership", "Collaboration with space agencies", "Publication", "Funding proposals", "Cross-disciplinary integration"]
+      },
+      "related_skills": ["Python", "R", "GIS", "Lab instrumentation", "Astrophysics"]
+    },
+    {
+      "name": "Synthetic Biologist",
+      "overview": "Designs and constructs new biological parts, devices, and systems.",
+      "advantages": [
+        "High innovation potential",
+        "Cutting-edge biotech work",
+        "Strong industrial demand"
+      ],
+      "disadvantages": [
+        "Requires interdisciplinary knowledge",
+        "High regulatory oversight"
+      ],
+      "demand": "High demand in biotech startups and pharmaceutical R&D.",
+      "required_skills": {
+        "basic": ["Molecular biology", "Genetics basics", "Lab techniques", "Problem-solving", "Data collection"],
+        "intermediate": ["DNA assembly", "Gene circuits", "Lab automation", "Experimental design", "Data analysis"],
+        "advanced": ["Synthetic pathway engineering", "Metabolic modeling", "High-throughput screening", "Advanced molecular techniques", "Optimization"],
+        "professional": ["Project management", "Collaboration", "Publication", "Patent filing", "Regulatory knowledge"]
+      },
+      "related_skills": ["CRISPR", "Python", "MATLAB", "Bioinformatics", "Synthetic gene design"]
+    },
+    {
+      "name": "Quantum Biologist",
+      "overview": "Explores quantum effects in biological systems to understand phenomena like photosynthesis and enzyme reactions.",
+      "advantages": [
+        "Highly innovative",
+        "Interdisciplinary research",
+        "Unique career path"
+      ],
+      "disadvantages": [
+        "Very niche and competitive",
+        "Requires deep physics and biology knowledge"
+      ],
+      "demand": "Rare roles in advanced research labs and theoretical studies.",
+      "required_skills": {
+        "basic": ["Biology basics", "Quantum physics basics", "Mathematics", "Data handling", "Observation"],
+        "intermediate": ["Computational modeling", "Simulation techniques", "Experimental design", "Data analysis", "Programming basics"],
+        "advanced": ["Quantum simulations in biology", "High-level mathematical modeling", "Research methodology", "Data interpretation", "Publication"],
+        "professional": ["Cross-disciplinary collaboration", "Grant writing", "Research leadership", "Ethical research", "Scientific communication"]
+      },
+      "related_skills": ["Python", "MATLAB", "Quantum simulation tools", "Bioinformatics", "Computational biology"]
+    },
+    {
+      "name": "Pharmacogenomics Specialist",
+      "overview": "Studies how genes affect individual responses to drugs for personalized medicine.",
+      "advantages": [
+        "High clinical impact",
+        "Strong pharmaceutical industry demand",
+        "Integration of genetics and medicine"
+      ],
+      "disadvantages": [
+        "Advanced knowledge required",
+        "Limited positions in early career"
+      ],
+      "demand": "High demand in pharma, hospitals, and personalized medicine startups.",
+      "required_skills": {
+        "basic": ["Genetics basics", "Biology fundamentals", "Lab techniques", "Data collection", "Problem-solving"],
+        "intermediate": ["Drug-gene interaction analysis", "Bioinformatics", "Statistical analysis", "Clinical trial basics", "Data visualization"],
+        "advanced": ["Personalized treatment design", "Advanced genomics", "Machine learning integration", "Regulatory compliance", "Research methodology"],
+        "professional": ["Project management", "Publication", "Collaboration with medical teams", "Grant writing", "Ethical compliance"]
+      },
+      "related_skills": ["R", "Python", "Genomic databases", "Bioinformatics pipelines", "Pharmacology"]
+    },
+    {
+      "name": "Data Scientist - Scientific Research",
+      "overview": "Applies data science techniques to solve complex scientific problems and extract insights from research data.",
+      "advantages": [
+        "Highly versatile",
+        "High salary potential",
+        "Applicable across multiple scientific fields"
+      ],
+      "disadvantages": [
+        "Requires strong statistics and programming skills",
+        "Data quality issues can be challenging"
+      ],
+      "demand": "Extremely high demand in biotech, pharma, and academic research.",
+      "required_skills": {
+        "basic": ["Python/R", "Statistics", "Data cleaning", "Problem solving", "Scientific literacy"],
+        "intermediate": ["Machine learning", "Data visualization", "Experimental data analysis", "Database management", "Data pipelines"],
+        "advanced": ["Deep learning for scientific data", "High-dimensional data analysis", "Predictive modeling", "Simulation techniques", "Optimization"],
+        "professional": ["Cross-team collaboration", "Publication", "Grant writing", "Project management", "Ethical AI"]
+      },
+      "related_skills": ["Python", "R", "TensorFlow", "Scikit-learn", "MATLAB"]
+    },
+    {
+      "name": "Climate Modeler",
+      "overview": "Develops computational models to predict climate change and environmental impact.",
+      "advantages": [
+        "Global significance",
+        "Interdisciplinary work",
+        "High research visibility"
+      ],
+      "disadvantages": [
+        "Complex mathematics and programming",
+        "Uncertain funding in some regions"
+      ],
+      "demand": "High demand in research institutions, government agencies, and NGOs.",
+      "required_skills": {
+        "basic": ["Mathematics", "Physics", "Data handling", "Observation skills", "Problem solving"],
+        "intermediate": ["Numerical modeling", "Programming basics", "Data visualization", "Statistical analysis", "Remote sensing basics"],
+        "advanced": ["Climate modeling software", "High-performance computing", "Simulation design", "Scenario analysis", "Research interpretation"],
+        "professional": ["Grant writing", "Policy communication", "Project leadership", "Collaboration", "Publication"]
+      },
+      "related_skills": ["Python", "MATLAB", "R", "GIS", "Climate simulation tools"]
+    },
+    {
+      "name": "Space Systems Engineer",
+      "overview": "Designs spacecraft, satellites, and instruments for scientific space missions.",
+      "advantages": [
+        "High-tech and futuristic career",
+        "Global space agency opportunities",
+        "Engineering + science integration"
+      ],
+      "disadvantages": [
+        "Requires multidisciplinary expertise",
+        "Limited positions"
+      ],
+      "demand": "Growing demand with increasing private and public space programs worldwide.",
+      "required_skills": {
+        "basic": ["Physics", "Mathematics", "Engineering fundamentals", "Problem solving", "CAD basics"],
+        "intermediate": ["Systems design", "Orbital mechanics", "Simulation tools", "Programming", "Project documentation"],
+        "advanced": ["Spacecraft integration", "Satellite payload design", "Testing and validation", "Advanced computational modeling", "Optimization"],
+        "professional": ["Project leadership", "Collaboration with agencies", "Risk analysis", "Technical reporting", "Innovation management"]
+      },
+      "related_skills": ["MATLAB", "Python", "CAD", "Aerospace simulation", "Satellite instrumentation"]
+    },
+    {
+      "name": "Synthetic Chemist - Industrial Research",
+      "overview": "Designs and synthesizes new chemical compounds for industrial applications.",
+      "advantages": [
+        "High industry demand",
+        "Innovative and applied research",
+        "Good salary potential"
+      ],
+      "disadvantages": [
+        "Lab safety concerns",
+        "High technical complexity"
+      ],
+      "demand": "High demand in pharmaceuticals, materials, and chemical manufacturing.",
+      "required_skills": {
+        "basic": ["Chemistry fundamentals", "Lab techniques", "Safety protocols", "Data recording", "Observation"],
+        "intermediate": ["Organic/inorganic synthesis", "Analytical chemistry", "Instrumentation", "Process design", "Data analysis"],
+        "advanced": ["Reaction optimization", "Scale-up techniques", "Advanced instrumentation", "Research publication", "Project design"],
+        "professional": ["Team leadership", "Process documentation", "Cross-team collaboration", "Patent filing", "Innovation management"]
+      },
+      "related_skills": ["HPLC", "NMR", "GC-MS", "MATLAB", "Chemical modeling software"]
+    },
+    
+    {
+      "name": "Biochemist",
+      "overview": "Studies chemical processes within and related to living organisms, advancing knowledge in medicine and biotechnology.",
+      "advantages": [
+        "High impact on healthcare and biotech innovation",
+        "Opportunities for lab research and publication"
+      ],
+      "disadvantages": [
+        "Long research hours",
+        "Repetitive experimental procedures"
+      ],
+      "demand": "Biochemists are in demand in pharmaceuticals, biotech, and academic research.",
+      "required_skills": {
+        "basic": ["Chemical analysis", "Laboratory safety", "Microscopy", "Organic chemistry", "Data recording"],
+        "intermediate": ["Protein assays", "Chromatography", "Spectroscopy", "Experimental design", "Literature review"],
+        "advanced": ["Molecular biology techniques", "Drug development research", "Enzyme kinetics", "Lab automation", "Scientific writing"],
+        "professional": ["Project management", "Grant writing", "Team leadership", "Cross-disciplinary collaboration", "Mentorship"]
+      },
+      "related_skills": ["Molecular modeling", "Biotechnology", "Cell culture", "Analytical chemistry", "Lab instrumentation"]
+    },
+    {
+      "name": "Ecologist",
+      "overview": "Researches ecosystems, biodiversity, and environmental interactions to inform conservation and sustainability efforts.",
+      "advantages": [
+        "Fieldwork opportunities",
+        "Direct environmental impact",
+        "Collaboration with NGOs and governments"
+      ],
+      "disadvantages": [
+        "Fieldwork can be physically demanding",
+        "Research funding may be limited"
+      ],
+      "demand": "Ecologists are essential for conservation projects, environmental impact studies, and climate research.",
+      "required_skills": {
+        "basic": ["Observation", "Species identification", "Field sampling", "GIS basics", "Environmental monitoring"],
+        "intermediate": ["Population analysis", "Ecological surveys", "Data visualization", "Statistical analysis", "Report writing"],
+        "advanced": ["Habitat modeling", "Ecosystem management", "Climate impact studies", "Remote sensing analysis", "Project planning"],
+        "professional": ["Policy advisory", "Research leadership", "Grant proposal writing", "Stakeholder communication", "Scientific publishing"]
+      },
+      "related_skills": ["GIS", "Environmental law", "Remote sensing", "Biodiversity databases", "Conservation planning"]
+    },
+    {
+      "name": "Geneticist",
+      "overview": "Investigates genes, heredity, and DNA to advance knowledge in medicine, agriculture, and biotechnology.",
+      "advantages": [
+        "Cutting-edge scientific discoveries",
+        "High research and academic opportunities"
+      ],
+      "disadvantages": [
+        "Requires precision and patience",
+        "Ethical considerations are critical"
+      ],
+      "demand": "Geneticists are in demand in medicine, agriculture, biotech, and research institutions.",
+      "required_skills": {
+        "basic": ["Genetics fundamentals", "Laboratory safety", "DNA extraction", "Microscopy", "Record keeping"],
+        "intermediate": ["PCR techniques", "Gel electrophoresis", "Genetic mapping", "Sample preparation", "Data analysis"],
+        "advanced": ["Gene editing", "Bioinformatics for genomics", "Molecular cloning", "Population genetics", "Experimental design"],
+        "professional": ["Research leadership", "Grant writing", "Scientific collaboration", "Ethical compliance", "Publication in journals"]
+      },
+      "related_skills": ["CRISPR", "Genomic sequencing", "Phenotyping", "Molecular diagnostics", "Lab automation"]
+    },
+    {
+      "name": "Marine Biologist",
+      "overview": "Studies marine organisms, ecosystems, and oceanography to conserve marine biodiversity and resources.",
+      "advantages": [
+        "Work in natural environments",
+        "Contribute to global marine conservation"
+      ],
+      "disadvantages": [
+        "Fieldwork can be challenging",
+        "Travel may be extensive"
+      ],
+      "demand": "Marine biologists are needed for conservation, fisheries, environmental consulting, and research institutions.",
+      "required_skills": {
+        "basic": ["Species identification", "Sampling techniques", "Water quality analysis", "Field safety", "Observation"],
+        "intermediate": ["Diving skills", "Population monitoring", "Marine ecosystem analysis", "Data logging", "GIS mapping"],
+        "advanced": ["Marine conservation planning", "Experimental marine research", "Remote sensing", "Habitat restoration", "Project coordination"],
+        "professional": ["Policy advisory", "Grant applications", "Research leadership", "International collaboration", "Scientific publishing"]
+      },
+      "related_skills": ["Oceanography", "Aquatic ecology", "Environmental legislation", "Data analysis", "Marine technology"]
+    },
+    {
+      "name": "Pharmacologist",
+      "overview": "Researches drug actions, therapeutic effects, and safety to develop new medications.",
+      "advantages": [
+        "High impact in healthcare",
+        "Work on innovative drug development"
+      ],
+      "disadvantages": [
+        "Long lab hours",
+        "Requires rigorous testing and compliance"
+      ],
+      "demand": "Pharmacologists are in demand in pharmaceutical companies, research labs, and hospitals.",
+      "required_skills": {
+        "basic": ["Drug knowledge", "Lab safety", "Basic chemistry", "Experimental observation", "Data recording"],
+        "intermediate": ["Pharmacokinetics", "Toxicology testing", "Cell culture", "Assay development", "Statistical analysis"],
+        "advanced": ["Clinical trial design", "Drug mechanism analysis", "Molecular pharmacology", "Regulatory compliance", "Experimental optimization"],
+        "professional": ["Research leadership", "Ethical review boards", "Grant writing", "Publication", "Collaboration with healthcare teams"]
+      },
+      "related_skills": ["Toxicology", "Clinical pharmacology", "Regulatory affairs", "Biostatistics", "Laboratory management"]
+    },
+    {
+      "name": "Neuroscientist",
+      "overview": "Studies the brain and nervous system to understand behavior, cognition, and neurological diseases.",
+      "advantages": [
+        "Work on cutting-edge research",
+        "High academic and clinical impact"
+      ],
+      "disadvantages": [
+        "Complex subject matter",
+        "Long research timelines"
+      ],
+      "demand": "Neuroscientists are in demand in academia, hospitals, and biotech for neurological research.",
+      "required_skills": {
+        "basic": ["Neuroanatomy", "Laboratory safety", "Data recording", "Microscopy", "Basic physiology"],
+        "intermediate": ["Neurophysiology techniques", "Behavioral experiments", "Data analysis", "Brain imaging basics", "Electrophysiology"],
+        "advanced": ["Functional neuroimaging", "Cognitive modeling", "Neural circuitry analysis", "Experimental design", "Neuropharmacology"],
+        "professional": ["Grant writing", "Research team leadership", "Publication", "Ethical compliance", "Collaboration across disciplines"]
+      },
+      "related_skills": ["MRI", "EEG", "Data modeling", "Clinical research", "Neural networks research"]
+    },
+    {
+      "name": "Astrophysicist",
+      "overview": "Studies celestial phenomena, including stars, galaxies, and cosmic events, to understand the universe.",
+      "advantages": [
+        "Explore fundamental science",
+        "Contribute to high-impact research"
+      ],
+      "disadvantages": [
+        "Requires advanced mathematics",
+        "Research may take years to yield results"
+      ],
+      "demand": "Astrophysicists are needed in space agencies, observatories, and research institutions worldwide.",
+      "required_skills": {
+        "basic": ["Physics fundamentals", "Mathematics", "Observation techniques", "Data recording", "Scientific curiosity"],
+        "intermediate": ["Optics and instrumentation", "Computational modeling", "Data analysis", "Research methods", "Report writing"],
+        "advanced": ["Stellar modeling", "Cosmology studies", "Spectroscopy", "Telescope operation", "Research publication"],
+        "professional": ["Grant applications", "Project leadership", "Collaboration with international teams", "Mentorship", "Conference presentation"]
+      },
+      "related_skills": ["Astrometry", "Observational astronomy", "Space telescopes", "Cosmology", "Simulation tools"]
+    },
+    {
+      "name": "Materials Scientist",
+      "overview": "Researches and develops new materials with unique properties for industrial, medical, or technological applications.",
+      "advantages": [
+        "High industry demand",
+        "Opportunities for innovation"
+      ],
+      "disadvantages": [
+        "Experimental complexity",
+        "Can be expensive research"
+      ],
+      "demand": "Materials scientists are sought in aerospace, electronics, energy, and manufacturing industries.",
+      "required_skills": {
+        "basic": ["Chemistry basics", "Material properties", "Microscopy", "Lab safety", "Data recording"],
+        "intermediate": ["Material characterization", "Mechanical testing", "Crystallography", "Surface analysis", "Experimental design"],
+        "advanced": ["Nanomaterials", "Composite development", "Material modeling", "Thermal/electrical analysis", "Optimization techniques"],
+        "professional": ["Research management", "Cross-industry collaboration", "Patent writing", "Publication", "Innovation strategy"]
+      },
+      "related_skills": ["Nanotechnology", "Metallurgy", "Polymers", "Ceramics", "3D printing materials"]
+    },
+    {
+      "name": "Environmental Scientist",
+      "overview": "Analyzes environmental systems to solve problems related to pollution, sustainability, and resource management.",
+      "advantages": [
+        "Direct societal impact",
+        "Fieldwork and lab combination"
+      ],
+      "disadvantages": [
+        "Work may involve challenging environments",
+        "Dependent on project funding"
+      ],
+      "demand": "Environmental scientists are in demand in NGOs, government agencies, and environmental consulting.",
+      "required_skills": {
+        "basic": ["Environmental monitoring", "Sampling", "Observation", "Data recording", "Basic chemistry"],
+        "intermediate": ["GIS mapping", "Water/soil testing", "Statistical analysis", "Environmental law basics", "Report writing"],
+        "advanced": ["Ecosystem modeling", "Pollution mitigation planning", "Sustainability analysis", "Climate risk assessment", "Project design"],
+        "professional": ["Policy advisory", "Stakeholder communication", "Research leadership", "Grant applications", "Publication"]
+      },
+      "related_skills": ["Conservation", "Climate science", "Environmental policy", "Remote sensing", "Sustainability planning"]
+    },
+    {
+      "name": "Philosopher of Science",
+      "overview": "Analyzes the foundations, methods, and implications of science, bridging critical thinking and scientific inquiry.",
+      "advantages": [
+        "Unique intellectual pursuit",
+        "Opportunities in academia and policy"
+      ],
+      "disadvantages": [
+        "Fewer conventional job roles",
+        "Mostly theoretical research"
+      ],
+      "demand": "Sought in research ethics boards, policy think tanks, and academic philosophy departments.",
+      "required_skills": {
+        "basic": ["Critical thinking", "Scientific literacy", "Logic", "Analytical reading", "Writing fundamentals"],
+        "intermediate": ["Philosophy of methodology", "Argument analysis", "Historical context of science", "Scientific communication", "Interdisciplinary research"],
+        "advanced": ["Ethics evaluation", "Theory development", "Research synthesis", "Academic writing", "Policy advising"],
+        "professional": ["Leadership in research committees", "Publishing", "Conference presentations", "Grant proposals", "Collaboration with scientists"]
+      },
+      "related_skills": ["Ethics", "Science communication", "Philosophy", "Policy", "Critical reasoning"]
+    },
+    
+    {
+      "name": "Oceanographer",
+      "overview": "Studies ocean currents, ecosystems, and marine chemistry to understand and protect the world's oceans.",
+      "advantages": [
+        "Work in unique marine environments",
+        "Contribute to environmental conservation"
+      ],
+      "disadvantages": [
+        "Fieldwork can be challenging and remote",
+        "Funding may be project-based"
+      ],
+      "demand": "Oceanographers are needed in research institutes, environmental organizations, and government agencies.",
+      "required_skills": {
+        "basic": ["Marine biology fundamentals", "Field sampling", "Observation techniques", "Data logging", "Navigation basics"],
+        "intermediate": ["Remote sensing", "GIS mapping", "Hydrology analysis", "Lab techniques", "Data visualization"],
+        "advanced": ["Climate impact modeling", "Marine ecosystem simulation", "Oceanographic instrumentation", "Research design", "Policy analysis"],
+        "professional": ["Project leadership", "Grant writing", "International collaboration", "Scientific publishing", "Mentorship"]
+      },
+      "related_skills": ["Marine ecology", "Hydrography", "GIS", "Environmental policy", "Data modeling"]
+    },
+    {
+      "name": "Marine Conservation Scientist",
+      "overview": "Develops strategies to preserve marine biodiversity and manage fisheries and protected areas.",
+      "advantages": [
+        "Direct positive impact on environment",
+        "Collaboration with NGOs and governments"
+      ],
+      "disadvantages": [
+        "Work may involve harsh outdoor conditions",
+        "Dependent on conservation funding"
+      ],
+      "demand": "Marine conservation scientists are highly sought in NGOs, government, and environmental consultancies.",
+      "required_skills": {
+        "basic": ["Species identification", "Sampling", "Observation", "Data collection", "Field safety"],
+        "intermediate": ["Population monitoring", "GIS mapping", "Statistical analysis", "Environmental policy", "Report writing"],
+        "advanced": ["Conservation planning", "Marine ecosystem modeling", "Policy advisory", "Project management", "Research publications"],
+        "professional": ["Grant writing", "Stakeholder communication", "Team leadership", "International collaboration", "Scientific conferences"]
+      },
+      "related_skills": ["Biodiversity assessment", "Ecology", "Environmental law", "Remote sensing", "Sustainability"]
+    },
+    {
+      "name": "Astrobiologist",
+      "overview": "Studies the origin, evolution, and potential of life in the universe, bridging biology and space science.",
+      "advantages": [
+        "Highly futuristic and interdisciplinary",
+        "Work with space agencies and research institutions"
+      ],
+      "disadvantages": [
+        "Limited direct job openings",
+        "Requires expertise in multiple disciplines"
+      ],
+      "demand": "Astrobiologists are sought in space research institutions, universities, and NASA/ESA projects.",
+      "required_skills": {
+        "basic": ["Biology basics", "Chemistry basics", "Scientific observation", "Data recording", "Critical thinking"],
+        "intermediate": ["Microbiology", "Planetary science", "Analytical chemistry", "Experimental design", "Literature review"],
+        "advanced": ["Astrobiology experiments", "Life detection techniques", "Exoplanet research", "Interdisciplinary modeling", "Research publication"],
+        "professional": ["Project leadership", "Grant writing", "International collaboration", "Policy advisory", "Scientific publishing"]
+      },
+      "related_skills": ["Exoplanet science", "Biochemistry", "Space instrumentation", "Remote sensing", "Planetary geology"]
+    },
+    {
+      "name": "Planetary Geologist",
+      "overview": "Studies the structure, composition, and history of planets, moons, and other celestial bodies.",
+      "advantages": [
+        "Work with NASA, ESA, and research observatories",
+        "Engage in planetary exploration and modeling"
+      ],
+      "disadvantages": [
+        "Highly specialized field",
+        "Limited direct opportunities for freshers"
+      ],
+      "demand": "Planetary geologists are in demand in space research centers and academia.",
+      "required_skills": {
+        "basic": ["Geology fundamentals", "Mineral identification", "Fieldwork techniques", "Observation", "Data recording"],
+        "intermediate": ["Remote sensing", "Satellite imagery analysis", "Petrology", "Planetary surface mapping", "Lab analysis"],
+        "advanced": ["Planetary modeling", "Geochemical analysis", "Impact cratering studies", "Research design", "Scientific publication"],
+        "professional": ["Project leadership", "Grant writing", "International collaboration", "Conference presentation", "Policy advisory"]
+      },
+      "related_skills": ["Geochemistry", "Remote sensing", "Planetary science", "Spectroscopy", "GIS"]
+    },
+    {
+      "name": "Marine Robotics Engineer",
+      "overview": "Designs and operates robotic systems for underwater exploration, environmental monitoring, and research.",
+      "advantages": [
+        "Cutting-edge technology role",
+        "Opportunities for fieldwork and innovation"
+      ],
+      "disadvantages": [
+        "Requires multidisciplinary expertise",
+        "Operational risks in marine environments"
+      ],
+      "demand": "Marine robotics engineers are highly sought in research institutes, ocean exploration companies, and defense sectors.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electronics fundamentals", "Problem solving", "Data recording", "Observation"],
+        "intermediate": ["Underwater robotics", "Control systems", "Sensors and instrumentation", "Communication protocols", "Field deployment"],
+        "advanced": ["Autonomous systems design", "Navigation algorithms", "Remote operation", "Data processing", "Optimization techniques"],
+        "professional": ["Project management", "Collaboration with research teams", "Documentation", "Grant applications", "Innovation strategy"]
+      },
+      "related_skills": ["ROVs", "AUVs", "Embedded systems", "Hydrodynamics", "Ocean monitoring technology"]
+    },
+    {
+      "name": "Satellite Data Analyst",
+      "overview": "Analyzes data from satellites for climate monitoring, Earth observation, and scientific research.",
+      "advantages": [
+        "High-demand skills in climate and environmental monitoring",
+        "Work with government and private satellite programs"
+      ],
+      "disadvantages": [
+        "Requires strong analytical skills",
+        "High volume of data processing"
+      ],
+      "demand": "Satellite data analysts are needed in space agencies, climate research, and geospatial companies.",
+      "required_skills": {
+        "basic": ["Data recording", "GIS basics", "Observation techniques", "Spreadsheet analysis", "Mapping fundamentals"],
+        "intermediate": ["Remote sensing", "Image processing", "Geospatial data analysis", "Python/R for analysis", "Visualization"],
+        "advanced": ["Climate modeling", "Earth observation interpretation", "Satellite mission analysis", "Big data processing", "Research publication"],
+        "professional": ["Project leadership", "Policy advisory", "Grant writing", "Collaboration with scientists", "Conference presentations"]
+      },
+      "related_skills": ["GIS", "Remote sensing", "Earth observation", "Python", "Climate science"]
+    },
+    {
+      "name": "Underwater Archaeologist",
+      "overview": "Explores submerged sites to study human history and culture, combining marine science and archaeology.",
+      "advantages": [
+        "Work in unique underwater environments",
+        "Discover historical artifacts and knowledge"
+      ],
+      "disadvantages": [
+        "Physically demanding",
+        "Fieldwork is weather-dependent"
+      ],
+      "demand": "Underwater archaeologists are needed in research institutions, museums, and heritage organizations.",
+      "required_skills": {
+        "basic": ["Archaeology fundamentals", "Diving skills", "Observation", "Data recording", "Photography"],
+        "intermediate": ["Underwater excavation", "Survey techniques", "Artifact preservation", "GIS mapping", "Report writing"],
+        "advanced": ["Site interpretation", "Marine heritage management", "Research design", "Publication", "Grant proposals"],
+        "professional": ["Project leadership", "International collaboration", "Policy advisory", "Scientific communication", "Mentorship"]
+      },
+      "related_skills": ["Marine history", "Underwater surveying", "GIS", "Conservation", "Field documentation"]
+    },
+    {
+      "name": "Exoplanet Researcher",
+      "overview": "Studies planets outside our solar system, analyzing data to detect habitable conditions and planetary formation.",
+      "advantages": [
+        "Highly futuristic research",
+        "International collaboration opportunities"
+      ],
+      "disadvantages": [
+        "Extremely specialized field",
+        "Requires advanced astronomy knowledge"
+      ],
+      "demand": "Exoplanet researchers are sought in space agencies, observatories, and academic institutions.",
+      "required_skills": {
+        "basic": ["Astronomy fundamentals", "Observation techniques", "Data recording", "Mathematics basics", "Physics fundamentals"],
+        "intermediate": ["Telescope operation", "Spectroscopy", "Photometry", "Data analysis", "Simulation modeling"],
+        "advanced": ["Planetary habitability modeling", "Exoplanet atmosphere analysis", "Research design", "Publication", "Collaboration"],
+        "professional": ["Grant writing", "Project leadership", "International team coordination", "Conference presentations", "Policy advisory"]
+      },
+      "related_skills": ["Astrophysics", "Spectroscopy", "Data analysis", "Simulation", "Planetary science"]
+    },
+    {
+      "name": "Deep Sea Biologist",
+      "overview": "Studies life forms and ecosystems in the deep ocean, often under extreme pressure and darkness.",
+      "advantages": [
+        "Unique research environment",
+        "Discover new species and ecosystems"
+      ],
+      "disadvantages": [
+        "Fieldwork is physically challenging",
+        "Expensive equipment and expeditions"
+      ],
+      "demand": "Deep sea biologists are needed in marine research institutes, ocean exploration companies, and environmental agencies.",
+      "required_skills": {
+        "basic": ["Marine biology basics", "Observation", "Data logging", "Lab safety", "Diving basics"],
+        "intermediate": ["Submersible operation", "Ecosystem monitoring", "Species identification", "Data analysis", "Report writing"],
+        "advanced": ["Deep ocean ecology", "Experimental design", "Remote sensing", "Scientific publication", "Expedition planning"],
+        "professional": ["Project leadership", "Grant writing", "Collaboration with international teams", "Policy advisory", "Mentorship"]
+      },
+      "related_skills": ["ROVs", "Marine technology", "GIS", "Oceanography", "Environmental monitoring"]
+    },
+    
+    {
+      "name": "Quantum Hardware Engineer",
+      "overview": "Designs and develops hardware components for quantum computers and quantum communication systems.",
+      "advantages": [
+        "Work at the forefront of computing",
+        "High-paying research career"
+      ],
+      "disadvantages": [
+        "Highly specialized knowledge required",
+        "Limited number of positions"
+      ],
+      "demand": "Quantum hardware engineers are in demand at research labs, tech giants, and advanced computing startups.",
+      "required_skills": {
+        "basic": ["Physics fundamentals", "Electronics basics", "Linear algebra", "Programming basics", "Problem solving"],
+        "intermediate": ["Quantum circuits", "Cryogenics", "Control systems", "Signal processing", "Data acquisition"],
+        "advanced": ["Quantum device fabrication", "Error correction techniques", "Quantum optimization", "Advanced instrumentation", "Simulation tools"],
+        "professional": ["Research documentation", "Team collaboration", "Project leadership", "Technical publishing", "Innovation management"]
+      },
+      "related_skills": ["Qiskit", "LabVIEW", "Cryogenic systems", "Microfabrication", "Superconducting circuits"]
+    },
+    {
+      "name": "IoT Systems Researcher",
+      "overview": "Develops and innovates connected devices and smart systems for industrial, healthcare, and consumer applications.",
+      "advantages": [
+        "Fast-growing field",
+        "Hands-on with cutting-edge hardware"
+      ],
+      "disadvantages": [
+        "Integration complexity",
+        "Security concerns"
+      ],
+      "demand": "IoT researchers are needed in smart home, industrial IoT, healthcare, and wearable tech companies.",
+      "required_skills": {
+        "basic": ["Electronics", "Networking basics", "Microcontrollers", "Programming fundamentals", "Sensors basics"],
+        "intermediate": ["Embedded systems", "Wireless protocols", "Data collection", "IoT frameworks", "Debugging devices"],
+        "advanced": ["System optimization", "Edge computing", "IoT security", "Cloud integration", "Prototype development"],
+        "professional": ["Project coordination", "Technical documentation", "Collaboration with software teams", "Innovation strategy", "User testing"]
+      },
+      "related_skills": ["Arduino", "Raspberry Pi", "MQTT", "Edge AI", "IoT security"]
+    },
+    {
+      "name": "Augmented & Virtual Reality Researcher",
+      "overview": "Develops immersive AR/VR hardware and applications for education, healthcare, and entertainment.",
+      "advantages": [
+        "Innovative and creative field",
+        "High demand in tech and gaming sectors"
+      ],
+      "disadvantages": [
+        "Hardware costs",
+        "Rapidly changing technology"
+      ],
+      "demand": "AR/VR researchers are sought by tech giants, startups, and research labs worldwide.",
+      "required_skills": {
+        "basic": ["3D modeling basics", "Programming fundamentals", "Physics concepts", "Problem-solving", "Graphics basics"],
+        "intermediate": ["Unity/Unreal Engine", "Computer vision basics", "Hardware interfacing", "Sensor integration", "Motion tracking"],
+        "advanced": ["Real-time rendering", "AR/VR hardware optimization", "Haptic feedback", "Mixed reality interaction", "System integration"],
+        "professional": ["Project management", "User experience design", "Research publication", "Cross-team collaboration", "Innovation planning"]
+      },
+      "related_skills": ["Unity", "Unreal Engine", "OpenXR", "3D sensors", "AR/VR prototyping"]
+    },
+    {
+      "name": "Advanced Robotics Engineer",
+      "overview": "Designs robotic systems for manufacturing, healthcare, and exploratory research using advanced sensors and AI.",
+      "advantages": [
+        "Hands-on with cutting-edge tech",
+        "High salary and innovation potential"
+      ],
+      "disadvantages": [
+        "Complex integration tasks",
+        "High technical challenges"
+      ],
+      "demand": "High demand in industrial automation, medical robotics, and research institutions.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Programming fundamentals", "Electronics", "Math foundations", "Problem solving"],
+        "intermediate": ["Robotics simulation", "Control systems", "Sensor integration", "Actuator programming", "Testing"],
+        "advanced": ["AI for robotics", "Autonomous navigation", "Vision-based control", "Optimization algorithms", "Real-time system design"],
+        "professional": ["Research collaboration", "Project leadership", "Documentation", "Patent filing", "Innovation strategy"]
+      },
+      "related_skills": ["ROS", "Python", "C++", "LIDAR", "Computer vision"]
+    },
+    {
+      "name": "Space Systems Engineer",
+      "overview": "Develops satellites, space probes, and supporting hardware for exploration and research.",
+      "advantages": [
+        "High-profile, innovative work",
+        "Opportunities in global space agencies"
+      ],
+      "disadvantages": [
+        "Extremely specialized",
+        "Long development cycles"
+      ],
+      "demand": "High demand in space agencies, private aerospace companies, and international collaborations.",
+      "required_skills": {
+        "basic": ["Physics", "Mathematics", "Electronics basics", "Mechanics", "Programming basics"],
+        "intermediate": ["Orbital mechanics", "Satellite systems", "Telemetry", "Communication protocols", "Testing"],
+        "advanced": ["Space-grade hardware design", "Radiation-hardened electronics", "Propulsion systems", "Integration & simulation", "System optimization"],
+        "professional": ["Project management", "Team coordination", "Documentation", "Collaboration with agencies", "Innovation planning"]
+      },
+      "related_skills": ["Satellite design", "CAD", "Signal processing", "Python", "Simulink"]
+    },
+    {
+      "name": "Biotech Research Scientist",
+      "overview": "Innovates in genetic engineering, drug development, and lab automation for biotech applications.",
+      "advantages": [
+        "High research impact",
+        "Opportunities in pharma and startups"
+      ],
+      "disadvantages": [
+        "Lab-intensive work",
+        "Regulatory constraints"
+      ],
+      "demand": "Biotech scientists are highly sought after in pharma, agriculture, and research institutions.",
+      "required_skills": {
+        "basic": ["Molecular biology", "Lab safety", "Data analysis basics", "Chemistry", "Problem solving"],
+        "intermediate": ["Genomics", "Protein engineering", "Lab instrumentation", "Cell culture", "Bioinformatics"],
+        "advanced": ["CRISPR techniques", "High-throughput experiments", "Automation systems", "Statistical analysis", "Research optimization"],
+        "professional": ["Grant writing", "Project leadership", "Collaboration", "Publication", "Innovation management"]
+      },
+      "related_skills": ["Gene editing", "PCR", "Bioinformatics tools", "Lab automation", "Data analysis"]
+    },
+    {
+      "name": "Renewable Energy Research Engineer",
+      "overview": "Designs and optimizes sustainable energy systems including solar, wind, and storage technologies.",
+      "advantages": [
+        "High societal impact",
+        "Opportunities in clean-tech startups"
+      ],
+      "disadvantages": [
+        "Field and lab work required",
+        "Technology rapidly evolving"
+      ],
+      "demand": "High demand in energy startups, research labs, and government projects.",
+      "required_skills": {
+        "basic": ["Physics", "Electrical basics", "Math fundamentals", "Chemistry basics", "Problem solving"],
+        "intermediate": ["Solar/wind systems", "Circuit design", "Simulation tools", "Data collection", "Energy efficiency analysis"],
+        "advanced": ["System integration", "Battery tech", "Smart grid", "Optimization algorithms", "Prototype testing"],
+        "professional": ["Project management", "Team collaboration", "Grant applications", "Documentation", "Innovation strategy"]
+      },
+      "related_skills": ["PV systems", "Wind turbines", "MATLAB", "Simulation software", "Energy storage"]
+    },
+    {
+      "name": "Advanced Materials Scientist",
+      "overview": "Researches and develops new materials for aerospace, electronics, and industrial applications.",
+      "advantages": [
+        "High-demand expertise",
+        "Innovation-driven career"
+      ],
+      "disadvantages": [
+        "Lab-intensive work",
+        "Complex material characterization"
+      ],
+      "demand": "Advanced materials scientists are sought by aerospace, electronics, and manufacturing industries.",
+      "required_skills": {
+        "basic": ["Chemistry basics", "Physics basics", "Lab safety", "Mathematics", "Observation"],
+        "intermediate": ["Material synthesis", "Characterization techniques", "Data analysis", "Microscopy", "Testing protocols"],
+        "advanced": ["Nano-materials", "Composite development", "Mechanical properties optimization", "Thermal/electrical analysis", "Simulation tools"],
+        "professional": ["Research publications", "Project leadership", "Collaboration", "Innovation management", "Patent filing"]
+      },
+      "related_skills": ["Electron microscopy", "3D printing materials", "Simulation software", "Material testing", "Nanotechnology"]
+    },
+    {
+      "name": "Human-Computer Interaction Researcher",
+      "overview": "Studies and develops advanced interfaces for technology, wearable devices, and VR/AR systems.",
+      "advantages": [
+        "Creative and interdisciplinary",
+        "High demand in tech and design fields"
+      ],
+      "disadvantages": [
+        "Requires UX and tech expertise",
+        "User testing can be intensive"
+      ],
+      "demand": "HCI researchers are sought after by tech companies, VR/AR startups, and research labs.",
+      "required_skills": {
+        "basic": ["Psychology basics", "Programming fundamentals", "Design thinking", "Observation", "Statistics"],
+        "intermediate": ["UX/UI design", "Prototyping", "User testing", "Data analysis", "Hardware integration"],
+        "advanced": ["AR/VR interface development", "Gesture recognition", "Wearable tech optimization", "AI interaction", "System evaluation"],
+        "professional": ["Research publication", "Collaboration", "Project management", "Innovation strategy", "User studies documentation"]
+      },
+      "related_skills": ["Unity", "Python", "ARKit/ARCore", "Eye-tracking", "VR hardware"]
+    },
+    {
+      "name": "Innovation & Technology Strategist",
+      "overview": "Leads research and implementation of innovative technologies for industrial or scientific applications.",
+      "advantages": [
+        "High-level decision-making",
+        "Influence over tech direction"
+      ],
+      "disadvantages": [
+        "Requires broad knowledge",
+        "High responsibility"
+      ],
+      "demand": "Innovation strategists are needed in R&D labs, tech companies, and consulting firms.",
+      "required_skills": {
+        "basic": ["Research fundamentals", "Technical knowledge basics", "Problem solving", "Observation", "Communication"],
+        "intermediate": ["Trend analysis", "Technology scouting", "Data interpretation", "Stakeholder communication", "Project planning"],
+        "advanced": ["Strategic technology integration", "Innovation pipeline management", "ROI assessment", "Cross-domain coordination", "Patents and IP"],
+        "professional": ["Leadership", "Decision making", "Technical consulting", "Project management", "Collaboration"]
+      },
+      "related_skills": ["Technology roadmap", "Innovation frameworks", "R&D management", "Trend analysis", "Industry networking"]
+    },
+    
+    {
+      "name": "Astrobiologist",
+      "overview": "Studies life in the universe, including potential extraterrestrial organisms and extreme environments on Earth.",
+      "advantages": [
+        "Unique and high-profile research",
+        "Work with space agencies and observatories"
+      ],
+      "disadvantages": [
+        "Limited positions worldwide",
+        "Requires strong interdisciplinary knowledge"
+      ],
+      "demand": "Emerging demand in space research institutes, NASA, ESA, and astrobiology labs.",
+      "required_skills": {
+        "basic": ["Biology fundamentals", "Chemistry basics", "Earth sciences", "Problem solving", "Observation"],
+        "intermediate": ["Extreme environment analysis", "Microbial ecology", "Data analysis", "Remote sensing", "Fieldwork techniques"],
+        "advanced": ["Planetary geology", "Exoplanet habitability", "Laboratory simulations", "Space mission research", "Advanced microscopy"],
+        "professional": ["Research collaboration", "Grant writing", "Publication", "Cross-disciplinary coordination", "Innovation management"]
+      },
+      "related_skills": ["Microbiology", "Astrochemistry", "Spectroscopy", "Remote sensing", "Space research"]
+    },
+    {
+      "name": "Marine Robotics Engineer",
+      "overview": "Designs autonomous underwater vehicles (AUVs) and robots for ocean exploration and research.",
+      "advantages": [
+        "Work on ocean exploration",
+        "Highly specialized engineering role"
+      ],
+      "disadvantages": [
+        "Fieldwork can be challenging",
+        "High technical expertise required"
+      ],
+      "demand": "High demand in oceanography institutes, defense research, and private marine tech companies.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electronics basics", "Programming fundamentals", "Physics", "Problem solving"],
+        "intermediate": ["Hydrodynamics", "Control systems", "Sensors integration", "Navigation systems", "Embedded programming"],
+        "advanced": ["Autonomous system design", "Oceanic data acquisition", "Robotics optimization", "AI navigation", "Real-time control"],
+        "professional": ["Project leadership", "Documentation", "Collaboration with research teams", "Innovation planning", "Prototype testing"]
+      },
+      "related_skills": ["ROS", "Python", "MATLAB", "Underwater sensors", "C++"]
+    },
+    {
+      "name": "Space Mission Analyst",
+      "overview": "Plans and evaluates scientific and engineering missions in space, including satellites and probes.",
+      "advantages": [
+        "Work on interplanetary missions",
+        "High-profile and global collaborations"
+      ],
+      "disadvantages": [
+        "Requires deep technical and analytical knowledge",
+        "Limited number of positions"
+      ],
+      "demand": "Emerging roles in NASA, ESA, private aerospace companies, and international research collaborations.",
+      "required_skills": {
+        "basic": ["Physics", "Mathematics", "Astronomy basics", "Programming basics", "Problem solving"],
+        "intermediate": ["Orbital mechanics", "Simulation tools", "Satellite systems", "Telemetry analysis", "Data modeling"],
+        "advanced": ["Mission optimization", "Trajectory analysis", "Space instrumentation", "System engineering", "Risk assessment"],
+        "professional": ["Project coordination", "Documentation", "International collaboration", "Research publishing", "Innovation planning"]
+      },
+      "related_skills": ["MATLAB", "Simulink", "Python", "Satellite modeling", "Astrodynamics"]
+    },
+    {
+      "name": "Neurotechnology Researcher",
+      "overview": "Develops devices and methods to interface with the human nervous system, including brain-computer interfaces.",
+      "advantages": [
+        "Cutting-edge research in neuroscience",
+        "High societal impact"
+      ],
+      "disadvantages": [
+        "Highly complex experiments",
+        "Requires interdisciplinary knowledge"
+      ],
+      "demand": "Strong demand in neurotech startups, medical research labs, and advanced academic institutions.",
+      "required_skills": {
+        "basic": ["Neuroscience basics", "Programming fundamentals", "Biology", "Statistics", "Problem solving"],
+        "intermediate": ["Neuroimaging", "Signal processing", "Data acquisition", "Electrophysiology", "Experiment design"],
+        "advanced": ["BCI development", "Machine learning for neural data", "Neuro-device integration", "Real-time systems", "Ethical research"],
+        "professional": ["Publication", "Cross-team collaboration", "Project leadership", "Grant writing", "Innovation management"]
+      },
+      "related_skills": ["MATLAB", "Python", "EEG/MEG", "Brain-computer interfaces", "AI for neuroscience"]
+    },
+    {
+      "name": "Renewable Energy Innovation Scientist",
+      "overview": "Creates new technologies in solar, wind, tidal, and hydrogen energy to optimize efficiency and scalability.",
+      "advantages": [
+        "High societal impact",
+        "Work with cutting-edge energy solutions"
+      ],
+      "disadvantages": [
+        "Fieldwork and lab experiments required",
+        "Technologies rapidly evolving"
+      ],
+      "demand": "Growing demand in energy startups, universities, and government energy research labs.",
+      "required_skills": {
+        "basic": ["Physics", "Chemistry", "Math fundamentals", "Problem solving", "Electrical basics"],
+        "intermediate": ["Solar/wind/tidal systems", "Simulation tools", "Data acquisition", "Circuit design", "Energy analysis"],
+        "advanced": ["Prototype development", "System optimization", "Smart grids", "Energy storage tech", "Renewable integration"],
+        "professional": ["Project management", "Team collaboration", "Innovation strategy", "Documentation", "Research publication"]
+      },
+      "related_skills": ["MATLAB", "PV simulation", "Wind turbine modeling", "Energy storage", "Sustainable tech"]
+    },
+    {
+      "name": "Nanotechnology Engineer",
+      "overview": "Develops nanoscale materials and devices for medicine, electronics, and materials science.",
+      "advantages": [
+        "Highly innovative and futuristic",
+        "Applications across industries"
+      ],
+      "disadvantages": [
+        "Requires highly specialized lab work",
+        "Extensive education required"
+      ],
+      "demand": "High demand in research labs, medical device companies, electronics firms, and material science institutes.",
+      "required_skills": {
+        "basic": ["Chemistry basics", "Physics basics", "Lab safety", "Observation", "Problem solving"],
+        "intermediate": ["Nanomaterial synthesis", "Microscopy", "Surface analysis", "Characterization techniques", "Data collection"],
+        "advanced": ["Nano-device fabrication", "Molecular modeling", "Material optimization", "Lab automation", "Simulation"],
+        "professional": ["Research publishing", "Team collaboration", "Grant applications", "Project leadership", "Innovation strategy"]
+      },
+      "related_skills": ["Electron microscopy", "AFM", "LabVIEW", "3D nanoprinting", "Nanomaterials"]
+    },
+    {
+      "name": "Advanced Space Propulsion Scientist",
+      "overview": "Researches and develops propulsion technologies for rockets, satellites, and deep space exploration.",
+      "advantages": [
+        "Work in frontier space technologies",
+        "High-profile career"
+      ],
+      "disadvantages": [
+        "Complex physics and engineering",
+        "Highly competitive field"
+      ],
+      "demand": "Sought after by space agencies, private aerospace companies, and research labs.",
+      "required_skills": {
+        "basic": ["Physics fundamentals", "Mathematics", "Thermodynamics", "Problem solving", "Programming basics"],
+        "intermediate": ["Rocket mechanics", "Fluid dynamics", "Propellant chemistry", "Simulation tools", "Testing protocols"],
+        "advanced": ["Advanced propulsion systems", "Ion/Plasma thrusters", "System optimization", "Experimental setups", "Materials for space"],
+        "professional": ["Project coordination", "Research documentation", "Team collaboration", "Innovation strategy", "International cooperation"]
+      },
+      "related_skills": ["CFD", "MATLAB", "Simulation software", "Aerospace materials", "Propulsion modeling"]
+    },
+    {
+      "name": "Oceanographic Data Scientist",
+      "overview": "Analyzes complex ocean data from sensors, satellites, and autonomous vehicles to study marine environments.",
+      "advantages": [
+        "Work on environmental and climate research",
+        "High demand for data expertise"
+      ],
+      "disadvantages": [
+        "Requires programming and analytical skills",
+        "Data collection can be challenging"
+      ],
+      "demand": "High demand in marine research institutes, climate agencies, and universities.",
+      "required_skills": {
+        "basic": ["Oceanography basics", "Statistics", "Python/R basics", "Mathematics", "Problem solving"],
+        "intermediate": ["Data cleaning", "Visualization", "Time-series analysis", "Sensor data handling", "GIS basics"],
+        "advanced": ["Machine learning models", "Simulation of ocean systems", "Big data handling", "Predictive modeling", "Algorithm optimization"],
+        "professional": ["Research publication", "Project coordination", "Collaboration", "Documentation", "Policy impact analysis"]
+      },
+      "related_skills": ["Python", "R", "GIS", "MATLAB", "Satellite data"]
+    },
+    {
+      "name": "Innovation Hardware Prototype Engineer",
+      "overview": "Designs and develops experimental hardware for emerging technologies in robotics, sensors, and computing.",
+      "advantages": [
+        "Hands-on with futuristic tech",
+        "Highly creative and high-salary role"
+      ],
+      "disadvantages": [
+        "Prototyping failures are common",
+        "Requires strong interdisciplinary knowledge"
+      ],
+      "demand": "Needed in research labs, tech startups, and university innovation centers.",
+      "required_skills": {
+        "basic": ["Electronics", "Mechanical basics", "Programming basics", "Mathematics", "Problem solving"],
+        "intermediate": ["3D printing", "Circuit design", "Sensors integration", "Prototyping", "Testing"],
+        "advanced": ["Robotics hardware", "IoT integration", "AI-driven devices", "Optimization", "Advanced fabrication techniques"],
+        "professional": ["Project documentation", "Team leadership", "Collaboration", "Innovation strategy", "Patent filing"]
+      },
+      "related_skills": ["Arduino", "Raspberry Pi", "CAD", "Circuit simulation", "Rapid prototyping"]
+    },
+    
+    {
+      "name": "Synthetic Biology Engineer",
+      "overview": "Designs and constructs new biological parts, devices, and systems for healthcare, agriculture, and biotech industries.",
+      "advantages": [
+        "Cutting-edge biotech research",
+        "High societal impact"
+      ],
+      "disadvantages": [
+        "Highly technical and regulated field",
+        "Ethical and safety concerns"
+      ],
+      "demand": "Growing demand in biotech startups, pharmaceutical companies, and research institutions.",
+      "required_skills": {
+        "basic": ["Molecular biology", "Genetics basics", "Lab safety", "Problem solving", "Chemistry fundamentals"],
+        "intermediate": ["DNA/RNA engineering", "Gene editing (CRISPR)", "Synthetic circuits", "Data analysis", "Experimental design"],
+        "advanced": ["Metabolic pathway design", "Cellular modeling", "Biomanufacturing", "Automation in labs", "Bioinformatics"],
+        "professional": ["Research publishing", "Grant writing", "Regulatory compliance", "Collaboration", "Innovation management"]
+      },
+      "related_skills": ["CRISPR", "Gene therapy", "Bioinformatics", "Lab automation", "Synthetic biology software"]
+    },
+    {
+      "name": "Exoplanet Research Scientist",
+      "overview": "Studies planets outside the solar system using telescopes, spectroscopy, and modeling to find potentially habitable worlds.",
+      "advantages": [
+        "Work in space discovery",
+        "High research visibility"
+      ],
+      "disadvantages": [
+        "Competitive field",
+        "Requires strong astrophysics background"
+      ],
+      "demand": "High demand in observatories, space agencies, and astrophysics research centers.",
+      "required_skills": {
+        "basic": ["Astronomy", "Physics", "Mathematics", "Programming basics", "Problem solving"],
+        "intermediate": ["Spectroscopy", "Astrophysical modeling", "Data analysis", "Telescope operation", "Simulation tools"],
+        "advanced": ["Exoplanet habitability modeling", "High-resolution imaging", "Planet detection algorithms", "Observation planning", "Advanced data analysis"],
+        "professional": ["Research publication", "International collaboration", "Grant writing", "Conference presentations", "Team leadership"]
+      },
+      "related_skills": ["Python", "MATLAB", "AstroPy", "Simulations", "Data visualization"]
+    },
+    {
+      "name": "Ocean Acidification Specialist",
+      "overview": "Studies chemical and biological changes in oceans due to carbon emissions and climate change.",
+      "advantages": [
+        "Critical for environmental protection",
+        "High global impact"
+      ],
+      "disadvantages": [
+        "Field research can be tough",
+        "Requires interdisciplinary knowledge"
+      ],
+      "demand": "Growing need in environmental agencies, marine research institutes, and climate policy organizations.",
+      "required_skills": {
+        "basic": ["Chemistry", "Biology", "Mathematics", "Observation", "Problem solving"],
+        "intermediate": ["Marine chemistry", "Ecology", "Data collection", "Lab experiments", "Modeling basics"],
+        "advanced": ["Ocean modeling", "Acidification prediction", "Field instrumentation", "Statistical analysis", "Simulation tools"],
+        "professional": ["Policy collaboration", "Publication", "Grant writing", "Team leadership", "Public communication"]
+      },
+      "related_skills": ["R", "Python", "GIS", "Remote sensing", "Climate modeling"]
+    },
+    {
+      "name": "Human Augmentation Researcher",
+      "overview": "Develops technologies to enhance human physical or cognitive capabilities using wearable or implantable devices.",
+      "advantages": [
+        "Futuristic research",
+        "Applications in health, sports, and defense"
+      ],
+      "disadvantages": [
+        "Ethical and legal considerations",
+        "High technical complexity"
+      ],
+      "demand": "Emerging field in biotech, defense, and neurotech startups.",
+      "required_skills": {
+        "basic": ["Human physiology", "Neuroscience basics", "Electronics basics", "Programming", "Problem solving"],
+        "intermediate": ["Wearable device design", "Sensor integration", "Signal processing", "Data acquisition", "Biomechanics"],
+        "advanced": ["BCI development", "Augmentation algorithms", "Human-machine interaction", "Device optimization", "AI integration"],
+        "professional": ["Research documentation", "Ethical compliance", "Collaboration", "Project management", "Innovation strategy"]
+      },
+      "related_skills": ["Python", "MATLAB", "EEG/EMG sensors", "Robotics", "AI"]
+    },
+    {
+      "name": "Bioinformatics Innovation Scientist",
+      "overview": "Uses computational tools to analyze biological data for drug discovery, genomics, and personalized medicine.",
+      "advantages": [
+        "High-demand AI + biology role",
+        "Direct impact on healthcare"
+      ],
+      "disadvantages": [
+        "Requires strong computational and biological knowledge",
+        "Data-heavy work"
+      ],
+      "demand": "Growing demand in pharma, biotech, and research institutions.",
+      "required_skills": {
+        "basic": ["Biology", "Genetics", "Statistics", "Programming basics", "Problem solving"],
+        "intermediate": ["Genome analysis", "Protein modeling", "Data visualization", "Databases", "Algorithm development"],
+        "advanced": ["Drug target discovery", "Machine learning for biology", "Pipeline automation", "Big data handling", "Cloud computing"],
+        "professional": ["Publication", "Team collaboration", "Grant writing", "Cross-disciplinary projects", "Innovation planning"]
+      },
+      "related_skills": ["Python", "R", "Bioconductor", "Next-gen sequencing", "Machine learning"]
+    },
+    {
+      "name": "Quantum Materials Scientist",
+      "overview": "Researches and develops materials with quantum properties for computing, sensors, and energy applications.",
+      "advantages": [
+        "High-end physics research",
+        "Pioneering technology"
+      ],
+      "disadvantages": [
+        "Highly complex science",
+        "Limited roles"
+      ],
+      "demand": "High demand in advanced research labs, quantum computing companies, and national institutes.",
+      "required_skills": {
+        "basic": ["Physics fundamentals", "Math", "Chemistry basics", "Problem solving", "Observation"],
+        "intermediate": ["Solid-state physics", "Material synthesis", "Characterization tools", "Data analysis", "Simulation basics"],
+        "advanced": ["Quantum behavior modeling", "Device fabrication", "Nanomaterials", "Cryogenics", "Advanced simulations"],
+        "professional": ["Research leadership", "Publication", "Collaboration", "Grant writing", "Innovation management"]
+      },
+      "related_skills": ["MATLAB", "Python", "Nanofabrication", "Spectroscopy", "Quantum modeling"]
+    },
+    {
+      "name": "Space Habitat Designer",
+      "overview": "Designs sustainable living environments for space stations, lunar bases, and Mars habitats.",
+      "advantages": [
+        "Futuristic space research",
+        "Cross-disciplinary design work"
+      ],
+      "disadvantages": [
+        "Complex life support systems",
+        "Limited roles globally"
+      ],
+      "demand": "Emerging demand in space agencies, private aerospace companies, and research centers.",
+      "required_skills": {
+        "basic": ["Architecture basics", "Physics", "Engineering principles", "Problem solving", "Mathematics"],
+        "intermediate": ["Life support systems", "Thermal control", "Structural design", "Material science", "Simulation tools"],
+        "advanced": ["Habitat optimization", "Radiation shielding", "Sustainability in space", "Automation integration", "Systems engineering"],
+        "professional": ["Project leadership", "Collaboration", "Innovation strategy", "Documentation", "Research publishing"]
+      },
+      "related_skills": ["CAD", "Simulation software", "Materials modeling", "Thermal analysis", "Space research"]
+    },
+    {
+      "name": "Deep Sea Exploration Scientist",
+      "overview": "Leads research missions in the ocean depths using submersibles, ROVs, and autonomous vehicles.",
+      "advantages": [
+        "Unique, adventurous role",
+        "Contributes to marine discovery"
+      ],
+      "disadvantages": [
+        "Fieldwork can be extreme",
+        "High technical expertise needed"
+      ],
+      "demand": "Demand in oceanographic institutes, marine research labs, and environmental agencies.",
+      "required_skills": {
+        "basic": ["Marine biology", "Oceanography basics", "Physics", "Problem solving", "Mathematics"],
+        "intermediate": ["Submersible operation", "Sensor data collection", "Navigation systems", "ROV piloting", "Field analysis"],
+        "advanced": ["Deep-sea robotics", "Remote sensing", "Data modeling", "Environmental impact analysis", "Simulation"],
+        "professional": ["Team coordination", "Research publication", "Grant writing", "Project management", "International collaboration"]
+      },
+      "related_skills": ["ROV", "Python", "GIS", "MATLAB", "Ocean sensors"]
+    },
+    {
+      "name": "Innovation Technology Strategist",
+      "overview": "Leads research-to-product initiatives, integrating emerging tech into viable solutions for industry and society.",
+      "advantages": [
+        "High leadership and strategic impact",
+        "Involves cutting-edge tech and business"
+      ],
+      "disadvantages": [
+        "Requires broad knowledge across fields",
+        "High responsibility role"
+      ],
+      "demand": "Demand in tech innovation hubs, R&D labs, and corporate research departments.",
+      "required_skills": {
+        "basic": ["Problem solving", "Research fundamentals", "Technology awareness", "Business basics", "Communication"],
+        "intermediate": ["Project planning", "Innovation analysis", "Emerging tech scouting", "Data interpretation", "Collaboration"],
+        "advanced": ["Strategic decision-making", "R&D leadership", "Tech roadmap development", "Resource optimization", "Market analysis"],
+        "professional": ["Cross-team leadership", "Stakeholder communication", "Innovation management", "Patent strategy", "Funding acquisition"]
+      },
+      "related_skills": ["Tech trends", "Project management", "Innovation frameworks", "R&D tools", "Business strategy"]
+    },
+    
+    {
+      "name": "Bioinformatics Scientist",
+      "overview": "Uses computational tools to analyze biological data, such as genomes and protein structures.",
+      "advantages": [
+        "High demand in genomics and pharma",
+        "Integrates biology and AI",
+        "Cutting-edge research opportunities"
+      ],
+      "disadvantages": [
+        "Requires coding skills",
+        "Complex data analysis"
+      ],
+      "demand": "Very high demand in biotech, pharmaceuticals, and personalized medicine.",
+      "required_skills": {
+        "basic": ["Biology fundamentals", "Statistics basics", "Python/R basics", "Data handling", "Problem solving"],
+        "intermediate": ["Sequence analysis", "Genomics pipelines", "Data visualization", "Machine learning basics", "Databases"],
+        "advanced": ["High-throughput data analysis", "AI in bioinformatics", "Advanced modeling", "Cloud computing", "Research methodology"],
+        "professional": ["Project leadership", "Publication", "Collaboration", "Grant writing", "Ethical data management"]
+      },
+      "related_skills": ["Python", "R", "Next-gen sequencing", "Machine learning", "Bioconductor"]
+    },
+    {
+      "name": "Neuroinformatics Researcher",
+      "overview": "Combines neuroscience and data science to model and analyze brain function.",
+      "advantages": [
+        "High-tech interdisciplinary role",
+        "Strong research impact",
+        "AI and data integration"
+      ],
+      "disadvantages": [
+        "Requires advanced mathematics and programming",
+        "Very specialized field"
+      ],
+      "demand": "Growing demand in neurotechnology, AI-driven healthcare, and brain research.",
+      "required_skills": {
+        "basic": ["Neuroscience basics", "Programming basics", "Data collection", "Mathematical foundations", "Observation skills"],
+        "intermediate": ["Data preprocessing", "Neural modeling", "Python/R programming", "Visualization", "Signal processing"],
+        "advanced": ["Machine learning for neuroscience", "Brain network modeling", "Statistical analysis", "High-dimensional data handling", "Simulation techniques"],
+        "professional": ["Research collaboration", "Grant writing", "Publication", "Cross-disciplinary communication", "Project management"]
+      },
+      "related_skills": ["MATLAB", "Python", "TensorFlow", "fMRI analysis", "Neuroimaging software"]
+    },
+    {
+      "name": "Astrobiologist",
+      "overview": "Studies life in the universe, including the potential for life on other planets.",
+      "advantages": [
+        "Exploration-focused",
+        "Highly unique and exciting field",
+        "Opportunity for space research"
+      ],
+      "disadvantages": [
+        "Limited job openings",
+        "Highly competitive"
+      ],
+      "demand": "Rare but prestigious roles in space agencies and research institutions.",
+      "required_skills": {
+        "basic": ["Biology basics", "Chemistry basics", "Astronomy fundamentals", "Observation skills", "Scientific reasoning"],
+        "intermediate": ["Planetary science", "Microbial analysis", "Field research", "Data analysis", "Lab techniques"],
+        "advanced": ["Exoplanet habitability modeling", "Space mission data analysis", "Astrobiology experiments", "Computational modeling", "Scientific writing"],
+        "professional": ["Research leadership", "Collaboration with space agencies", "Publication", "Funding proposals", "Cross-disciplinary integration"]
+      },
+      "related_skills": ["Python", "R", "GIS", "Lab instrumentation", "Astrophysics"]
+    },
+    {
+      "name": "Synthetic Biologist",
+      "overview": "Designs and constructs new biological parts, devices, and systems.",
+      "advantages": [
+        "High innovation potential",
+        "Cutting-edge biotech work",
+        "Strong industrial demand"
+      ],
+      "disadvantages": [
+        "Requires interdisciplinary knowledge",
+        "High regulatory oversight"
+      ],
+      "demand": "High demand in biotech startups and pharmaceutical R&D.",
+      "required_skills": {
+        "basic": ["Molecular biology", "Genetics basics", "Lab techniques", "Problem-solving", "Data collection"],
+        "intermediate": ["DNA assembly", "Gene circuits", "Lab automation", "Experimental design", "Data analysis"],
+        "advanced": ["Synthetic pathway engineering", "Metabolic modeling", "High-throughput screening", "Advanced molecular techniques", "Optimization"],
+        "professional": ["Project management", "Collaboration", "Publication", "Patent filing", "Regulatory knowledge"]
+      },
+      "related_skills": ["CRISPR", "Python", "MATLAB", "Bioinformatics", "Synthetic gene design"]
+    },
+    {
+      "name": "Quantum Biologist",
+      "overview": "Explores quantum effects in biological systems to understand phenomena like photosynthesis and enzyme reactions.",
+      "advantages": [
+        "Highly innovative",
+        "Interdisciplinary research",
+        "Unique career path"
+      ],
+      "disadvantages": [
+        "Very niche and competitive",
+        "Requires deep physics and biology knowledge"
+      ],
+      "demand": "Rare roles in advanced research labs and theoretical studies.",
+      "required_skills": {
+        "basic": ["Biology basics", "Quantum physics basics", "Mathematics", "Data handling", "Observation"],
+        "intermediate": ["Computational modeling", "Simulation techniques", "Experimental design", "Data analysis", "Programming basics"],
+        "advanced": ["Quantum simulations in biology", "High-level mathematical modeling", "Research methodology", "Data interpretation", "Publication"],
+        "professional": ["Cross-disciplinary collaboration", "Grant writing", "Research leadership", "Ethical research", "Scientific communication"]
+      },
+      "related_skills": ["Python", "MATLAB", "Quantum simulation tools", "Bioinformatics", "Computational biology"]
+    },
+    {
+      "name": "Pharmacogenomics Specialist",
+      "overview": "Studies how genes affect individual responses to drugs for personalized medicine.",
+      "advantages": [
+        "High clinical impact",
+        "Strong pharmaceutical industry demand",
+        "Integration of genetics and medicine"
+      ],
+      "disadvantages": [
+        "Advanced knowledge required",
+        "Limited positions in early career"
+      ],
+      "demand": "High demand in pharma, hospitals, and personalized medicine startups.",
+      "required_skills": {
+        "basic": ["Genetics basics", "Biology fundamentals", "Lab techniques", "Data collection", "Problem-solving"],
+        "intermediate": ["Drug-gene interaction analysis", "Bioinformatics", "Statistical analysis", "Clinical trial basics", "Data visualization"],
+        "advanced": ["Personalized treatment design", "Advanced genomics", "Machine learning integration", "Regulatory compliance", "Research methodology"],
+        "professional": ["Project management", "Publication", "Collaboration with medical teams", "Grant writing", "Ethical compliance"]
+      },
+      "related_skills": ["R", "Python", "Genomic databases", "Bioinformatics pipelines", "Pharmacology"]
+    },
+    {
+      "name": "Data Scientist - Scientific Research",
+      "overview": "Applies data science techniques to solve complex scientific problems and extract insights from research data.",
+      "advantages": [
+        "Highly versatile",
+        "High salary potential",
+        "Applicable across multiple scientific fields"
+      ],
+      "disadvantages": [
+        "Requires strong statistics and programming skills",
+        "Data quality issues can be challenging"
+      ],
+      "demand": "Extremely high demand in biotech, pharma, and academic research.",
+      "required_skills": {
+        "basic": ["Python/R", "Statistics", "Data cleaning", "Problem solving", "Scientific literacy"],
+        "intermediate": ["Machine learning", "Data visualization", "Experimental data analysis", "Database management", "Data pipelines"],
+        "advanced": ["Deep learning for scientific data", "High-dimensional data analysis", "Predictive modeling", "Simulation techniques", "Optimization"],
+        "professional": ["Cross-team collaboration", "Publication", "Grant writing", "Project management", "Ethical AI"]
+      },
+      "related_skills": ["Python", "R", "TensorFlow", "Scikit-learn", "MATLAB"]
+    },
+    {
+      "name": "Climate Modeler",
+      "overview": "Develops computational models to predict climate change and environmental impact.",
+      "advantages": [
+        "Global significance",
+        "Interdisciplinary work",
+        "High research visibility"
+      ],
+      "disadvantages": [
+        "Complex mathematics and programming",
+        "Uncertain funding in some regions"
+      ],
+      "demand": "High demand in research institutions, government agencies, and NGOs.",
+      "required_skills": {
+        "basic": ["Mathematics", "Physics", "Data handling", "Observation skills", "Problem solving"],
+        "intermediate": ["Numerical modeling", "Programming basics", "Data visualization", "Statistical analysis", "Remote sensing basics"],
+        "advanced": ["Climate modeling software", "High-performance computing", "Simulation design", "Scenario analysis", "Research interpretation"],
+        "professional": ["Grant writing", "Policy communication", "Project leadership", "Collaboration", "Publication"]
+      },
+      "related_skills": ["Python", "MATLAB", "R", "GIS", "Climate simulation tools"]
+    },
+    {
+      "name": "Space Systems Engineer",
+      "overview": "Designs spacecraft, satellites, and instruments for scientific space missions.",
+      "advantages": [
+        "High-tech and futuristic career",
+        "Global space agency opportunities",
+        "Engineering + science integration"
+      ],
+      "disadvantages": [
+        "Requires multidisciplinary expertise",
+        "Limited positions"
+      ],
+      "demand": "Growing demand with increasing private and public space programs worldwide.",
+      "required_skills": {
+        "basic": ["Physics", "Mathematics", "Engineering fundamentals", "Problem solving", "CAD basics"],
+        "intermediate": ["Systems design", "Orbital mechanics", "Simulation tools", "Programming", "Project documentation"],
+        "advanced": ["Spacecraft integration", "Satellite payload design", "Testing and validation", "Advanced computational modeling", "Optimization"],
+        "professional": ["Project leadership", "Collaboration with agencies", "Risk analysis", "Technical reporting", "Innovation management"]
+      },
+      "related_skills": ["MATLAB", "Python", "CAD", "Aerospace simulation", "Satellite instrumentation"]
+    },
+    {
+      "name": "Synthetic Chemist - Industrial Research",
+      "overview": "Designs and synthesizes new chemical compounds for industrial applications.",
+      "advantages": [
+        "High industry demand",
+        "Innovative and applied research",
+        "Good salary potential"
+      ],
+      "disadvantages": [
+        "Lab safety concerns",
+        "High technical complexity"
+      ],
+      "demand": "High demand in pharmaceuticals, materials, and chemical manufacturing.",
+      "required_skills": {
+        "basic": ["Chemistry fundamentals", "Lab techniques", "Safety protocols", "Data recording", "Observation"],
+        "intermediate": ["Organic/inorganic synthesis", "Analytical chemistry", "Instrumentation", "Process design", "Data analysis"],
+        "advanced": ["Reaction optimization", "Scale-up techniques", "Advanced instrumentation", "Research publication", "Project design"],
+        "professional": ["Team leadership", "Process documentation", "Cross-team collaboration", "Patent filing", "Innovation management"]
+      },
+      "related_skills": ["HPLC", "NMR", "GC-MS", "MATLAB", "Chemical modeling software"]
+    },
+    
+    {
+      "name": "Biochemist",
+      "overview": "Studies chemical processes within and related to living organisms, advancing knowledge in medicine and biotechnology.",
+      "advantages": [
+        "High impact on healthcare and biotech innovation",
+        "Opportunities for lab research and publication"
+      ],
+      "disadvantages": [
+        "Long research hours",
+        "Repetitive experimental procedures"
+      ],
+      "demand": "Biochemists are in demand in pharmaceuticals, biotech, and academic research.",
+      "required_skills": {
+        "basic": ["Chemical analysis", "Laboratory safety", "Microscopy", "Organic chemistry", "Data recording"],
+        "intermediate": ["Protein assays", "Chromatography", "Spectroscopy", "Experimental design", "Literature review"],
+        "advanced": ["Molecular biology techniques", "Drug development research", "Enzyme kinetics", "Lab automation", "Scientific writing"],
+        "professional": ["Project management", "Grant writing", "Team leadership", "Cross-disciplinary collaboration", "Mentorship"]
+      },
+      "related_skills": ["Molecular modeling", "Biotechnology", "Cell culture", "Analytical chemistry", "Lab instrumentation"]
+    },
+    {
+      "name": "Ecologist",
+      "overview": "Researches ecosystems, biodiversity, and environmental interactions to inform conservation and sustainability efforts.",
+      "advantages": [
+        "Fieldwork opportunities",
+        "Direct environmental impact",
+        "Collaboration with NGOs and governments"
+      ],
+      "disadvantages": [
+        "Fieldwork can be physically demanding",
+        "Research funding may be limited"
+      ],
+      "demand": "Ecologists are essential for conservation projects, environmental impact studies, and climate research.",
+      "required_skills": {
+        "basic": ["Observation", "Species identification", "Field sampling", "GIS basics", "Environmental monitoring"],
+        "intermediate": ["Population analysis", "Ecological surveys", "Data visualization", "Statistical analysis", "Report writing"],
+        "advanced": ["Habitat modeling", "Ecosystem management", "Climate impact studies", "Remote sensing analysis", "Project planning"],
+        "professional": ["Policy advisory", "Research leadership", "Grant proposal writing", "Stakeholder communication", "Scientific publishing"]
+      },
+      "related_skills": ["GIS", "Environmental law", "Remote sensing", "Biodiversity databases", "Conservation planning"]
+    },
+    {
+      "name": "Geneticist",
+      "overview": "Investigates genes, heredity, and DNA to advance knowledge in medicine, agriculture, and biotechnology.",
+      "advantages": [
+        "Cutting-edge scientific discoveries",
+        "High research and academic opportunities"
+      ],
+      "disadvantages": [
+        "Requires precision and patience",
+        "Ethical considerations are critical"
+      ],
+      "demand": "Geneticists are in demand in medicine, agriculture, biotech, and research institutions.",
+      "required_skills": {
+        "basic": ["Genetics fundamentals", "Laboratory safety", "DNA extraction", "Microscopy", "Record keeping"],
+        "intermediate": ["PCR techniques", "Gel electrophoresis", "Genetic mapping", "Sample preparation", "Data analysis"],
+        "advanced": ["Gene editing", "Bioinformatics for genomics", "Molecular cloning", "Population genetics", "Experimental design"],
+        "professional": ["Research leadership", "Grant writing", "Scientific collaboration", "Ethical compliance", "Publication in journals"]
+      },
+      "related_skills": ["CRISPR", "Genomic sequencing", "Phenotyping", "Molecular diagnostics", "Lab automation"]
+    },
+    {
+      "name": "Marine Biologist",
+      "overview": "Studies marine organisms, ecosystems, and oceanography to conserve marine biodiversity and resources.",
+      "advantages": [
+        "Work in natural environments",
+        "Contribute to global marine conservation"
+      ],
+      "disadvantages": [
+        "Fieldwork can be challenging",
+        "Travel may be extensive"
+      ],
+      "demand": "Marine biologists are needed for conservation, fisheries, environmental consulting, and research institutions.",
+      "required_skills": {
+        "basic": ["Species identification", "Sampling techniques", "Water quality analysis", "Field safety", "Observation"],
+        "intermediate": ["Diving skills", "Population monitoring", "Marine ecosystem analysis", "Data logging", "GIS mapping"],
+        "advanced": ["Marine conservation planning", "Experimental marine research", "Remote sensing", "Habitat restoration", "Project coordination"],
+        "professional": ["Policy advisory", "Grant applications", "Research leadership", "International collaboration", "Scientific publishing"]
+      },
+      "related_skills": ["Oceanography", "Aquatic ecology", "Environmental legislation", "Data analysis", "Marine technology"]
+    },
+    {
+      "name": "Pharmacologist",
+      "overview": "Researches drug actions, therapeutic effects, and safety to develop new medications.",
+      "advantages": [
+        "High impact in healthcare",
+        "Work on innovative drug development"
+      ],
+      "disadvantages": [
+        "Long lab hours",
+        "Requires rigorous testing and compliance"
+      ],
+      "demand": "Pharmacologists are in demand in pharmaceutical companies, research labs, and hospitals.",
+      "required_skills": {
+        "basic": ["Drug knowledge", "Lab safety", "Basic chemistry", "Experimental observation", "Data recording"],
+        "intermediate": ["Pharmacokinetics", "Toxicology testing", "Cell culture", "Assay development", "Statistical analysis"],
+        "advanced": ["Clinical trial design", "Drug mechanism analysis", "Molecular pharmacology", "Regulatory compliance", "Experimental optimization"],
+        "professional": ["Research leadership", "Ethical review boards", "Grant writing", "Publication", "Collaboration with healthcare teams"]
+      },
+      "related_skills": ["Toxicology", "Clinical pharmacology", "Regulatory affairs", "Biostatistics", "Laboratory management"]
+    },
+    {
+      "name": "Neuroscientist",
+      "overview": "Studies the brain and nervous system to understand behavior, cognition, and neurological diseases.",
+      "advantages": [
+        "Work on cutting-edge research",
+        "High academic and clinical impact"
+      ],
+      "disadvantages": [
+        "Complex subject matter",
+        "Long research timelines"
+      ],
+      "demand": "Neuroscientists are in demand in academia, hospitals, and biotech for neurological research.",
+      "required_skills": {
+        "basic": ["Neuroanatomy", "Laboratory safety", "Data recording", "Microscopy", "Basic physiology"],
+        "intermediate": ["Neurophysiology techniques", "Behavioral experiments", "Data analysis", "Brain imaging basics", "Electrophysiology"],
+        "advanced": ["Functional neuroimaging", "Cognitive modeling", "Neural circuitry analysis", "Experimental design", "Neuropharmacology"],
+        "professional": ["Grant writing", "Research team leadership", "Publication", "Ethical compliance", "Collaboration across disciplines"]
+      },
+      "related_skills": ["MRI", "EEG", "Data modeling", "Clinical research", "Neural networks research"]
+    },
+    {
+      "name": "Astrophysicist",
+      "overview": "Studies celestial phenomena, including stars, galaxies, and cosmic events, to understand the universe.",
+      "advantages": [
+        "Explore fundamental science",
+        "Contribute to high-impact research"
+      ],
+      "disadvantages": [
+        "Requires advanced mathematics",
+        "Research may take years to yield results"
+      ],
+      "demand": "Astrophysicists are needed in space agencies, observatories, and research institutions worldwide.",
+      "required_skills": {
+        "basic": ["Physics fundamentals", "Mathematics", "Observation techniques", "Data recording", "Scientific curiosity"],
+        "intermediate": ["Optics and instrumentation", "Computational modeling", "Data analysis", "Research methods", "Report writing"],
+        "advanced": ["Stellar modeling", "Cosmology studies", "Spectroscopy", "Telescope operation", "Research publication"],
+        "professional": ["Grant applications", "Project leadership", "Collaboration with international teams", "Mentorship", "Conference presentation"]
+      },
+      "related_skills": ["Astrometry", "Observational astronomy", "Space telescopes", "Cosmology", "Simulation tools"]
+    },
+    {
+      "name": "Materials Scientist",
+      "overview": "Researches and develops new materials with unique properties for industrial, medical, or technological applications.",
+      "advantages": [
+        "High industry demand",
+        "Opportunities for innovation"
+      ],
+      "disadvantages": [
+        "Experimental complexity",
+        "Can be expensive research"
+      ],
+      "demand": "Materials scientists are sought in aerospace, electronics, energy, and manufacturing industries.",
+      "required_skills": {
+        "basic": ["Chemistry basics", "Material properties", "Microscopy", "Lab safety", "Data recording"],
+        "intermediate": ["Material characterization", "Mechanical testing", "Crystallography", "Surface analysis", "Experimental design"],
+        "advanced": ["Nanomaterials", "Composite development", "Material modeling", "Thermal/electrical analysis", "Optimization techniques"],
+        "professional": ["Research management", "Cross-industry collaboration", "Patent writing", "Publication", "Innovation strategy"]
+      },
+      "related_skills": ["Nanotechnology", "Metallurgy", "Polymers", "Ceramics", "3D printing materials"]
+    },
+    {
+      "name": "Environmental Scientist",
+      "overview": "Analyzes environmental systems to solve problems related to pollution, sustainability, and resource management.",
+      "advantages": [
+        "Direct societal impact",
+        "Fieldwork and lab combination"
+      ],
+      "disadvantages": [
+        "Work may involve challenging environments",
+        "Dependent on project funding"
+      ],
+      "demand": "Environmental scientists are in demand in NGOs, government agencies, and environmental consulting.",
+      "required_skills": {
+        "basic": ["Environmental monitoring", "Sampling", "Observation", "Data recording", "Basic chemistry"],
+        "intermediate": ["GIS mapping", "Water/soil testing", "Statistical analysis", "Environmental law basics", "Report writing"],
+        "advanced": ["Ecosystem modeling", "Pollution mitigation planning", "Sustainability analysis", "Climate risk assessment", "Project design"],
+        "professional": ["Policy advisory", "Stakeholder communication", "Research leadership", "Grant applications", "Publication"]
+      },
+      "related_skills": ["Conservation", "Climate science", "Environmental policy", "Remote sensing", "Sustainability planning"]
+    },
+    {
+      "name": "Philosopher of Science",
+      "overview": "Analyzes the foundations, methods, and implications of science, bridging critical thinking and scientific inquiry.",
+      "advantages": [
+        "Unique intellectual pursuit",
+        "Opportunities in academia and policy"
+      ],
+      "disadvantages": [
+        "Fewer conventional job roles",
+        "Mostly theoretical research"
+      ],
+      "demand": "Sought in research ethics boards, policy think tanks, and academic philosophy departments.",
+      "required_skills": {
+        "basic": ["Critical thinking", "Scientific literacy", "Logic", "Analytical reading", "Writing fundamentals"],
+        "intermediate": ["Philosophy of methodology", "Argument analysis", "Historical context of science", "Scientific communication", "Interdisciplinary research"],
+        "advanced": ["Ethics evaluation", "Theory development", "Research synthesis", "Academic writing", "Policy advising"],
+        "professional": ["Leadership in research committees", "Publishing", "Conference presentations", "Grant proposals", "Collaboration with scientists"]
+      },
+      "related_skills": ["Ethics", "Science communication", "Philosophy", "Policy", "Critical reasoning"]
+    },
+    
+    {
+      "name": "Oceanographer",
+      "overview": "Studies ocean currents, ecosystems, and marine chemistry to understand and protect the world's oceans.",
+      "advantages": [
+        "Work in unique marine environments",
+        "Contribute to environmental conservation"
+      ],
+      "disadvantages": [
+        "Fieldwork can be challenging and remote",
+        "Funding may be project-based"
+      ],
+      "demand": "Oceanographers are needed in research institutes, environmental organizations, and government agencies.",
+      "required_skills": {
+        "basic": ["Marine biology fundamentals", "Field sampling", "Observation techniques", "Data logging", "Navigation basics"],
+        "intermediate": ["Remote sensing", "GIS mapping", "Hydrology analysis", "Lab techniques", "Data visualization"],
+        "advanced": ["Climate impact modeling", "Marine ecosystem simulation", "Oceanographic instrumentation", "Research design", "Policy analysis"],
+        "professional": ["Project leadership", "Grant writing", "International collaboration", "Scientific publishing", "Mentorship"]
+      },
+      "related_skills": ["Marine ecology", "Hydrography", "GIS", "Environmental policy", "Data modeling"]
+    },
+    {
+      "name": "Marine Conservation Scientist",
+      "overview": "Develops strategies to preserve marine biodiversity and manage fisheries and protected areas.",
+      "advantages": [
+        "Direct positive impact on environment",
+        "Collaboration with NGOs and governments"
+      ],
+      "disadvantages": [
+        "Work may involve harsh outdoor conditions",
+        "Dependent on conservation funding"
+      ],
+      "demand": "Marine conservation scientists are highly sought in NGOs, government, and environmental consultancies.",
+      "required_skills": {
+        "basic": ["Species identification", "Sampling", "Observation", "Data collection", "Field safety"],
+        "intermediate": ["Population monitoring", "GIS mapping", "Statistical analysis", "Environmental policy", "Report writing"],
+        "advanced": ["Conservation planning", "Marine ecosystem modeling", "Policy advisory", "Project management", "Research publications"],
+        "professional": ["Grant writing", "Stakeholder communication", "Team leadership", "International collaboration", "Scientific conferences"]
+      },
+      "related_skills": ["Biodiversity assessment", "Ecology", "Environmental law", "Remote sensing", "Sustainability"]
+    },
+    {
+      "name": "Astrobiologist",
+      "overview": "Studies the origin, evolution, and potential of life in the universe, bridging biology and space science.",
+      "advantages": [
+        "Highly futuristic and interdisciplinary",
+        "Work with space agencies and research institutions"
+      ],
+      "disadvantages": [
+        "Limited direct job openings",
+        "Requires expertise in multiple disciplines"
+      ],
+      "demand": "Astrobiologists are sought in space research institutions, universities, and NASA/ESA projects.",
+      "required_skills": {
+        "basic": ["Biology basics", "Chemistry basics", "Scientific observation", "Data recording", "Critical thinking"],
+        "intermediate": ["Microbiology", "Planetary science", "Analytical chemistry", "Experimental design", "Literature review"],
+        "advanced": ["Astrobiology experiments", "Life detection techniques", "Exoplanet research", "Interdisciplinary modeling", "Research publication"],
+        "professional": ["Project leadership", "Grant writing", "International collaboration", "Policy advisory", "Scientific publishing"]
+      },
+      "related_skills": ["Exoplanet science", "Biochemistry", "Space instrumentation", "Remote sensing", "Planetary geology"]
+    },
+    {
+      "name": "Planetary Geologist",
+      "overview": "Studies the structure, composition, and history of planets, moons, and other celestial bodies.",
+      "advantages": [
+        "Work with NASA, ESA, and research observatories",
+        "Engage in planetary exploration and modeling"
+      ],
+      "disadvantages": [
+        "Highly specialized field",
+        "Limited direct opportunities for freshers"
+      ],
+      "demand": "Planetary geologists are in demand in space research centers and academia.",
+      "required_skills": {
+        "basic": ["Geology fundamentals", "Mineral identification", "Fieldwork techniques", "Observation", "Data recording"],
+        "intermediate": ["Remote sensing", "Satellite imagery analysis", "Petrology", "Planetary surface mapping", "Lab analysis"],
+        "advanced": ["Planetary modeling", "Geochemical analysis", "Impact cratering studies", "Research design", "Scientific publication"],
+        "professional": ["Project leadership", "Grant writing", "International collaboration", "Conference presentation", "Policy advisory"]
+      },
+      "related_skills": ["Geochemistry", "Remote sensing", "Planetary science", "Spectroscopy", "GIS"]
+    },
+    {
+      "name": "Marine Robotics Engineer",
+      "overview": "Designs and operates robotic systems for underwater exploration, environmental monitoring, and research.",
+      "advantages": [
+        "Cutting-edge technology role",
+        "Opportunities for fieldwork and innovation"
+      ],
+      "disadvantages": [
+        "Requires multidisciplinary expertise",
+        "Operational risks in marine environments"
+      ],
+      "demand": "Marine robotics engineers are highly sought in research institutes, ocean exploration companies, and defense sectors.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electronics fundamentals", "Problem solving", "Data recording", "Observation"],
+        "intermediate": ["Underwater robotics", "Control systems", "Sensors and instrumentation", "Communication protocols", "Field deployment"],
+        "advanced": ["Autonomous systems design", "Navigation algorithms", "Remote operation", "Data processing", "Optimization techniques"],
+        "professional": ["Project management", "Collaboration with research teams", "Documentation", "Grant applications", "Innovation strategy"]
+      },
+      "related_skills": ["ROVs", "AUVs", "Embedded systems", "Hydrodynamics", "Ocean monitoring technology"]
+    },
+    {
+      "name": "Satellite Data Analyst",
+      "overview": "Analyzes data from satellites for climate monitoring, Earth observation, and scientific research.",
+      "advantages": [
+        "High-demand skills in climate and environmental monitoring",
+        "Work with government and private satellite programs"
+      ],
+      "disadvantages": [
+        "Requires strong analytical skills",
+        "High volume of data processing"
+      ],
+      "demand": "Satellite data analysts are needed in space agencies, climate research, and geospatial companies.",
+      "required_skills": {
+        "basic": ["Data recording", "GIS basics", "Observation techniques", "Spreadsheet analysis", "Mapping fundamentals"],
+        "intermediate": ["Remote sensing", "Image processing", "Geospatial data analysis", "Python/R for analysis", "Visualization"],
+        "advanced": ["Climate modeling", "Earth observation interpretation", "Satellite mission analysis", "Big data processing", "Research publication"],
+        "professional": ["Project leadership", "Policy advisory", "Grant writing", "Collaboration with scientists", "Conference presentations"]
+      },
+      "related_skills": ["GIS", "Remote sensing", "Earth observation", "Python", "Climate science"]
+    },
+    {
+      "name": "Underwater Archaeologist",
+      "overview": "Explores submerged sites to study human history and culture, combining marine science and archaeology.",
+      "advantages": [
+        "Work in unique underwater environments",
+        "Discover historical artifacts and knowledge"
+      ],
+      "disadvantages": [
+        "Physically demanding",
+        "Fieldwork is weather-dependent"
+      ],
+      "demand": "Underwater archaeologists are needed in research institutions, museums, and heritage organizations.",
+      "required_skills": {
+        "basic": ["Archaeology fundamentals", "Diving skills", "Observation", "Data recording", "Photography"],
+        "intermediate": ["Underwater excavation", "Survey techniques", "Artifact preservation", "GIS mapping", "Report writing"],
+        "advanced": ["Site interpretation", "Marine heritage management", "Research design", "Publication", "Grant proposals"],
+        "professional": ["Project leadership", "International collaboration", "Policy advisory", "Scientific communication", "Mentorship"]
+      },
+      "related_skills": ["Marine history", "Underwater surveying", "GIS", "Conservation", "Field documentation"]
+    },
+    {
+      "name": "Exoplanet Researcher",
+      "overview": "Studies planets outside our solar system, analyzing data to detect habitable conditions and planetary formation.",
+      "advantages": [
+        "Highly futuristic research",
+        "International collaboration opportunities"
+      ],
+      "disadvantages": [
+        "Extremely specialized field",
+        "Requires advanced astronomy knowledge"
+      ],
+      "demand": "Exoplanet researchers are sought in space agencies, observatories, and academic institutions.",
+      "required_skills": {
+        "basic": ["Astronomy fundamentals", "Observation techniques", "Data recording", "Mathematics basics", "Physics fundamentals"],
+        "intermediate": ["Telescope operation", "Spectroscopy", "Photometry", "Data analysis", "Simulation modeling"],
+        "advanced": ["Planetary habitability modeling", "Exoplanet atmosphere analysis", "Research design", "Publication", "Collaboration"],
+        "professional": ["Grant writing", "Project leadership", "International team coordination", "Conference presentations", "Policy advisory"]
+      },
+      "related_skills": ["Astrophysics", "Spectroscopy", "Data analysis", "Simulation", "Planetary science"]
+    },
+    {
+      "name": "Deep Sea Biologist",
+      "overview": "Studies life forms and ecosystems in the deep ocean, often under extreme pressure and darkness.",
+      "advantages": [
+        "Unique research environment",
+        "Discover new species and ecosystems"
+      ],
+      "disadvantages": [
+        "Fieldwork is physically challenging",
+        "Expensive equipment and expeditions"
+      ],
+      "demand": "Deep sea biologists are needed in marine research institutes, ocean exploration companies, and environmental agencies.",
+      "required_skills": {
+        "basic": ["Marine biology basics", "Observation", "Data logging", "Lab safety", "Diving basics"],
+        "intermediate": ["Submersible operation", "Ecosystem monitoring", "Species identification", "Data analysis", "Report writing"],
+        "advanced": ["Deep ocean ecology", "Experimental design", "Remote sensing", "Scientific publication", "Expedition planning"],
+        "professional": ["Project leadership", "Grant writing", "Collaboration with international teams", "Policy advisory", "Mentorship"]
+      },
+      "related_skills": ["ROVs", "Marine technology", "GIS", "Oceanography", "Environmental monitoring"]
+    },
+    
+    {
+      "name": "Quantum Hardware Engineer",
+      "overview": "Designs and develops hardware components for quantum computers and quantum communication systems.",
+      "advantages": [
+        "Work at the forefront of computing",
+        "High-paying research career"
+      ],
+      "disadvantages": [
+        "Highly specialized knowledge required",
+        "Limited number of positions"
+      ],
+      "demand": "Quantum hardware engineers are in demand at research labs, tech giants, and advanced computing startups.",
+      "required_skills": {
+        "basic": ["Physics fundamentals", "Electronics basics", "Linear algebra", "Programming basics", "Problem solving"],
+        "intermediate": ["Quantum circuits", "Cryogenics", "Control systems", "Signal processing", "Data acquisition"],
+        "advanced": ["Quantum device fabrication", "Error correction techniques", "Quantum optimization", "Advanced instrumentation", "Simulation tools"],
+        "professional": ["Research documentation", "Team collaboration", "Project leadership", "Technical publishing", "Innovation management"]
+      },
+      "related_skills": ["Qiskit", "LabVIEW", "Cryogenic systems", "Microfabrication", "Superconducting circuits"]
+    },
+    {
+      "name": "IoT Systems Researcher",
+      "overview": "Develops and innovates connected devices and smart systems for industrial, healthcare, and consumer applications.",
+      "advantages": [
+        "Fast-growing field",
+        "Hands-on with cutting-edge hardware"
+      ],
+      "disadvantages": [
+        "Integration complexity",
+        "Security concerns"
+      ],
+      "demand": "IoT researchers are needed in smart home, industrial IoT, healthcare, and wearable tech companies.",
+      "required_skills": {
+        "basic": ["Electronics", "Networking basics", "Microcontrollers", "Programming fundamentals", "Sensors basics"],
+        "intermediate": ["Embedded systems", "Wireless protocols", "Data collection", "IoT frameworks", "Debugging devices"],
+        "advanced": ["System optimization", "Edge computing", "IoT security", "Cloud integration", "Prototype development"],
+        "professional": ["Project coordination", "Technical documentation", "Collaboration with software teams", "Innovation strategy", "User testing"]
+      },
+      "related_skills": ["Arduino", "Raspberry Pi", "MQTT", "Edge AI", "IoT security"]
+    },
+    {
+      "name": "Augmented & Virtual Reality Researcher",
+      "overview": "Develops immersive AR/VR hardware and applications for education, healthcare, and entertainment.",
+      "advantages": [
+        "Innovative and creative field",
+        "High demand in tech and gaming sectors"
+      ],
+      "disadvantages": [
+        "Hardware costs",
+        "Rapidly changing technology"
+      ],
+      "demand": "AR/VR researchers are sought by tech giants, startups, and research labs worldwide.",
+      "required_skills": {
+        "basic": ["3D modeling basics", "Programming fundamentals", "Physics concepts", "Problem-solving", "Graphics basics"],
+        "intermediate": ["Unity/Unreal Engine", "Computer vision basics", "Hardware interfacing", "Sensor integration", "Motion tracking"],
+        "advanced": ["Real-time rendering", "AR/VR hardware optimization", "Haptic feedback", "Mixed reality interaction", "System integration"],
+        "professional": ["Project management", "User experience design", "Research publication", "Cross-team collaboration", "Innovation planning"]
+      },
+      "related_skills": ["Unity", "Unreal Engine", "OpenXR", "3D sensors", "AR/VR prototyping"]
+    },
+    {
+      "name": "Advanced Robotics Engineer",
+      "overview": "Designs robotic systems for manufacturing, healthcare, and exploratory research using advanced sensors and AI.",
+      "advantages": [
+        "Hands-on with cutting-edge tech",
+        "High salary and innovation potential"
+      ],
+      "disadvantages": [
+        "Complex integration tasks",
+        "High technical challenges"
+      ],
+      "demand": "High demand in industrial automation, medical robotics, and research institutions.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Programming fundamentals", "Electronics", "Math foundations", "Problem solving"],
+        "intermediate": ["Robotics simulation", "Control systems", "Sensor integration", "Actuator programming", "Testing"],
+        "advanced": ["AI for robotics", "Autonomous navigation", "Vision-based control", "Optimization algorithms", "Real-time system design"],
+        "professional": ["Research collaboration", "Project leadership", "Documentation", "Patent filing", "Innovation strategy"]
+      },
+      "related_skills": ["ROS", "Python", "C++", "LIDAR", "Computer vision"]
+    },
+    {
+      "name": "Space Systems Engineer",
+      "overview": "Develops satellites, space probes, and supporting hardware for exploration and research.",
+      "advantages": [
+        "High-profile, innovative work",
+        "Opportunities in global space agencies"
+      ],
+      "disadvantages": [
+        "Extremely specialized",
+        "Long development cycles"
+      ],
+      "demand": "High demand in space agencies, private aerospace companies, and international collaborations.",
+      "required_skills": {
+        "basic": ["Physics", "Mathematics", "Electronics basics", "Mechanics", "Programming basics"],
+        "intermediate": ["Orbital mechanics", "Satellite systems", "Telemetry", "Communication protocols", "Testing"],
+        "advanced": ["Space-grade hardware design", "Radiation-hardened electronics", "Propulsion systems", "Integration & simulation", "System optimization"],
+        "professional": ["Project management", "Team coordination", "Documentation", "Collaboration with agencies", "Innovation planning"]
+      },
+      "related_skills": ["Satellite design", "CAD", "Signal processing", "Python", "Simulink"]
+    },
+    {
+      "name": "Biotech Research Scientist",
+      "overview": "Innovates in genetic engineering, drug development, and lab automation for biotech applications.",
+      "advantages": [
+        "High research impact",
+        "Opportunities in pharma and startups"
+      ],
+      "disadvantages": [
+        "Lab-intensive work",
+        "Regulatory constraints"
+      ],
+      "demand": "Biotech scientists are highly sought after in pharma, agriculture, and research institutions.",
+      "required_skills": {
+        "basic": ["Molecular biology", "Lab safety", "Data analysis basics", "Chemistry", "Problem solving"],
+        "intermediate": ["Genomics", "Protein engineering", "Lab instrumentation", "Cell culture", "Bioinformatics"],
+        "advanced": ["CRISPR techniques", "High-throughput experiments", "Automation systems", "Statistical analysis", "Research optimization"],
+        "professional": ["Grant writing", "Project leadership", "Collaboration", "Publication", "Innovation management"]
+      },
+      "related_skills": ["Gene editing", "PCR", "Bioinformatics tools", "Lab automation", "Data analysis"]
+    },
+    {
+      "name": "Renewable Energy Research Engineer",
+      "overview": "Designs and optimizes sustainable energy systems including solar, wind, and storage technologies.",
+      "advantages": [
+        "High societal impact",
+        "Opportunities in clean-tech startups"
+      ],
+      "disadvantages": [
+        "Field and lab work required",
+        "Technology rapidly evolving"
+      ],
+      "demand": "High demand in energy startups, research labs, and government projects.",
+      "required_skills": {
+        "basic": ["Physics", "Electrical basics", "Math fundamentals", "Chemistry basics", "Problem solving"],
+        "intermediate": ["Solar/wind systems", "Circuit design", "Simulation tools", "Data collection", "Energy efficiency analysis"],
+        "advanced": ["System integration", "Battery tech", "Smart grid", "Optimization algorithms", "Prototype testing"],
+        "professional": ["Project management", "Team collaboration", "Grant applications", "Documentation", "Innovation strategy"]
+      },
+      "related_skills": ["PV systems", "Wind turbines", "MATLAB", "Simulation software", "Energy storage"]
+    },
+    {
+      "name": "Advanced Materials Scientist",
+      "overview": "Researches and develops new materials for aerospace, electronics, and industrial applications.",
+      "advantages": [
+        "High-demand expertise",
+        "Innovation-driven career"
+      ],
+      "disadvantages": [
+        "Lab-intensive work",
+        "Complex material characterization"
+      ],
+      "demand": "Advanced materials scientists are sought by aerospace, electronics, and manufacturing industries.",
+      "required_skills": {
+        "basic": ["Chemistry basics", "Physics basics", "Lab safety", "Mathematics", "Observation"],
+        "intermediate": ["Material synthesis", "Characterization techniques", "Data analysis", "Microscopy", "Testing protocols"],
+        "advanced": ["Nano-materials", "Composite development", "Mechanical properties optimization", "Thermal/electrical analysis", "Simulation tools"],
+        "professional": ["Research publications", "Project leadership", "Collaboration", "Innovation management", "Patent filing"]
+      },
+      "related_skills": ["Electron microscopy", "3D printing materials", "Simulation software", "Material testing", "Nanotechnology"]
+    },
+    {
+      "name": "Human-Computer Interaction Researcher",
+      "overview": "Studies and develops advanced interfaces for technology, wearable devices, and VR/AR systems.",
+      "advantages": [
+        "Creative and interdisciplinary",
+        "High demand in tech and design fields"
+      ],
+      "disadvantages": [
+        "Requires UX and tech expertise",
+        "User testing can be intensive"
+      ],
+      "demand": "HCI researchers are sought after by tech companies, VR/AR startups, and research labs.",
+      "required_skills": {
+        "basic": ["Psychology basics", "Programming fundamentals", "Design thinking", "Observation", "Statistics"],
+        "intermediate": ["UX/UI design", "Prototyping", "User testing", "Data analysis", "Hardware integration"],
+        "advanced": ["AR/VR interface development", "Gesture recognition", "Wearable tech optimization", "AI interaction", "System evaluation"],
+        "professional": ["Research publication", "Collaboration", "Project management", "Innovation strategy", "User studies documentation"]
+      },
+      "related_skills": ["Unity", "Python", "ARKit/ARCore", "Eye-tracking", "VR hardware"]
+    },
+    {
+      "name": "Innovation & Technology Strategist",
+      "overview": "Leads research and implementation of innovative technologies for industrial or scientific applications.",
+      "advantages": [
+        "High-level decision-making",
+        "Influence over tech direction"
+      ],
+      "disadvantages": [
+        "Requires broad knowledge",
+        "High responsibility"
+      ],
+      "demand": "Innovation strategists are needed in R&D labs, tech companies, and consulting firms.",
+      "required_skills": {
+        "basic": ["Research fundamentals", "Technical knowledge basics", "Problem solving", "Observation", "Communication"],
+        "intermediate": ["Trend analysis", "Technology scouting", "Data interpretation", "Stakeholder communication", "Project planning"],
+        "advanced": ["Strategic technology integration", "Innovation pipeline management", "ROI assessment", "Cross-domain coordination", "Patents and IP"],
+        "professional": ["Leadership", "Decision making", "Technical consulting", "Project management", "Collaboration"]
+      },
+      "related_skills": ["Technology roadmap", "Innovation frameworks", "R&D management", "Trend analysis", "Industry networking"]
+    },
+    
+    {
+      "name": "Astrobiologist",
+      "overview": "Studies life in the universe, including potential extraterrestrial organisms and extreme environments on Earth.",
+      "advantages": [
+        "Unique and high-profile research",
+        "Work with space agencies and observatories"
+      ],
+      "disadvantages": [
+        "Limited positions worldwide",
+        "Requires strong interdisciplinary knowledge"
+      ],
+      "demand": "Emerging demand in space research institutes, NASA, ESA, and astrobiology labs.",
+      "required_skills": {
+        "basic": ["Biology fundamentals", "Chemistry basics", "Earth sciences", "Problem solving", "Observation"],
+        "intermediate": ["Extreme environment analysis", "Microbial ecology", "Data analysis", "Remote sensing", "Fieldwork techniques"],
+        "advanced": ["Planetary geology", "Exoplanet habitability", "Laboratory simulations", "Space mission research", "Advanced microscopy"],
+        "professional": ["Research collaboration", "Grant writing", "Publication", "Cross-disciplinary coordination", "Innovation management"]
+      },
+      "related_skills": ["Microbiology", "Astrochemistry", "Spectroscopy", "Remote sensing", "Space research"]
+    },
+    {
+      "name": "Marine Robotics Engineer",
+      "overview": "Designs autonomous underwater vehicles (AUVs) and robots for ocean exploration and research.",
+      "advantages": [
+        "Work on ocean exploration",
+        "Highly specialized engineering role"
+      ],
+      "disadvantages": [
+        "Fieldwork can be challenging",
+        "High technical expertise required"
+      ],
+      "demand": "High demand in oceanography institutes, defense research, and private marine tech companies.",
+      "required_skills": {
+        "basic": ["Mechanical basics", "Electronics basics", "Programming fundamentals", "Physics", "Problem solving"],
+        "intermediate": ["Hydrodynamics", "Control systems", "Sensors integration", "Navigation systems", "Embedded programming"],
+        "advanced": ["Autonomous system design", "Oceanic data acquisition", "Robotics optimization", "AI navigation", "Real-time control"],
+        "professional": ["Project leadership", "Documentation", "Collaboration with research teams", "Innovation planning", "Prototype testing"]
+      },
+      "related_skills": ["ROS", "Python", "MATLAB", "Underwater sensors", "C++"]
+    },
+    {
+      "name": "Space Mission Analyst",
+      "overview": "Plans and evaluates scientific and engineering missions in space, including satellites and probes.",
+      "advantages": [
+        "Work on interplanetary missions",
+        "High-profile and global collaborations"
+      ],
+      "disadvantages": [
+        "Requires deep technical and analytical knowledge",
+        "Limited number of positions"
+      ],
+      "demand": "Emerging roles in NASA, ESA, private aerospace companies, and international research collaborations.",
+      "required_skills": {
+        "basic": ["Physics", "Mathematics", "Astronomy basics", "Programming basics", "Problem solving"],
+        "intermediate": ["Orbital mechanics", "Simulation tools", "Satellite systems", "Telemetry analysis", "Data modeling"],
+        "advanced": ["Mission optimization", "Trajectory analysis", "Space instrumentation", "System engineering", "Risk assessment"],
+        "professional": ["Project coordination", "Documentation", "International collaboration", "Research publishing", "Innovation planning"]
+      },
+      "related_skills": ["MATLAB", "Simulink", "Python", "Satellite modeling", "Astrodynamics"]
+    },
+    {
+      "name": "Neurotechnology Researcher",
+      "overview": "Develops devices and methods to interface with the human nervous system, including brain-computer interfaces.",
+      "advantages": [
+        "Cutting-edge research in neuroscience",
+        "High societal impact"
+      ],
+      "disadvantages": [
+        "Highly complex experiments",
+        "Requires interdisciplinary knowledge"
+      ],
+      "demand": "Strong demand in neurotech startups, medical research labs, and advanced academic institutions.",
+      "required_skills": {
+        "basic": ["Neuroscience basics", "Programming fundamentals", "Biology", "Statistics", "Problem solving"],
+        "intermediate": ["Neuroimaging", "Signal processing", "Data acquisition", "Electrophysiology", "Experiment design"],
+        "advanced": ["BCI development", "Machine learning for neural data", "Neuro-device integration", "Real-time systems", "Ethical research"],
+        "professional": ["Publication", "Cross-team collaboration", "Project leadership", "Grant writing", "Innovation management"]
+      },
+      "related_skills": ["MATLAB", "Python", "EEG/MEG", "Brain-computer interfaces", "AI for neuroscience"]
+    },
+    {
+      "name": "Renewable Energy Innovation Scientist",
+      "overview": "Creates new technologies in solar, wind, tidal, and hydrogen energy to optimize efficiency and scalability.",
+      "advantages": [
+        "High societal impact",
+        "Work with cutting-edge energy solutions"
+      ],
+      "disadvantages": [
+        "Fieldwork and lab experiments required",
+        "Technologies rapidly evolving"
+      ],
+      "demand": "Growing demand in energy startups, universities, and government energy research labs.",
+      "required_skills": {
+        "basic": ["Physics", "Chemistry", "Math fundamentals", "Problem solving", "Electrical basics"],
+        "intermediate": ["Solar/wind/tidal systems", "Simulation tools", "Data acquisition", "Circuit design", "Energy analysis"],
+        "advanced": ["Prototype development", "System optimization", "Smart grids", "Energy storage tech", "Renewable integration"],
+        "professional": ["Project management", "Team collaboration", "Innovation strategy", "Documentation", "Research publication"]
+      },
+      "related_skills": ["MATLAB", "PV simulation", "Wind turbine modeling", "Energy storage", "Sustainable tech"]
+    },
+    {
+      "name": "Nanotechnology Engineer",
+      "overview": "Develops nanoscale materials and devices for medicine, electronics, and materials science.",
+      "advantages": [
+        "Highly innovative and futuristic",
+        "Applications across industries"
+      ],
+      "disadvantages": [
+        "Requires highly specialized lab work",
+        "Extensive education required"
+      ],
+      "demand": "High demand in research labs, medical device companies, electronics firms, and material science institutes.",
+      "required_skills": {
+        "basic": ["Chemistry basics", "Physics basics", "Lab safety", "Observation", "Problem solving"],
+        "intermediate": ["Nanomaterial synthesis", "Microscopy", "Surface analysis", "Characterization techniques", "Data collection"],
+        "advanced": ["Nano-device fabrication", "Molecular modeling", "Material optimization", "Lab automation", "Simulation"],
+        "professional": ["Research publishing", "Team collaboration", "Grant applications", "Project leadership", "Innovation strategy"]
+      },
+      "related_skills": ["Electron microscopy", "AFM", "LabVIEW", "3D nanoprinting", "Nanomaterials"]
+    },
+    {
+      "name": "Advanced Space Propulsion Scientist",
+      "overview": "Researches and develops propulsion technologies for rockets, satellites, and deep space exploration.",
+      "advantages": [
+        "Work in frontier space technologies",
+        "High-profile career"
+      ],
+      "disadvantages": [
+        "Complex physics and engineering",
+        "Highly competitive field"
+      ],
+      "demand": "Sought after by space agencies, private aerospace companies, and research labs.",
+      "required_skills": {
+        "basic": ["Physics fundamentals", "Mathematics", "Thermodynamics", "Problem solving", "Programming basics"],
+        "intermediate": ["Rocket mechanics", "Fluid dynamics", "Propellant chemistry", "Simulation tools", "Testing protocols"],
+        "advanced": ["Advanced propulsion systems", "Ion/Plasma thrusters", "System optimization", "Experimental setups", "Materials for space"],
+        "professional": ["Project coordination", "Research documentation", "Team collaboration", "Innovation strategy", "International cooperation"]
+      },
+      "related_skills": ["CFD", "MATLAB", "Simulation software", "Aerospace materials", "Propulsion modeling"]
+    },
+    {
+      "name": "Oceanographic Data Scientist",
+      "overview": "Analyzes complex ocean data from sensors, satellites, and autonomous vehicles to study marine environments.",
+      "advantages": [
+        "Work on environmental and climate research",
+        "High demand for data expertise"
+      ],
+      "disadvantages": [
+        "Requires programming and analytical skills",
+        "Data collection can be challenging"
+      ],
+      "demand": "High demand in marine research institutes, climate agencies, and universities.",
+      "required_skills": {
+        "basic": ["Oceanography basics", "Statistics", "Python/R basics", "Mathematics", "Problem solving"],
+        "intermediate": ["Data cleaning", "Visualization", "Time-series analysis", "Sensor data handling", "GIS basics"],
+        "advanced": ["Machine learning models", "Simulation of ocean systems", "Big data handling", "Predictive modeling", "Algorithm optimization"],
+        "professional": ["Research publication", "Project coordination", "Collaboration", "Documentation", "Policy impact analysis"]
+      },
+      "related_skills": ["Python", "R", "GIS", "MATLAB", "Satellite data"]
+    },
+    {
+      "name": "Innovation Hardware Prototype Engineer",
+      "overview": "Designs and develops experimental hardware for emerging technologies in robotics, sensors, and computing.",
+      "advantages": [
+        "Hands-on with futuristic tech",
+        "Highly creative and high-salary role"
+      ],
+      "disadvantages": [
+        "Prototyping failures are common",
+        "Requires strong interdisciplinary knowledge"
+      ],
+      "demand": "Needed in research labs, tech startups, and university innovation centers.",
+      "required_skills": {
+        "basic": ["Electronics", "Mechanical basics", "Programming basics", "Mathematics", "Problem solving"],
+        "intermediate": ["3D printing", "Circuit design", "Sensors integration", "Prototyping", "Testing"],
+        "advanced": ["Robotics hardware", "IoT integration", "AI-driven devices", "Optimization", "Advanced fabrication techniques"],
+        "professional": ["Project documentation", "Team leadership", "Collaboration", "Innovation strategy", "Patent filing"]
+      },
+      "related_skills": ["Arduino", "Raspberry Pi", "CAD", "Circuit simulation", "Rapid prototyping"]
+    },
+    
+    {
+      "name": "Synthetic Biology Engineer",
+      "overview": "Designs and constructs new biological parts, devices, and systems for healthcare, agriculture, and biotech industries.",
+      "advantages": [
+        "Cutting-edge biotech research",
+        "High societal impact"
+      ],
+      "disadvantages": [
+        "Highly technical and regulated field",
+        "Ethical and safety concerns"
+      ],
+      "demand": "Growing demand in biotech startups, pharmaceutical companies, and research institutions.",
+      "required_skills": {
+        "basic": ["Molecular biology", "Genetics basics", "Lab safety", "Problem solving", "Chemistry fundamentals"],
+        "intermediate": ["DNA/RNA engineering", "Gene editing (CRISPR)", "Synthetic circuits", "Data analysis", "Experimental design"],
+        "advanced": ["Metabolic pathway design", "Cellular modeling", "Biomanufacturing", "Automation in labs", "Bioinformatics"],
+        "professional": ["Research publishing", "Grant writing", "Regulatory compliance", "Collaboration", "Innovation management"]
+      },
+      "related_skills": ["CRISPR", "Gene therapy", "Bioinformatics", "Lab automation", "Synthetic biology software"]
+    },
+    {
+      "name": "Exoplanet Research Scientist",
+      "overview": "Studies planets outside the solar system using telescopes, spectroscopy, and modeling to find potentially habitable worlds.",
+      "advantages": [
+        "Work in space discovery",
+        "High research visibility"
+      ],
+      "disadvantages": [
+        "Competitive field",
+        "Requires strong astrophysics background"
+      ],
+      "demand": "High demand in observatories, space agencies, and astrophysics research centers.",
+      "required_skills": {
+        "basic": ["Astronomy", "Physics", "Mathematics", "Programming basics", "Problem solving"],
+        "intermediate": ["Spectroscopy", "Astrophysical modeling", "Data analysis", "Telescope operation", "Simulation tools"],
+        "advanced": ["Exoplanet habitability modeling", "High-resolution imaging", "Planet detection algorithms", "Observation planning", "Advanced data analysis"],
+        "professional": ["Research publication", "International collaboration", "Grant writing", "Conference presentations", "Team leadership"]
+      },
+      "related_skills": ["Python", "MATLAB", "AstroPy", "Simulations", "Data visualization"]
+    },
+    {
+      "name": "Ocean Acidification Specialist",
+      "overview": "Studies chemical and biological changes in oceans due to carbon emissions and climate change.",
+      "advantages": [
+        "Critical for environmental protection",
+        "High global impact"
+      ],
+      "disadvantages": [
+        "Field research can be tough",
+        "Requires interdisciplinary knowledge"
+      ],
+      "demand": "Growing need in environmental agencies, marine research institutes, and climate policy organizations.",
+      "required_skills": {
+        "basic": ["Chemistry", "Biology", "Mathematics", "Observation", "Problem solving"],
+        "intermediate": ["Marine chemistry", "Ecology", "Data collection", "Lab experiments", "Modeling basics"],
+        "advanced": ["Ocean modeling", "Acidification prediction", "Field instrumentation", "Statistical analysis", "Simulation tools"],
+        "professional": ["Policy collaboration", "Publication", "Grant writing", "Team leadership", "Public communication"]
+      },
+      "related_skills": ["R", "Python", "GIS", "Remote sensing", "Climate modeling"]
+    },
+    {
+      "name": "Human Augmentation Researcher",
+      "overview": "Develops technologies to enhance human physical or cognitive capabilities using wearable or implantable devices.",
+      "advantages": [
+        "Futuristic research",
+        "Applications in health, sports, and defense"
+      ],
+      "disadvantages": [
+        "Ethical and legal considerations",
+        "High technical complexity"
+      ],
+      "demand": "Emerging field in biotech, defense, and neurotech startups.",
+      "required_skills": {
+        "basic": ["Human physiology", "Neuroscience basics", "Electronics basics", "Programming", "Problem solving"],
+        "intermediate": ["Wearable device design", "Sensor integration", "Signal processing", "Data acquisition", "Biomechanics"],
+        "advanced": ["BCI development", "Augmentation algorithms", "Human-machine interaction", "Device optimization", "AI integration"],
+        "professional": ["Research documentation", "Ethical compliance", "Collaboration", "Project management", "Innovation strategy"]
+      },
+      "related_skills": ["Python", "MATLAB", "EEG/EMG sensors", "Robotics", "AI"]
+    },
+    {
+      "name": "Bioinformatics Innovation Scientist",
+      "overview": "Uses computational tools to analyze biological data for drug discovery, genomics, and personalized medicine.",
+      "advantages": [
+        "High-demand AI + biology role",
+        "Direct impact on healthcare"
+      ],
+      "disadvantages": [
+        "Requires strong computational and biological knowledge",
+        "Data-heavy work"
+      ],
+      "demand": "Growing demand in pharma, biotech, and research institutions.",
+      "required_skills": {
+        "basic": ["Biology", "Genetics", "Statistics", "Programming basics", "Problem solving"],
+        "intermediate": ["Genome analysis", "Protein modeling", "Data visualization", "Databases", "Algorithm development"],
+        "advanced": ["Drug target discovery", "Machine learning for biology", "Pipeline automation", "Big data handling", "Cloud computing"],
+        "professional": ["Publication", "Team collaboration", "Grant writing", "Cross-disciplinary projects", "Innovation planning"]
+      },
+      "related_skills": ["Python", "R", "Bioconductor", "Next-gen sequencing", "Machine learning"]
+    },
+    {
+      "name": "Quantum Materials Scientist",
+      "overview": "Researches and develops materials with quantum properties for computing, sensors, and energy applications.",
+      "advantages": [
+        "High-end physics research",
+        "Pioneering technology"
+      ],
+      "disadvantages": [
+        "Highly complex science",
+        "Limited roles"
+      ],
+      "demand": "High demand in advanced research labs, quantum computing companies, and national institutes.",
+      "required_skills": {
+        "basic": ["Physics fundamentals", "Math", "Chemistry basics", "Problem solving", "Observation"],
+        "intermediate": ["Solid-state physics", "Material synthesis", "Characterization tools", "Data analysis", "Simulation basics"],
+        "advanced": ["Quantum behavior modeling", "Device fabrication", "Nanomaterials", "Cryogenics", "Advanced simulations"],
+        "professional": ["Research leadership", "Publication", "Collaboration", "Grant writing", "Innovation management"]
+      },
+      "related_skills": ["MATLAB", "Python", "Nanofabrication", "Spectroscopy", "Quantum modeling"]
+    },
+    {
+      "name": "Space Habitat Designer",
+      "overview": "Designs sustainable living environments for space stations, lunar bases, and Mars habitats.",
+      "advantages": [
+        "Futuristic space research",
+        "Cross-disciplinary design work"
+      ],
+      "disadvantages": [
+        "Complex life support systems",
+        "Limited roles globally"
+      ],
+      "demand": "Emerging demand in space agencies, private aerospace companies, and research centers.",
+      "required_skills": {
+        "basic": ["Architecture basics", "Physics", "Engineering principles", "Problem solving", "Mathematics"],
+        "intermediate": ["Life support systems", "Thermal control", "Structural design", "Material science", "Simulation tools"],
+        "advanced": ["Habitat optimization", "Radiation shielding", "Sustainability in space", "Automation integration", "Systems engineering"],
+        "professional": ["Project leadership", "Collaboration", "Innovation strategy", "Documentation", "Research publishing"]
+      },
+      "related_skills": ["CAD", "Simulation software", "Materials modeling", "Thermal analysis", "Space research"]
+    },
+    {
+      "name": "Deep Sea Exploration Scientist",
+      "overview": "Leads research missions in the ocean depths using submersibles, ROVs, and autonomous vehicles.",
+      "advantages": [
+        "Unique, adventurous role",
+        "Contributes to marine discovery"
+      ],
+      "disadvantages": [
+        "Fieldwork can be extreme",
+        "High technical expertise needed"
+      ],
+      "demand": "Demand in oceanographic institutes, marine research labs, and environmental agencies.",
+      "required_skills": {
+        "basic": ["Marine biology", "Oceanography basics", "Physics", "Problem solving", "Mathematics"],
+        "intermediate": ["Submersible operation", "Sensor data collection", "Navigation systems", "ROV piloting", "Field analysis"],
+        "advanced": ["Deep-sea robotics", "Remote sensing", "Data modeling", "Environmental impact analysis", "Simulation"],
+        "professional": ["Team coordination", "Research publication", "Grant writing", "Project management", "International collaboration"]
+      },
+      "related_skills": ["ROV", "Python", "GIS", "MATLAB", "Ocean sensors"]
+    },
+    {
+      "name": "Innovation Technology Strategist",
+      "overview": "Leads research-to-product initiatives, integrating emerging tech into viable solutions for industry and society.",
+      "advantages": [
+        "High leadership and strategic impact",
+        "Involves cutting-edge tech and business"
+      ],
+      "disadvantages": [
+        "Requires broad knowledge across fields",
+        "High responsibility role"
+      ],
+      "demand": "Demand in tech innovation hubs, R&D labs, and corporate research departments.",
+      "required_skills": {
+        "basic": ["Problem solving", "Research fundamentals", "Technology awareness", "Business basics", "Communication"],
+        "intermediate": ["Project planning", "Innovation analysis", "Emerging tech scouting", "Data interpretation", "Collaboration"],
+        "advanced": ["Strategic decision-making", "R&D leadership", "Tech roadmap development", "Resource optimization", "Market analysis"],
+        "professional": ["Cross-team leadership", "Stakeholder communication", "Innovation management", "Patent strategy", "Funding acquisition"]
+      },
+      "related_skills": ["Tech trends", "Project management", "Innovation frameworks", "R&D tools", "Business strategy"]
+    }
+  
+  
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "category": "Education & Teaching",
+  "careers": [
+  {
+  "name": "School Teacher",
+  "overview": "School Teachers educate students at primary or secondary levels by delivering subject knowledge, developing foundational skills, and supporting overall student development in academic and social areas.",
+  "advantages": ["Direct student impact","Job stability"],
+  "disadvantages": ["High workload","Moderate salary growth"],
+  "demand": "Very high across public and private schools in India.",
+  "required_skills": {
+    "basic": ["Subject knowledge","Communication skills","Lesson planning","Classroom management","Student engagement"],
+    "intermediate": ["Assessment design","Student evaluation","Behavior management","Parent communication","Curriculum implementation"],
+    "advanced": ["Pedagogical innovation","Learning differentiation","Academic planning"],
+    "professional": ["Academic leadership","Mentorship","Education ethics"]
+  },
+  "related_skills": ["Teaching","Classroom Management","Lesson Planning","Student Assessment","Educational Pedagogy","Child Development"]
+},
+   {
+  "name": "College Lecturer",
+  "overview": "College Lecturers teach undergraduate students by delivering specialized subject knowledge, conducting assessments, and supporting academic development.",
+  "advantages": ["Respectable profession","Academic environment"],
+  "disadvantages": ["Promotion timelines","Research pressure"],
+  "demand": "High across colleges and autonomous institutions.",
+  "required_skills": {
+    "basic": ["Subject mastery","Public speaking","Lesson preparation","Academic writing","Student guidance"],
+    "intermediate": ["Curriculum delivery","Assessment design","Student evaluation","Research basics","Seminar handling"],
+    "advanced": ["Advanced subject pedagogy","Course structuring","Research integration"],
+    "professional": ["Academic mentorship","Department coordination","Higher education leadership"]
+  },
+  "related_skills": ["Lecturing","Higher Education","Academic Instruction","Student Evaluation","Curriculum Teaching","Subject Expertise"]
+}
+,
+    {
+      "name": "Education Counselor",
+      "overview": "Education counselors guide students in choosing courses, careers, and educational paths.",
+      "advantages": [
+        "Student-focused career.",
+        "Growing demand in schools and colleges."
+      ],
+      "disadvantages": [
+        "Emotional involvement with students.",
+        "Requires strong counseling skills."
+      ],
+      "demand": "Increasing due to career awareness needs.",
+      "required_skills": {
+        "basic": ["Communication", "Listening"],
+        "intermediate": ["Career guidance"],
+        "advanced": ["Psychological assessment"],
+        "professional": ["Student development planning"]
+      },
+      "related_skills": ["Counseling"]
+    },
+    {
+  "name": "Primary School Teacher",
+  "overview": "Primary School Teachers build foundational literacy, numeracy, and social skills in young learners through structured, age-appropriate teaching methods.",
+  "advantages": ["High social value","Strong job demand"],
+  "disadvantages": ["High energy requirements","Emotional workload"],
+  "demand": "Extremely high due to expansion of primary education.",
+  "required_skills": {
+    "basic": ["Child psychology","Basic subjects","Communication","Creativity","Patience"],
+    "intermediate": ["Activity-based learning","Student observation","Assessment methods","Classroom organization","Parent interaction"],
+    "advanced": ["Early education pedagogy","Learning behavior analysis","Curriculum adaptation"],
+    "professional": ["Early education leadership","Child development mentoring","Academic coordination"]
+  },
+  "related_skills": ["Primary Teaching","Child Development","Early Education","Activity-Based Learning","Student Engagement","Foundational Literacy"]
+},
+{
+  "name": "Secondary School Teacher",
+  "overview": "Secondary School Teachers specialize in subject-based instruction for middle and high school students, preparing them for higher education and competitive examinations.",
+  "advantages": ["Subject specialization","Career growth"],
+  "disadvantages": ["Exam pressure","Syllabus rigidity"],
+  "demand": "High across CBSE, ICSE, and state boards.",
+  "required_skills": {
+    "basic": ["Subject expertise","Communication","Teaching methods","Assessment basics","Class control"],
+    "intermediate": ["Exam preparation","Student mentoring","Performance tracking","Curriculum delivery","Doubt resolution"],
+    "advanced": ["Advanced pedagogy","Academic result optimization","Learning analytics"],
+    "professional": ["Academic leadership","Board coordination","Subject mentorship"]
+  },
+  "related_skills": ["Subject Teaching","Exam Preparation","Student Mentoring","Assessment Design","Secondary Education","Curriculum Delivery"]
+},
+{
+  "name": "Assistant Professor",
+  "overview": "Assistant Professors teach undergraduate and postgraduate courses while contributing to academic research, publications, and institutional development.",
+  "advantages": ["Academic growth","Research exposure"],
+  "disadvantages": ["Publish-or-perish pressure","Workload balance"],
+  "demand": "High in universities and deemed institutions.",
+  "required_skills": {
+    "basic": ["Advanced subject knowledge","Teaching skills","Research basics","Academic writing","Presentation"],
+    "intermediate": ["Research methodology","Course design","Student mentoring","Assessment frameworks","Publication process"],
+    "advanced": ["Research specialization","Curriculum innovation","Academic collaboration"],
+    "professional": ["Academic leadership","Research supervision","University governance"]
+  },
+  "related_skills": ["Higher Education Teaching","Academic Research","Curriculum Development","Student Mentorship","Scholarly Writing","University Teaching"]
+},
+{
+  "name": "Associate Professor",
+  "overview": "Associate Professors lead advanced teaching and research initiatives while mentoring junior faculty and contributing to institutional academic strategy.",
+  "advantages": ["Leadership role","Research authority"],
+  "disadvantages": ["High expectations","Administrative load"],
+  "demand": "Strong demand in research-oriented institutions.",
+  "required_skills": {
+    "basic": ["Subject expertise","Advanced teaching","Research experience","Academic communication","Evaluation"],
+    "intermediate": ["Research leadership","Curriculum oversight","Faculty mentoring","Grant management","Publication review"],
+    "advanced": ["Academic program design","Research strategy","Interdisciplinary collaboration"],
+    "professional": ["Institutional leadership","Research supervision","Academic governance"]
+  },
+  "related_skills": ["Academic Leadership","Research Supervision","Curriculum Oversight","Faculty Mentoring","Higher Education","Scholarly Research"]
+},
+{
+  "name": "Professor",
+  "overview": "Professors are senior academic leaders responsible for advanced teaching, research leadership, policy contribution, and institutional development.",
+  "advantages": ["Highest academic rank","Thought leadership"],
+  "disadvantages": ["High accountability","Administrative responsibilities"],
+  "demand": "Stable demand in universities and research institutions.",
+  "required_skills": {
+    "basic": ["Expert subject knowledge","Advanced pedagogy","Research excellence","Academic writing","Mentorship"],
+    "intermediate": ["Program leadership","Research funding","Policy contribution","Faculty development","Publication oversight"],
+    "advanced": ["Academic vision building","Research innovation","Global collaboration"],
+    "professional": ["Institutional leadership","Policy influence","Academic governance"]
+  },
+  "related_skills": ["Professorship","Academic Research","Higher Education Leadership","Policy Contribution","Scholarly Excellence","University Governance"]
+},
+{
+  "name": "Private Tutor",
+  "overview": "Private Tutors provide personalized academic instruction to students, focusing on concept clarity, exam preparation, and individual learning needs.",
+  "advantages": ["Flexible work","High demand"],
+  "disadvantages": ["Income variability","No formal benefits"],
+  "demand": "Extremely high due to competitive exams.",
+  "required_skills": {
+    "basic": ["Subject clarity","Communication","Patience","Explanation skills","Time management"],
+    "intermediate": ["Personalized teaching","Exam coaching","Progress tracking","Student motivation","Doubt solving"],
+    "advanced": ["Learning optimization","Performance improvement techniques","Adaptive teaching"],
+    "professional": ["Academic mentoring","Independent education practice","Client management"]
+  },
+  "related_skills": ["Tutoring","Personalized Learning","Exam Coaching","Concept Explanation","Student Motivation","Education Services"]
+},
+{
+  "name": "Coaching Institute Faculty",
+  "overview": "Coaching Institute Faculty prepare students for competitive exams such as JEE, NEET, UPSC, and banking through focused subject training and test strategies.",
+  "advantages": ["High income potential","Strong demand"],
+  "disadvantages": ["Result pressure","Long working hours"],
+  "demand": "Very high in India’s competitive exam ecosystem.",
+  "required_skills": {
+    "basic": ["Subject mastery","Teaching clarity","Communication","Problem solving","Presentation"],
+    "intermediate": ["Exam strategy","Test analysis","Student mentoring","Performance tracking","Doubt handling"],
+    "advanced": ["Advanced exam techniques","Question design","Learning optimization"],
+    "professional": ["Academic branding","Result leadership","Education entrepreneurship"]
+  },
+  "related_skills": ["Competitive Exam Teaching","Test Preparation","Student Mentoring","Performance Analysis","Coaching Education","Exam Strategy"]
+},
+{
+  "name": "Head of Department (HOD)",
+  "overview": "Heads of Department manage academic departments by overseeing curriculum delivery, faculty performance, student outcomes, and departmental planning.",
+  "advantages": ["Leadership authority","Academic influence"],
+  "disadvantages": ["Administrative workload","High accountability"],
+  "demand": "High in colleges and universities.",
+  "required_skills": {
+    "basic": ["Teaching expertise","Academic management","Communication","Planning","Evaluation"],
+    "intermediate": ["Faculty supervision","Curriculum oversight","Department planning","Student performance review","Policy compliance"],
+    "advanced": ["Academic strategy","Program development","Quality assurance"],
+    "professional": ["Institutional leadership","Academic governance","Education management"]
+  },
+  "related_skills": ["Academic Leadership","Department Management","Faculty Supervision","Curriculum Oversight","Education Administration","Quality Assurance"]
+},
+{
+  "name": "Kindergarten Teacher",
+  "overview": "Kindergarten Teachers nurture early childhood development by introducing basic literacy, numeracy, and social skills through play-based and interactive learning methods.",
+  "advantages": ["Early impact on children","Creative teaching"],
+  "disadvantages": ["High patience required","Lower salary levels"],
+  "demand": "Very high due to growth in early education institutions.",
+  "required_skills": {
+    "basic": ["Child care","Communication","Creativity","Basic literacy","Patience"],
+    "intermediate": ["Activity-based learning","Child behavior observation","Storytelling","Classroom organization","Parent interaction"],
+    "advanced": ["Early childhood pedagogy","Learning assessment","Curriculum customization"],
+    "professional": ["Early education leadership","Preschool administration","Child development mentoring"]
+  },
+  "related_skills": ["Early Childhood Education","Play-Based Learning","Child Psychology","Classroom Engagement","Foundational Learning","Preschool Teaching"]
+},
+{
+  "name": "Montessori Teacher",
+  "overview": "Montessori Teachers guide young learners using child-led educational techniques that encourage independence, creativity, and hands-on learning.",
+  "advantages": ["Student-centered teaching","International relevance"],
+  "disadvantages": ["Specialized training needed","Limited institutions"],
+  "demand": "High in private and international schools.",
+  "required_skills": {
+    "basic": ["Child observation","Montessori tools","Communication","Patience","Creativity"],
+    "intermediate": ["Individual learning plans","Hands-on teaching","Classroom facilitation","Assessment observation","Parent coordination"],
+    "advanced": ["Montessori pedagogy mastery","Curriculum design","Learning behavior analysis"],
+    "professional": ["Montessori program leadership","Teacher training","Early education consultancy"]
+  },
+  "related_skills": ["Montessori Education","Child-Led Learning","Hands-On Teaching","Early Education","Learning Facilitation","Student Development"]
+},
+{
+  "name": "Special Education Teacher",
+  "overview": "Special Education Teachers support students with physical, learning, or developmental disabilities through customized teaching strategies and inclusive education plans.",
+  "advantages": ["High social impact","Specialized demand"],
+  "disadvantages": ["Emotionally demanding","Requires certifications"],
+  "demand": "Rapidly increasing due to inclusive education policies.",
+  "required_skills": {
+    "basic": ["Special needs awareness","Patience","Communication","Basic psychology","Observation"],
+    "intermediate": ["Individual education plans","Behavior management","Adaptive teaching","Progress tracking","Parent counseling"],
+    "advanced": ["Disability pedagogy","Therapeutic integration","Learning customization"],
+    "professional": ["Inclusive education leadership","Special education advocacy","Policy coordination"]
+  },
+  "related_skills": ["Special Education","Inclusive Teaching","Behavior Management","Learning Disabilities","Adaptive Learning","Student Support"]
+},
+{
+  "name": "Special Education Teacher",
+  "overview": "Special Education Teachers support students with physical, learning, or developmental disabilities through customized teaching strategies and inclusive education plans.",
+  "advantages": ["High social impact","Specialized demand"],
+  "disadvantages": ["Emotionally demanding","Requires certifications"],
+  "demand": "Rapidly increasing due to inclusive education policies.",
+  "required_skills": {
+    "basic": ["Special needs awareness","Patience","Communication","Basic psychology","Observation"],
+    "intermediate": ["Individual education plans","Behavior management","Adaptive teaching","Progress tracking","Parent counseling"],
+    "advanced": ["Disability pedagogy","Therapeutic integration","Learning customization"],
+    "professional": ["Inclusive education leadership","Special education advocacy","Policy coordination"]
+  },
+  "related_skills": ["Special Education","Inclusive Teaching","Behavior Management","Learning Disabilities","Adaptive Learning","Student Support"]
+},
+{
+  "name": "Online Tutor",
+  "overview": "Online Tutors deliver virtual instruction through digital platforms, offering flexible and personalized academic support to learners worldwide.",
+  "advantages": ["Remote work","Flexible schedule"],
+  "disadvantages": ["Technology dependency","Student engagement challenges"],
+  "demand": "Extremely high due to online education growth.",
+  "required_skills": {
+    "basic": ["Digital tools","Subject clarity","Communication","Time management","Online etiquette"],
+    "intermediate": ["Virtual engagement","Online assessments","Student tracking","Interactive teaching","Platform handling"],
+    "advanced": ["Digital pedagogy","Learning analytics","Remote teaching optimization"],
+    "professional": ["Online education leadership","Global tutoring services","Edtech collaboration"]
+  },
+  "related_skills": ["Online Teaching","Virtual Learning","Digital Education","Remote Tutoring","E-Learning Platforms","Student Engagement"]
+},
+{
+  "name": "Online Tutor",
+  "overview": "Online Tutors deliver virtual instruction through digital platforms, offering flexible and personalized academic support to learners worldwide.",
+  "advantages": ["Remote work","Flexible schedule"],
+  "disadvantages": ["Technology dependency","Student engagement challenges"],
+  "demand": "Extremely high due to online education growth.",
+  "required_skills": {
+    "basic": ["Digital tools","Subject clarity","Communication","Time management","Online etiquette"],
+    "intermediate": ["Virtual engagement","Online assessments","Student tracking","Interactive teaching","Platform handling"],
+    "advanced": ["Digital pedagogy","Learning analytics","Remote teaching optimization"],
+    "professional": ["Online education leadership","Global tutoring services","Edtech collaboration"]
+  },
+  "related_skills": ["Online Teaching","Virtual Learning","Digital Education","Remote Tutoring","E-Learning Platforms","Student Engagement"]
+},
+{
+  "name": "Language Teacher",
+  "overview": "Language Teachers develop students’ reading, writing, listening, and speaking skills in regional, national, or foreign languages.",
+  "advantages": ["Cultural relevance","Global opportunities"],
+  "disadvantages": ["Pronunciation challenges","Assessment complexity"],
+  "demand": "High for English and foreign languages.",
+  "required_skills": {
+    "basic": ["Language proficiency","Communication","Grammar basics","Pronunciation","Teaching basics"],
+    "intermediate": ["Language assessment","Conversation practice","Curriculum delivery","Writing evaluation","Student engagement"],
+    "advanced": ["Linguistic pedagogy","Language acquisition theory","Curriculum design"],
+    "professional": ["Language program leadership","Academic publishing","Teacher training"]
+  },
+  "related_skills": ["Language Teaching","Communication Skills","Grammar Instruction","Linguistics","Language Pedagogy","Cultural Education"]
+},
+{
+  "name": "Language Teacher",
+  "overview": "Language Teachers develop students’ reading, writing, listening, and speaking skills in regional, national, or foreign languages.",
+  "advantages": ["Cultural relevance","Global opportunities"],
+  "disadvantages": ["Pronunciation challenges","Assessment complexity"],
+  "demand": "High for English and foreign languages.",
+  "required_skills": {
+    "basic": ["Language proficiency","Communication","Grammar basics","Pronunciation","Teaching basics"],
+    "intermediate": ["Language assessment","Conversation practice","Curriculum delivery","Writing evaluation","Student engagement"],
+    "advanced": ["Linguistic pedagogy","Language acquisition theory","Curriculum design"],
+    "professional": ["Language program leadership","Academic publishing","Teacher training"]
+  },
+  "related_skills": ["Language Teaching","Communication Skills","Grammar Instruction","Linguistics","Language Pedagogy","Cultural Education"]
+},
+{
+  "name": "Music Teacher",
+  "overview": "Music Teachers develop musical skills, theory understanding, and performance abilities in students through structured instruction and practice.",
+  "advantages": ["Creative profession","Cultural value"],
+  "disadvantages": ["Performance pressure","Limited full-time roles"],
+  "demand": "Growing with arts education focus.",
+  "required_skills": {
+    "basic": ["Music theory","Instrument skills","Listening skills","Teaching basics","Rhythm"],
+    "intermediate": ["Performance coaching","Music assessment","Ensemble coordination","Practice planning","Student mentoring"],
+    "advanced": ["Advanced music pedagogy","Composition guidance","Curriculum development"],
+    "professional": ["Music education leadership","Cultural program direction","Arts institution management"]
+  },
+  "related_skills": ["Music Education","Performance Coaching","Music Theory","Creative Instruction","Cultural Education","Artistic Development"]
+},
+{
+  "name": "Senior Lecturer",
+  "overview": "Senior Lecturers teach undergraduate and postgraduate courses while contributing to curriculum development, academic research, and student mentoring.",
+  "advantages": ["Academic respect","Knowledge leadership"],
+  "disadvantages": ["Research pressure","Administrative workload"],
+  "demand": "High in universities and autonomous colleges.",
+  "required_skills": {
+    "basic": ["Subject mastery","Public speaking","Academic writing","Teaching methodology","Evaluation skills"],
+    "intermediate": ["Curriculum development","Student supervision","Research guidance","Assessment design","Academic coordination"],
+    "advanced": ["Research leadership","Advanced pedagogy","Program development"],
+    "professional": ["Academic leadership","Faculty mentoring","Institutional development"]
+  },
+  "related_skills": ["Higher Education","Academic Teaching","Curriculum Development","Research Supervision","Faculty Coordination","Knowledge Dissemination"]
+},
+{
+  "name": "Senior Lecturer",
+  "overview": "Senior Lecturers teach undergraduate and postgraduate courses while contributing to curriculum development, academic research, and student mentoring.",
+  "advantages": ["Academic respect","Knowledge leadership"],
+  "disadvantages": ["Research pressure","Administrative workload"],
+  "demand": "High in universities and autonomous colleges.",
+  "required_skills": {
+    "basic": ["Subject mastery","Public speaking","Academic writing","Teaching methodology","Evaluation skills"],
+    "intermediate": ["Curriculum development","Student supervision","Research guidance","Assessment design","Academic coordination"],
+    "advanced": ["Research leadership","Advanced pedagogy","Program development"],
+    "professional": ["Academic leadership","Faculty mentoring","Institutional development"]
+  },
+  "related_skills": ["Higher Education","Academic Teaching","Curriculum Development","Research Supervision","Faculty Coordination","Knowledge Dissemination"]
+},
+{
+  "name": "Curriculum Developer",
+  "overview": "Curriculum Developers design structured academic programs, learning outcomes, and instructional materials aligned with educational standards and learner needs.",
+  "advantages": ["Strategic impact","Creative authority"],
+  "disadvantages": ["Less classroom interaction","High accountability"],
+  "demand": "Very high in edtech and educational institutions.",
+  "required_skills": {
+    "basic": ["Curriculum basics","Instructional design","Documentation","Learning objectives","Subject knowledge"],
+    "intermediate": ["Outcome mapping","Assessment frameworks","Content structuring","Standard alignment","Stakeholder coordination"],
+    "advanced": ["Curriculum architecture","Learning experience design","Education analytics"],
+    "professional": ["Curriculum leadership","Academic innovation","Institutional planning"]
+  },
+  "related_skills": ["Curriculum Design","Instructional Planning","Learning Outcomes","Educational Standards","Academic Structuring","Content Development"]
+},
+{
+  "name": "Educational Content Writer",
+  "overview": "Educational Content Writers create textbooks, digital lessons, assessments, and instructional materials tailored for different learning levels.",
+  "advantages": ["Flexible work","Creative teaching"],
+  "disadvantages": ["Deadline pressure","Limited recognition"],
+  "demand": "High due to digital education expansion.",
+  "required_skills": {
+    "basic": ["Writing skills","Subject clarity","Grammar","Research","Content organization"],
+    "intermediate": ["Instructional writing","Learning alignment","Assessment creation","Digital formatting","Editing"],
+    "advanced": ["Pedagogical writing","Content strategy","Learning psychology"],
+    "professional": ["Content leadership","Educational publishing","Curriculum collaboration"]
+  },
+  "related_skills": ["Educational Writing","Content Development","Instructional Content","Academic Publishing","Digital Learning","Pedagogical Writing"]
+},
+{
+  "name": "Education Program Coordinator",
+  "overview": "Education Program Coordinators manage academic programs, coordinate faculty activities, and ensure smooth execution of educational initiatives.",
+  "advantages": ["Administrative authority","Program ownership"],
+  "disadvantages": ["Operational stress","Multi-tasking pressure"],
+  "demand": "High in universities and training institutions.",
+  "required_skills": {
+    "basic": ["Academic coordination","Communication","Documentation","Scheduling","Program basics"],
+    "intermediate": ["Faculty coordination","Program monitoring","Student engagement","Process optimization","Reporting"],
+    "advanced": ["Program strategy","Educational operations","Performance management"],
+    "professional": ["Program leadership","Institutional coordination","Academic governance"]
+  },
+  "related_skills": ["Program Coordination","Academic Operations","Faculty Management","Education Administration","Process Management","Institutional Planning"]
+},
+{
+  "name": "Instructional Designer",
+  "overview": "Instructional Designers create engaging learning experiences by applying educational theories, digital tools, and learner-centered design principles.",
+  "advantages": ["High demand skill","Tech-enabled role"],
+  "disadvantages": ["Tool learning curve","Content revision cycles"],
+  "demand": "Extremely high in edtech and corporate learning.",
+  "required_skills": {
+    "basic": ["Learning theories","Content structuring","Communication","Digital tools","Assessment basics"],
+    "intermediate": ["Learning experience design","E-learning platforms","Multimedia integration","Learner analysis","Course optimization"],
+    "advanced": ["Advanced instructional models","Learning analytics","UX for education"],
+    "professional": ["Learning design leadership","Edtech innovation","Instructional strategy"]
+  },
+  "related_skills": ["Instructional Design","Learning Experience Design","E-Learning","Educational Technology","Course Development","Digital Pedagogy"]
+},
+{
+  "name": "Educational Technology Specialist",
+  "overview": "Educational Technology Specialists integrate digital tools, platforms, and learning technologies to enhance teaching effectiveness and student engagement.",
+  "advantages": ["Future-oriented role","High innovation"],
+  "disadvantages": ["Rapid tech changes","Continuous learning needed"],
+  "demand": "Very high with digital education adoption.",
+  "required_skills": {
+    "basic": ["Edtech tools","Digital literacy","Teaching support","Platform basics","User guidance"],
+    "intermediate": ["LMS management","Technology integration","Digital assessment","Faculty training","System optimization"],
+    "advanced": ["Learning technology strategy","Platform architecture","Education analytics"],
+    "professional": ["Edtech leadership","Digital transformation","Innovation management"]
+  },
+  "related_skills": ["Educational Technology","Learning Management Systems","Digital Learning","Edtech Integration","Faculty Enablement","Technology Strategy"]
+},
+{
+  "name": "School Academic Coordinator",
+  "overview": "School Academic Coordinators oversee curriculum implementation, monitor teaching quality, and support teachers to ensure academic excellence across grade levels.",
+  "advantages": ["Leadership exposure","Direct academic control"],
+  "disadvantages": ["High responsibility","Teacher management pressure"],
+  "demand": "High in CBSE, ICSE, and international schools.",
+  "required_skills": {
+    "basic": ["Curriculum understanding","Teaching experience","Communication","Academic planning","Monitoring basics"],
+    "intermediate": ["Teacher supervision","Academic audits","Lesson standardization","Student performance analysis","Coordination"],
+    "advanced": ["Curriculum optimization","Academic strategy","School improvement planning"],
+    "professional": ["Academic leadership","Institutional planning","School governance"]
+  },
+  "related_skills": ["Academic Coordination","Curriculum Oversight","Teacher Supervision","School Operations","Academic Planning","Education Leadership"]
+},
+{
+  "name": "Education Research Associate",
+  "overview": "Education Research Associates conduct academic and field research to analyze learning outcomes, teaching methods, and education system effectiveness.",
+  "advantages": ["Research-driven role","Policy influence"],
+  "disadvantages": ["Data-heavy work","Limited field authority"],
+  "demand": "Growing in research institutions and NGOs.",
+  "required_skills": {
+    "basic": ["Research methods","Data collection","Academic writing","Education basics","Literature review"],
+    "intermediate": ["Statistical analysis","Field studies","Report preparation","Research ethics","Survey design"],
+    "advanced": ["Impact evaluation","Advanced research modeling","Policy analysis"],
+    "professional": ["Research leadership","Policy advisory","Academic publications"]
+  },
+  "related_skills": ["Education Research","Data Analysis","Policy Research","Impact Studies","Academic Writing","Educational Evaluation"]
+},
+{
+  "name": "Assessment & Evaluation Specialist",
+  "overview": "Assessment and Evaluation Specialists design exams, grading frameworks, and performance metrics to measure student learning outcomes effectively.",
+  "advantages": ["System-level impact","Specialized expertise"],
+  "disadvantages": ["High accuracy pressure","Less classroom interaction"],
+  "demand": "High in boards, testing agencies, and edtech firms.",
+  "required_skills": {
+    "basic": ["Assessment principles","Question design","Evaluation basics","Documentation","Academic standards"],
+    "intermediate": ["Rubric design","Performance analytics","Standardized testing","Result interpretation","Quality checks"],
+    "advanced": ["Assessment frameworks","Learning analytics","Evaluation modeling"],
+    "professional": ["Assessment leadership","Examination governance","Quality assurance"]
+  },
+  "related_skills": ["Educational Assessment","Evaluation Design","Learning Analytics","Examination Systems","Academic Quality","Testing Standards"]
+},
+{
+  "name": "Academic Quality Manager",
+  "overview": "Academic Quality Managers ensure teaching standards, accreditation compliance, and continuous improvement across educational institutions.",
+  "advantages": ["Institutional authority","Quality ownership"],
+  "disadvantages": ["Audit pressure","Compliance workload"],
+  "demand": "High in universities and autonomous colleges.",
+  "required_skills": {
+    "basic": ["Quality standards","Academic documentation","Compliance basics","Process awareness","Reporting"],
+    "intermediate": ["Internal audits","Accreditation processes","Quality monitoring","Faculty coordination","Improvement planning"],
+    "advanced": ["Quality systems design","Academic benchmarking","Institutional assessment"],
+    "professional": ["Quality governance","Accreditation leadership","Institutional excellence"]
+  },
+  "related_skills": ["Academic Quality","Accreditation","Compliance Management","Institutional Assessment","Quality Audits","Education Standards"]
+},
+{
+  "name": "Academic Quality Manager",
+  "overview": "Academic Quality Managers ensure teaching standards, accreditation compliance, and continuous improvement across educational institutions.",
+  "advantages": ["Institutional authority","Quality ownership"],
+  "disadvantages": ["Audit pressure","Compliance workload"],
+  "demand": "High in universities and autonomous colleges.",
+  "required_skills": {
+    "basic": ["Quality standards","Academic documentation","Compliance basics","Process awareness","Reporting"],
+    "intermediate": ["Internal audits","Accreditation processes","Quality monitoring","Faculty coordination","Improvement planning"],
+    "advanced": ["Quality systems design","Academic benchmarking","Institutional assessment"],
+    "professional": ["Quality governance","Accreditation leadership","Institutional excellence"]
+  },
+  "related_skills": ["Academic Quality","Accreditation","Compliance Management","Institutional Assessment","Quality Audits","Education Standards"]
+},
+{
+  "name": "Academic Operations Manager",
+  "overview": "Academic Operations Managers manage institutional workflows, faculty scheduling, academic resources, and operational efficiency.",
+  "advantages": ["Operational authority","Leadership exposure"],
+  "disadvantages": ["High coordination workload","Process dependency"],
+  "demand": "High in universities and large schools.",
+  "required_skills": {
+    "basic": ["Academic operations","Scheduling","Documentation","Coordination","Process basics"],
+    "intermediate": ["Faculty management","Resource planning","Process optimization","Academic reporting","System coordination"],
+    "advanced": ["Operational strategy","Institutional efficiency","Workflow automation"],
+    "professional": ["Operations leadership","Institutional management","Strategic planning"]
+  },
+  "related_skills": ["Academic Operations","Institutional Management","Faculty Coordination","Process Optimization","Education Administration","Operational Strategy"]
+},
+{
+  "name": "Academic Operations Manager",
+  "overview": "Academic Operations Managers manage institutional workflows, faculty scheduling, academic resources, and operational efficiency.",
+  "advantages": ["Operational authority","Leadership exposure"],
+  "disadvantages": ["High coordination workload","Process dependency"],
+  "demand": "High in universities and large schools.",
+  "required_skills": {
+    "basic": ["Academic operations","Scheduling","Documentation","Coordination","Process basics"],
+    "intermediate": ["Faculty management","Resource planning","Process optimization","Academic reporting","System coordination"],
+    "advanced": ["Operational strategy","Institutional efficiency","Workflow automation"],
+    "professional": ["Operations leadership","Institutional management","Strategic planning"]
+  },
+  "related_skills": ["Academic Operations","Institutional Management","Faculty Coordination","Process Optimization","Education Administration","Operational Strategy"]
+},
+{
+  "name": "Dean of Academics",
+  "overview": "Deans of Academics lead institutional academic strategy, faculty development, curriculum quality, and student success initiatives.",
+  "advantages": ["Top leadership role","Strategic authority"],
+  "disadvantages": ["High accountability","Complex decision-making"],
+  "demand": "High in universities and autonomous institutions.",
+  "required_skills": {
+    "basic": ["Academic expertise","Leadership","Communication","Governance basics","Decision-making"],
+    "intermediate": ["Faculty leadership","Curriculum governance","Policy implementation","Institutional planning","Quality oversight"],
+    "advanced": ["Academic strategy","Institutional transformation","Governance frameworks"],
+    "professional": ["Executive academic leadership","University governance","National academic advisory"]
+  },
+  "related_skills": ["Academic Leadership","Institutional Governance","Faculty Development","Curriculum Oversight","Education Strategy","University Management"]
+},
+{
+  "name": "Dean of Academics",
+  "overview": "Deans of Academics lead institutional academic strategy, faculty development, curriculum quality, and student success initiatives.",
+  "advantages": ["Top leadership role","Strategic authority"],
+  "disadvantages": ["High accountability","Complex decision-making"],
+  "demand": "High in universities and autonomous institutions.",
+  "required_skills": {
+    "basic": ["Academic expertise","Leadership","Communication","Governance basics","Decision-making"],
+    "intermediate": ["Faculty leadership","Curriculum governance","Policy implementation","Institutional planning","Quality oversight"],
+    "advanced": ["Academic strategy","Institutional transformation","Governance frameworks"],
+    "professional": ["Executive academic leadership","University governance","National academic advisory"]
+  },
+  "related_skills": ["Academic Leadership","Institutional Governance","Faculty Development","Curriculum Oversight","Education Strategy","University Management"]
+},
+{
+  "name": "Education Consultant",
+  "overview": "Education Consultants advise schools, colleges, and education startups on curriculum design, academic quality improvement, accreditation, and institutional growth strategies.",
+  "advantages": ["High consulting income","Flexible work model"],
+  "disadvantages": ["Client dependency","Project-based workload"],
+  "demand": "High among private schools, colleges, and education startups.",
+  "required_skills": {
+    "basic": ["Education systems","Academic documentation","Communication","Problem identification","Research basics"],
+    "intermediate": ["Institutional analysis","Curriculum advisory","Quality assessment","Client handling","Report presentation"],
+    "advanced": ["Education transformation","Accreditation consulting","Strategic redesign"],
+    "professional": ["Education advisory leadership","Institutional reform","National consulting projects"]
+  },
+  "related_skills": ["Education Consulting","Curriculum Design","Institutional Analysis","Academic Advisory","Quality Improvement","Education Strategy"]
+},
+{
+  "name": "EdTech Product Specialist",
+  "overview": "EdTech Product Specialists design and improve digital learning platforms by aligning pedagogy, technology, and learner experience.",
+  "advantages": ["Future-ready role","High industry demand"],
+  "disadvantages": ["Fast-paced environment","Continuous upskilling"],
+  "demand": "Very high due to online learning growth.",
+  "required_skills": {
+    "basic": ["Teaching fundamentals","Digital tools","Content structuring","User empathy","Communication"],
+    "intermediate": ["Learning design","Product testing","User feedback analysis","EdTech platforms","Data insights"],
+    "advanced": ["Product optimization","Learning analytics","EdTech innovation"],
+    "professional": ["Product leadership","EdTech strategy","Platform scaling"]
+  },
+  "related_skills": ["EdTech Products","Learning Design","Digital Education","User Experience","Educational Technology","Product Development"]
+},
+{
+  "name": "Online Course Creator",
+  "overview": "Online Course Creators develop structured digital courses, video lessons, and learning materials for global learners across platforms.",
+  "advantages": ["Passive income potential","Global reach"],
+  "disadvantages": ["Initial effort intensive","Marketing dependency"],
+  "demand": "Extremely high with online education expansion.",
+  "required_skills": {
+    "basic": ["Subject expertise","Content planning","Communication","Basic video tools","Teaching methods"],
+    "intermediate": ["Course structuring","Learner engagement","Assessment design","Platform management","Brand building"],
+    "advanced": ["Course optimization","Monetization strategies","Advanced pedagogy"],
+    "professional": ["Education entrepreneurship","Digital brand leadership","Global course scaling"]
+  },
+  "related_skills": ["Online Teaching","Content Creation","Digital Courses","Instructional Design","Education Entrepreneurship","Learning Platforms"]
+},
+{
+  "name": "Education Startup Founder",
+  "overview": "Education Startup Founders build innovative learning businesses such as coaching institutes, edtech platforms, or skill academies.",
+  "advantages": ["High growth potential","Innovation freedom"],
+  "disadvantages": ["Financial risk","Market competition"],
+  "demand": "Rapidly growing with skill-based education demand.",
+  "required_skills": {
+    "basic": ["Education knowledge","Business basics","Communication","Market awareness","Problem-solving"],
+    "intermediate": ["Product-market fit","Team building","Operations management","Customer acquisition","Revenue models"],
+    "advanced": ["Startup scaling","Education innovation","Growth strategy"],
+    "professional": ["Founder leadership","Enterprise education strategy","Industry influence"]
+  },
+  "related_skills": ["Education Entrepreneurship","Startup Management","Business Strategy","EdTech Innovation","Market Development","Leadership"]
+},
+{
+  "name": "Learning & Development Head",
+  "overview": "Learning and Development Heads design employee training programs and skill development strategies within corporate and institutional environments.",
+  "advantages": ["Strategic influence","Corporate exposure"],
+  "disadvantages": ["Outcome pressure","Training ROI expectations"],
+  "demand": "High in corporates and training firms.",
+  "required_skills": {
+    "basic": ["Training basics","Adult learning","Communication","Content planning","Assessment"],
+    "intermediate": ["Training frameworks","Skill mapping","Performance measurement","Program delivery","Stakeholder coordination"],
+    "advanced": ["Organizational learning strategy","Capability building","Talent development"],
+    "professional": ["L&D leadership","Workforce transformation","Strategic learning governance"]
+  },
+  "related_skills": ["Learning & Development","Corporate Training","Skill Development","Talent Management","Organizational Learning","Training Strategy"]
+},
+{
+  "name": "Academic Accreditation Consultant",
+  "overview": "Academic Accreditation Consultants guide institutions through NAAC, NBA, and international accreditation processes to improve academic credibility.",
+  "advantages": ["High consulting value","Institutional impact"],
+  "disadvantages": ["Documentation-heavy","Strict timelines"],
+  "demand": "Very high in Indian higher education institutions.",
+  "required_skills": {
+    "basic": ["Accreditation basics","Academic documentation","Quality standards","Data organization","Compliance awareness"],
+    "intermediate": ["Self-study reports","Audit preparation","Institutional metrics","Faculty coordination","Quality audits"],
+    "advanced": ["Accreditation strategy","Benchmarking","Quality frameworks"],
+    "professional": ["Accreditation leadership","Institutional excellence consulting","National advisory"]
+  },
+  "related_skills": ["Accreditation Consulting","NAAC","NBA","Quality Assurance","Institutional Assessment","Academic Compliance"]
+},
+{
+  "name": "Education Content Strategist",
+  "overview": "Education Content Strategists design large-scale academic content strategies for schools, publishers, and digital platforms.",
+  "advantages": ["Creative authority","Scalable impact"],
+  "disadvantages": ["Content deadlines","Creative pressure"],
+  "demand": "High in edtech and publishing companies.",
+  "required_skills": {
+    "basic": ["Curriculum understanding","Writing skills","Content planning","Education standards","Editing basics"],
+    "intermediate": ["Content frameworks","Learning outcomes","Editorial planning","Content optimization","Team coordination"],
+    "advanced": ["Content architecture","Pedagogical innovation","Digital content scaling"],
+    "professional": ["Content leadership","Education publishing strategy","Platform-level planning"]
+  },
+  "related_skills": ["Education Content","Curriculum Design","Instructional Writing","Digital Publishing","Learning Strategy","Content Leadership"]
+},
+{
+  "name": "Skill Development Program Director",
+  "overview": "Skill Development Program Directors design large-scale vocational and employability programs aligned with industry needs.",
+  "advantages": ["Employment impact","Government collaboration"],
+  "disadvantages": ["Execution complexity","Multi-stakeholder management"],
+  "demand": "Very high under national skill missions.",
+  "required_skills": {
+    "basic": ["Skill training basics","Industry awareness","Program coordination","Documentation","Communication"],
+    "intermediate": ["Program design","Training partnerships","Placement coordination","Impact measurement","Operations management"],
+    "advanced": ["Skill ecosystem strategy","Workforce planning","Program scaling"],
+    "professional": ["National skill leadership","Policy collaboration","Large-scale execution"]
+  },
+  "related_skills": ["Skill Development","Vocational Training","Employment Programs","Workforce Planning","Public-Private Partnerships","Program Leadership"]
+},
+{
+  "name": "National Education Advisor",
+  "overview": "National Education Advisors provide strategic guidance to governments and institutions on education reforms, curriculum frameworks, and policy execution.",
+  "advantages": ["National impact","High authority"],
+  "disadvantages": ["High accountability","Political dependency"],
+  "demand": "Selective but extremely prestigious roles.",
+  "required_skills": {
+    "basic": ["Education systems","Policy knowledge","Leadership","Research","Communication"],
+    "intermediate": ["Policy formulation","Stakeholder advisory","Governance analysis","Impact assessment","Strategic planning"],
+    "advanced": ["Education reform design","System-wide transformation","Policy innovation"],
+    "professional": ["National advisory leadership","International education governance","Strategic policymaking"]
+  },
+  "related_skills": ["Education Policy","National Advisory","Education Reform","Governance","Strategic Planning","Public Leadership"]
+},
+{
+  "name": "Founder – Private Coaching Institute",
+  "overview": "Founders of Private Coaching Institutes establish and scale academic or competitive exam coaching businesses focused on student success and results.",
+  "advantages": ["High income potential","Brand ownership"],
+  "disadvantages": ["Market competition","Operational challenges"],
+  "demand": "Extremely high in India across exams and skills.",
+  "required_skills": {
+    "basic": ["Subject expertise","Teaching skills","Student management","Communication","Planning"],
+    "intermediate": ["Business operations","Faculty hiring","Marketing strategy","Result tracking","Parent engagement"],
+    "advanced": ["Institute scaling","Brand building","Operational optimization"],
+    "professional": ["Education entrepreneurship","Multi-center expansion","Industry leadership"]
+  },
+  "related_skills": ["Coaching Management","Education Business","Teaching Excellence","Brand Building","Academic Operations","Entrepreneurship"]
+}
+
+  ]
+}

@@ -1,0 +1,923 @@
+{
+  "category": "Media, Communication & Journalism",
+  "careers": [
+    {
+      "name": "Investigative Journalist",
+      "overview": "Conducts in-depth research to uncover hidden truths, corruption, or social issues for public awareness.",
+      "advantages": [
+        "High societal impact",
+        "Respected profession",
+        "Intellectually challenging"
+      ],
+      "disadvantages": [
+        "Risky assignments",
+        "Long research timelines"
+      ],
+      "demand": "Moderate but critical demand in media organizations and digital platforms.",
+      "required_skills": {
+        "basic": ["Writing skills", "Research basics", "Critical thinking", "Ethics", "Interviewing"],
+        "intermediate": ["Data journalism", "Source verification", "Legal awareness", "Fact-checking", "Story structuring"],
+        "advanced": ["Deep investigations", "Data analysis", "Cross-border reporting", "Security practices", "Evidence handling"],
+        "professional": ["Editorial judgment", "Public accountability", "Leadership", "Mentoring", "Policy understanding"]
+      },
+      "related_skills": ["Data Journalism", "Research Analysis", "Media Ethics", "Public Policy", "Investigative Reporting"]
+    },
+    {
+      "name": "Digital News Editor",
+      "overview": "Manages online news content, ensuring accuracy, engagement, and timely publication across digital platforms.",
+      "advantages": [
+        "High digital exposure",
+        "Creative editorial control",
+        "Fast-paced environment"
+      ],
+      "disadvantages": [
+        "Continuous deadlines",
+        "High content responsibility"
+      ],
+      "demand": "High demand due to growth of digital media platforms.",
+      "required_skills": {
+        "basic": ["Editing", "News judgment", "Grammar", "CMS usage", "Time management"],
+        "intermediate": ["SEO for news", "Headline writing", "Audience analytics", "Content scheduling", "Fact-checking"],
+        "advanced": ["Editorial strategy", "Traffic optimization", "Digital storytelling", "Content moderation", "Platform integration"],
+        "professional": ["Team leadership", "Ethical publishing", "Decision making", "Crisis editing", "Editorial planning"]
+      },
+      "related_skills": ["SEO", "Digital Publishing", "Content Strategy", "Media Analytics", "Online Journalism"]
+    },
+    
+    {
+      "name": "Corporate Communications Manager",
+      "overview": "Manages internal and external communication strategies to maintain brand image and organizational clarity.",
+      "advantages": [
+        "Leadership-oriented role",
+        "High visibility in organizations",
+        "Strategic influence"
+      ],
+      "disadvantages": [
+        "Crisis pressure",
+        "High responsibility"
+      ],
+      "demand": "High demand in corporate, tech, and multinational companies.",
+      "required_skills": {
+        "basic": ["Written communication", "Public speaking", "Email etiquette", "Content structuring", "Listening skills"],
+        "intermediate": ["Brand messaging", "Media coordination", "Internal communication", "PR fundamentals", "Editing"],
+        "advanced": ["Crisis communication", "Strategic planning", "Reputation management", "Stakeholder engagement", "Analytics"],
+        "professional": ["Leadership", "Decision making", "Policy communication", "Cross-team collaboration", "Executive reporting"]
+      },
+      "related_skills": ["Public Relations", "Brand Strategy", "Media Relations", "Content Marketing", "Corporate Writing"]
+    },
+    {
+      "name": "Public Relations Specialist",
+      "overview": "Builds and maintains a positive public image for individuals, brands, or organizations.",
+      "advantages": [
+        "Creative communication role",
+        "High networking opportunities",
+        "Brand influence"
+      ],
+      "disadvantages": [
+        "Unpredictable media cycles",
+        "Tight deadlines"
+      ],
+      "demand": "Strong demand in media, startups, and public-facing organizations.",
+      "required_skills": {
+        "basic": ["Press writing", "Communication basics", "Research", "Social awareness", "Presentation skills"],
+        "intermediate": ["Media pitching", "Campaign planning", "Brand storytelling", "Crisis handling", "Analytics"],
+        "advanced": ["Strategic PR", "Reputation recovery", "Public perception analysis", "Media negotiations", "Policy messaging"],
+        "professional": ["Client handling", "Leadership", "Ethical communication", "Team coordination", "Reporting"]
+      },
+      "related_skills": ["Media Outreach", "Brand Communication", "Social Media PR", "Content Strategy", "Journalist Relations"]
+    },
+    
+    {
+      "name": "Media Content Strategist",
+      "overview": "Plans, creates, and manages media content strategies to maximize audience engagement across platforms.",
+      "advantages": [
+        "Creative and strategic role",
+        "High demand in digital media",
+        "Cross-platform exposure"
+      ],
+      "disadvantages": [
+        "Performance pressure",
+        "Constant trend adaptation"
+      ],
+      "demand": "High demand due to rapid growth of digital media platforms.",
+      "required_skills": {
+        "basic": ["Content writing", "Media basics", "Audience understanding", "Communication", "Creativity"],
+        "intermediate": ["Content planning", "Platform strategies", "Analytics basics", "SEO concepts", "Brand tone"],
+        "advanced": ["Multi-platform strategy", "Audience growth analysis", "Campaign optimization", "Content monetization", "Trend forecasting"],
+        "professional": ["Strategic leadership", "Team coordination", "Brand alignment", "Performance reporting", "Decision making"]
+      },
+      "related_skills": ["Digital Media", "SEO", "Content Marketing", "Social Platforms", "Brand Strategy"]
+    },
+    {
+      "name": "Broadcast Producer",
+      "overview": "Oversees the planning and production of television or radio programs from concept to broadcast.",
+      "advantages": [
+        "High creative control",
+        "Industry recognition",
+        "Dynamic work environment"
+      ],
+      "disadvantages": [
+        "Irregular work hours",
+        "High production pressure"
+      ],
+      "demand": "Stable demand in television, radio, and OTT platforms.",
+      "required_skills": {
+        "basic": ["Storytelling", "Media production basics", "Communication", "Scheduling", "Script understanding"],
+        "intermediate": ["Production planning", "Team coordination", "Budgeting", "Editing supervision", "Live production"],
+        "advanced": ["Broadcast management", "Crisis handling", "Creative direction", "Audience targeting", "Technical workflows"],
+        "professional": ["Leadership", "Decision making", "Industry compliance", "Mentoring", "Production optimization"]
+      },
+      "related_skills": ["TV Production", "Radio Broadcasting", "Media Management", "Scriptwriting", "Editing"]
+    },
+    
+    {
+      "name": "Internal Communications Specialist",
+      "overview": "Ensures clear and effective communication between management and employees within an organization.",
+      "advantages": [
+        "Stable corporate role",
+        "Strategic influence",
+        "People-focused career"
+      ],
+      "disadvantages": [
+        "Less public visibility",
+        "High responsibility during change"
+      ],
+      "demand": "Increasing demand in large organizations and enterprises.",
+      "required_skills": {
+        "basic": ["Written communication", "Listening skills", "Email writing", "Organization skills", "Basic presentation"],
+        "intermediate": ["Change communication", "Employee engagement", "Content planning", "Feedback analysis", "Internal campaigns"],
+        "advanced": ["Communication strategy", "Crisis communication", "Leadership messaging", "Cultural alignment", "Analytics"],
+        "professional": ["Stakeholder management", "Decision support", "Policy communication", "Training", "Leadership advisory"]
+      },
+      "related_skills": ["Corporate Communication", "Employee Engagement", "HR Communication", "Content Strategy", "Leadership Messaging"]
+    },
+    {
+      "name": "Speech Communication Coach",
+      "overview": "Trains individuals to improve public speaking, articulation, and professional communication skills.",
+      "advantages": [
+        "High personal impact",
+        "Flexible career paths",
+        "Growing demand"
+      ],
+      "disadvantages": [
+        "Client acquisition effort",
+        "Performance-based income"
+      ],
+      "demand": "Growing demand among professionals, leaders, and students.",
+      "required_skills": {
+        "basic": ["Public speaking", "Language clarity", "Listening", "Confidence building", "Pronunciation"],
+        "intermediate": ["Speech structuring", "Audience analysis", "Presentation techniques", "Feedback methods", "Body language"],
+        "advanced": ["Persuasion techniques", "Leadership communication", "Voice modulation", "Coaching psychology", "Storytelling"],
+        "professional": ["Mentoring", "Personal branding", "Workshop facilitation", "Client management", "Program design"]
+      },
+      "related_skills": ["Public Speaking", "Coaching", "Leadership Development", "Presentation Skills", "Personal Branding"]
+    },
+    
+    {
+      "name": "Multimedia Journalist",
+      "overview": "Creates news stories using text, video, audio, and graphics for digital and broadcast platforms.",
+      "advantages": [
+        "Creative storytelling",
+        "High employability",
+        "Digital-first career"
+      ],
+      "disadvantages": [
+        "Multi-skill pressure",
+        "Fast deadlines"
+      ],
+      "demand": "High demand in digital newsrooms and media startups.",
+      "required_skills": {
+        "basic": ["News writing", "Interviewing", "Research", "Basic photography", "Ethics"],
+        "intermediate": ["Video editing", "Audio storytelling", "Social media reporting", "Fact-checking", "CMS usage"],
+        "advanced": ["Data-driven storytelling", "Live reporting", "Investigative techniques", "Visual narratives", "Audience analytics"],
+        "professional": ["Editorial judgment", "Cross-platform publishing", "Mentoring", "Ethical leadership", "Content planning"]
+      },
+      "related_skills": ["Video Journalism", "Digital Reporting", "Storytelling", "Editing", "Media Ethics"]
+    },
+    {
+      "name": "Political Correspondent",
+      "overview": "Reports and analyzes political events, policies, elections, and government actions.",
+      "advantages": [
+        "High public impact",
+        "Respected specialization",
+        "Access to key events"
+      ],
+      "disadvantages": [
+        "High pressure",
+        "Political sensitivity"
+      ],
+      "demand": "Consistent demand in national and international media.",
+      "required_skills": {
+        "basic": ["Political awareness", "Writing skills", "Research", "Interviewing", "Ethics"],
+        "intermediate": ["Policy analysis", "Source verification", "Debate moderation", "Fact-checking", "Legal awareness"],
+        "advanced": ["Election analysis", "Investigative political reporting", "Crisis reporting", "Data interpretation", "Global affairs"],
+        "professional": ["Editorial leadership", "Public accountability", "Analytical judgment", "Mentoring", "Policy expertise"]
+      },
+      "related_skills": ["Political Analysis", "Public Policy", "Investigative Journalism", "Media Law", "News Reporting"]
+    },
+    
+    {
+      "name": "Chief Content Officer (CCO)",
+      "overview": "A Chief Content Officer leads an organization’s entire content ecosystem, defining vision, strategy, and monetization across media platforms.",
+      "advantages": [
+        "Very high executive salary",
+        "Strong decision-making power",
+        "Direct influence on brand growth"
+      ],
+      "disadvantages": [
+        "High accountability",
+        "Performance pressure"
+      ],
+      "demand": "Highly demanded in large media houses, OTT platforms, and global brands.",
+      "required_skills": {
+        "basic": ["Content fundamentals", "Editorial judgment", "Communication", "Storytelling", "Media ethics"],
+        "intermediate": ["Content strategy", "Audience analytics", "Platform management", "SEO", "Team coordination"],
+        "advanced": ["Content monetization", "Brand positioning", "Cross-platform optimization", "Growth strategy", "Market analysis"],
+        "professional": ["Executive leadership", "Board communication", "Business alignment", "Decision making", "Vision setting"]
+      },
+      "related_skills": ["Content Strategy", "Media Leadership", "Brand Growth", "Digital Monetization", "Executive Management"]
+    },
+    {
+      "name": "Media Analytics Director",
+      "overview": "A media analytics director drives data-based decision-making by analyzing audience behavior, content performance, and revenue metrics.",
+      "advantages": [
+        "High salary with analytics expertise",
+        "Strategic influence",
+        "Data-driven leadership role"
+      ],
+      "disadvantages": [
+        "Heavy data responsibility",
+        "High expectations for accuracy"
+      ],
+      "demand": "Growing rapidly due to data-driven media businesses.",
+      "required_skills": {
+        "basic": ["Statistics", "Media metrics", "Excel", "Critical thinking", "Reporting"],
+        "intermediate": ["Data visualization", "Audience segmentation", "Performance tracking", "SQL basics", "Trend analysis"],
+        "advanced": ["Predictive analytics", "Revenue modeling", "Advanced dashboards", "Big data tools", "Optimization strategies"],
+        "professional": ["Strategic reporting", "Executive insights", "Decision support", "Team leadership", "Business forecasting"]
+      },
+      "related_skills": ["Media Analytics", "Data Strategy", "Audience Intelligence", "Business Intelligence", "Performance Metrics"]
+    },
+    {
+      "name": "Global Communications Director",
+      "overview": "Leads worldwide communication strategies for multinational organizations, handling branding, crisis communication, and reputation management.",
+      "advantages": [
+        "Extremely high salary",
+        "Global exposure",
+        "Executive-level authority"
+      ],
+      "disadvantages": [
+        "High-pressure role",
+        "24/7 crisis readiness"
+      ],
+      "demand": "Very high demand in multinational corporations and global institutions.",
+      "required_skills": {
+        "basic": ["Professional writing", "Public speaking", "Corporate communication", "Cultural awareness", "PR fundamentals"],
+        "intermediate": ["Global messaging", "Media relations", "Stakeholder communication", "Reputation management", "Crisis planning"],
+        "advanced": ["Cross-border strategy", "Crisis leadership", "Brand diplomacy", "Policy communication", "Risk analysis"],
+        "professional": ["Executive advisory", "Global leadership", "Strategic decision making", "Government liaison", "Brand governance"]
+      },
+      "related_skills": ["Global PR", "Corporate Reputation", "Crisis Communication", "Brand Leadership", "Stakeholder Strategy"]
+    },
+    {
+      "name": "Investigative Journalism Editor",
+      "overview": "Oversees high-impact investigative journalism projects involving deep research, legal scrutiny, and public accountability.",
+      "advantages": [
+        "High prestige",
+        "Public impact",
+        "Strong professional recognition"
+      ],
+      "disadvantages": [
+        "Legal risks",
+        "Long investigation cycles"
+      ],
+      "demand": "High demand in reputed media organizations and international news agencies.",
+      "required_skills": {
+        "basic": ["Research", "News ethics", "Fact-checking", "Writing", "Interviewing"],
+        "intermediate": ["Investigative methods", "Source protection", "Legal awareness", "Data journalism", "Editing"],
+        "advanced": ["Complex investigations", "Cross-border reporting", "Legal risk handling", "Data analysis", "Story structuring"],
+        "professional": ["Editorial leadership", "Mentorship", "Public accountability", "Ethical governance", "Crisis management"]
+      },
+      "related_skills": ["Investigative Reporting", "Media Law", "Data Journalism", "Editorial Leadership", "Public Interest Journalism"]
+    },
+    {
+      "name": "OTT Platform Content Head",
+      "overview": "Leads original content creation and acquisition strategy for OTT streaming platforms to drive subscriptions and engagement.",
+      "advantages": [
+        "Very high salary",
+        "Creative + business authority",
+        "Industry influence"
+      ],
+      "disadvantages": [
+        "High financial stakes",
+        "Market competition pressure"
+      ],
+      "demand": "Exploding demand due to OTT and streaming expansion.",
+      "required_skills": {
+        "basic": ["Content evaluation", "Story sense", "Media trends", "Creative judgment", "Communication"],
+        "intermediate": ["Content acquisition", "Production management", "Audience targeting", "Budget planning", "Analytics"],
+        "advanced": ["Portfolio strategy", "Market forecasting", "Monetization planning", "Creative leadership", "Risk management"],
+        "professional": ["Executive leadership", "Business alignment", "Industry negotiations", "Brand vision", "Strategic growth"]
+      },
+      "related_skills": ["OTT Strategy", "Content Production", "Media Business", "Creative Leadership", "Entertainment Analytics"]
+    },
+    {
+      "name": "Strategic PR Consultant",
+      "overview": "Advises high-profile individuals and organizations on reputation management, crisis handling, and media positioning.",
+      "advantages": [
+        "Very high consulting fees",
+        "Flexible career",
+        "Elite clientele"
+      ],
+      "disadvantages": [
+        "High-pressure cases",
+        "Reputation risk"
+      ],
+      "demand": "High demand among corporates, politicians, and celebrities.",
+      "required_skills": {
+        "basic": ["PR fundamentals", "Writing", "Media relations", "Communication", "Brand awareness"],
+        "intermediate": ["Crisis response", "Stakeholder strategy", "Media pitching", "Public perception analysis", "Reputation audits"],
+        "advanced": ["High-stakes crisis management", "Narrative control", "Strategic positioning", "Policy communication", "Risk mitigation"],
+        "professional": ["Client advisory", "Executive decision support", "Confidential handling", "Leadership influence", "Strategic foresight"]
+      },
+      "related_skills": ["Crisis PR", "Reputation Strategy", "Media Advisory", "Brand Protection", "Strategic Communication"]
+    },
+    
+    {
+      "name": "Chief AI Content Officer",
+      "overview": "A Chief AI Content Officer leads the strategy and governance of AI-driven content creation, distribution, and ethics across media platforms.",
+      "advantages": [
+        "Executive-level authority",
+        "Direct impact on media revenue and scalability",
+        "Leadership in AI-driven journalism"
+      ],
+      "disadvantages": [
+        "High accountability",
+        "Requires rare combination of AI and media expertise"
+      ],
+      "demand": "Rapidly increasing as media companies adopt AI-powered content platforms.",
+      "required_skills": {
+        "basic": ["Media fundamentals", "Content workflows", "Digital publishing", "Communication", "Ethics awareness"],
+        "intermediate": ["AI content tools", "Editorial strategy", "Data-driven media", "Platform analytics", "Workflow automation"],
+        "advanced": ["AI governance", "Large-scale content systems", "Audience growth strategy", "Risk management", "AI ethics frameworks"],
+        "professional": ["Executive leadership", "Policy decision-making", "Cross-functional management", "Public representation", "Strategic planning"]
+      },
+      "related_skills": ["Generative AI", "Media Strategy", "AI Ethics", "Digital Platforms", "Leadership"]
+    },
+    {
+      "name": "Director of AI Journalism",
+      "overview": "A Director of AI Journalism oversees the integration of artificial intelligence into investigative reporting, newsrooms, and editorial decision-making.",
+      "advantages": [
+        "High influence in global media",
+        "Shapes future of journalism",
+        "Strong professional reputation"
+      ],
+      "disadvantages": [
+        "Ethical responsibility",
+        "High-pressure editorial decisions"
+      ],
+      "demand": "High demand in global news organizations and digital media houses.",
+      "required_skills": {
+        "basic": ["Journalism principles", "News writing", "Fact-checking", "Media law", "Communication"],
+        "intermediate": ["AI-assisted reporting", "Data journalism", "Verification tools", "Editorial workflows", "Audience analysis"],
+        "advanced": ["Investigative automation", "AI fact verification systems", "Cross-border reporting strategy", "Media risk analysis", "Narrative optimization"],
+        "professional": ["Editorial leadership", "Decision authority", "Ethical governance", "Global collaboration", "Public trust management"]
+      },
+      "related_skills": ["Data Journalism", "AI Tools", "Investigative Reporting", "Global Media", "Editorial Leadership"]
+    },
+    {
+      "name": "International Correspondent",
+      "overview": "An international correspondent reports on global events, geopolitics, conflicts, and international affairs for worldwide audiences.",
+      "advantages": [
+        "Global recognition",
+        "High-impact storytelling",
+        "International travel and exposure"
+      ],
+      "disadvantages": [
+        "High personal risk",
+        "Demanding work environments"
+      ],
+      "demand": "Consistent demand in international news agencies and global broadcasters.",
+      "required_skills": {
+        "basic": ["News reporting", "Writing skills", "Political awareness", "Communication", "Cultural sensitivity"],
+        "intermediate": ["Conflict reporting", "International relations", "Multimedia journalism", "Live reporting", "Fact verification"],
+        "advanced": ["Crisis journalism", "Geopolitical analysis", "Cross-border investigations", "Narrative leadership", "Digital storytelling"],
+        "professional": ["Reputation management", "Editorial judgment", "Public credibility", "Global networking", "Decision-making under pressure"]
+      },
+      "related_skills": ["Global Affairs", "Foreign Policy", "Investigative Journalism", "Broadcast Media", "Storytelling"]
+    },
+    {
+      "name": "Media Startup Founder",
+      "overview": "A media startup founder builds and scales digital media platforms, news startups, or content ecosystems with revenue and audience ownership.",
+      "advantages": [
+        "Platform ownership",
+        "High revenue potential",
+        "Creative and strategic freedom"
+      ],
+      "disadvantages": [
+        "Financial risk",
+        "High workload and responsibility"
+      ],
+      "demand": "Growing demand due to independent digital media and creator economy expansion.",
+      "required_skills": {
+        "basic": ["Content creation", "Digital media basics", "Communication", "Market understanding", "Branding"],
+        "intermediate": ["Audience growth", "Monetization models", "Product strategy", "Marketing", "Content analytics"],
+        "advanced": ["Platform scaling", "Investment strategy", "AI-driven personalization", "Revenue optimization", "Competitive positioning"],
+        "professional": ["Visionary leadership", "Business decision-making", "Partnership negotiation", "Investor relations", "Long-term strategy"]
+      },
+      "related_skills": ["Entrepreneurship", "Media Platforms", "Monetization", "AI Personalization", "Brand Strategy"]
+    },
+    {
+      "name": "Global Media Strategy Consultant",
+      "overview": "A global media strategy consultant advises media organizations on growth, AI adoption, audience engagement, and revenue transformation.",
+      "advantages": [
+        "Very high consulting fees",
+        "Work with global clients",
+        "Strategic influence"
+      ],
+      "disadvantages": [
+        "High responsibility",
+        "Demanding client expectations"
+      ],
+      "demand": "High demand among legacy media and digital-first platforms undergoing transformation.",
+      "required_skills": {
+        "basic": ["Media industry knowledge", "Communication", "Research skills", "Presentation skills", "Market analysis"],
+        "intermediate": ["Digital transformation", "Audience metrics", "AI adoption strategy", "Revenue models", "Competitive analysis"],
+        "advanced": ["Global media ecosystems", "AI-driven strategy design", "Platform optimization", "Risk assessment", "Growth forecasting"],
+        "professional": ["Executive advisory", "Decision influence", "Client leadership", "Strategic consulting", "Reputation management"]
+      },
+      "related_skills": ["Media Consulting", "AI Strategy", "Business Transformation", "Global Markets", "Leadership"]
+    },
+    
+    {
+      "name": "YouTube Content Platform Founder",
+      "overview": "Builds and scales a video-sharing platform, managing creators, revenue streams, and audience growth strategies.",
+      "advantages": [
+        "Ownership of platform and revenue",
+        "High creative and strategic freedom",
+        "Global audience reach"
+      ],
+      "disadvantages": [
+        "High financial and operational risk",
+        "Requires multi-disciplinary expertise"
+      ],
+      "demand": "Growing rapidly due to the creator economy and digital video adoption worldwide.",
+      "required_skills": {
+        "basic": ["Digital media knowledge", "Video content creation", "Communication skills", "Branding basics", "Entrepreneurship fundamentals"],
+        "intermediate": ["Audience growth", "Monetization strategies", "Marketing campaigns", "Analytics interpretation", "Product strategy"],
+        "advanced": ["Platform scaling", "Revenue optimization", "Cross-border content strategy", "AI-powered personalization", "Team leadership"],
+        "professional": ["Investor relations", "Executive decision-making", "Strategic partnerships", "Global expansion planning", "Creative direction"]
+      },
+      "related_skills": ["Video Platforms", "Creator Economy", "Monetization Models", "AI Personalization", "Digital Marketing"]
+    },
+    {
+      "name": "Creator Economy CEO",
+      "overview": "Leads a company that supports content creators with tools, monetization, and platform growth, maximizing revenue and engagement.",
+      "advantages": [
+        "Executive-level authority",
+        "High earning potential",
+        "Influences global content trends"
+      ],
+      "disadvantages": [
+        "High stress",
+        "Constant innovation required"
+      ],
+      "demand": "Extremely high as creator platforms are expanding and monetization opportunities increase.",
+      "required_skills": {
+        "basic": ["Business fundamentals", "Digital content knowledge", "Community engagement", "Leadership basics", "Marketing understanding"],
+        "intermediate": ["Creator partnerships", "Growth strategy", "Product management", "Financial planning", "Platform analytics"],
+        "advanced": ["Global expansion strategy", "Revenue model innovation", "AI-driven content optimization", "Talent acquisition", "Strategic foresight"],
+        "professional": ["Board management", "Investor negotiations", "Decision authority", "Corporate governance", "Industry thought leadership"]
+      },
+      "related_skills": ["SaaS for Creators", "AI Recommendations", "Video Analytics", "Monetization Platforms", "Community Strategy"]
+    },
+    {
+      "name": "Digital Media Startup Founder",
+      "overview": "Starts and scales a digital media company focusing on content, creators, and online engagement with revenue ownership.",
+      "advantages": [
+        "High autonomy",
+        "Potential for massive financial upside",
+        "Creative and innovative work"
+      ],
+      "disadvantages": [
+        "Financial risk",
+        "High operational demands"
+      ],
+      "demand": "High in independent content and creator-driven platforms.",
+      "required_skills": {
+        "basic": ["Entrepreneurship", "Content strategy", "Digital media basics", "Marketing fundamentals", "Communication"],
+        "intermediate": ["Audience development", "Revenue models", "Growth hacking", "Analytics tools", "Product management"],
+        "advanced": ["Platform scalability", "Investor funding", "Global strategy", "AI personalization", "Leadership and team building"],
+        "professional": ["Board governance", "Decision-making", "Investor relations", "Strategic visioning", "Networking with global partners"]
+      },
+      "related_skills": ["Digital Platforms", "Creator Economy", "Monetization", "AI-driven Recommendations", "Brand Partnerships"]
+    },
+    {
+      "name": "Head of Global Creator Partnerships",
+      "overview": "Manages relationships with top creators worldwide, strategizing collaborations, revenue share, and content expansion.",
+      "advantages": [
+        "High networking influence",
+        "Impact on global content",
+        "Lucrative compensation"
+      ],
+      "disadvantages": [
+        "Requires constant relationship management",
+        "High performance pressure"
+      ],
+      "demand": "Increasing demand with global digital content expansion.",
+      "required_skills": {
+        "basic": ["Relationship management", "Communication", "Content awareness", "Business acumen", "Negotiation basics"],
+        "intermediate": ["Strategic partnership building", "Revenue sharing models", "Contract negotiation", "Marketing collaboration", "Influencer analytics"],
+        "advanced": ["Global media trends", "AI content insights", "Scalable partnership programs", "Monetization strategies", "Leadership"],
+        "professional": ["Executive decision-making", "Cross-border strategy", "Board reporting", "Industry thought leadership", "Conflict resolution"]
+      },
+      "related_skills": ["Influencer Marketing", "Platform Strategy", "Creator Monetization", "Global Media", "Digital Partnerships"]
+    },
+    {
+      "name": "AI-driven Content Platform CEO",
+      "overview": "Leads a content platform leveraging AI to recommend, moderate, and optimize user-generated content at scale.",
+      "advantages": [
+        "Executive-level authority",
+        "Leads cutting-edge AI technology",
+        "High salary and platform ownership"
+      ],
+      "disadvantages": [
+        "High responsibility for AI ethics",
+        "Complex technical and business integration"
+      ],
+      "demand": "High due to AI adoption in media, social platforms, and entertainment industries.",
+      "required_skills": {
+        "basic": ["Digital media understanding", "Leadership basics", "Content knowledge", "Communication", "Business fundamentals"],
+        "intermediate": ["AI recommendation systems", "Analytics-driven growth", "Monetization", "Platform design", "Product strategy"],
+        "advanced": ["Global scaling", "AI ethics governance", "Cross-team leadership", "Strategic partnerships", "Innovation management"],
+        "professional": ["Investor relations", "Decision-making authority", "Corporate governance", "Industry leadership", "Visionary planning"]
+      },
+      "related_skills": ["AI in Media", "Content Recommendation", "Platform Leadership", "Creator Economy", "Digital Strategy"]
+    },
+    
+    {
+      "name": "Social Media Coordinator",
+      "overview": "Manages daily social media posts, engagement, and basic analytics to grow online presence.",
+      "advantages": [
+        "Entry-level friendly",
+        "Opportunity to learn digital marketing",
+        "High creativity"
+      ],
+      "disadvantages": [
+        "Routine tasks",
+        "Performance metrics pressure"
+      ],
+      "demand": "High demand in startups, small businesses, and agencies.",
+      "required_skills": {
+        "basic": ["Social media basics", "Content creation", "Communication", "Scheduling tools", "Creativity"],
+        "intermediate": ["Analytics interpretation", "Engagement strategies", "Basic graphic design", "Copywriting", "Campaign tracking"],
+        "advanced": ["Brand strategy", "Influencer collaborations", "SEO for social media", "Advertising platforms", "Community building"],
+        "professional": ["Team coordination", "Reporting to management", "Strategy planning", "Budget awareness", "Trend forecasting"]
+      },
+      "related_skills": ["Instagram", "Facebook", "Twitter", "Canva", "Hootsuite"]
+    },
+    {
+      "name": "Content Writer",
+      "overview": "Creates articles, blogs, scripts, and social media copy to engage audiences.",
+      "advantages": [
+        "Flexible and remote opportunities",
+        "Develops strong writing skills",
+        "Easy entry for freshers"
+      ],
+      "disadvantages": [
+        "Low initial pay in some sectors",
+        "High competition"
+      ],
+      "demand": "High in digital media agencies, startups, and online publications.",
+      "required_skills": {
+        "basic": ["Grammar", "Creative writing", "Research", "Basic SEO", "Attention to detail"],
+        "intermediate": ["Content planning", "Audience targeting", "Editing skills", "CMS usage", "Basic marketing"],
+        "advanced": ["Brand voice creation", "Storytelling strategy", "Content analytics", "Multimedia integration", "Copywriting for ads"],
+        "professional": ["Team collaboration", "Editorial planning", "Client communication", "Performance reporting", "Trend adaptation"]
+      },
+      "related_skills": ["WordPress", "SEO tools", "Google Docs", "Medium", "Canva"]
+    },
+    {
+      "name": "Video Editor",
+      "overview": "Edits videos for social media, marketing, and entertainment purposes.",
+      "advantages": [
+        "Creative role",
+        "High demand for digital content",
+        "Portfolio-based hiring"
+      ],
+      "disadvantages": [
+        "Time-consuming projects",
+        "Deadline pressure"
+      ],
+      "demand": "High across YouTube channels, startups, agencies, and corporate media.",
+      "required_skills": {
+        "basic": ["Video cutting", "Basic transitions", "Color correction", "Audio syncing", "File management"],
+        "intermediate": ["Advanced editing tools", "Storyboarding", "Motion graphics basics", "Social media formats", "Compression/export techniques"],
+        "advanced": ["Visual effects", "3D animation basics", "Advanced motion graphics", "Content optimization", "Team collaboration"],
+        "professional": ["Project management", "Client interaction", "Creative decision making", "Mentoring juniors", "Portfolio presentation"]
+      },
+      "related_skills": ["Adobe Premiere", "After Effects", "Final Cut Pro", "DaVinci Resolve", "Canva"]
+    },
+    {
+      "name": "Podcast Producer",
+      "overview": "Produces and edits audio content, schedules guests, and manages podcast distribution.",
+      "advantages": [
+        "Rising career in digital media",
+        "Creative storytelling",
+        "Flexible work environment"
+      ],
+      "disadvantages": [
+        "Time-consuming recording sessions",
+        "Audio editing can be repetitive"
+      ],
+      "demand": "Growing demand in entertainment, education, and marketing sectors.",
+      "required_skills": {
+        "basic": ["Audio recording basics", "Editing software basics", "Communication", "Scheduling", "Storytelling"],
+        "intermediate": ["Interview techniques", "Sound mixing", "Podcast hosting platforms", "Scriptwriting", "Promotion"],
+        "advanced": ["Marketing strategy", "Monetization techniques", "SEO for audio", "Audience analytics", "Creative direction"],
+        "professional": ["Team management", "Project planning", "Collaboration with sponsors", "Event coordination", "Trend forecasting"]
+      },
+      "related_skills": ["Audacity", "GarageBand", "Anchor", "Spotify", "Adobe Audition"]
+    },
+    {
+      "name": "Junior PR Executive",
+      "overview": "Handles press releases, media communications, and basic PR campaigns.",
+      "advantages": [
+        "Entry-level accessible",
+        "Network building",
+        "Develops communication skills"
+      ],
+      "disadvantages": [
+        "High pressure deadlines",
+        "Public scrutiny"
+      ],
+      "demand": "High demand in corporates, media houses, and agencies.",
+      "required_skills": {
+        "basic": ["Communication skills", "Writing press releases", "Basic media understanding", "Social media monitoring", "Event support"],
+        "intermediate": ["Media outreach", "Brand awareness campaigns", "Content creation", "Basic crisis management", "Monitoring analytics"],
+        "advanced": ["Campaign strategy", "Corporate messaging", "Influencer relations", "Crisis communication planning", "Media partnerships"],
+        "professional": ["Team management", "Executive reporting", "Leadership skills", "Budget awareness", "Strategic planning"]
+      },
+      "related_skills": ["PR tools", "Email outreach", "Social media", "Canva", "Event coordination"]
+    },
+    {
+      "name": "Junior Video Content Creator",
+      "overview": "Creates engaging video content for social media platforms, including reels, shorts, and tutorials.",
+      "advantages": [
+        "High creative freedom",
+        "Portfolio-focused growth",
+        "Remote and flexible"
+      ],
+      "disadvantages": [
+        "Competitive field",
+        "Requires consistent content output"
+      ],
+      "demand": "High in digital marketing agencies, YouTube, TikTok, and Instagram content houses.",
+      "required_skills": {
+        "basic": ["Video shooting", "Basic editing", "Storytelling", "Creativity", "Communication"],
+        "intermediate": ["Scriptwriting", "Content planning", "Audience research", "Graphics integration", "Social media posting"],
+        "advanced": ["Brand collaboration", "SEO optimization", "Analytics tracking", "Advanced editing", "Team coordination"],
+        "professional": ["Project management", "Monetization awareness", "Content strategy", "Networking", "Trend forecasting"]
+      },
+      "related_skills": ["Instagram", "TikTok", "YouTube", "Canva", "Adobe Premiere"]
+    },
+    {
+      "name": "Junior Graphic Designer",
+      "overview": "Designs visuals for social media, marketing campaigns, and web content.",
+      "advantages": [
+        "High creative satisfaction",
+        "Portfolio-based hiring",
+        "Entry-level friendly"
+      ],
+      "disadvantages": [
+        "Strict deadlines",
+        "Repetitive tasks for some campaigns"
+      ],
+      "demand": "High demand across marketing, startups, and media agencies.",
+      "required_skills": {
+        "basic": ["Adobe Photoshop basics", "Color theory", "Typography", "Creativity", "Communication"],
+        "intermediate": ["Illustrator skills", "Brand identity", "Content formatting", "Animation basics", "Social media graphics"],
+        "advanced": ["UI/UX understanding", "Advanced illustration", "Motion graphics", "Marketing strategy", "Collaboration"],
+        "professional": ["Client interaction", "Team coordination", "Creative direction", "Project planning", "Portfolio development"]
+      },
+      "related_skills": ["Photoshop", "Illustrator", "Canva", "After Effects", "Figma"]
+    },
+    {
+      "name": "Junior Copywriter",
+      "overview": "Writes advertising copy, social media posts, and website content under guidance.",
+      "advantages": [
+        "Creative writing opportunity",
+        "Entry-level accessible",
+        "Learning from senior marketers"
+      ],
+      "disadvantages": [
+        "Limited initial creative control",
+        "Revisions required frequently"
+      ],
+      "demand": "High demand in marketing agencies and digital startups.",
+      "required_skills": {
+        "basic": ["Grammar", "Creativity", "Research", "Basic marketing understanding", "Communication"],
+        "intermediate": ["Persuasive writing", "SEO basics", "Content planning", "Audience understanding", "Editing skills"],
+        "advanced": ["Campaign development", "Brand voice creation", "Analytics-based adjustments", "Cross-channel writing", "Storytelling"],
+        "professional": ["Team collaboration", "Client communication", "Project management", "Mentorship", "Strategic input"]
+      },
+      "related_skills": ["WordPress", "Google Docs", "SEO Tools", "Canva", "Hootsuite"]
+    },
+    {
+      "name": "Digital Marketing Intern",
+      "overview": "Assists in running online campaigns, social media posts, and email marketing initiatives.",
+      "advantages": [
+        "Freshers-friendly",
+        "Learn multiple digital skills",
+        "Opportunity for full-time conversion"
+      ],
+      "disadvantages": [
+        "Low pay initially",
+        "High learning curve"
+      ],
+      "demand": "High demand in startups, SMEs, and agencies.",
+      "required_skills": {
+        "basic": ["Social media basics", "Email marketing basics", "Basic analytics", "Communication", "Creativity"],
+        "intermediate": ["Content scheduling", "SEO basics", "Campaign monitoring", "Reporting", "Graphic basics"],
+        "advanced": ["Strategy contribution", "Data-driven insights", "Audience segmentation", "Cross-channel campaigns", "Optimization techniques"],
+        "professional": ["Team collaboration", "Client interaction", "Project documentation", "Problem-solving", "Trend tracking"]
+      },
+      "related_skills": ["Google Analytics", "Mailchimp", "Instagram", "Canva", "Facebook Ads"]
+    },
+    {
+      "name": "Junior Broadcast Assistant",
+      "overview": "Supports live broadcasts, camera setup, and basic production tasks for TV/radio or online streaming.",
+      "advantages": [
+        "Hands-on media experience",
+        "Freshers-friendly",
+        "Learn technical production"
+      ],
+      "disadvantages": [
+        "Long shifts",
+        "Physically demanding"
+      ],
+      "demand": "Moderate to high in media houses and online streaming platforms.",
+      "required_skills": {
+        "basic": ["Camera handling", "Audio basics", "Communication", "Teamwork", "Attention to detail"],
+        "intermediate": ["Live production support", "Editing basics", "Broadcast software", "Scheduling", "Script support"],
+        "advanced": ["Advanced production coordination", "Technical troubleshooting", "Quality control", "Content planning", "Leadership support"],
+        "professional": ["Project management", "Mentorship", "Workflow optimization", "Cross-team collaboration", "Creative input"]
+      },
+      "related_skills": ["OBS Studio", "Audio Mixers", "Cameras", "Adobe Premiere", "Script Management"]
+    },
+    {
+      "name": "Junior Event Coordinator",
+      "overview": "Assists in organizing media, corporate, or online events including logistics and promotion.",
+      "advantages": [
+        "Develop organizational skills",
+        "High networking potential",
+        "Entry-level accessible"
+      ],
+      "disadvantages": [
+        "High-pressure deadlines",
+        "Event day stress"
+      ],
+      "demand": "High demand in media houses, corporate PR, and startups.",
+      "required_skills": {
+        "basic": ["Communication", "Organization", "Time management", "Attention to detail", "Teamwork"],
+        "intermediate": ["Vendor coordination", "Budgeting basics", "Event promotion", "Content support", "Scheduling"],
+        "advanced": ["Event marketing strategy", "Risk management", "Leadership support", "Audience engagement", "Post-event analysis"],
+        "professional": ["Project management", "Client communication", "Strategic planning", "Networking", "Team leadership"]
+      },
+      "related_skills": ["Eventbrite", "Canva", "Social Media", "Excel", "Communication Tools"]
+    },
+    {
+      "name": "Junior Animator",
+      "overview": "Creates basic 2D/3D animations for social media, advertisements, and websites.",
+      "advantages": [
+        "Creative and visual work",
+        "Portfolio-based career",
+        "Freshers-friendly"
+      ],
+      "disadvantages": [
+        "Repetitive tasks",
+        "Deadline pressure"
+      ],
+      "demand": "High in digital agencies, startups, and media production houses.",
+      "required_skills": {
+        "basic": ["Drawing basics", "Animation software basics", "Creativity", "Attention to detail", "Storyboarding"],
+        "intermediate": ["2D animation", "Graphic design", "Motion graphics", "Video integration", "Color theory"],
+        "advanced": ["3D animation basics", "Visual storytelling", "Advanced motion graphics", "Team coordination", "Project timelines"],
+        "professional": ["Portfolio presentation", "Client communication", "Creative direction", "Mentoring juniors", "Workflow optimization"]
+      },
+      "related_skills": ["After Effects", "Blender", "Toon Boom", "Photoshop", "Premiere Pro"]
+    },
+    {
+      "name": "Junior SEO Specialist",
+      "overview": "Optimizes website and content for search engines, improving online visibility.",
+      "advantages": [
+        "Entry-level accessible",
+        "High demand across industries",
+        "Data-driven role"
+      ],
+      "disadvantages": [
+        "Constant algorithm changes",
+        "Results take time"
+      ],
+      "demand": "High demand in digital agencies, startups, and corporations.",
+      "required_skills": {
+        "basic": ["Keyword research", "Content optimization basics", "Analytics basics", "Communication", "Attention to detail"],
+        "intermediate": ["On-page SEO", "Off-page SEO basics", "Google Search Console", "Content strategy", "Competitor analysis"],
+        "advanced": ["SEO tools mastery", "Technical SEO", "Backlink strategy", "Local SEO", "Performance tracking"],
+        "professional": ["Team collaboration", "Strategy reporting", "Trend tracking", "Client communication", "Project planning"]
+      },
+      "related_skills": ["Google Analytics", "Ahrefs", "SEMRush", "WordPress", "SEO Tools"]
+    },
+    {
+      "name": "Junior UI/UX Designer",
+      "overview": "Designs user interfaces and experiences for websites and apps under guidance.",
+      "advantages": [
+        "High growth potential",
+        "Freshers-friendly",
+        "Develops cross-disciplinary skills"
+      ],
+      "disadvantages": [
+        "Revisions and client feedback",
+        "Learning curve for design tools"
+      ],
+      "demand": "High in tech startups, media apps, and digital agencies.",
+      "required_skills": {
+        "basic": ["Basic design principles", "Wireframing", "Communication", "Creativity", "Typography"],
+        "intermediate": ["Prototyping", "User research", "Color theory", "Interaction design", "Responsive design basics"],
+        "advanced": ["UI/UX strategy", "Advanced prototyping", "User testing", "Design system understanding", "Collaboration with developers"],
+        "professional": ["Project planning", "Client interaction", "Portfolio presentation", "Trend awareness", "Team coordination"]
+      },
+      "related_skills": ["Figma", "Adobe XD", "Sketch", "Canva", "InVision"]
+    },
+    {
+      "name": "Junior Video Social Media Analyst",
+      "overview": "Monitors engagement, reach, and performance of video content on social media.",
+      "advantages": [
+        "Data-driven entry role",
+        "Freshers-friendly",
+        "Opportunity to work on campaigns"
+      ],
+      "disadvantages": [
+        "Repetitive reporting",
+        "Pressure to improve metrics"
+      ],
+      "demand": "High as brands and creators focus on engagement optimization.",
+      "required_skills": {
+        "basic": ["Basic analytics", "Data visualization basics", "Social media platforms", "Attention to detail", "Communication"],
+        "intermediate": ["Platform analytics tools", "Engagement tracking", "Reporting dashboards", "Trend spotting", "Content performance insights"],
+        "advanced": ["Data-driven recommendations", "Cross-platform analysis", "Optimization strategies", "Team coordination", "Presentation skills"],
+        "professional": ["Client reporting", "Strategy input", "Campaign planning", "Collaboration with creatives", "Continuous learning"]
+      },
+      "related_skills": ["YouTube Analytics", "Instagram Insights", "Facebook Insights", "Google Data Studio", "Excel"]
+    },
+    {
+      "name": "Junior Multimedia Specialist",
+      "overview": "Creates and edits content combining text, images, audio, and video for campaigns.",
+      "advantages": [
+        "Versatile skill development",
+        "Entry-level opportunities",
+        "Portfolio-focused"
+      ],
+      "disadvantages": [
+        "Tight deadlines",
+        "High workload"
+      ],
+      "demand": "Moderate to high in digital agencies and startups.",
+      "required_skills": {
+        "basic": ["Image editing", "Video editing basics", "Audio basics", "Communication", "Creativity"],
+        "intermediate": ["Content integration", "Social media formatting", "Storytelling", "Graphic basics", "Editing software usage"],
+        "advanced": ["Motion graphics", "Visual consistency", "Brand alignment", "Analytics insights", "Team coordination"],
+        "professional": ["Project management", "Portfolio development", "Client communication", "Trend awareness", "Collaboration"]
+      },
+      "related_skills": ["Photoshop", "Premiere", "After Effects", "Audacity", "Canva"]
+    },
+    {
+      "name": "Junior Event Videographer",
+      "overview": "Records and edits videos for events, webinars, and corporate gatherings.",
+      "advantages": [
+        "Hands-on experience",
+        "Entry-level accessible",
+        "Portfolio building"
+      ],
+      "disadvantages": [
+        "Long shooting hours",
+        "Deadline-driven work"
+      ],
+      "demand": "High in media, corporate, and event management companies.",
+      "required_skills": {
+        "basic": ["Camera handling", "Lighting basics", "Audio basics", "Editing basics", "Communication"],
+        "intermediate": ["Video storytelling", "Event coverage planning", "Post-processing", "Color correction", "Motion graphics basics"],
+        "advanced": ["Creative direction", "Client coordination", "Advanced editing", "Portfolio presentation", "Social media adaptation"],
+        "professional": ["Team collaboration", "Project documentation", "Problem-solving", "Scheduling", "Trend awareness"]
+      },
+      "related_skills": ["Adobe Premiere", "Final Cut Pro", "After Effects", "DSLR", "Tripods"]
+    }
+  
+  
+  
+  
+  
+  
+  
+  ]
+}

@@ -1,0 +1,1579 @@
+{
+  "category": "Healthcare & Medical",
+  "careers": [
+    {
+      "name": "Medical Doctor",
+      "overview": "A Medical Doctor diagnoses, treats, and prevents illnesses while promoting long-term patient health through clinical expertise, ethical practice, and continuous medical learning.",
+      "advantages": [
+        "High respect and social value",
+        "Strong job security",
+        "Wide range of specializations",
+        "Ability to directly save lives"
+      ],
+      "disadvantages": [
+        "Long education and training period",
+        "High stress and responsibility",
+        "Irregular working hours",
+        "Emotional burden of patient outcomes"
+      ],
+      "demand": "Very high demand globally across hospitals, clinics, and healthcare institutions.",
+      "required_skills": {
+        "basic": ["Biology fundamentals", "Human anatomy", "Medical terminology", "Basic pathology", "Ethics in medicine"],
+        "intermediate": ["Clinical diagnosis", "Patient care", "Laboratory interpretation", "Pharmacology basics", "Medical documentation"],
+        "advanced": ["Specialized medical knowledge", "Differential diagnosis", "Emergency medicine", "Advanced treatment planning", "Clinical decision making"],
+        "professional": ["Hospital leadership", "Medical research", "Mentoring junior doctors", "Healthcare management", "Regulatory compliance"]
+      },
+      "related_skills": ["Biology", "Medical diagnosis", "Clinical examination", "Patient management"]
+    },
+    {
+      "name": "Staff Nurse",
+      "overview": "Staff Nurses provide essential patient care by administering medications, monitoring health conditions, supporting physicians, and ensuring patient comfort and safety in healthcare settings.",
+      "advantages": [
+        "High job demand",
+        "Direct patient interaction",
+        "Career growth opportunities",
+        "Flexible work environments"
+      ],
+      "disadvantages": [
+        "Physically demanding work",
+        "Shift-based schedules",
+        "High emotional stress",
+        "Risk of infection exposure"
+      ],
+      "demand": "Consistently high demand in hospitals, clinics, and home healthcare services.",
+      "required_skills": {
+        "basic": ["Nursing fundamentals", "Patient hygiene", "Vital signs monitoring", "Medical equipment handling", "Infection control"],
+        "intermediate": ["Medication administration", "IV therapy", "Wound care", "Patient observation", "Nursing documentation"],
+        "advanced": ["Critical care nursing", "Emergency response", "Advanced life support", "Clinical coordination", "Patient assessment"],
+        "professional": ["Team leadership", "Patient advocacy", "Healthcare ethics", "Quality care management", "Mentoring junior nurses"]
+      },
+      "related_skills": ["Clinical nursing", "Patient care", "Medical assistance", "Healthcare support"]
+    },
+    {
+      "name": "Pharmacist",
+      "overview": "Pharmacists prepare, dispense, and manage medications while advising patients and healthcare professionals on proper drug usage, safety, and interactions.",
+      "advantages": [
+        "Strong career stability",
+        "High demand in healthcare",
+        "Less emergency pressure compared to doctors",
+        "Opportunities in research and industry"
+      ],
+      "disadvantages": [
+        "High responsibility for medication safety",
+        "Repetitive work in retail settings",
+        "Regulatory compliance pressure",
+        "Limited patient diagnosis role"
+      ],
+      "demand": "High demand across hospitals, retail pharmacies, and pharmaceutical companies.",
+      "required_skills": {
+        "basic": ["Chemistry basics", "Pharmacology fundamentals", "Drug classifications", "Medical terminology", "Ethics"],
+        "intermediate": ["Prescription analysis", "Drug interactions", "Patient counseling", "Inventory management", "Dosage calculations"],
+        "advanced": ["Clinical pharmacology", "Adverse drug reaction analysis", "Regulatory standards", "Therapeutic optimization", "Medication therapy management"],
+        "professional": ["Pharmacy management", "Healthcare collaboration", "Clinical research", "Policy compliance", "Pharmaceutical leadership"]
+      },
+      "related_skills": ["Pharmacology", "Medication safety", "Clinical pharmacy", "Healthcare counseling"]
+    },
+    {
+      "name": "Medical Laboratory Technologist",
+      "overview": "Medical Laboratory Technologists perform diagnostic tests on blood, tissues, and body fluids to support accurate disease detection and treatment decisions.",
+      "advantages": [
+        "Critical role in diagnosis",
+        "Less patient interaction stress",
+        "High technical skill development",
+        "Growing diagnostic industry"
+      ],
+      "disadvantages": [
+        "Shift-based work",
+        "Repetitive testing tasks",
+        "Exposure to biohazards",
+        "Limited patient recognition"
+      ],
+      "demand": "Strong demand due to increasing diagnostic and preventive healthcare needs.",
+      "required_skills": {
+        "basic": ["Biology fundamentals", "Laboratory safety", "Sample collection", "Medical terminology", "Basic instrumentation"],
+        "intermediate": ["Clinical testing methods", "Microscopy", "Quality control", "Data recording", "Equipment maintenance"],
+        "advanced": ["Molecular diagnostics", "Advanced pathology testing", "Automation systems", "Error analysis", "Specialized assays"],
+        "professional": ["Laboratory management", "Regulatory compliance", "Research collaboration", "Quality assurance leadership", "Training technicians"]
+      },
+      "related_skills": ["Clinical diagnostics", "Pathology", "Laboratory analysis", "Medical testing"]
+    },
+    {
+      "name": "Physiotherapist",
+      "overview": "Physiotherapists help patients restore movement and physical function after injury, illness, or surgery through rehabilitation programs and therapeutic exercises.",
+      "advantages": [
+        "High patient interaction",
+        "Growing rehabilitation demand",
+        "Flexible work settings",
+        "Direct improvement in quality of life"
+      ],
+      "disadvantages": [
+        "Physically demanding work",
+        "Slow patient recovery in some cases",
+        "Requires continuous skill updates",
+        "Limited emergency scope"
+      ],
+      "demand": "Increasing demand due to aging populations and sports-related injuries.",
+      "required_skills": {
+        "basic": ["Human anatomy", "Exercise science", "Patient communication", "Basic kinesiology", "Ethical practice"],
+        "intermediate": ["Rehabilitation techniques", "Pain management", "Injury assessment", "Therapeutic exercises", "Manual therapy"],
+        "advanced": ["Neurological rehabilitation", "Sports physiotherapy", "Post-surgical recovery planning", "Advanced movement analysis", "Specialized treatment protocols"],
+        "professional": ["Rehabilitation program design", "Patient progress evaluation", "Interdisciplinary coordination", "Clinic management", "Professional mentoring"]
+      },
+      "related_skills": ["Physical rehabilitation", "Exercise therapy", "Sports medicine", "Patient mobility"]
+    },
+    
+    {
+      "name": "Radiologist",
+      "overview": "A Radiologist specializes in diagnosing diseases and injuries using medical imaging techniques such as X-rays, CT scans, MRI, and ultrasound to support accurate treatment decisions.",
+      "advantages": [
+        "High specialization value",
+        "Less direct emergency pressure",
+        "Strong earning potential",
+        "Critical diagnostic role"
+      ],
+      "disadvantages": [
+        "Long training period",
+        "High responsibility for accuracy",
+        "Extended screen time",
+        "Limited patient interaction"
+      ],
+      "demand": "High demand due to growing reliance on diagnostic imaging.",
+      "required_skills": {
+        "basic": ["Human anatomy", "Medical imaging basics", "Radiation safety", "Medical terminology", "Physics fundamentals"],
+        "intermediate": ["Image interpretation", "CT and MRI analysis", "Diagnostic reporting", "Clinical correlation", "Technology handling"],
+        "advanced": ["Advanced imaging diagnostics", "Interventional radiology", "Complex case analysis", "Precision diagnostics", "Error minimization"],
+        "professional": ["Clinical consultation", "Radiology department leadership", "Medical research", "Teaching residents", "Quality assurance"]
+      },
+      "related_skills": ["Diagnostic imaging", "Medical analysis", "Radiology technology"]
+    },
+    {
+      "name": "Anesthesiologist",
+      "overview": "An Anesthesiologist administers anesthesia, monitors vital signs, and ensures patient safety during surgical and medical procedures.",
+      "advantages": [
+        "High professional demand",
+        "Critical surgical role",
+        "Strong compensation",
+        "Advanced medical specialization"
+      ],
+      "disadvantages": [
+        "High-risk responsibility",
+        "Stressful operating environments",
+        "Long working hours",
+        "Intense concentration required"
+      ],
+      "demand": "Very high demand in hospitals and surgical centers.",
+      "required_skills": {
+        "basic": ["Human physiology", "Pharmacology basics", "Medical ethics", "Anatomy", "Patient assessment"],
+        "intermediate": ["Anesthesia administration", "Vital monitoring", "Airway management", "Pain control", "Emergency response"],
+        "advanced": ["Critical care anesthesia", "Complex surgical anesthesia", "Risk assessment", "Advanced life support", "Clinical judgment"],
+        "professional": ["Surgical team coordination", "Patient safety leadership", "Training junior doctors", "Policy compliance", "Clinical research"]
+      },
+      "related_skills": ["Anesthesia care", "Critical care", "Emergency medicine"]
+    },
+    {
+      "name": "Clinical Psychologist",
+      "overview": "A Clinical Psychologist assesses, diagnoses, and treats mental, emotional, and behavioral disorders through therapy and psychological interventions.",
+      "advantages": [
+        "Growing mental health awareness",
+        "Non-invasive treatment approach",
+        "Flexible work environments",
+        "Meaningful patient impact"
+      ],
+      "disadvantages": [
+        "Emotional strain",
+        "Slow patient progress at times",
+        "Requires long-term patient commitment",
+        "High documentation workload"
+      ],
+      "demand": "Rapidly increasing demand due to mental health awareness.",
+      "required_skills": {
+        "basic": ["Psychology fundamentals", "Human behavior", "Communication skills", "Ethical practice", "Counseling basics"],
+        "intermediate": ["Psychological assessment", "Therapy techniques", "Case documentation", "Behavior analysis", "Patient rapport building"],
+        "advanced": ["Clinical diagnosis", "Cognitive behavioral therapy", "Trauma therapy", "Advanced counseling methods", "Treatment planning"],
+        "professional": ["Mental health program development", "Clinical supervision", "Research analysis", "Policy implementation", "Interdisciplinary collaboration"]
+      },
+      "related_skills": ["Mental health counseling", "Behavioral therapy", "Psychological assessment"]
+    },
+    {
+      "name": "Nutritionist",
+      "overview": "A Nutritionist provides dietary guidance and nutrition plans to promote health, manage diseases, and improve overall well-being.",
+      "advantages": [
+        "Preventive healthcare role",
+        "Growing lifestyle health awareness",
+        "Flexible work options",
+        "Low emergency stress"
+      ],
+      "disadvantages": [
+        "Limited clinical authority",
+        "Slow visible results",
+        "Requires continuous education",
+        "Client adherence challenges"
+      ],
+      "demand": "Increasing demand due to lifestyle-related health issues.",
+      "required_skills": {
+        "basic": ["Nutrition science", "Human digestion", "Dietary guidelines", "Food safety", "Communication skills"],
+        "intermediate": ["Meal planning", "Nutritional assessment", "Health counseling", "Disease-specific diets", "Client monitoring"],
+        "advanced": ["Clinical nutrition", "Therapeutic diets", "Metabolic disorders", "Advanced nutritional analysis", "Public health nutrition"],
+        "professional": ["Program development", "Healthcare collaboration", "Research interpretation", "Policy guidance", "Professional counseling"]
+      },
+      "related_skills": ["Diet planning", "Health coaching", "Preventive care"]
+    },
+    {
+      "name": "Occupational Therapist",
+      "overview": "Occupational Therapists help individuals regain independence by improving daily living and work-related skills after illness or injury.",
+      "advantages": [
+        "High patient satisfaction",
+        "Rehabilitation-focused role",
+        "Diverse work environments",
+        "Positive long-term impact"
+      ],
+      "disadvantages": [
+        "Physically demanding tasks",
+        "Slow rehabilitation outcomes",
+        "Detailed documentation work",
+        "Requires patient motivation"
+      ],
+      "demand": "Strong demand in rehabilitation and community healthcare.",
+      "required_skills": {
+        "basic": ["Human anatomy", "Therapy fundamentals", "Patient communication", "Activity analysis", "Ethical practice"],
+        "intermediate": ["Rehabilitation planning", "Functional assessment", "Adaptive equipment usage", "Patient training", "Progress evaluation"],
+        "advanced": ["Neurological rehabilitation", "Pediatric therapy", "Advanced functional training", "Cognitive rehabilitation", "Specialized interventions"],
+        "professional": ["Rehabilitation program leadership", "Interdisciplinary coordination", "Policy compliance", "Patient advocacy", "Professional mentoring"]
+      },
+      "related_skills": ["Rehabilitation therapy", "Functional training", "Patient care"]
+    },
+    {
+      "name": "Health Information Manager",
+      "overview": "Health Information Managers oversee patient data systems, ensuring accuracy, privacy, and compliance with healthcare regulations.",
+      "advantages": [
+        "Non-clinical healthcare role",
+        "High importance in digital healthcare",
+        "Stable career growth",
+        "Less physical strain"
+      ],
+      "disadvantages": [
+        "High responsibility for data accuracy",
+        "Regulatory pressure",
+        "Limited patient interaction",
+        "Requires technical expertise"
+      ],
+      "demand": "Growing demand due to digitization of healthcare records.",
+      "required_skills": {
+        "basic": ["Medical terminology", "Health records basics", "Data organization", "Ethics", "Communication skills"],
+        "intermediate": ["Health information systems", "Data analysis", "Compliance standards", "Documentation management", "Privacy laws"],
+        "advanced": ["Health informatics", "System optimization", "Data security", "Advanced analytics", "Quality audits"],
+        "professional": ["Healthcare data governance", "Policy implementation", "Leadership skills", "Strategic planning", "Training staff"]
+      },
+      "related_skills": ["Health informatics", "Medical data management", "Compliance"]
+    },
+    {
+      "name": "Biomedical Engineer",
+      "overview": "Biomedical Engineers design and maintain medical equipment and technologies that improve patient diagnosis, treatment, and care.",
+      "advantages": [
+        "Innovation-driven role",
+        "Strong engineering demand",
+        "Impact on healthcare technology",
+        "Opportunities in research and industry"
+      ],
+      "disadvantages": [
+        "High technical complexity",
+        "Continuous learning required",
+        "Limited patient interaction",
+        "Regulatory constraints"
+      ],
+      "demand": "High demand due to medical technology advancements.",
+      "required_skills": {
+        "basic": ["Engineering fundamentals", "Human biology", "Mathematics", "Medical device basics", "Problem solving"],
+        "intermediate": ["Device design", "System testing", "Clinical collaboration", "Technical documentation", "Quality standards"],
+        "advanced": ["Advanced medical device development", "Biomechanics", "Signal processing", "System optimization", "Research methods"],
+        "professional": ["Project leadership", "Regulatory compliance", "Innovation management", "Cross-functional coordination", "Product strategy"]
+      },
+      "related_skills": ["Medical technology", "Engineering design", "Healthcare innovation"]
+    },
+    {
+      "name": "Speech and Language Therapist",
+      "overview": "Speech and Language Therapists diagnose and treat communication and swallowing disorders in children and adults.",
+      "advantages": [
+        "High patient impact",
+        "Growing awareness of speech disorders",
+        "Flexible work environments",
+        "Non-invasive treatments"
+      ],
+      "disadvantages": [
+        "Slow therapy progress",
+        "Requires high patience",
+        "Detailed assessments",
+        "Emotional involvement"
+      ],
+      "demand": "Increasing demand in hospitals, schools, and rehabilitation centers.",
+      "required_skills": {
+        "basic": ["Speech science", "Communication basics", "Anatomy of speech organs", "Ethical practice", "Observation skills"],
+        "intermediate": ["Speech assessment", "Therapy planning", "Language development", "Patient engagement", "Progress tracking"],
+        "advanced": ["Neurological speech disorders", "Swallowing therapy", "Advanced intervention techniques", "Specialized assessments", "Clinical diagnosis"],
+        "professional": ["Therapy program design", "Interdisciplinary collaboration", "Research application", "Professional training", "Clinical leadership"]
+      },
+      "related_skills": ["Speech therapy", "Language development", "Rehabilitation"]
+    },
+    {
+      "name": "Emergency Medical Technician (EMT)",
+      "overview": "Emergency Medical Technicians provide immediate medical care and transportation for patients during emergencies and accidents.",
+      "advantages": [
+        "Fast-paced work environment",
+        "High societal impact",
+        "Strong teamwork",
+        "Critical life-saving role"
+      ],
+      "disadvantages": [
+        "High stress situations",
+        "Physical demands",
+        "Irregular work hours",
+        "Exposure to trauma"
+      ],
+      "demand": "Consistently high demand in emergency healthcare services.",
+      "required_skills": {
+        "basic": ["First aid", "Basic life support", "Emergency protocols", "Patient assessment", "Communication skills"],
+        "intermediate": ["Trauma care", "Emergency transport", "Medical equipment handling", "Vital monitoring", "Scene management"],
+        "advanced": ["Advanced emergency response", "Critical care transport", "Disaster management", "Advanced life support", "Clinical judgment"],
+        "professional": ["Emergency coordination", "Public safety collaboration", "Training new EMTs", "Policy adherence", "Leadership in crisis"]
+      },
+      "related_skills": ["Emergency response", "Pre-hospital care", "Life support"]
+    },
+    {
+      "name": "Hospital Administrator",
+      "overview": "Hospital Administrators manage healthcare facilities by overseeing operations, finances, staff, and patient services to ensure efficient healthcare delivery.",
+      "advantages": [
+        "Leadership-oriented role",
+        "High organizational impact",
+        "Career stability",
+        "Strategic decision-making"
+      ],
+      "disadvantages": [
+        "High managerial pressure",
+        "Complex regulatory environment",
+        "Limited clinical involvement",
+        "Long working hours"
+      ],
+      "demand": "Growing demand due to expanding healthcare infrastructure.",
+      "required_skills": {
+        "basic": ["Healthcare systems knowledge", "Management basics", "Communication skills", "Ethical practice", "Medical terminology"],
+        "intermediate": ["Operations management", "Financial planning", "Staff coordination", "Policy implementation", "Patient service management"],
+        "advanced": ["Healthcare strategy", "Quality improvement", "Risk management", "Advanced administration", "Regulatory compliance"],
+        "professional": ["Executive leadership", "Healthcare governance", "Strategic planning", "Organizational development", "Policy leadership"]
+      },
+      "related_skills": ["Healthcare management", "Hospital operations", "Leadership"]
+    },
+    
+    {
+      "name": "Clinical Psychologist",
+      "overview": "A Clinical Psychologist works in hospitals to diagnose and treat mental, emotional, and behavioral disorders using psychological therapies and assessments.",
+      "advantages": [
+        "High impact on mental well-being",
+        "Growing awareness of mental health",
+        "Non-invasive treatment methods",
+        "Strong professional respect"
+      ],
+      "disadvantages": [
+        "Emotionally demanding cases",
+        "Long therapy timelines",
+        "Requires strong emotional resilience",
+        "Confidentiality pressure"
+      ],
+      "demand": "Very high demand due to rising mental health awareness.",
+      "required_skills": {
+        "basic": ["Psychology fundamentals", "Human behavior basics", "Communication skills", "Ethical standards", "Observation skills"],
+        "intermediate": ["Psychological assessment", "Therapy techniques", "Case documentation", "Patient counseling", "Behavior analysis"],
+        "advanced": ["Cognitive behavioral therapy", "Clinical diagnosis", "Trauma therapy", "Psychopathology", "Treatment planning"],
+        "professional": ["Clinical leadership", "Mental health program design", "Research supervision", "Interdisciplinary coordination", "Policy contribution"]
+      },
+      "related_skills": ["Mental health counseling", "Behavioral therapy", "Psychological assessment"]
+    },
+    {
+      "name": "Psychiatric Social Worker",
+      "overview": "Psychiatric Social Workers support mental health patients in hospitals by providing counseling, crisis intervention, and social support services.",
+      "advantages": [
+        "Direct patient support role",
+        "Strong societal impact",
+        "Multidisciplinary collaboration",
+        "Emotional fulfillment"
+      ],
+      "disadvantages": [
+        "High emotional stress",
+        "Exposure to crisis situations",
+        "Heavy caseloads",
+        "Limited clinical authority"
+      ],
+      "demand": "Increasing demand in hospital mental health units.",
+      "required_skills": {
+        "basic": ["Social work principles", "Mental health basics", "Communication skills", "Empathy", "Ethical practice"],
+        "intermediate": ["Crisis intervention", "Case management", "Patient advocacy", "Care coordination", "Documentation"],
+        "advanced": ["Psychosocial assessment", "Advanced counseling", "Family therapy support", "Risk evaluation", "Rehabilitation planning"],
+        "professional": ["Mental health leadership", "Program development", "Policy implementation", "Training staff", "Community integration"]
+      },
+      "related_skills": ["Mental health support", "Crisis management", "Patient advocacy"]
+    },
+    {
+      "name": "Hospital Infection Control Officer",
+      "overview": "An Infection Control Officer monitors, prevents, and manages hospital-acquired infections to ensure patient and staff safety.",
+      "advantages": [
+        "Critical hospital safety role",
+        "High responsibility",
+        "Strong scientific application",
+        "Policy-driven authority"
+      ],
+      "disadvantages": [
+        "High accountability pressure",
+        "Continuous monitoring workload",
+        "Strict compliance demands",
+        "Limited patient interaction"
+      ],
+      "demand": "Very high demand post-pandemic.",
+      "required_skills": {
+        "basic": ["Microbiology basics", "Hospital hygiene standards", "Data recording", "Attention to detail", "Ethical compliance"],
+        "intermediate": ["Infection surveillance", "Risk assessment", "Audit procedures", "Protocol implementation", "Staff training"],
+        "advanced": ["Epidemiological analysis", "Outbreak management", "Advanced infection control", "Policy evaluation", "Data-driven prevention"],
+        "professional": ["Hospital safety leadership", "Policy formulation", "Quality assurance", "Training leadership", "Healthcare compliance"]
+      },
+      "related_skills": ["Infection prevention", "Hospital safety", "Epidemiology"]
+    },
+    {
+      "name": "Clinical Research Associate",
+      "overview": "Clinical Research Associates manage and monitor hospital-based clinical trials to ensure compliance, data accuracy, and patient safety.",
+      "advantages": [
+        "Research-oriented medical career",
+        "Involvement in drug development",
+        "Global research exposure",
+        "Non-clinical patient care"
+      ],
+      "disadvantages": [
+        "Strict regulatory workload",
+        "Extensive documentation",
+        "Travel requirements",
+        "Deadline pressure"
+      ],
+      "demand": "High demand in clinical research hospitals.",
+      "required_skills": {
+        "basic": ["Clinical research basics", "Medical terminology", "Ethics in research", "Documentation skills", "Data handling"],
+        "intermediate": ["Trial monitoring", "Protocol adherence", "Patient consent processes", "Regulatory compliance", "Site coordination"],
+        "advanced": ["Advanced clinical trials", "Data quality auditing", "Risk-based monitoring", "Research analytics", "Global regulations"],
+        "professional": ["Research leadership", "Project management", "Regulatory strategy", "Training investigators", "Stakeholder coordination"]
+      },
+      "related_skills": ["Clinical trials", "Research monitoring", "Regulatory compliance"]
+    },
+    {
+      "name": "Biostatistician",
+      "overview": "Biostatisticians analyze medical and clinical research data to support evidence-based healthcare decisions and trials.",
+      "advantages": [
+        "Core research role",
+        "High analytical demand",
+        "Minimal patient exposure",
+        "Strong career growth"
+      ],
+      "disadvantages": [
+        "Complex data interpretation",
+        "High accuracy pressure",
+        "Long analysis cycles",
+        "Limited clinical interaction"
+      ],
+      "demand": "Growing demand in medical research and biotech.",
+      "required_skills": {
+        "basic": ["Statistics fundamentals", "Mathematics", "Data interpretation", "Research ethics", "Documentation"],
+        "intermediate": ["Clinical data analysis", "Statistical software", "Study design", "Data visualization", "Report writing"],
+        "advanced": ["Advanced biostatistics", "Predictive modeling", "Survival analysis", "Clinical trial analytics", "Data validation"],
+        "professional": ["Research strategy", "Statistical leadership", "Policy advisory", "Cross-team collaboration", "Scientific publication"]
+      },
+      "related_skills": ["Medical statistics", "Clinical data analysis", "Research analytics"]
+    },
+    {
+      "name": "Pharmacovigilance Scientist",
+      "overview": "Pharmacovigilance Scientists monitor drug safety and adverse effects after medicines are released into the market.",
+      "advantages": [
+        "Critical patient safety role",
+        "Strong pharma relevance",
+        "Research-based career",
+        "Global regulatory exposure"
+      ],
+      "disadvantages": [
+        "High documentation workload",
+        "Regulatory pressure",
+        "Limited clinical interaction",
+        "Deadline sensitivity"
+      ],
+      "demand": "High demand in pharmaceutical companies.",
+      "required_skills": {
+        "basic": ["Pharmacology basics", "Drug safety principles", "Medical terminology", "Documentation", "Ethics"],
+        "intermediate": ["Adverse event analysis", "Case processing", "Regulatory reporting", "Signal detection", "Safety databases"],
+        "advanced": ["Risk management plans", "Advanced safety analytics", "Global regulations", "Benefit-risk assessment", "Clinical evaluation"],
+        "professional": ["Drug safety leadership", "Regulatory strategy", "Global compliance", "Training teams", "Policy development"]
+      },
+      "related_skills": ["Drug safety", "Regulatory affairs", "Pharmacology"]
+    },
+    {
+      "name": "Clinical Data Manager",
+      "overview": "Clinical Data Managers ensure accuracy, integrity, and compliance of clinical trial data used in medical research.",
+      "advantages": [
+        "High responsibility role",
+        "Non-clinical medical career",
+        "Research-focused work",
+        "Strong global demand"
+      ],
+      "disadvantages": [
+        "Strict data accuracy pressure",
+        "Complex regulatory requirements",
+        "Repetitive validation tasks",
+        "Deadline-driven work"
+      ],
+      "demand": "Strong demand in pharma and biotech research.",
+      "required_skills": {
+        "basic": ["Clinical research basics", "Data management principles", "Documentation", "Attention to detail", "Ethical compliance"],
+        "intermediate": ["Database management", "Data validation", "Clinical standards", "Query resolution", "Audit readiness"],
+        "advanced": ["Advanced data modeling", "Risk-based data management", "Regulatory compliance", "Automation tools", "Quality analytics"],
+        "professional": ["Data governance leadership", "Process optimization", "Training teams", "Strategic planning", "Research coordination"]
+      },
+      "related_skills": ["Clinical data management", "Research compliance", "Healthcare analytics"]
+    },
+    {
+      "name": "Hospital Biomedical Research Scientist",
+      "overview": "Biomedical Research Scientists conduct laboratory-based medical research to develop new treatments and diagnostic methods.",
+      "advantages": [
+        "Innovation-driven career",
+        "Strong scientific impact",
+        "Hospital research integration",
+        "Advancement opportunities"
+      ],
+      "disadvantages": [
+        "Long research cycles",
+        "Funding dependency",
+        "High experimental failure rates",
+        "Limited patient interaction"
+      ],
+      "demand": "Increasing demand in research hospitals.",
+      "required_skills": {
+        "basic": ["Biology fundamentals", "Lab safety", "Scientific documentation", "Analytical thinking", "Research ethics"],
+        "intermediate": ["Experimental techniques", "Data analysis", "Laboratory instrumentation", "Result interpretation", "Research reporting"],
+        "advanced": ["Molecular biology", "Advanced lab techniques", "Clinical translation research", "Data modeling", "Innovation development"],
+        "professional": ["Research leadership", "Grant management", "Publication strategy", "Interdisciplinary collaboration", "Scientific mentoring"]
+      },
+      "related_skills": ["Biomedical research", "Laboratory science", "Clinical innovation"]
+    },
+    {
+      "name": "Neuropsychologist",
+      "overview": "Neuropsychologists assess and treat cognitive and neurological disorders caused by brain injuries or diseases in hospital settings.",
+      "advantages": [
+        "Highly specialized role",
+        "Strong mental health impact",
+        "Integration of neurology and psychology",
+        "Advanced clinical practice"
+      ],
+      "disadvantages": [
+        "Highly complex cases",
+        "Lengthy assessment processes",
+        "High academic requirements",
+        "Emotional intensity"
+      ],
+      "demand": "Growing demand in neurological and trauma hospitals.",
+      "required_skills": {
+        "basic": ["Neuroscience basics", "Psychology fundamentals", "Patient communication", "Ethical practice", "Observation skills"],
+        "intermediate": ["Cognitive assessment", "Neuropsychological testing", "Clinical documentation", "Patient counseling", "Case analysis"],
+        "advanced": ["Brain-behavior analysis", "Advanced diagnostics", "Neurorehabilitation planning", "Research interpretation", "Complex case management"],
+        "professional": ["Clinical leadership", "Neuroscience research", "Training clinicians", "Policy guidance", "Interdisciplinary collaboration"]
+      },
+      "related_skills": ["Neuropsychology", "Cognitive assessment", "Brain health"]
+    },
+    {
+      "name": "Biotech Quality Control Analyst",
+      "overview": "Biotech Quality Control Analysts ensure pharmaceutical and biotech products meet safety, quality, and regulatory standards.",
+      "advantages": [
+        "Strong pharma relevance",
+        "Quality-focused career",
+        "High regulatory importance",
+        "Stable industry demand"
+      ],
+      "disadvantages": [
+        "Repetitive testing work",
+        "Strict compliance pressure",
+        "Limited creative freedom",
+        "High documentation load"
+      ],
+      "demand": "High demand in biotech manufacturing and R&D.",
+      "required_skills": {
+        "basic": ["Biotechnology basics", "Quality standards", "Lab safety", "Documentation", "Analytical skills"],
+        "intermediate": ["Quality testing", "Validation procedures", "Regulatory compliance", "Analytical instruments", "Deviation handling"],
+        "advanced": ["Advanced quality analytics", "Process validation", "Risk management", "Regulatory audits", "Continuous improvement"],
+        "professional": ["Quality leadership", "Compliance strategy", "Training teams", "Process optimization", "Industry collaboration"]
+      },
+      "related_skills": ["Biotech quality control", "Regulatory compliance", "Laboratory testing"]
+    },
+    
+    {
+      "name": "Radiation Therapist",
+      "overview": "A Radiation Therapist works in hospitals to administer radiation treatments to cancer patients under the guidance of oncologists, ensuring precision and patient safety.",
+      "advantages": [
+        "Direct role in cancer treatment",
+        "High job stability",
+        "Advanced medical technology exposure",
+        "Strong patient interaction"
+      ],
+      "disadvantages": [
+        "Emotional challenges working with cancer patients",
+        "Strict safety protocols",
+        "Physically demanding schedules",
+        "High accuracy pressure"
+      ],
+      "demand": "High demand due to increasing cancer cases worldwide.",
+      "required_skills": {
+        "basic": ["Human anatomy", "Radiation safety basics", "Patient communication", "Medical terminology", "Attention to detail"],
+        "intermediate": ["Radiation equipment handling", "Treatment planning assistance", "Patient positioning", "Clinical documentation", "Quality checks"],
+        "advanced": ["Advanced radiotherapy techniques", "Dosimetry coordination", "Cancer care protocols", "Risk management", "Precision calibration"],
+        "professional": ["Clinical leadership", "Radiation safety supervision", "Training junior therapists", "Interdisciplinary coordination", "Quality assurance"]
+      },
+      "related_skills": ["Radiotherapy", "Cancer treatment", "Medical imaging"]
+    },
+    {
+      "name": "Perfusionist",
+      "overview": "Perfusionists operate heart-lung machines during cardiac surgeries, ensuring proper blood circulation and oxygenation throughout procedures.",
+      "advantages": [
+        "Highly specialized hospital role",
+        "Critical surgical responsibility",
+        "High professional respect",
+        "Strong compensation potential"
+      ],
+      "disadvantages": [
+        "High-stress surgical environment",
+        "On-call emergency duties",
+        "Long working hours",
+        "Requires extreme precision"
+      ],
+      "demand": "Steady demand in cardiac surgery centers.",
+      "required_skills": {
+        "basic": ["Cardiovascular physiology", "Medical equipment basics", "Sterile techniques", "Team communication", "Attention to detail"],
+        "intermediate": ["Heart-lung machine operation", "Patient monitoring", "Surgical coordination", "Blood gas analysis", "Clinical documentation"],
+        "advanced": ["Advanced perfusion techniques", "Complex cardiac procedures", "Crisis management", "Equipment troubleshooting", "Physiological optimization"],
+        "professional": ["Surgical team leadership", "Training programs", "Protocol development", "Quality control", "Research collaboration"]
+      },
+      "related_skills": ["Cardiac surgery support", "Perfusion technology", "Critical care"]
+    },
+    {
+      "name": "Clinical Nutritionist",
+      "overview": "Clinical Nutritionists design and manage therapeutic diets for hospital patients to support recovery and manage chronic diseases.",
+      "advantages": [
+        "Strong patient impact",
+        "Preventive healthcare focus",
+        "Interdisciplinary collaboration",
+        "Growing lifestyle disease relevance"
+      ],
+      "disadvantages": [
+        "Requires continuous patient follow-up",
+        "Limited emergency care role",
+        "Dietary compliance challenges",
+        "High documentation workload"
+      ],
+      "demand": "Increasing demand due to lifestyle-related diseases.",
+      "required_skills": {
+        "basic": ["Human nutrition basics", "Biochemistry", "Diet planning fundamentals", "Patient communication", "Health education"],
+        "intermediate": ["Clinical diet therapy", "Disease-specific nutrition", "Nutritional assessment", "Diet counseling", "Medical documentation"],
+        "advanced": ["Advanced therapeutic nutrition", "Metabolic disorders management", "Critical care nutrition", "Research interpretation", "Program development"],
+        "professional": ["Nutrition program leadership", "Policy development", "Training healthcare staff", "Research supervision", "Public health integration"]
+      },
+      "related_skills": ["Clinical nutrition", "Diet therapy", "Preventive healthcare"]
+    },
+    {
+      "name": "Hospital Transplant Coordinator",
+      "overview": "Transplant Coordinators manage the medical, ethical, and logistical processes involved in organ transplantation within hospitals.",
+      "advantages": [
+        "Life-saving career role",
+        "High ethical significance",
+        "Interdisciplinary coordination",
+        "Strong societal impact"
+      ],
+      "disadvantages": [
+        "Emotionally demanding role",
+        "24/7 availability requirements",
+        "Complex regulatory compliance",
+        "High responsibility pressure"
+      ],
+      "demand": "Growing demand in transplant hospitals.",
+      "required_skills": {
+        "basic": ["Medical terminology", "Ethical principles", "Communication skills", "Documentation", "Patient coordination"],
+        "intermediate": ["Transplant logistics", "Donor-recipient matching", "Clinical coordination", "Regulatory compliance", "Crisis management"],
+        "advanced": ["Advanced transplant protocols", "Ethical decision-making", "Risk assessment", "Interdisciplinary planning", "Outcome monitoring"],
+        "professional": ["Program leadership", "Policy implementation", "Training teams", "Quality assurance", "National coordination"]
+      },
+      "related_skills": ["Organ transplantation", "Hospital coordination", "Medical ethics"]
+    },
+    {
+      "name": "Genetic Counselor",
+      "overview": "Genetic Counselors work in hospitals to assess inherited conditions and guide patients through genetic testing and risk evaluation.",
+      "advantages": [
+        "Highly specialized role",
+        "Strong research integration",
+        "Preventive healthcare focus",
+        "Advanced scientific application"
+      ],
+      "disadvantages": [
+        "Emotionally sensitive cases",
+        "Rapidly evolving science",
+        "High responsibility in decision guidance",
+        "Limited workforce availability"
+      ],
+      "demand": "High demand due to advancements in genetic medicine.",
+      "required_skills": {
+        "basic": ["Genetics fundamentals", "Biology", "Patient communication", "Ethical standards", "Data interpretation"],
+        "intermediate": ["Genetic risk assessment", "Test result analysis", "Patient counseling", "Clinical documentation", "Case evaluation"],
+        "advanced": ["Advanced genomics", "Hereditary disease analysis", "Research integration", "Complex counseling", "Clinical interpretation"],
+        "professional": ["Genetic program leadership", "Research collaboration", "Policy development", "Training clinicians", "Ethical advisory"]
+      },
+      "related_skills": ["Genetic counseling", "Genomics", "Preventive medicine"]
+    },
+    {
+      "name": "Clinical Toxicologist",
+      "overview": "Clinical Toxicologists diagnose and manage poisoning cases and toxic substance exposure in hospital emergency and research settings.",
+      "advantages": [
+        "Critical emergency care role",
+        "Strong analytical focus",
+        "Research-driven practice",
+        "High professional responsibility"
+      ],
+      "disadvantages": [
+        "High-stress emergency environment",
+        "Irregular working hours",
+        "Exposure to critical cases",
+        "Complex diagnostic challenges"
+      ],
+      "demand": "Consistent demand in emergency and trauma hospitals.",
+      "required_skills": {
+        "basic": ["Pharmacology basics", "Biochemistry", "Medical terminology", "Analytical thinking", "Emergency response"],
+        "intermediate": ["Poison identification", "Clinical assessment", "Treatment protocols", "Case documentation", "Risk evaluation"],
+        "advanced": ["Advanced toxicology", "Complex exposure management", "Research analysis", "Antidote development", "Critical care integration"],
+        "professional": ["Toxicology leadership", "Policy formulation", "Training emergency staff", "Research supervision", "Public health advisory"]
+      },
+      "related_skills": ["Toxicology", "Emergency medicine", "Poison management"]
+    },
+    {
+      "name": "Hospital Sleep Technologist",
+      "overview": "Sleep Technologists diagnose and monitor sleep disorders using polysomnography and other advanced sleep studies in hospital settings.",
+      "advantages": [
+        "Specialized diagnostic role",
+        "Growing sleep disorder awareness",
+        "Advanced monitoring technology",
+        "Non-invasive patient care"
+      ],
+      "disadvantages": [
+        "Night shift work",
+        "Long monitoring sessions",
+        "Technical complexity",
+        "Limited emergency exposure"
+      ],
+      "demand": "Rising demand due to increased sleep disorder diagnosis.",
+      "required_skills": {
+        "basic": ["Human physiology", "Sleep science basics", "Patient monitoring", "Data recording", "Technical handling"],
+        "intermediate": ["Polysomnography", "Sleep data analysis", "Equipment calibration", "Patient education", "Clinical reporting"],
+        "advanced": ["Advanced sleep diagnostics", "Disorder interpretation", "Research participation", "Complex case analysis", "Technology optimization"],
+        "professional": ["Sleep lab leadership", "Training technologists", "Research collaboration", "Program development", "Quality control"]
+      },
+      "related_skills": ["Sleep studies", "Diagnostic monitoring", "Neurophysiology"]
+    },
+    {
+      "name": "Hospital Biomedical Equipment Engineer",
+      "overview": "Biomedical Equipment Engineers maintain and manage medical devices to ensure safe and efficient hospital operations.",
+      "advantages": [
+        "Technology-driven medical role",
+        "High hospital dependency",
+        "Strong job stability",
+        "Non-patient clinical support"
+      ],
+      "disadvantages": [
+        "On-call maintenance pressure",
+        "Complex equipment troubleshooting",
+        "High responsibility for safety",
+        "Rapid technology upgrades"
+      ],
+      "demand": "High demand due to increasing medical technology use.",
+      "required_skills": {
+        "basic": ["Biomedical engineering basics", "Electronics fundamentals", "Medical device knowledge", "Safety standards", "Documentation"],
+        "intermediate": ["Equipment maintenance", "Calibration techniques", "Troubleshooting", "Compliance checks", "Vendor coordination"],
+        "advanced": ["Advanced medical systems", "Risk assessment", "Technology integration", "Preventive maintenance planning", "Data analysis"],
+        "professional": ["Engineering leadership", "Hospital technology planning", "Policy implementation", "Training teams", "Quality assurance"]
+      },
+      "related_skills": ["Biomedical engineering", "Medical device management", "Healthcare technology"]
+    },
+    {
+      "name": "Clinical Pharmacologist",
+      "overview": "Clinical Pharmacologists study drug effects in patients to optimize therapy, safety, and effectiveness in hospital environments.",
+      "advantages": [
+        "Research-focused medical career",
+        "Direct impact on patient safety",
+        "Strong pharma-hospital integration",
+        "High scientific responsibility"
+      ],
+      "disadvantages": [
+        "Complex drug interaction analysis",
+        "Extensive research requirements",
+        "High regulatory oversight",
+        "Limited direct patient care"
+      ],
+      "demand": "Growing demand due to complex drug therapies.",
+      "required_skills": {
+        "basic": ["Pharmacology fundamentals", "Biochemistry", "Medical terminology", "Data analysis", "Ethical research"],
+        "intermediate": ["Drug interaction analysis", "Clinical trial support", "Therapeutic monitoring", "Safety evaluation", "Documentation"],
+        "advanced": ["Advanced pharmacokinetics", "Personalized medicine", "Clinical research analytics", "Regulatory compliance", "Risk-benefit analysis"],
+        "professional": ["Pharmacology leadership", "Research strategy", "Policy advisory", "Training clinicians", "Industry collaboration"]
+      },
+      "related_skills": ["Clinical pharmacology", "Drug research", "Therapeutic safety"]
+    },
+    {
+      "name": "Medical Imaging Research Scientist",
+      "overview": "Medical Imaging Research Scientists develop and improve imaging technologies used for advanced diagnosis and treatment planning.",
+      "advantages": [
+        "Innovation-driven role",
+        "Strong research orientation",
+        "Advanced technology exposure",
+        "High diagnostic impact"
+      ],
+      "disadvantages": [
+        "Long research development cycles",
+        "High technical complexity",
+        "Funding dependency",
+        "Limited patient interaction"
+      ],
+      "demand": "Increasing demand with growth in diagnostic imaging.",
+      "required_skills": {
+        "basic": ["Medical imaging basics", "Physics fundamentals", "Data analysis", "Research documentation", "Technology handling"],
+        "intermediate": ["Imaging data processing", "Algorithm development", "Clinical collaboration", "System evaluation", "Research reporting"],
+        "advanced": ["Advanced imaging techniques", "AI-based imaging", "Clinical validation", "Innovation development", "Research analytics"],
+        "professional": ["Research leadership", "Technology strategy", "Grant management", "Training teams", "Clinical integration"]
+      },
+      "related_skills": ["Medical imaging", "Diagnostic research", "Healthcare innovation"]
+    },
+    
+    {
+      "name": "Clinical Epidemiologist",
+      "overview": "Clinical Epidemiologists study disease patterns, causes, and outcomes within populations to improve public health and hospital-based disease control strategies.",
+      "advantages": [
+        "Strong research impact",
+        "Critical role in disease prevention",
+        "High relevance during outbreaks",
+        "Data-driven decision making"
+      ],
+      "disadvantages": [
+        "Heavy data analysis workload",
+        "Limited direct patient care",
+        "High responsibility during epidemics",
+        "Requires advanced education"
+      ],
+      "demand": "High demand due to global focus on public health and disease surveillance.",
+      "required_skills": {
+        "basic": ["Public health basics", "Biology fundamentals", "Statistics", "Data collection", "Medical terminology"],
+        "intermediate": ["Epidemiological methods", "Disease surveillance", "Data analysis tools", "Clinical research", "Report writing"],
+        "advanced": ["Advanced biostatistics", "Outbreak investigation", "Predictive modeling", "Risk assessment", "Health data analytics"],
+        "professional": ["Public health leadership", "Policy advisory", "Research supervision", "Program design", "Interagency coordination"]
+      },
+      "related_skills": ["Epidemiology", "Disease surveillance", "Public health research"]
+    },
+    {
+      "name": "Hospital Infection Control Officer",
+      "overview": "Infection Control Officers develop and enforce protocols to prevent hospital-acquired infections and ensure patient and staff safety.",
+      "advantages": [
+        "High patient safety impact",
+        "Critical hospital role",
+        "Strong regulatory importance",
+        "Interdisciplinary collaboration"
+      ],
+      "disadvantages": [
+        "Strict compliance pressure",
+        "Continuous monitoring workload",
+        "High accountability",
+        "Limited patient interaction"
+      ],
+      "demand": "Very high demand due to infection control regulations.",
+      "required_skills": {
+        "basic": ["Microbiology basics", "Infection prevention", "Hospital hygiene", "Documentation", "Communication skills"],
+        "intermediate": ["Surveillance systems", "Audit procedures", "Risk analysis", "Staff training", "Incident reporting"],
+        "advanced": ["Advanced infection control strategies", "Outbreak management", "Data-driven prevention", "Policy compliance", "Quality improvement"],
+        "professional": ["Program leadership", "Regulatory coordination", "Hospital policy development", "Training management", "Quality assurance"]
+      },
+      "related_skills": ["Infection control", "Hospital safety", "Clinical hygiene"]
+    },
+    {
+      "name": "Medical Health Informatics Specialist",
+      "overview": "Health Informatics Specialists manage and analyze healthcare data systems to improve clinical efficiency and patient outcomes.",
+      "advantages": [
+        "Technology-focused medical role",
+        "High demand across hospitals",
+        "Improves healthcare efficiency",
+        "Low physical strain"
+      ],
+      "disadvantages": [
+        "Complex system integration",
+        "Continuous software updates",
+        "Data privacy responsibility",
+        "Limited clinical interaction"
+      ],
+      "demand": "Rapidly growing demand due to digital healthcare transformation.",
+      "required_skills": {
+        "basic": ["Health IT basics", "Medical terminology", "Database fundamentals", "Data privacy principles", "Documentation"],
+        "intermediate": ["Electronic health records", "Clinical workflows", "Data analysis", "System integration", "User support"],
+        "advanced": ["Health analytics", "Interoperability standards", "Clinical decision systems", "Data security", "System optimization"],
+        "professional": ["Health IT leadership", "Digital strategy", "Policy development", "Training programs", "Technology governance"]
+      },
+      "related_skills": ["Health informatics", "Medical data systems", "Clinical analytics"]
+    },
+    {
+      "name": "Neurodiagnostic Technologist",
+      "overview": "Neurodiagnostic Technologists perform EEGs and other neurological tests to assist in diagnosing brain and nervous system disorders.",
+      "advantages": [
+        "Specialized neurological role",
+        "High diagnostic importance",
+        "Advanced technology use",
+        "Strong hospital demand"
+      ],
+      "disadvantages": [
+        "Technically demanding procedures",
+        "Long monitoring sessions",
+        "Night or on-call shifts",
+        "High accuracy pressure"
+      ],
+      "demand": "Growing demand with increasing neurological disorders.",
+      "required_skills": {
+        "basic": ["Neuroanatomy basics", "Patient care", "Medical equipment handling", "Observation skills", "Documentation"],
+        "intermediate": ["EEG procedures", "Signal analysis", "Patient preparation", "Clinical coordination", "Troubleshooting"],
+        "advanced": ["Advanced neurodiagnostics", "Complex case analysis", "Artifact management", "Research support", "Technology optimization"],
+        "professional": ["Neuro lab leadership", "Training technologists", "Protocol development", "Quality assurance", "Research collaboration"]
+      },
+      "related_skills": ["Neurodiagnostics", "EEG analysis", "Neurological testing"]
+    },
+    {
+      "name": "Clinical Trial Coordinator",
+      "overview": "Clinical Trial Coordinators manage and oversee medical research trials to ensure compliance, data accuracy, and patient safety.",
+      "advantages": [
+        "Strong research involvement",
+        "Contribution to medical innovation",
+        "Structured work environment",
+        "High regulatory importance"
+      ],
+      "disadvantages": [
+        "Extensive documentation workload",
+        "Strict compliance requirements",
+        "Time-sensitive protocols",
+        "Limited patient continuity"
+      ],
+      "demand": "High demand due to increasing clinical research activities.",
+      "required_skills": {
+        "basic": ["Clinical research basics", "Medical terminology", "Documentation skills", "Ethical guidelines", "Communication"],
+        "intermediate": ["Trial coordination", "Data collection", "Participant management", "Regulatory compliance", "Monitoring protocols"],
+        "advanced": ["Advanced trial management", "Risk assessment", "Data integrity assurance", "Research analytics", "Audit handling"],
+        "professional": ["Research leadership", "Protocol development", "Regulatory advisory", "Training staff", "Program management"]
+      },
+      "related_skills": ["Clinical research", "Trial management", "Medical compliance"]
+    },
+    {
+      "name": "Hospital Quality Assurance Manager",
+      "overview": "Quality Assurance Managers ensure hospital services meet safety, performance, and regulatory standards.",
+      "advantages": [
+        "High organizational impact",
+        "Strong leadership role",
+        "Improves patient care quality",
+        "Regulatory authority"
+      ],
+      "disadvantages": [
+        "High responsibility pressure",
+        "Continuous audits",
+        "Administrative workload",
+        "Limited clinical practice"
+      ],
+      "demand": "Strong demand due to healthcare accreditation requirements.",
+      "required_skills": {
+        "basic": ["Healthcare standards", "Documentation", "Process evaluation", "Communication", "Basic auditing"],
+        "intermediate": ["Quality audits", "Performance metrics", "Compliance checks", "Risk management", "Staff coordination"],
+        "advanced": ["Quality improvement systems", "Regulatory strategy", "Data-driven evaluation", "Hospital accreditation", "Process optimization"],
+        "professional": ["Quality leadership", "Policy formulation", "Training programs", "Strategic planning", "Organizational governance"]
+      },
+      "related_skills": ["Healthcare quality", "Hospital accreditation", "Process management"]
+    },
+    {
+      "name": "Pharmacovigilance Scientist",
+      "overview": "Pharmacovigilance Scientists monitor drug safety, adverse reactions, and post-market pharmaceutical risks.",
+      "advantages": [
+        "Critical drug safety role",
+        "Strong pharma-industry demand",
+        "Research-oriented career",
+        "Global regulatory relevance"
+      ],
+      "disadvantages": [
+        "Extensive reporting workload",
+        "High regulatory scrutiny",
+        "Limited patient interaction",
+        "Complex global standards"
+      ],
+      "demand": "Very high demand due to strict drug safety regulations.",
+      "required_skills": {
+        "basic": ["Pharmacology basics", "Medical terminology", "Data analysis", "Documentation", "Ethical compliance"],
+        "intermediate": ["Adverse event analysis", "Safety reporting", "Regulatory guidelines", "Signal detection", "Database management"],
+        "advanced": ["Risk management plans", "Global safety standards", "Advanced analytics", "Regulatory strategy", "Benefit-risk assessment"],
+        "professional": ["Safety leadership", "Policy advisory", "Training teams", "Global coordination", "Strategic oversight"]
+      },
+      "related_skills": ["Pharmacovigilance", "Drug safety", "Regulatory compliance"]
+    },
+    {
+      "name": "Medical Laboratory Quality Manager",
+      "overview": "Laboratory Quality Managers ensure diagnostic laboratories meet accuracy, safety, and accreditation standards.",
+      "advantages": [
+        "High diagnostic impact",
+        "Strong regulatory authority",
+        "Leadership role",
+        "Quality-driven healthcare support"
+      ],
+      "disadvantages": [
+        "Continuous audits",
+        "High documentation load",
+        "Limited hands-on testing",
+        "Strict compliance demands"
+      ],
+      "demand": "High demand due to expanding diagnostic services.",
+      "required_skills": {
+        "basic": ["Laboratory procedures", "Quality standards", "Documentation", "Safety protocols", "Communication"],
+        "intermediate": ["Quality audits", "Error analysis", "Staff training", "Process monitoring", "Compliance checks"],
+        "advanced": ["Accreditation management", "Advanced quality systems", "Risk mitigation", "Data evaluation", "Process improvement"],
+        "professional": ["Laboratory leadership", "Policy development", "Training programs", "Strategic planning", "Regulatory liaison"]
+      },
+      "related_skills": ["Laboratory quality", "Diagnostic standards", "Healthcare compliance"]
+    },
+    {
+      "name": "Rehabilitation Research Specialist",
+      "overview": "Rehabilitation Research Specialists study therapies and recovery techniques to improve outcomes for patients with physical or neurological impairments.",
+      "advantages": [
+        "Strong patient recovery impact",
+        "Research-driven career",
+        "Interdisciplinary collaboration",
+        "Growing rehabilitation demand"
+      ],
+      "disadvantages": [
+        "Long research cycles",
+        "Funding dependency",
+        "Limited emergency exposure",
+        "Requires advanced expertise"
+      ],
+      "demand": "Increasing demand due to aging population and injury recovery needs.",
+      "required_skills": {
+        "basic": ["Rehabilitation science basics", "Human anatomy", "Research methods", "Data collection", "Documentation"],
+        "intermediate": ["Therapy evaluation", "Clinical research", "Outcome measurement", "Patient assessment", "Statistical analysis"],
+        "advanced": ["Advanced rehabilitation research", "Program evaluation", "Clinical trials", "Data modeling", "Innovation development"],
+        "professional": ["Research leadership", "Policy advisory", "Training clinicians", "Grant management", "Program strategy"]
+      },
+      "related_skills": ["Rehabilitation research", "Therapy development", "Clinical studies"]
+    },
+    {
+      "name": "Medical Device Clinical Specialist",
+      "overview": "Medical Device Clinical Specialists support hospitals by training clinicians and optimizing the use of advanced medical devices.",
+      "advantages": [
+        "Technology-focused medical role",
+        "High industry demand",
+        "Strong hospital collaboration",
+        "Non-routine work environment"
+      ],
+      "disadvantages": [
+        "Frequent travel",
+        "High technical responsibility",
+        "On-call support needs",
+        "Continuous learning required"
+      ],
+      "demand": "High demand with increasing use of advanced medical devices.",
+      "required_skills": {
+        "basic": ["Medical device fundamentals", "Clinical terminology", "Communication skills", "Technical documentation", "Patient safety"],
+        "intermediate": ["Device training", "Clinical support", "Troubleshooting", "Procedure assistance", "User education"],
+        "advanced": ["Advanced device systems", "Clinical optimization", "Risk management", "Technology integration", "Data analysis"],
+        "professional": ["Clinical leadership", "Training strategy", "Industry collaboration", "Product optimization", "Strategic planning"]
+      },
+      "related_skills": ["Medical devices", "Clinical technology", "Healthcare engineering"]
+    },
+    
+    {
+      "name": "Chief Medical Information Officer (CMIO)",
+      "overview": "A CMIO leads the integration of clinical practice with health information technology to improve patient outcomes, data-driven care, and hospital efficiency.",
+      "advantages": [
+        "Executive leadership role",
+        "High impact on healthcare systems",
+        "Strong career prestige",
+        "Combination of medicine and technology"
+      ],
+      "disadvantages": [
+        "High responsibility and pressure",
+        "Requires extensive experience",
+        "Complex stakeholder management",
+        "Long working hours"
+      ],
+      "demand": "Increasing demand due to digital transformation in healthcare.",
+      "required_skills": {
+        "basic": ["Clinical knowledge", "Medical terminology", "Healthcare workflows", "Communication skills", "Data literacy"],
+        "intermediate": ["Health informatics", "Electronic health records", "Clinical analytics", "Project management", "Change management"],
+        "advanced": ["Digital health strategy", "System interoperability", "Advanced analytics", "Clinical decision systems", "Cybersecurity awareness"],
+        "professional": ["Executive leadership", "Policy formulation", "Hospital IT governance", "Strategic planning", "Cross-functional leadership"]
+      },
+      "related_skills": ["Health informatics", "Clinical leadership", "Healthcare IT"]
+    },
+    {
+      "name": "Translational Medicine Scientist",
+      "overview": "Translational Medicine Scientists bridge laboratory research and clinical practice by converting scientific discoveries into effective medical treatments.",
+      "advantages": [
+        "High research impact",
+        "Direct contribution to new therapies",
+        "Interdisciplinary work",
+        "Global research relevance"
+      ],
+      "disadvantages": [
+        "Long research timelines",
+        "High funding dependency",
+        "Complex regulatory pathways",
+        "Requires advanced degrees"
+      ],
+      "demand": "Strong demand in pharma, biotech, and research institutions.",
+      "required_skills": {
+        "basic": ["Molecular biology", "Clinical research basics", "Biostatistics", "Scientific writing", "Research ethics"],
+        "intermediate": ["Preclinical studies", "Clinical trial design", "Biomarker analysis", "Data interpretation", "Regulatory knowledge"],
+        "advanced": ["Translational modeling", "Precision medicine", "Advanced omics analysis", "Therapeutic development", "Cross-domain integration"],
+        "professional": ["Research leadership", "Innovation strategy", "Grant acquisition", "Industry collaboration", "Scientific mentoring"]
+      },
+      "related_skills": ["Translational research", "Clinical development", "Biomedical science"]
+    },
+    {
+      "name": "Advanced Clinical Pharmacologist",
+      "overview": "Advanced Clinical Pharmacologists design, evaluate, and optimize drug therapies based on pharmacokinetics, pharmacodynamics, and patient safety.",
+      "advantages": [
+        "Highly specialized expertise",
+        "Critical role in drug development",
+        "Strong pharma demand",
+        "High scientific credibility"
+      ],
+      "disadvantages": [
+        "Extensive education required",
+        "High analytical workload",
+        "Strict regulatory scrutiny",
+        "Limited public-facing role"
+      ],
+      "demand": "High demand in pharmaceutical research and clinical trials.",
+      "required_skills": {
+        "basic": ["Pharmacology fundamentals", "Human physiology", "Medical terminology", "Data analysis", "Ethical compliance"],
+        "intermediate": ["Clinical pharmacokinetics", "Dose optimization", "Drug interaction analysis", "Clinical study evaluation", "Safety assessment"],
+        "advanced": ["Model-informed drug development", "Advanced PK/PD modeling", "Precision dosing", "Regulatory submissions", "Risk-benefit analysis"],
+        "professional": ["Scientific leadership", "Regulatory advisory", "Team mentoring", "Strategic drug development", "Global collaboration"]
+      },
+      "related_skills": ["Clinical pharmacology", "Drug development", "Pharmacokinetics"]
+    },
+    {
+      "name": "Genomic Medicine Specialist",
+      "overview": "Genomic Medicine Specialists apply genetic and genomic data to diagnose, prevent, and personalize treatment for complex diseases.",
+      "advantages": [
+        "Cutting-edge medical field",
+        "High innovation exposure",
+        "Personalized patient care",
+        "Strong research opportunities"
+      ],
+      "disadvantages": [
+        "Rapidly evolving knowledge",
+        "High ethical responsibility",
+        "Complex data interpretation",
+        "Advanced training required"
+      ],
+      "demand": "Rapidly growing demand with expansion of precision medicine.",
+      "required_skills": {
+        "basic": ["Genetics fundamentals", "Molecular biology", "Medical terminology", "Data literacy", "Ethical awareness"],
+        "intermediate": ["Genomic sequencing", "Variant interpretation", "Clinical genomics", "Bioinformatics basics", "Patient counseling"],
+        "advanced": ["Precision medicine", "Advanced genomic analytics", "Multi-omics integration", "Rare disease diagnosis", "Clinical decision support"],
+        "professional": ["Clinical leadership", "Research strategy", "Policy advisory", "Program development", "Ethics governance"]
+      },
+      "related_skills": ["Genomic medicine", "Precision healthcare", "Bioinformatics"]
+    },
+    {
+      "name": "Neuropsychiatric Research Director",
+      "overview": "Neuropsychiatric Research Directors lead advanced research into brain disorders, mental illnesses, and neurological conditions.",
+      "advantages": [
+        "High research authority",
+        "Major impact on mental health",
+        "Academic and clinical influence",
+        "Global collaboration opportunities"
+      ],
+      "disadvantages": [
+        "Heavy research pressure",
+        "Funding challenges",
+        "Long study durations",
+        "Administrative workload"
+      ],
+      "demand": "Increasing demand due to global mental health awareness.",
+      "required_skills": {
+        "basic": ["Neuroscience basics", "Psychiatry fundamentals", "Research methodology", "Data analysis", "Scientific writing"],
+        "intermediate": ["Clinical study design", "Neuroimaging analysis", "Behavioral research", "Statistical modeling", "Ethical review handling"],
+        "advanced": ["Advanced neuropsychiatric research", "Biomarker discovery", "Neurogenetics", "Translational neuroscience", "Program evaluation"],
+        "professional": ["Research leadership", "Grant management", "Policy advisory", "Team mentorship", "Strategic research planning"]
+      },
+      "related_skills": ["Neuropsychiatry", "Mental health research", "Neuroscience"]
+    },
+    {
+      "name": "Biopharmaceutical Manufacturing Director",
+      "overview": "Biopharmaceutical Manufacturing Directors oversee large-scale production of biologics, vaccines, and advanced therapies.",
+      "advantages": [
+        "High industry authority",
+        "Critical role in drug supply",
+        "Strong leadership position",
+        "Global career opportunities"
+      ],
+      "disadvantages": [
+        "High operational pressure",
+        "Strict regulatory compliance",
+        "Complex manufacturing systems",
+        "Crisis management demands"
+      ],
+      "demand": "Very high demand due to biologics and vaccine growth.",
+      "required_skills": {
+        "basic": ["Bioprocessing fundamentals", "GMP standards", "Quality systems", "Documentation", "Team coordination"],
+        "intermediate": ["Manufacturing scale-up", "Process validation", "Supply chain coordination", "Risk management", "Regulatory audits"],
+        "advanced": ["Advanced biomanufacturing", "Process optimization", "Automation systems", "Global compliance strategy", "Crisis response"],
+        "professional": ["Executive leadership", "Strategic operations", "Global manufacturing oversight", "Talent development", "Business alignment"]
+      },
+      "related_skills": ["Biomanufacturing", "Pharmaceutical operations", "Quality compliance"]
+    },
+    {
+      "name": "Advanced Medical Ethics Consultant",
+      "overview": "Medical Ethics Consultants advise healthcare institutions on complex ethical issues involving patient care, research, and policy decisions.",
+      "advantages": [
+        "High intellectual responsibility",
+        "Influence on healthcare policy",
+        "Interdisciplinary engagement",
+        "Growing relevance"
+      ],
+      "disadvantages": [
+        "Complex moral dilemmas",
+        "High accountability",
+        "Limited operational authority",
+        "Requires deep expertise"
+      ],
+      "demand": "Growing demand with complex modern medical practices.",
+      "required_skills": {
+        "basic": ["Medical ethics principles", "Healthcare law basics", "Communication skills", "Clinical knowledge", "Documentation"],
+        "intermediate": ["Ethical case analysis", "Policy interpretation", "Committee participation", "Conflict resolution", "Clinical consultation"],
+        "advanced": ["Advanced bioethics", "Policy development", "Ethical risk assessment", "Research ethics governance", "Institutional ethics design"],
+        "professional": ["Ethics leadership", "Advisory roles", "Training programs", "Policy advocacy", "Strategic ethical oversight"]
+      },
+      "related_skills": ["Medical ethics", "Healthcare policy", "Bioethics"]
+    },
+    {
+      "name": "Precision Oncology Specialist",
+      "overview": "Precision Oncology Specialists use genetic, molecular, and clinical data to tailor cancer treatments for individual patients.",
+      "advantages": [
+        "Cutting-edge cancer care",
+        "High patient impact",
+        "Strong research integration",
+        "Rapid innovation exposure"
+      ],
+      "disadvantages": [
+        "High clinical complexity",
+        "Emotional workload",
+        "Continuous learning required",
+        "Advanced training needed"
+      ],
+      "demand": "Very high demand due to advancements in cancer genomics.",
+      "required_skills": {
+        "basic": ["Oncology fundamentals", "Molecular biology", "Clinical terminology", "Patient communication", "Data interpretation"],
+        "intermediate": ["Tumor genomics", "Targeted therapies", "Clinical trial evaluation", "Biomarker analysis", "Multidisciplinary coordination"],
+        "advanced": ["Precision oncology strategies", "Advanced genomic profiling", "Immunotherapy integration", "Clinical decision modeling", "Research translation"],
+        "professional": ["Clinical leadership", "Research mentorship", "Program development", "Policy advisory", "Innovation strategy"]
+      },
+      "related_skills": ["Oncology", "Precision medicine", "Cancer genomics"]
+    },
+    {
+      "name": "Advanced Healthcare AI Research Scientist",
+      "overview": "Healthcare AI Research Scientists develop advanced artificial intelligence systems for diagnosis, treatment planning, and medical research.",
+      "advantages": [
+        "Highly innovative field",
+        "Strong interdisciplinary demand",
+        "Global research opportunities",
+        "High-impact outcomes"
+      ],
+      "disadvantages": [
+        "Rapid technology changes",
+        "High research complexity",
+        "Data privacy challenges",
+        "Requires advanced expertise"
+      ],
+      "demand": "Explosive demand due to AI adoption in healthcare.",
+      "required_skills": {
+        "basic": ["Machine learning basics", "Healthcare data knowledge", "Statistics", "Programming fundamentals", "Medical terminology"],
+        "intermediate": ["Medical imaging AI", "Clinical data modeling", "Algorithm evaluation", "Data governance", "System validation"],
+        "advanced": ["Deep learning architectures", "Explainable AI", "Clinical AI integration", "Advanced analytics", "Model deployment"],
+        "professional": ["Research leadership", "Innovation strategy", "Ethical AI governance", "Cross-domain collaboration", "Technology policy advisory"]
+      },
+      "related_skills": ["Healthcare AI", "Medical data science", "Clinical machine learning"]
+    },
+    {
+      "name": "Global Health Strategy Director",
+      "overview": "Global Health Strategy Directors design and lead large-scale international health programs addressing complex global health challenges.",
+      "advantages": [
+        "Global impact",
+        "High leadership authority",
+        "Policy-level influence",
+        "Cross-cultural engagement"
+      ],
+      "disadvantages": [
+        "High travel demands",
+        "Complex geopolitical challenges",
+        "Funding uncertainties",
+        "High strategic pressure"
+      ],
+      "demand": "Strong demand driven by global health initiatives.",
+      "required_skills": {
+        "basic": ["Public health fundamentals", "Global health issues", "Data analysis", "Communication skills", "Policy literacy"],
+        "intermediate": ["Program design", "Health systems analysis", "Stakeholder coordination", "Monitoring and evaluation", "Risk management"],
+        "advanced": ["Global health strategy", "Policy formulation", "Crisis response planning", "Advanced analytics", "System-level intervention"],
+        "professional": ["Executive leadership", "International policy advisory", "Strategic partnerships", "Funding strategy", "Global governance"]
+      },
+      "related_skills": ["Global health", "Health policy", "Strategic leadership"]
+    },
+    
+    {
+      "name": "Hospital Chief Executive Officer (CEO)",
+      "overview": "A Hospital CEO is responsible for overall strategic planning, operations, financial performance, and quality of patient care in healthcare institutions.",
+      "advantages": [
+        "Very high salary",
+        "Top leadership authority",
+        "Influence on large healthcare systems",
+        "Strong professional prestige"
+      ],
+      "disadvantages": [
+        "Extreme responsibility",
+        "High stress levels",
+        "Long working hours",
+        "Accountability for failures"
+      ],
+      "demand": "High demand in large hospitals and healthcare networks.",
+      "required_skills": {
+        "basic": ["Healthcare systems knowledge", "Communication skills", "Financial literacy", "Leadership basics", "Decision making"],
+        "intermediate": ["Hospital operations", "Healthcare regulations", "Budget management", "Human resource management", "Quality assurance"],
+        "advanced": ["Strategic healthcare planning", "Risk management", "Healthcare transformation", "Crisis leadership", "Performance optimization"],
+        "professional": ["Executive leadership", "Policy influence", "Board management", "Strategic partnerships", "Organizational governance"]
+      },
+      "related_skills": ["Healthcare management", "Executive leadership", "Hospital administration"]
+    },
+    {
+      "name": "Senior Consultant Surgeon",
+      "overview": "Senior Consultant Surgeons perform complex surgical procedures, mentor junior doctors, and contribute to advanced clinical decision-making.",
+      "advantages": [
+        "Very high income",
+        "High professional respect",
+        "Advanced clinical expertise",
+        "Strong career stability"
+      ],
+      "disadvantages": [
+        "Long training period",
+        "High physical and mental stress",
+        "Critical decision pressure",
+        "Irregular working hours"
+      ],
+      "demand": "Consistently high demand across specialties.",
+      "required_skills": {
+        "basic": ["Human anatomy", "Medical ethics", "Surgical fundamentals", "Patient communication", "Clinical documentation"],
+        "intermediate": ["Advanced surgical techniques", "Pre- and post-operative care", "Diagnostic interpretation", "Team coordination", "Risk assessment"],
+        "advanced": ["Complex surgeries", "Minimally invasive procedures", "Clinical judgment", "Complication management", "Teaching skills"],
+        "professional": ["Clinical leadership", "Mentorship", "Hospital governance", "Research contribution", "Specialty development"]
+      },
+      "related_skills": ["Surgery", "Clinical leadership", "Advanced patient care"]
+    },
+    {
+      "name": "Healthcare Management Consultant",
+      "overview": "Healthcare Management Consultants advise hospitals, pharma firms, and health systems on improving efficiency, quality, and profitability.",
+      "advantages": [
+        "High salary potential",
+        "Diverse project exposure",
+        "Fast career growth",
+        "Global opportunities"
+      ],
+      "disadvantages": [
+        "Extensive travel",
+        "High workload",
+        "Tight deadlines",
+        "Client pressure"
+      ],
+      "demand": "Strong demand due to healthcare reforms and optimization needs.",
+      "required_skills": {
+        "basic": ["Healthcare industry knowledge", "Data analysis", "Communication skills", "Presentation skills", "Problem solving"],
+        "intermediate": ["Process optimization", "Financial modeling", "Healthcare analytics", "Change management", "Stakeholder engagement"],
+        "advanced": ["Strategic consulting", "Digital health transformation", "Operational excellence", "Advanced analytics", "Cost optimization"],
+        "professional": ["Client leadership", "Business development", "Thought leadership", "Team mentoring", "Executive advisory"]
+      },
+      "related_skills": ["Healthcare consulting", "Business strategy", "Health analytics"]
+    },
+    {
+      "name": "Medical Director",
+      "overview": "Medical Directors oversee clinical quality, medical staff performance, and patient safety across healthcare organizations.",
+      "advantages": [
+        "High leadership role",
+        "Strong salary",
+        "Clinical and administrative balance",
+        "Organizational influence"
+      ],
+      "disadvantages": [
+        "High accountability",
+        "Administrative workload",
+        "Conflict management",
+        "Reduced direct patient care"
+      ],
+      "demand": "High demand in hospitals and healthcare systems.",
+      "required_skills": {
+        "basic": ["Clinical knowledge", "Medical ethics", "Communication skills", "Healthcare regulations", "Documentation"],
+        "intermediate": ["Clinical governance", "Quality improvement", "Staff supervision", "Risk management", "Policy implementation"],
+        "advanced": ["System-wide clinical strategy", "Patient safety leadership", "Healthcare innovation", "Performance management", "Crisis handling"],
+        "professional": ["Executive medical leadership", "Strategic planning", "Policy advisory", "Institutional governance", "Mentorship"]
+      },
+      "related_skills": ["Clinical governance", "Medical leadership", "Healthcare quality"]
+    },
+    {
+      "name": "Senior Health Data Scientist",
+      "overview": "Senior Health Data Scientists analyze complex healthcare data to improve clinical outcomes, operational efficiency, and decision-making.",
+      "advantages": [
+        "High salary",
+        "Tech-driven role",
+        "Growing demand",
+        "Remote opportunities"
+      ],
+      "disadvantages": [
+        "High technical complexity",
+        "Data privacy challenges",
+        "Continuous upskilling needed",
+        "Abstract work nature"
+      ],
+      "demand": "Very high demand due to data-driven healthcare.",
+      "required_skills": {
+        "basic": ["Statistics", "Programming", "Healthcare data basics", "Data visualization", "Problem solving"],
+        "intermediate": ["Machine learning", "Clinical data analysis", "Database systems", "Predictive modeling", "Data governance"],
+        "advanced": ["Advanced analytics", "AI model deployment", "Healthcare forecasting", "Big data systems", "Algorithm optimization"],
+        "professional": ["Data leadership", "Strategic analytics", "Cross-functional collaboration", "Ethical data oversight", "Mentorship"]
+      },
+      "related_skills": ["Health data science", "Healthcare analytics", "AI in medicine"]
+    },
+    {
+      "name": "Pharmaceutical Product Director",
+      "overview": "Pharmaceutical Product Directors lead strategy, development, and lifecycle management of high-value medical products.",
+      "advantages": [
+        "Very high salary",
+        "Strong business influence",
+        "Innovation-driven role",
+        "Global exposure"
+      ],
+      "disadvantages": [
+        "Market pressure",
+        "Regulatory complexity",
+        "High competition",
+        "Performance accountability"
+      ],
+      "demand": "High demand in global pharmaceutical companies.",
+      "required_skills": {
+        "basic": ["Pharma fundamentals", "Market analysis", "Communication skills", "Product knowledge", "Regulatory basics"],
+        "intermediate": ["Product lifecycle management", "Clinical data interpretation", "Pricing strategy", "Cross-team coordination", "Market access"],
+        "advanced": ["Portfolio strategy", "Global launches", "Advanced forecasting", "Competitive intelligence", "Innovation management"],
+        "professional": ["Executive decision making", "Business leadership", "Strategic partnerships", "Revenue growth strategy", "Mentoring"]
+      },
+      "related_skills": ["Pharmaceutical management", "Product strategy", "Life sciences marketing"]
+    },
+    {
+      "name": "Senior Radiology Consultant",
+      "overview": "Senior Radiology Consultants interpret advanced medical imaging and guide diagnosis and treatment planning.",
+      "advantages": [
+        "High income",
+        "Technology-driven role",
+        "Reduced emergency workload",
+        "High diagnostic impact"
+      ],
+      "disadvantages": [
+        "High concentration demand",
+        "Continuous learning",
+        "Less patient interaction",
+        "Technology dependence"
+      ],
+      "demand": "Very high demand due to imaging growth.",
+      "required_skills": {
+        "basic": ["Human anatomy", "Medical imaging basics", "Attention to detail", "Medical terminology", "Clinical communication"],
+        "intermediate": ["CT and MRI interpretation", "Diagnostic accuracy", "Imaging protocols", "Clinical collaboration", "Quality control"],
+        "advanced": ["Advanced imaging techniques", "Interventional radiology", "AI-assisted diagnostics", "Complex case analysis", "Teaching skills"],
+        "professional": ["Clinical leadership", "Department management", "Research contribution", "Mentorship", "Technology adoption"]
+      },
+      "related_skills": ["Radiology", "Medical imaging", "Diagnostic medicine"]
+    },
+    {
+      "name": "Healthcare Operations Director",
+      "overview": "Healthcare Operations Directors manage large-scale healthcare operations to ensure efficiency, safety, and quality service delivery.",
+      "advantages": [
+        "High salary",
+        "Operational authority",
+        "Career stability",
+        "Wide organizational impact"
+      ],
+      "disadvantages": [
+        "Operational pressure",
+        "Crisis management demands",
+        "Long hours",
+        "Complex coordination"
+      ],
+      "demand": "High demand in hospitals and health systems.",
+      "required_skills": {
+        "basic": ["Healthcare operations knowledge", "Communication skills", "Process understanding", "Problem solving", "Time management"],
+        "intermediate": ["Operations planning", "Resource optimization", "Staff management", "Compliance monitoring", "Performance metrics"],
+        "advanced": ["System optimization", "Lean healthcare", "Crisis operations", "Advanced logistics", "Digital operations"],
+        "professional": ["Strategic leadership", "Organizational transformation", "Executive coordination", "Operational governance", "Mentorship"]
+      },
+      "related_skills": ["Healthcare operations", "Hospital management", "Process optimization"]
+    },
+    {
+      "name": "Senior Clinical Research Manager",
+      "overview": "Senior Clinical Research Managers oversee large clinical trials ensuring regulatory compliance, quality, and scientific integrity.",
+      "advantages": [
+        "High research impact",
+        "Strong salary",
+        "Global project exposure",
+        "Leadership growth"
+      ],
+      "disadvantages": [
+        "Strict timelines",
+        "Regulatory pressure",
+        "High documentation workload",
+        "Complex coordination"
+      ],
+      "demand": "High demand in pharma and CROs.",
+      "required_skills": {
+        "basic": ["Clinical research basics", "Medical terminology", "Documentation skills", "Data literacy", "Ethics knowledge"],
+        "intermediate": ["Clinical trial management", "Regulatory compliance", "Budget management", "Site coordination", "Risk monitoring"],
+        "advanced": ["Global trial strategy", "Advanced protocol design", "Quality assurance", "Data integrity management", "Audit readiness"],
+        "professional": ["Research leadership", "Stakeholder management", "Strategic planning", "Mentorship", "Industry collaboration"]
+      },
+      "related_skills": ["Clinical research", "Trial management", "Regulatory affairs"]
+    },
+    {
+      "name": "Health Economics and Outcomes Research (HEOR) Director",
+      "overview": "HEOR Directors evaluate the economic and real-world value of medical treatments to support policy, pricing, and reimbursement decisions.",
+      "advantages": [
+        "Very high salary",
+        "Strong policy influence",
+        "Analytical leadership",
+        "Industry relevance"
+      ],
+      "disadvantages": [
+        "Highly analytical role",
+        "Complex modeling work",
+        "Regulatory scrutiny",
+        "Limited public visibility"
+      ],
+      "demand": "Growing demand due to value-based healthcare.",
+      "required_skills": {
+        "basic": ["Health economics basics", "Statistics", "Healthcare systems", "Data analysis", "Scientific communication"],
+        "intermediate": ["Outcomes research", "Cost-effectiveness modeling", "Real-world evidence", "Database analysis", "Policy interpretation"],
+        "advanced": ["Advanced economic modeling", "Value-based frameworks", "Pricing strategy", "Global reimbursement analysis", "Evidence synthesis"],
+        "professional": ["Strategic advisory", "Policy leadership", "Cross-functional influence", "Research governance", "Executive reporting"]
+      },
+      "related_skills": ["Health economics", "Outcomes research", "Healthcare policy"]
+    }
+ 
+ 
+
+  
+  
+
+  
+
+  ]
+}

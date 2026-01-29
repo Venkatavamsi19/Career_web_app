@@ -1,0 +1,363 @@
+/* === Body & Page Layout === */
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  padding: 20px;
+  margin: 0;
+  color: #333;
+}
+
+/* === Logo (Top Center) === */
+.logo-container {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.logo-container img {
+  height: 80px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+/* === Main Heading === */
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+/* === Main Container (Sidebar + Content) === */
+.main-container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 20px;
+}
+
+/* === Sidebar === */
+.sidebar {
+  width: 250px;
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  height: fit-content;
+  position: sticky;
+  top: 20px;
+}
+
+.sidebar h3 {
+  margin-top: 0;
+  color: #333;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 0;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.sidebar ul li {
+  padding: 8px 10px;
+  margin-bottom: 5px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.sidebar ul li:hover {
+  background-color: #007BFF;
+  color: white;
+}
+
+/* === Content Section === */
+.content {
+  flex: 1;
+}
+
+/* === Input Container === */
+.input-container {
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  margin-bottom: 20px;
+}
+
+/* === Input Groups === */
+.input-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.input-group label {
+  width: 140px;
+  font-weight: bold;
+  color: #555;
+}
+
+.input-group input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.input-group button {
+  margin-left: 5px;
+  padding: 10px 15px;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.input-group button:hover {
+  background-color: #45a049;
+}
+
+/* === Action Buttons === */
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+#searchBtn, .buttons button {
+  flex: 1;
+  padding: 12px;
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-right: 10px;
+  transition: 0.3s;
+}
+
+#searchBtn {
+  background-color: #007BFF;
+}
+
+#searchBtn:hover {
+  background-color: #0069d9;
+}
+
+.buttons button:last-child {
+  margin-right: 0;
+  background-color: #17a2b8;
+}
+
+.buttons button:last-child:hover {
+  background-color: #138496;
+}
+
+/* === Results Cards === */
+#results {
+  margin-top: 20px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.card h2 {
+  margin-top: 0;
+  color: #333;
+  font-size: 22px;
+}
+
+.card h3 {
+  margin-bottom: 5px;
+  color: #555;
+  font-size: 16px;
+}
+
+.card p {
+  line-height: 1.6;
+  color: #666;
+}
+
+.card ul {
+  margin: 5px 0 0 20px;
+  color: #444;
+}
+
+.card ul li {
+  margin-bottom: 4px;
+  line-height: 1.4;
+}
+
+/* === Save & Delete Buttons on Cards === */
+.card button {
+  margin-top: 10px;
+  padding: 8px 12px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  transition: 0.3s;
+}
+
+.card button:hover {
+  opacity: 0.9;
+}
+
+.card button:active {
+  transform: scale(0.98);
+}
+
+.card button[onclick^="saveJob"] {
+  background-color: #28a745;
+}
+
+.card button[onclick^="deleteJob"] {
+  background-color: #dc3545;
+}
+
+/* === Icons for Skills, Advantages, Disadvantages, Demand === */
+.card h3::before {
+  margin-right: 6px;
+}
+
+.card h3:nth-of-type(1)::before { content: "✅"; }
+.card h3:nth-of-type(2)::before { content: "⚠️"; }
+.card h3:nth-of-type(3)::before { content: "📈"; }
+.card h3:nth-of-type(4)::before { content: "🛠️"; }
+
+/* === Responsive === */
+@media screen and (max-width: 900px) {
+  .main-container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+
+  .input-group {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .input-group label {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+
+  .input-group button {
+    margin-left: 0;
+    margin-top: 5px;
+  }
+
+  .buttons {
+    flex-direction: column;
+  }
+
+  .buttons button {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .buttons button:last-child {
+    margin-bottom: 0;
+  }
+}
+
+/* === Dark Mode Styles === */
+body.dark-mode {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode p,
+body.dark-mode li {
+  color: #f0f0f0;
+}
+
+body.dark-mode .sidebar {
+  background-color: #1e1e1e;
+}
+
+body.dark-mode .sidebar ul li {
+  background-color: #2a2a2a;
+  color: #f0f0f0;
+}
+
+body.dark-mode .sidebar ul li:hover {
+  background-color: #6200ee;
+  color: white;
+}
+
+body.dark-mode .content {
+  background-color: #1e1e1e;
+}
+
+body.dark-mode .input-container,
+body.dark-mode .card {
+  background-color: #2a2a2a;
+  border-color: #444;
+}
+
+body.dark-mode .input-group input {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+  border: 1px solid #555;
+}
+
+body.dark-mode .buttons button,
+body.dark-mode .input-group button,
+body.dark-mode .reset-btn {
+  background-color: #6200ee;
+  color: white;
+}
+
+body.dark-mode .buttons button:hover,
+body.dark-mode .input-group button:hover,
+body.dark-mode .reset-btn:hover {
+  opacity: 0.85;
+}
+
+/* === Dark Mode Toggle Button === */
+#darkModeToggle {
+  position: fixed;
+  top: 15px;
+  right: 20px;
+  padding: 8px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  background-color: #007BFF;
+  color: white;
+  transition: 0.3s;
+  z-index: 1000;
+}
+
+#darkModeToggle:hover {
+  opacity: 0.85;
+}
